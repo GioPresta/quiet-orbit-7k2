@@ -1,101 +1,101 @@
 match_id,name,markets,score,match_reason,rules_identical,screening_profit
 00641709198d6383,Dogecoin Up or Down on October 19?,limitless:dogecoin-up-or-down-daily-p-1792328733423 | polymarket:5824133,1.0,explicit_platform_link,True,
 04e20f21f86951f5,Microsoft (MSFT) Up or Down on October 19?,limitless:msft-daily-up-down-p-1792170323949 | polymarket:5772951,1.0,explicit_platform_link,True,
-04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
 0a717fb8615545dd,Will MSCI (MSCI) beat quarterly earnings?,limitless:will-msci-msci-beat-quarterly-earnings-1791400821864 | polymarket:5412317,1.0,explicit_platform_link,True,
+0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0509c568c72a130a,Aston Villa FC vs. Manchester City FC: Both Teams to Score,limitless:aston-villa-and-manchester-city-both-to-score-1792402236331 | predict:3169554,1.0,explicit_platform_link,False,
-3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.2653462546129285131710005147
-28ed8810a1c1ea39,Will Delcy Rodríguez be the leader of Venezuela end of 2026?,polymarket:1105742 | predict:935753,1.0,explicit_platform_link,True,0.0858225816301199834505585432
-ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,0.0812002890970194720959511868
+743d74c672527467,Will Caleb Williams win the 2026 NFL MVP?,polymarket:1747730 | predict:941955,1.0,explicit_platform_link,True,0.2206185895060956624574754744
+7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,0.1526618319835661018598973742
 61f4a91a610ba089,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,polymarket:2589810 | predict:517146,1.0,explicit_platform_link,True,0.02539423432305819675312296754
-043ca3adb53894bf,Tesla and SpaceX merger officially announced by December 31?,polymarket:2252540 | predict:1283446,1.0,explicit_platform_link,True,0.3274008521882741535920726670
+ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,0.2185612552513347884114633116
 a5ce0613a0b45b31,Will 1 Fed rate cut happen in 2026?,polymarket:616903 | predict:12743,1.0,explicit_platform_link,False,0.1825565630150034886661033916
-c64223aebc9f01c9,"Will Bitcoin reach $105,000 in October?",polymarket:5170728 | predict:2813852,1.0,explicit_platform_link,True,0.04019966799123126666550984345
-d5959224b7eca5d4,Will Toronto Raptors win the 2027 NBA Finals?,polymarket:2243309 | predict:927669,1.0,explicit_platform_link,True,0.2405785856834661016472211039
+ef53d0f7e6c4ff8e,Will Athletic Bilbao win the 2026-27 LALIGA Championship?,polymarket:2771490 | predict:934722,1.0,explicit_platform_link,True,0.02393461407163695296506829174
 ea3d514acd6545e1,Will Pete Hegseth win the 2028 US Presidential Election?,polymarket:561264 | predict:932143,1.0,explicit_platform_link,True,1.438718559644159342819363256
 49bfccdc3655da9e,Will SC Freiburg be the 2026-27 Bundesliga champion?,polymarket:2849016 | predict:935733,1.0,explicit_platform_link,True,0.8316727812358300012366544400
 6b271b040b47b129,Will Oura's market cap be between $10B and $12.5B at market close on IPO day?,polymarket:2324606 | predict:394714,1.0,explicit_platform_link,True,0.7130072090253136563267685677
 df36a9fd0d4cacbf,Hyperbeat FDV above $50M one day after launch?,polymarket:690590 | predict:26426,1.0,explicit_platform_link,False,0.6421762894999442560087338764
-1b4700fd964e3f1c,Will the highest temperature in Paris be 13°C on October 21?,polymarket:5914033 | predict:3544082,1.0,explicit_platform_link,False,-1.882924121181772658988482731
-27f4337fb8bbe726,Will the highest temperature in Paris be 14°C on October 21?,polymarket:5914034 | predict:3544083,1.0,explicit_platform_link,False,-1.843072497736110371277899105
-9d9409f46462a4c6,Will the highest temperature in Paris be 15°C on October 21?,polymarket:5914035 | predict:3544084,1.0,explicit_platform_link,False,-1.598869691747657192802975758
-8f72b9f128851f88,Will the highest temperature in Paris be 16°C on October 21?,polymarket:5914036 | predict:3544085,1.0,explicit_platform_link,False,-2.711787512974823102983872819
-c293ba2aaf4f1b96,Will the highest temperature in Paris be 17°C or higher on October 21?,polymarket:5914037 | predict:3544086,1.0,explicit_platform_link,False,-24.83889492233935156841436350
-8a48c07d85272d54,Will the highest temperature in Seoul (Incheon) be 12°C or below on October 21?,polymarket:5914038 | predict:3544065,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-9d8f79101afb691f,Will the highest temperature in Seoul (Incheon) be 13°C on October 21?,polymarket:5914039 | predict:3544066,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-e84628067203a080,Will the highest temperature in Seoul (Incheon) be 14°C on October 21?,polymarket:5914040 | predict:3544067,1.0,explicit_platform_link,False,-24.86294584493389264362215646
-081a631e9517caab,Will the highest temperature in Seoul (Incheon) be 15°C on October 21?,polymarket:5914041 | predict:3544068,1.0,explicit_platform_link,False,-24.50915955654296534740958438
-53261b3af1811224,Will the highest temperature in Seoul (Incheon) be 16°C on October 21?,polymarket:5914042 | predict:3544069,1.0,explicit_platform_link,False,-23.07492787540567880340390979
-2a679e8fb600ec2b,Will the highest temperature in Seoul (Incheon) be 17°C on October 21?,polymarket:5914043 | predict:3544070,1.0,explicit_platform_link,False,-2.347085900532370777670078974
-020858a38be1d143,Will the highest temperature in Seoul (Incheon) be 18°C on October 21?,polymarket:5914044 | predict:3544071,1.0,explicit_platform_link,False,-4.103466622234929025979312742
-fe6820bcd98a7c1b,Will the highest temperature in Seoul (Incheon) be 19°C on October 21?,polymarket:5914045 | predict:3544072,1.0,explicit_platform_link,False,-24.33439920044140624668275594
-bc29299be5e88e2b,Will the highest temperature in Seoul (Incheon) be 20°C on October 21?,polymarket:5914046 | predict:3544073,1.0,explicit_platform_link,False,-4.489132584976988643504852013
-7b73dfb335b1df97,Will the highest temperature in Seoul (Incheon) be 21°C on October 21?,polymarket:5914047 | predict:3544074,1.0,explicit_platform_link,False,
-9cc35f31efd0dfb8,Will the highest temperature in Seoul (Incheon) be 22°C or higher on October 21?,polymarket:5914048 | predict:3544075,1.0,explicit_platform_link,False,
-8fccf2217b261d1a,Will the highest temperature in Tokyo be 23°C or below on October 21?,polymarket:5914104 | predict:3543819,1.0,explicit_platform_link,False,0
-52bc87be891470b4,Will the highest temperature in Tokyo be 24°C on October 21?,polymarket:5914105 | predict:3543821,1.0,explicit_platform_link,False,-24.85092673517913453947924157
-a1282cdcc823e2ea,Will the highest temperature in Tokyo be 25°C on October 21?,polymarket:5914106 | predict:3543824,1.0,explicit_platform_link,False,-24.64464172380210579898596889
-e09830978d08c338,Will the highest temperature in Tokyo be 26°C on October 21?,polymarket:5914107 | predict:3543827,1.0,explicit_platform_link,False,-1.703492718185998739939265890
-67c6599745e16c91,Will the highest temperature in Tokyo be 28°C on October 21?,polymarket:5914109 | predict:3543834,1.0,explicit_platform_link,False,-3.287264776323461948874759212
-869b875a2a423b59,Will the highest temperature in Tokyo be 30°C on October 21?,polymarket:5914111 | predict:3543842,1.0,explicit_platform_link,False,-24.39711621831543014966074665
-f4dc79375aa14790,Will the highest temperature in Tokyo be 31°C on October 21?,polymarket:5914112 | predict:3543846,1.0,explicit_platform_link,False,-24.79064023649726154543079115
-168840203cc5f97c,Will the highest temperature in Tokyo be 32°C on October 21?,polymarket:5914113 | predict:3543850,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-630b2f263a37db01,Will the highest temperature in Tokyo be 33°C or higher on October 21?,polymarket:5914114 | predict:3543854,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-217aca308c961695,Will the highest temperature in Hong Kong be 28°C or below on October 21?,polymarket:5914115 | predict:3544053,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-f1389e1be4b720c6,Will the highest temperature in Hong Kong be 29°C on October 21?,polymarket:5914116 | predict:3544054,1.0,explicit_platform_link,False,-1.414397557900570849452458993
-3abd4e3505cc4047,Will the highest temperature in Hong Kong be 30°C on October 21?,polymarket:5914117 | predict:3544055,1.0,explicit_platform_link,False,-24.52154211126306449836722010
-be7af1b7391b7e69,Will the highest temperature in Hong Kong be 31°C on October 21?,polymarket:5914118 | predict:3544056,1.0,explicit_platform_link,False,-24.44704709797643500086385207
-30a8b3db3538a107,Will the highest temperature in Hong Kong be 32°C on October 21?,polymarket:5914119 | predict:3544057,1.0,explicit_platform_link,False,-14.10692630934736317192554750
-3504a088f26f187c,Will the highest temperature in Hong Kong be 33°C on October 21?,polymarket:5914120 | predict:3544058,1.0,explicit_platform_link,False,-14.62000317872694976203676600
-6ff0d98a171f8c50,Will the highest temperature in Hong Kong be 34°C on October 21?,polymarket:5914121 | predict:3544059,1.0,explicit_platform_link,False,-1.939331614144565782631305251
-1e2af79fee4b5546,Will the highest temperature in Hong Kong be 35°C on October 21?,polymarket:5914122 | predict:3544060,1.0,explicit_platform_link,False,
-075911910e71c598,Will the highest temperature in Hong Kong be 36°C on October 21?,polymarket:5914123 | predict:3544061,1.0,explicit_platform_link,False,
-9bdd3194bacf089b,Will the highest temperature in Hong Kong be 37°C on October 21?,polymarket:5914124 | predict:3544062,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-4c7b0d18436b8192,Will the highest temperature in Hong Kong be 38°C or higher on October 21?,polymarket:5914125 | predict:3544063,1.0,explicit_platform_link,False,
-ef53b30916856d0c,Will the highest temperature in Shanghai be 17°C or below on October 21?,polymarket:5914126 | predict:3543818,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-7fc897eee9e1ff6a,Will the highest temperature in Shanghai be 18°C on October 21?,polymarket:5914127 | predict:3543822,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-0e90803c9728407d,Will the highest temperature in Shanghai be 19°C on October 21?,polymarket:5914128 | predict:3543825,1.0,explicit_platform_link,False,-24.85092673517913453947924157
-eed57a85fde92685,Will the highest temperature in Shanghai be 20°C on October 21?,polymarket:5914129 | predict:3543828,1.0,explicit_platform_link,False,-24.64464172380210579898596889
-eaeb85208464ddb1,Will the highest temperature in Shanghai be 21°C on October 21?,polymarket:5914130 | predict:3543832,1.0,explicit_platform_link,False,-23.62146856993426332542809995
-ee8c4bf2b2224d7e,Will the highest temperature in Shanghai be 22°C on October 21?,polymarket:5914131 | predict:3543836,1.0,explicit_platform_link,False,-15.41319716313663413439279147
-24c692d826580de2,Will the highest temperature in Shanghai be 23°C on October 21?,polymarket:5914132 | predict:3543840,1.0,explicit_platform_link,False,-1.020161634059807399898631531
-533ec80494fd827d,Will the highest temperature in Shanghai be 24°C on October 21?,polymarket:5914133 | predict:3543845,1.0,explicit_platform_link,False,-24.39711621831543014966074665
-1feed6b915562ad0,Will the highest temperature in Shanghai be 25°C on October 21?,polymarket:5914134 | predict:3543847,1.0,explicit_platform_link,False,-24.83889492233935156841436350
-7f5024a7ee3f98cf,Will the highest temperature in Shanghai be 26°C on October 21?,polymarket:5914135 | predict:3543852,1.0,explicit_platform_link,False,
-85410fda7049ff63,Will the highest temperature in Shanghai be 27°C or higher on October 21?,polymarket:5914136 | predict:3543855,1.0,explicit_platform_link,False,
-077d4fe17e5f2f98,Will the highest temperature in Taipei be 26°C or below on October 21?,polymarket:5914189 | predict:3543925,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-b0c3d9d58f87a87d,Will the highest temperature in Taipei be 27°C on October 21?,polymarket:5914190 | predict:3543929,1.0,explicit_platform_link,False,
-c0596573fe2cc48c,Will the highest temperature in Taipei be 28°C on October 21?,polymarket:5914191 | predict:3543931,1.0,explicit_platform_link,False,-24.74218068162297332975162877
-764137ac54f8bcae,Will the highest temperature in Taipei be 29°C on October 21?,polymarket:5914192 | predict:3543933,1.0,explicit_platform_link,False,-24.64464172380210579898596889
-9512338ac4104406,Will the highest temperature in Taipei be 30°C on October 21?,polymarket:5914193 | predict:3543935,1.0,explicit_platform_link,False,-5.227577998873521825186845719
-41e3500ed69f2295,Will the highest temperature in Taipei be 31°C on October 21?,polymarket:5914194 | predict:3543936,1.0,explicit_platform_link,False,-22.20678785237078286893542541
-74df93838342d986,Will the highest temperature in Taipei be 32°C on October 21?,polymarket:5914195 | predict:3543938,1.0,explicit_platform_link,False,-21.59308517614962881351486057
-1e14579691c3a302,Will the highest temperature in Taipei be 33°C on October 21?,polymarket:5914196 | predict:3543940,1.0,explicit_platform_link,False,-5.216585829576557160430682432
-82940b7ed09a69ea,Will the highest temperature in Taipei be 34°C on October 21?,polymarket:5914197 | predict:3543942,1.0,explicit_platform_link,False,-0.3517105948117465908456039749
-abacef49c35bc698,Will the highest temperature in Taipei be 35°C on October 21?,polymarket:5914198 | predict:3543944,1.0,explicit_platform_link,False,-24.83889492233935156841436350
-8f0325f7aadf6d92,Will the highest temperature in Taipei be 36°C or higher on October 21?,polymarket:5914199 | predict:3543946,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-beaa744388a93550,Will the highest temperature in Shenzhen be 28°C or below on October 21?,polymarket:5914244 | predict:3544018,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-efd7322991b3948a,Will the highest temperature in Shenzhen be 29°C on October 21?,polymarket:5914245 | predict:3544020,1.0,explicit_platform_link,False,0
-29ab21ab1ff9c822,Will the highest temperature in Shenzhen be 30°C on October 21?,polymarket:5914246 | predict:3544022,1.0,explicit_platform_link,False,0
-95bb621f0c77c270,Will the highest temperature in Shenzhen be 31°C on October 21?,polymarket:5914247 | predict:3544024,1.0,explicit_platform_link,False,-24.83889492233935156841436350
-9d30ce60cdec644c,Will the highest temperature in Shenzhen be 32°C on October 21?,polymarket:5914248 | predict:3544025,1.0,explicit_platform_link,False,-4.922634919000939922760536888
-9321ecd07b79ba03,Will the highest temperature in Shenzhen be 33°C on October 21?,polymarket:5914249 | predict:3544027,1.0,explicit_platform_link,False,-2.577957300618335152932594333
-cfe17e429c440a31,Will the highest temperature in Shenzhen be 34°C on October 21?,polymarket:5914250 | predict:3544029,1.0,explicit_platform_link,False,-5.814142755643198398805586173
-66f1c0500896e0e3,Will the highest temperature in Shenzhen be 35°C on October 21?,polymarket:5914251 | predict:3544030,1.0,explicit_platform_link,False,-2.132867654741115539037896100
-8e19a50f6775e9cf,Will the highest temperature in Shenzhen be 36°C on October 21?,polymarket:5914252 | predict:3544032,1.0,explicit_platform_link,False,-2.495597270921868618070043474
-af7b00a6b5ece8c7,Will the highest temperature in Shenzhen be 37°C on October 21?,polymarket:5914253 | predict:3544034,1.0,explicit_platform_link,False,-24.85092673517913453947924157
-cbc5ab312bfef59b,Will the highest temperature in Shenzhen be 38°C or higher on October 21?,polymarket:5914254 | predict:3544036,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-9e2d91a2978bab3a,Will the highest temperature in Miami be 75°F or below on October 21?,polymarket:5916835 | predict:3545959,1.0,explicit_platform_link,False,
-c6edfcc1df62c74d,Will the highest temperature in Miami be between 76-77°F on October 21?,polymarket:5916836 | predict:3545961,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-659a55f35a15a232,Will the highest temperature in Miami be between 78-79°F on October 21?,polymarket:5916837 | predict:3545963,1.0,explicit_platform_link,False,-24.85092673517913453947924157
-ce4e8926f5299bb3,Will the highest temperature in Miami be between 80-81°F on October 21?,polymarket:5916838 | predict:3545965,1.0,explicit_platform_link,False,-24.52154211126306449836722010
-d7aa0b5a2c51b74c,Will the highest temperature in Miami be between 82-83°F on October 21?,polymarket:5916839 | predict:3545969,1.0,explicit_platform_link,False,-1.615855296067541650740062484
-eeb9eb69b4c45277,Will the highest temperature in Miami be between 84-85°F on October 21?,polymarket:5916840 | predict:3545973,1.0,explicit_platform_link,False,-1.927017291273566303718810882
-bbbd072538f09bd3,Will the highest temperature in Miami be between 86-87°F on October 21?,polymarket:5916841 | predict:3545977,1.0,explicit_platform_link,False,-3.222305687364773028844673538
-f2412a6d8b867c23,Will the highest temperature in Miami be between 88-89°F on October 21?,polymarket:5916842 | predict:3545981,1.0,explicit_platform_link,False,-24.52154211126306449836722010
-8b4fcc277e68ac09,Will the highest temperature in Miami be between 90-91°F on October 21?,polymarket:5916843 | predict:3545985,1.0,explicit_platform_link,False,0
-f7d214ea802a863c,Will the highest temperature in Miami be between 92-93°F on October 21?,polymarket:5916844 | predict:3545988,1.0,explicit_platform_link,False,-24.87495227171072410916481238
-59994655606c6123,Will the highest temperature in Miami be 94°F or higher on October 21?,polymarket:5916845 | predict:3545992,1.0,explicit_platform_link,False,
+1c7366396b13cb0c,Will the Fed’s lower bound reach 3.0% or lower before 2027?,polymarket:690220 | predict:30531,1.0,explicit_platform_link,True,0.6413120170056630199073795903
+90c2a12baea655b8,Opensea FDV above $2B one day after launch?,polymarket:936450 | predict:900,1.0,explicit_platform_link,True,0.6144101959329825962254665072
+1551d7d57daf275d,Will K. Sint-Truidense VV win on 2026-10-22?,polymarket:5440239 | predict:3074888,1.0,explicit_platform_link,True,-1.543803147048810171361934076
+075a36e6225fb2b6,Will Aarhus GF win on 2026-10-22?,polymarket:5440283 | predict:3074865,1.0,explicit_platform_link,True,-1.912570367799091444181167818
+e7034a7402ea2576,Will Aarhus GF vs. KF Egnatia Rrogozhinë end in a draw?,polymarket:5440284 | predict:3074866,1.0,explicit_platform_link,True,-2.088944165135353607375723410
+2271d9ca45c6028c,Will KF Egnatia Rrogozhinë win on 2026-10-22?,polymarket:5440285 | predict:3074867,1.0,explicit_platform_link,True,-1.440955969604844188820669244
+411e65bb75e547da,Will AS Monaco FC win on 2026-10-22?,polymarket:5440329 | predict:3074883,1.0,explicit_platform_link,True,-1.523475820327374183656130307
+30f126ccb93074e3,Will AS Monaco FC vs. SC Freiburg end in a draw?,polymarket:5440330 | predict:3074884,1.0,explicit_platform_link,True,-1.726315781232997144890355788
+49c9280e2085fa0b,Will SC Freiburg win on 2026-10-22?,polymarket:5440331 | predict:3074885,1.0,explicit_platform_link,True,-1.815496269446185413913827979
+26f18f70d3e306ef,Will FC Thun win on 2026-10-22?,polymarket:5440375 | predict:3074869,1.0,explicit_platform_link,True,-2.331940290978224714389533735
+a4c1bda312d92dd0,Will FC Thun vs. HNK Hajduk Split end in a draw?,polymarket:5440376 | predict:3074870,1.0,explicit_platform_link,True,-1.720795935605310581812986693
+6c3a4e24dd4efc90,Will HNK Hajduk Split win on 2026-10-22?,polymarket:5440377 | predict:3074871,1.0,explicit_platform_link,True,-1.940973778019215442141534467
+f0eea0fb12c1fb96,Will FK Borac Banja Luka win on 2026-10-22?,polymarket:5440421 | predict:3074846,1.0,explicit_platform_link,True,-2.500450817075488710078320337
+2517fd23b30e2c9e,Will FK Borac Banja Luka vs. Kuopion PS end in a draw?,polymarket:5440422 | predict:3074850,1.0,explicit_platform_link,True,-2.659099328037219943532862055
+642030c9c9d34684,Will Kuopion PS win on 2026-10-22?,polymarket:5440423 | predict:3074853,1.0,explicit_platform_link,True,-2.994518590530461377708100597
+4c097d5069df9cf9,Will Lincoln Red Imps FC win on 2026-10-22?,polymarket:5440467 | predict:3074847,1.0,explicit_platform_link,True,-1.242184491952695636237936263
+1dbb3589c9381634,Will Lincoln Red Imps FC vs. FC Twente end in a draw?,polymarket:5440468 | predict:3074849,1.0,explicit_platform_link,True,-0.9466420231731157562542163277
+53313962418d276e,Will FC Twente win on 2026-10-22?,polymarket:5440469 | predict:3074852,1.0,explicit_platform_link,True,-1.133330395384073298013386402
+9fe65e645a40fcc2,Will SC Braga win on 2026-10-22?,polymarket:5440513 | predict:3076707,1.0,explicit_platform_link,True,-2.427841657261098570353649354
+c5ba272358bedea3,Will SC Braga vs. KAA Gent end in a draw?,polymarket:5440514 | predict:3076710,1.0,explicit_platform_link,True,-1.705183434731874857809644745
+727d9e0dacafdeec,Will KAA Gent win on 2026-10-22?,polymarket:5440515 | predict:3076713,1.0,explicit_platform_link,True,-1.949721252027846110978824564
+9ffd80686dc4a82f,Will AFC Ajax win on 2026-10-22?,polymarket:5440559 | predict:3076709,1.0,explicit_platform_link,True,-1.536630979550102249488752546
+781b35b7b8d07859,Will AFC Ajax vs. Atalanta BC end in a draw?,polymarket:5440560 | predict:3076712,1.0,explicit_platform_link,True,-1.700327063938832460413542401
+23414a18d7f7ccc8,Will Atalanta BC win on 2026-10-22?,polymarket:5440561 | predict:3076715,1.0,explicit_platform_link,True,-0.3882494044536509580528223728
+b9e7fbbe38db41d3,Will Al Hazem SC win on 2026-10-22?,polymarket:5441699 | predict:3076665,1.0,explicit_platform_link,True,-7.244215900332916418513550075
+c2a8024416930069,Will Al Hazem SC vs. Al Fayha Saudi Club end in a draw?,polymarket:5441700 | predict:3076666,1.0,explicit_platform_link,True,-6.001895102344877457321235433
+76978c584d5eb0d9,Will Al Fayha Saudi Club win on 2026-10-22?,polymarket:5441701 | predict:3076667,1.0,explicit_platform_link,True,-7.542282039066222010481181521
+ee2963be70fb0c33,Al Hazem SC leading at halftime?,polymarket:5441702 | predict:3076649,1.0,explicit_platform_link,True,
+c9022557b6a9f2f3,Al Hazem SC vs. Al Fayha Saudi Club: Draw at halftime?,polymarket:5441703 | predict:3076653,1.0,explicit_platform_link,True,-24.64464172380210579898596889
+91b30ed124d44b9d,Al Fayha Saudi Club leading at halftime?,polymarket:5441704 | predict:3076656,1.0,explicit_platform_link,True,
+40be902cbff84c90,Exact Score: Al Hazem SC 0 - 0 Al Fayha Saudi Club?,polymarket:5441705 | predict:3076976,1.0,explicit_platform_link,True,
+1c72e4a5ce91cea4,Exact Score: Al Hazem SC 0 - 1 Al Fayha Saudi Club?,polymarket:5441706 | predict:3076979,1.0,explicit_platform_link,True,
+6abfec846d389f42,Exact Score: Al Hazem SC 1 - 0 Al Fayha Saudi Club?,polymarket:5441707 | predict:3076982,1.0,explicit_platform_link,True,
+c67e9c747f951997,Exact Score: Al Hazem SC 0 - 2 Al Fayha Saudi Club?,polymarket:5441708 | predict:3076985,1.0,explicit_platform_link,True,
+9bdb3bb649165007,Exact Score: Al Hazem SC 1 - 1 Al Fayha Saudi Club?,polymarket:5441709 | predict:3076988,1.0,explicit_platform_link,True,
+fb1a5b5a887b93ce,Exact Score: Al Hazem SC 2 - 0 Al Fayha Saudi Club?,polymarket:5441710 | predict:3076991,1.0,explicit_platform_link,True,
+1cab388a906ff68c,Exact Score: Al Hazem SC 0 - 3 Al Fayha Saudi Club?,polymarket:5441711 | predict:3076994,1.0,explicit_platform_link,True,
+5ece49d9d57f3681,Exact Score: Al Hazem SC 1 - 2 Al Fayha Saudi Club?,polymarket:5441712 | predict:3076997,1.0,explicit_platform_link,True,
+737b51b3b1120469,Exact Score: Al Hazem SC 2 - 1 Al Fayha Saudi Club?,polymarket:5441713 | predict:3077000,1.0,explicit_platform_link,True,
+2a3f0b73999117d9,Exact Score: Al Hazem SC 3 - 0 Al Fayha Saudi Club?,polymarket:5441714 | predict:3077003,1.0,explicit_platform_link,True,
+27d771aaa0bb863a,Exact Score: Al Hazem SC 0 - 4 Al Fayha Saudi Club?,polymarket:5441715 | predict:3077006,1.0,explicit_platform_link,True,
+2fc81255eed70f27,Exact Score: Al Hazem SC 1 - 3 Al Fayha Saudi Club?,polymarket:5441716 | predict:3077009,1.0,explicit_platform_link,True,
+84da081fe1c601ec,Exact Score: Al Hazem SC 2 - 2 Al Fayha Saudi Club?,polymarket:5441717 | predict:3077012,1.0,explicit_platform_link,True,
+6efbfcba486bc919,Exact Score: Al Hazem SC 3 - 1 Al Fayha Saudi Club?,polymarket:5441718 | predict:3077015,1.0,explicit_platform_link,True,
+1b7fb2f33f9a4b54,Exact Score: Al Hazem SC 4 - 0 Al Fayha Saudi Club?,polymarket:5441719 | predict:3077018,1.0,explicit_platform_link,True,
+a2ecd307d5c3e971,Exact Score: Al Hazem SC 0 - 5 Al Fayha Saudi Club?,polymarket:5441720 | predict:3077021,1.0,explicit_platform_link,True,
+a7b037bf3ea020c5,Exact Score: Al Hazem SC 1 - 4 Al Fayha Saudi Club?,polymarket:5441721 | predict:3077024,1.0,explicit_platform_link,True,
+9981a3bec0d6d60a,Exact Score: Al Hazem SC 2 - 3 Al Fayha Saudi Club?,polymarket:5441722 | predict:3077027,1.0,explicit_platform_link,True,
+b06ecfe29aff3aa8,Exact Score: Al Hazem SC 3 - 2 Al Fayha Saudi Club?,polymarket:5441723 | predict:3077030,1.0,explicit_platform_link,True,
+99b5ed6c8805e958,Exact Score: Al Hazem SC 4 - 1 Al Fayha Saudi Club?,polymarket:5441724 | predict:3077034,1.0,explicit_platform_link,True,
+01d3e7e69ccdc82e,Exact Score: Al Hazem SC 5 - 0 Al Fayha Saudi Club?,polymarket:5441725 | predict:3077037,1.0,explicit_platform_link,True,
+8a29d910895450c5,Exact Score: Al Hazem SC 1 - 5 Al Fayha Saudi Club?,polymarket:5441726 | predict:3077040,1.0,explicit_platform_link,True,
+cf48ca8d45d86115,Exact Score: Al Hazem SC 2 - 4 Al Fayha Saudi Club?,polymarket:5441727 | predict:3077042,1.0,explicit_platform_link,True,
+ff8ae51aba39d1cf,Exact Score: Al Hazem SC 3 - 3 Al Fayha Saudi Club?,polymarket:5441728 | predict:3077045,1.0,explicit_platform_link,True,
+400bcea7533cd918,Exact Score: Al Hazem SC 4 - 2 Al Fayha Saudi Club?,polymarket:5441729 | predict:3077049,1.0,explicit_platform_link,True,
+34153d4fc517b47e,Exact Score: Al Hazem SC 5 - 1 Al Fayha Saudi Club?,polymarket:5441730 | predict:3077055,1.0,explicit_platform_link,True,
+8ba40b65dfccf878,Exact Score: Al Hazem SC 2 - 5 Al Fayha Saudi Club?,polymarket:5441731 | predict:3077058,1.0,explicit_platform_link,True,
+e3254265eb8e39cf,Exact Score: Al Hazem SC 3 - 4 Al Fayha Saudi Club?,polymarket:5441732 | predict:3077061,1.0,explicit_platform_link,True,
+12869822c97a34c4,Exact Score: Al Hazem SC 4 - 3 Al Fayha Saudi Club?,polymarket:5441733 | predict:3077064,1.0,explicit_platform_link,True,
+ad3b673cc3823070,Exact Score: Al Hazem SC 5 - 2 Al Fayha Saudi Club?,polymarket:5441734 | predict:3077067,1.0,explicit_platform_link,True,
+a85faed48d3a368e,Exact Score: Al Hazem SC 3 - 5 Al Fayha Saudi Club?,polymarket:5441735 | predict:3077069,1.0,explicit_platform_link,True,
+f74cfcc8731c62cc,Exact Score: Al Hazem SC 4 - 4 Al Fayha Saudi Club?,polymarket:5441736 | predict:3077072,1.0,explicit_platform_link,True,
+7155a02fc2b0c78c,Exact Score: Al Hazem SC 5 - 3 Al Fayha Saudi Club?,polymarket:5441737 | predict:3077075,1.0,explicit_platform_link,True,
+c574431c36658a11,Exact Score: Al Hazem SC 4 - 5 Al Fayha Saudi Club?,polymarket:5441738 | predict:3077078,1.0,explicit_platform_link,True,
+e1ebd8aab8f4c108,Exact Score: Al Hazem SC 5 - 4 Al Fayha Saudi Club?,polymarket:5441739 | predict:3077081,1.0,explicit_platform_link,True,
+036f402f00f9b4c6,Exact Score: Al Hazem SC 5 - 5 Al Fayha Saudi Club?,polymarket:5441740 | predict:3077083,1.0,explicit_platform_link,True,
+b8d2c06d34d3ac82,Exact Score: Any Other Score?,polymarket:5441741 | predict:3077087,1.0,explicit_platform_link,True,
+b8fad09be0e67ce9,Al Hazem SC to score first vs. Al Fayha Saudi Club?,polymarket:5441742 | predict:3076650,1.0,explicit_platform_link,True,
+6823ac69ef8b6ef4,Al Fayha Saudi Club to score first vs. Al Hazem SC?,polymarket:5441743 | predict:3076652,1.0,explicit_platform_link,True,
+04413e60daaad26c,Al Hazem SC vs. Al Fayha Saudi Club: Neither team to score first?,polymarket:5441744 | predict:3076655,1.0,explicit_platform_link,True,
+b5151c0a210d98ea,Will Al Fateh Saudi Club win on 2026-10-22?,polymarket:5441745 | predict:3076673,1.0,explicit_platform_link,True,-9.589736820795340877437123056
+b4a9c1c34e61c73b,Will Al Fateh Saudi Club vs. Al Shabab Saudi Club end in a draw?,polymarket:5441746 | predict:3076674,1.0,explicit_platform_link,True,-7.455458601411041600332070467
+ff74b66bead352e7,Will Al Shabab Saudi Club win on 2026-10-22?,polymarket:5441747 | predict:3076675,1.0,explicit_platform_link,True,0
+2fc0f0a539317b1a,Al Fateh Saudi Club leading at halftime?,polymarket:5441748 | predict:3076662,1.0,explicit_platform_link,True,
+8d6bda583f8d0e26,Al Fateh Saudi Club vs. Al Shabab Saudi Club: Draw at halftime?,polymarket:5441749 | predict:3076663,1.0,explicit_platform_link,True,-24.64464172380210579898596889
+068c2501dfd52480,Al Shabab Saudi Club leading at halftime?,polymarket:5441750 | predict:3076664,1.0,explicit_platform_link,True,
+53a7ba32338a30ea,Exact Score: Al Fateh Saudi Club 0 - 0 Al Shabab Saudi Club?,polymarket:5441751 | predict:3076978,1.0,explicit_platform_link,True,
+280aa744dc7fde4c,Exact Score: Al Fateh Saudi Club 0 - 1 Al Shabab Saudi Club?,polymarket:5441752 | predict:3076980,1.0,explicit_platform_link,True,
+b790070251b489c6,Exact Score: Al Fateh Saudi Club 1 - 0 Al Shabab Saudi Club?,polymarket:5441753 | predict:3076983,1.0,explicit_platform_link,True,
+918579303948e809,Exact Score: Al Fateh Saudi Club 0 - 2 Al Shabab Saudi Club?,polymarket:5441754 | predict:3076986,1.0,explicit_platform_link,True,
+f31651f15bffe410,Exact Score: Al Fateh Saudi Club 1 - 1 Al Shabab Saudi Club?,polymarket:5441755 | predict:3076990,1.0,explicit_platform_link,True,
+1c0e95b9708ceba2,Exact Score: Al Fateh Saudi Club 2 - 0 Al Shabab Saudi Club?,polymarket:5441756 | predict:3076993,1.0,explicit_platform_link,True,
