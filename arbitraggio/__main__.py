@@ -139,6 +139,39 @@ def export_sizes_csv(path,report):
     append_csv_rows(path,fields,rows)
 
 
+_CATALOG_SIGNATURE=None
+
+
+def export_catalog_csv(path,catalog):
+    global _CATALOG_SIGNATURE
+    signature=hash(tuple((m['venue'],str(m['id'])) for m in catalog))
+    if path.exists() and signature==_CATALOG_SIGNATURE:return
+    fields=['venue','market','title','end','volume_total','volume24h','url']
+    temp=path.with_suffix('.tmp')
+    with temp.open('w',newline='') as handle:
+        writer=csv.DictWriter(handle,fieldnames=fields);writer.writeheader()
+        for market in catalog:
+            writer.writerow(dict(venue=market.get('venue'),market=market.get('id'),title=market.get('title'),
+                                 end=market.get('end'),volume_total=market.get('volume'),
+                                 volume24h=market.get('volume24h'),url=market.get('url')))
+    temp.replace(path)
+    _CATALOG_SIGNATURE=signature
+
+
+def export_matches_csv(path,matches):
+    fields=['match_id','name','markets','score','match_reason','rules_identical','screening_profit']
+    temp=path.with_suffix('.tmp')
+    with temp.open('w',newline='') as handle:
+        writer=csv.DictWriter(handle,fieldnames=fields);writer.writeheader()
+        for match in matches:
+            writer.writerow(dict(match_id=match.get('id'),name=match.get('name'),
+                                 markets=' | '.join(match.get('markets',[])),score=match.get('score'),
+                                 match_reason=match.get('match_reason'),
+                                 rules_identical=match.get('rules_identical'),
+                                 screening_profit=match.get('screening_profit')))
+    temp.replace(path)
+
+
 def display(report):
     print(f"\nScanner · {time.strftime('%H:%M:%S')} · SIMULAZIONE · {len(report['opportunities'])} opportunità", flush=True)
     for v, s in report.get('platforms', {}).items():
@@ -180,7 +213,7 @@ def main():
     parser.add_argument('--venues', nargs='+', choices=VENUES, default=list(VENUES))
     parser.add_argument('--config', type=Path, default=Path('config.json'))
     parser.add_argument('--catalog', type=Path, default=Path('output/catalog.json'))
-    parser.add_argument('--pages', type=int, default=10)
+    parser.add_argument('--pages', type=int, default=50)
     parser.add_argument('--reuse-catalog', action='store_true', help='Avvia dai metadati salvati, verificando sempre i book live')
     parser.add_argument('--predict-pages', type=int, default=200, help='Pagine Predict da 100 mercati; termina al cursore finale')
     parser.add_argument('--markets', type=int, default=8, help='Mercati automatici per piattaforma (max 8)')
@@ -203,8 +236,8 @@ def main():
         minimum = number(args.min_profit)
         if not 1<=args.predict_pages<=500:
             raise ValueError('predict-pages deve essere 1..500')
-        if budget <= 0 or minimum < 0 or not 1 <= args.markets <= 8 or not 1 <= args.pages <= 20:
-            raise ValueError('Budget positivo, profitto >=0, markets 1..8 e pages 1..20 richiesti')
+        if budget <= 0 or minimum < 0 or not 1 <= args.markets <= 8 or not 1 <= args.pages <= 1000:
+            raise ValueError('Budget positivo, profitto >=0, markets 1..8 e pages 1..1000 richiesti')
         if not (10 if args.poll else .25) <= args.interval < 86400 or not 0 < args.max_age <= 3600 or not 0 <= args.max_skew <= args.max_age:
             raise ValueError('Intervallo minimo live 0.25s, polling 10s; max-skew <= max-age')
         if args.demo:
@@ -369,6 +402,8 @@ def main():
             export_latest_csv(args.output/'opportunities-latest.csv',report)
             export_legs_csv(args.output/'opportunities-legs.csv',report)
             export_sizes_csv(args.output/'opportunities-sizes.csv',report)
+            export_catalog_csv(args.output/'catalog.csv',active_catalog)
+            export_matches_csv(args.output/'matches.csv',report.get('matches',[]))
             if args.once:
                 break
             if live:

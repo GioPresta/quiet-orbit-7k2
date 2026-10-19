@@ -20,7 +20,7 @@ output.mkdir(exist_ok=True)
 services = [
     ("dashboard", [".venv/bin/python", "-u", "-m", "arbitraggio.dashboard", "--port", "8765"]),
     ("tracker", [".venv/bin/python", "-u", "-m", "arbitraggio.tracking", "--interval", "8"]),
-    ("scanner", [".venv/bin/python", "-u", "-m", "arbitraggio", "--budget", "100", "--reuse-catalog"]),
+    ("scanner", [".venv/bin/python", "-u", "-m", "arbitraggio", "--budget", "100", "--pages", "50", "--reuse-catalog"]),
 ]
 
 def alive(pid):

@@ -13,7 +13,7 @@ OUTPUT.mkdir(exist_ok=True)
 SERVICES = [
     ("dashboard", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio.dashboard", "--port", "8765"]),
     ("tracker", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio.tracking", "--interval", "8"]),
-    ("scanner", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio", "--budget", "100", "--reuse-catalog"]),
+    ("scanner", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio", "--budget", "100", "--pages", "50", "--reuse-catalog"]),
 ]
 processes = {}
 

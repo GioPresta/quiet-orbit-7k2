@@ -19,6 +19,7 @@ PUBLIC_FILES = (
     "opportunities-latest.csv",
     "opportunities-legs.csv",
     "opportunities-sizes.csv",
+    "matches.csv",
     "opportunity-ledger.json",
     "opportunity-tracking.jsonl",
     "tracking.json",

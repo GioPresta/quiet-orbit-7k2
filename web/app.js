@@ -58,6 +58,8 @@ if(staticMode){
  const downloads={'/download/latest.csv':'data/opportunities-latest.csv',
   '/download/legs.csv':'data/opportunities-legs.csv',
   '/download/sizes.csv':'data/opportunities-sizes.csv',
+  '/download/catalog.csv':'data/catalog.csv',
+  '/download/matches.csv':'data/matches.csv',
   '/download/tracking.csv':'data/tracking.csv',
   '/download/tracking-history.csv':'data/tracking-history.csv',
   '/download/opportunity-tracking.csv':'data/opportunity-tracking.csv'};

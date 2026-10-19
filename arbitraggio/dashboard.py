@@ -206,6 +206,12 @@ def make_handler(root=ROOT,token=None):
             if route=='/download/sizes.csv':
                 try:return self.send(200,(root/'output/opportunities-sizes.csv').read_bytes(),'text/csv; charset=utf-8','opportunita-dimensioni.csv')
                 except OSError:return self.send(404,{'error':'CSV dimensioni non ancora disponibile'})
+            if route=='/download/catalog.csv':
+                try:return self.send(200,(root/'output/catalog.csv').read_bytes(),'text/csv; charset=utf-8','catalogo-mercati.csv')
+                except OSError:return self.send(404,{'error':'CSV catalogo non ancora disponibile'})
+            if route=='/download/matches.csv':
+                try:return self.send(200,(root/'output/matches.csv').read_bytes(),'text/csv; charset=utf-8','coppie-candidate.csv')
+                except OSError:return self.send(404,{'error':'CSV coppie non ancora disponibile'})
             if route=='/api/tracking':
                 try:report=json.loads((root/'output/tracking.json').read_text())
                 except (OSError,ValueError):
