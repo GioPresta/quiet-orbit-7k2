@@ -77,6 +77,7 @@ if(staticMode){
  const status=document.querySelector('#settings-status');
  if(status)status.textContent='Snapshot GitHub Actions · sola lettura';
 }
+setInterval(()=>{if(!staticMode||!state)return;const banner=$('#stale-banner');if(state.recent_fallback){banner.hidden=false;banner.textContent=`Ultimo snapshot con opportunità: ${dt(state.timestamp)}. Il ciclo pubblico più recente non ne aveva.`}},1000);
 let tracking=null,historyEntries=[],currentView='opportunities';
 function shortAddress(value){const text=String(value||'');return text.length>12?text.slice(0,6)+'…'+text.slice(-4):text}
 function showView(name){
