@@ -5,8 +5,14 @@ import csv
 import html
 import json
 import shutil
+import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from arbitraggio.opportunity_tracking import ledger_csv
+from arbitraggio.tracking import csv_rows
 
 
 PUBLIC_FILES = (
@@ -51,6 +57,62 @@ def main():
         ledger = json.loads((output / "opportunity-ledger.json").read_text())
     except (OSError, ValueError):
         ledger = {"episodes": [], "stats": {}}
+    data_dir = docs / "data"
+    data_dir.mkdir(exist_ok=True)
+    for name in PUBLIC_FILES:
+        source = output / name
+        if source.exists():
+            shutil.copy2(source, data_dir / name)
+        old_root = docs / name
+        if old_root.exists():
+            old_root.unlink()
+    if (output / "latest.json").exists():
+        shutil.copy2(output / "latest.json", data_dir / "latest.json")
+
+    state = dict(report)
+    defaults = {
+        "budget": report.get("budget", "100"),
+        "sort_policy": "liquidity", "min_volume24h": "0", "max_matches": 64,
+        "tracking_min_yield_pct": "1.5", "tracking_target_yield_pct": "1.5",
+        "tax_rate_pct": "0",
+        "enabled_venues": ["polymarket", "predict", "limitless", "opinion"],
+    }
+    defaults.update({k: v for k, v in (report.get("settings") or {}).items() if v is not None})
+    state.update(server_time=time.time(), scanner_alive=True, csrf_token="static",
+                 ui_settings=defaults, settings=defaults)
+    (data_dir / "state.json").write_text(json.dumps(state, ensure_ascii=False, default=str))
+
+    try:
+        tracking = json.loads((output / "tracking.json").read_text())
+    except (OSError, ValueError):
+        tracking = {"wallets": [], "positions": [], "totals": {}}
+    tracking.update(tracker_alive=True, wallet_settings=[], csrf_token="static")
+    (data_dir / "tracking.json").write_text(json.dumps(tracking, ensure_ascii=False, default=str))
+    fields, rows = csv_rows(tracking)
+    with (data_dir / "tracking.csv").open("w", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fields); writer.writeheader(); writer.writerows(rows)
+
+    entries = []
+    try:
+        for line in (output / "tracking-history.jsonl").read_text().splitlines():
+            if line.strip():
+                entries.append(json.loads(line))
+    except (OSError, ValueError):
+        pass
+    (data_dir / "tracking-history.json").write_text(json.dumps({"entries": entries[-2000:]}, ensure_ascii=False))
+    with (data_dir / "tracking-history.csv").open("w", newline="") as handle:
+        fields = ["timestamp", "net_now", "pnl_now", "realized", "positions"]
+        writer = csv.DictWriter(handle, fieldnames=fields); writer.writeheader()
+        for entry in entries:
+            totals = entry.get("totals") or {}
+            writer.writerow({k: totals.get(k) if k != "timestamp" else entry.get("timestamp") for k in fields})
+
+    ledger_state = dict(ledger)
+    ledger_state["scanner_alive"] = True
+    (data_dir / "opportunity-tracking.json").write_text(json.dumps(ledger_state, ensure_ascii=False, default=str))
+    fields, rows = ledger_csv(ledger)
+    with (data_dir / "opportunity-tracking.csv").open("w", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fields); writer.writeheader(); writer.writerows(rows)
     stats = ledger.get("stats") or {}
     summary = {
         "timestamp": report.get("timestamp") or 0,
@@ -150,6 +212,9 @@ details div{{margin:4px 0;color:#68777f;font-size:11px}}
 </main></body></html>"""
     (docs / "index.html").write_text(page)
     (docs / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
+    web = Path(__file__).resolve().parent.parent / "web"
+    for name in ("index.html", "app.js", "style.css", "portfolio.css"):
+        shutil.copy2(web / name, docs / name)
     print(f"Pubblicato snapshot completo in {docs}")
 
 

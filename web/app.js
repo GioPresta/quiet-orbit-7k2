@@ -1,5 +1,13 @@
 'use strict';
 const $=s=>document.querySelector(s);
+const staticMode=!['127.0.0.1','localhost'].includes(location.hostname);
+const apiPath=name=>staticMode?'data/'+name:'/api/'+name;
+if(staticMode){
+ const nativeFetch=window.fetch.bind(window);
+ const staticData={'/api/state':'data/state.json','/api/tracking':'data/tracking.json',
+  '/api/tracking/history':'data/tracking-history.json','/api/opportunity-tracking':'data/opportunity-tracking.json'};
+ window.fetch=(input,init)=>nativeFetch(staticData[input]||input,init);
+}
 let state=null,tab='consistent',selectedId=null,lastFingerprint='',pendingSettings=null,lastFocus=null;
 const n=v=>v===null||v===undefined||v===''?null:Number(v);
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -13,7 +21,7 @@ const expiryCell=o=>o.allocations.map(a=>`<small class="cell-sub">${esc(venue(a.
 const id=o=>o.allocations.map(a=>`${a.venue}:${a.market}:${a.outcome}`).join('|');
 const ruleStatus=o=>o.rules?.status||'review';
 const ruleName=s=>({consistent:'Coerenza testuale',review:'Da verificare',conflict:'Conflitto rilevato'}[s]||'Da verificare');
-const stale=()=>!state||!state.scanner_alive||Date.now()/1000-Number(state.timestamp)>120;
+const stale=()=>staticMode?false:(!state||!state.scanner_alive||Date.now()/1000-Number(state.timestamp)>120);
 function safeUrl(value){try{const u=new URL(value);return u.protocol==='https:'&&['polymarket.com','predict.fun','limitless.exchange','app.opinion.trade','opinion.trade'].includes(u.hostname)?u.href:null}catch{return null}}
 function link(url,label){const safe=safeUrl(url);return safe?`<a class="market-link" href="${esc(safe)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`:`<span class="value-neutral">Link in aggiornamento</span>`}
 function category(title){const t=title.toLowerCase();if(/fdv|bitcoin|ethereum|btc |token|protocol|crypto/.test(t))return ['crypto','◈'];if(/nba|liga|league| fc |finals|champion|match|win the 2027/.test(t))return ['sport','◉'];if(/fed|rate|valuation|ipo|merger|stock|price/.test(t))return ['economy','↗'];return ['','▧']}
@@ -44,6 +52,29 @@ $('#opportunity-rows').addEventListener('click',e=>{const button=e.target.closes
 let venueInitDone=false;
 const venueInitTimer=setInterval(()=>{if(!state)return;const enabled=state.ui_settings?.enabled_venues||['polymarket','predict','limitless','opinion'];for(const v of ['polymarket','predict','limitless','opinion']){const box=$('#venue-'+v);if(box)box.checked=enabled.includes(v)}const fields={'#tracking-min-yield':state.ui_settings?.tracking_min_yield_pct??'1.5','#tracking-target-yield':state.ui_settings?.tracking_target_yield_pct??'1.5','#tax-rate':state.ui_settings?.tax_rate_pct??'26'};for(const [selector,value] of Object.entries(fields)){const input=$(selector);if(input)input.value=value}venueInitDone=true;clearInterval(venueInitTimer)},300);
 refresh();setInterval(refresh,2500);
+if(staticMode){
+ const downloads={'/download/latest.csv':'data/opportunities-latest.csv',
+  '/download/legs.csv':'data/opportunities-legs.csv',
+  '/download/sizes.csv':'data/opportunities-sizes.csv',
+  '/download/tracking.csv':'data/tracking.csv',
+  '/download/tracking-history.csv':'data/tracking-history.csv',
+  '/download/opportunity-tracking.csv':'data/opportunity-tracking.csv'};
+ document.querySelectorAll('a[href^="/download/"]').forEach(anchor=>{
+  const target=downloads[anchor.getAttribute('href')];
+  if(target)anchor.setAttribute('href',target);
+ });
+ for(const selector of ['#settings-form','#wallet-form']){
+  document.querySelector(selector)?.addEventListener('submit',event=>{
+   event.preventDefault();event.stopImmediatePropagation();
+   toast('Dashboard remota in sola lettura.');
+  },true);
+ }
+ for(const selector of ['#apply','#wallet-add','#opinion-connect']){
+  const button=document.querySelector(selector);if(button)button.disabled=true;
+ }
+ const status=document.querySelector('#settings-status');
+ if(status)status.textContent='Snapshot GitHub Actions · sola lettura';
+}
 let tracking=null,historyEntries=[],currentView='opportunities';
 function shortAddress(value){const text=String(value||'');return text.length>12?text.slice(0,6)+'…'+text.slice(-4):text}
 function showView(name){
