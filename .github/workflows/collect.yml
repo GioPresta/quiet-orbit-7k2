@@ -1,0 +1,74 @@
+name: collect
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      PREDICT_API_KEY: ${{ secrets.PREDICT_API_KEY }}
+      OPINION_API_KEY: ${{ secrets.OPINION_API_KEY }}
+      LIMITLESS_API_KEY: ${{ secrets.LIMITLESS_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Restore catalog
+        uses: actions/cache@v4
+        with:
+          path: output/catalog.json
+          key: catalog-${{ github.run_id }}
+          restore-keys: catalog-
+      - name: Install
+        run: pip install -r requirements.txt
+      - name: Restore published history
+        run: |
+          mkdir -p output
+          for file in opportunity-ledger.json opportunity-tracking.jsonl opportunities-legs.csv opportunities-sizes.csv tracking-history.jsonl tracking.json; do
+            if [ -f "docs/$file" ]; then
+              cp "docs/$file" "output/$file"
+            fi
+          done
+      - name: Scan once
+        run: python -m arbitraggio --budget 100 --once --reuse-catalog --output output
+      - name: Track wallet positions once
+        run: python -m arbitraggio.tracking --once --output output
+      - name: Build static page
+        run: python scripts/publish_snapshot.py --output output --docs docs
+      - name: Upload detailed data artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-data-${{ github.run_id }}
+          retention-days: 30
+          path: |
+            output/latest.json
+            output/opportunities-latest.csv
+            output/opportunities-legs.csv
+            output/opportunities-sizes.csv
+            output/opportunity-ledger.json
+            output/opportunity-tracking.jsonl
+            output/tracking.json
+            output/tracking-history.jsonl
+      - name: Commit published snapshot
+        run: |
+          git config user.name "arbitraggio-bot"
+          git config user.email "arbitraggio-bot@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "Nessun cambiamento"
+          else
+            git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

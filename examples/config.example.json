@@ -1,0 +1,11 @@
+{
+  "auto_match": true,
+  "match_threshold": 0.88,
+  "max_matches": 12,
+  "fixed_cost_per_hedge": "0",
+  "rounding_reserve": "0.02",
+  "net_share_step": "0.000001",
+  "balances": {},
+  "fees": {"predict_discount": "0"},
+  "groups": []
+}

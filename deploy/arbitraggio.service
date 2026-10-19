@@ -1,0 +1,17 @@
+[Unit]
+Description=Arbitraggio scanner, dashboard and wallet tracker
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=__USER__
+Group=__USER__
+WorkingDirectory=/opt/arbitraggio
+ExecStart=/opt/arbitraggio/.venv/bin/python -u /opt/arbitraggio/run_all.py
+Restart=always
+RestartSec=10
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
