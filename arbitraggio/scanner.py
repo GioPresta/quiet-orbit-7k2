@@ -411,7 +411,10 @@ def select_matches(catalog,config,budget):
     priority={tuple(sorted(p)) for p in config.get('priority_pairs',[])}
     scored=[(m,indicative_profit(m,mapping,config,budget)) for m in universe]
     floor=number(config.get('min_volume24h',0))
-    if floor>0:scored=[(m,s) for m,s in scored if (activity([mapping[r] for r in m['markets']])['volume24h_min'] or 0)>=floor]
+    if floor>0:
+        scored=[(m,s) for m,s in scored
+                if (activity([mapping[r] for r in m['markets']])['volume24h_min'] is None
+                    or activity([mapping[r] for r in m['markets']])['volume24h_min']>=floor)]
     selected=[dict(m,screening_profit=score) for m,score in scored if tuple(m['markets']) in priority][:limit]
     chosen={m['id'] for m in selected}
     # Reserve a few slots for non-dominant venue pairs so Opinion/Limitless are
