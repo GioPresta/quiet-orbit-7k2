@@ -58,6 +58,8 @@ if(staticMode){
  const downloads={'/download/latest.csv':'data/opportunities-latest.csv',
   '/download/legs.csv':'data/opportunities-legs.csv',
   '/download/sizes.csv':'data/opportunities-sizes.csv',
+  '/download/catalog.csv':'data/catalog.csv',
+  '/download/matches.csv':'data/matches.csv',
   '/download/tracking.csv':'data/tracking.csv',
   '/download/tracking-history.csv':'data/tracking-history.csv',
   '/download/opportunity-tracking.csv':'data/opportunity-tracking.csv'};
@@ -77,6 +79,7 @@ if(staticMode){
  const status=document.querySelector('#settings-status');
  if(status)status.textContent='Snapshot GitHub Actions · sola lettura';
 }
+setInterval(()=>{if(!staticMode||!state)return;const banner=$('#stale-banner');if(state.recent_fallback){banner.hidden=false;banner.textContent=`Ultimo snapshot con opportunità: ${dt(state.timestamp)}. Il ciclo pubblico più recente non ne aveva.`}},1000);
 let tracking=null,historyEntries=[],currentView='opportunities';
 function shortAddress(value){const text=String(value||'');return text.length>12?text.slice(0,6)+'…'+text.slice(-4):text}
 function showView(name){

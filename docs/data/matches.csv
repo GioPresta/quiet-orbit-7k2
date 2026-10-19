@@ -1,0 +1,101 @@
+match_id,name,markets,score,match_reason,rules_identical,screening_profit
+00641709198d6383,Dogecoin Up or Down on October 19?,limitless:dogecoin-up-or-down-daily-p-1792328733423 | polymarket:5824133,1.0,explicit_platform_link,True,
+04e20f21f86951f5,Microsoft (MSFT) Up or Down on October 19?,limitless:msft-daily-up-down-p-1792170323949 | polymarket:5772951,1.0,explicit_platform_link,True,
+0a717fb8615545dd,Will MSCI (MSCI) beat quarterly earnings?,limitless:will-msci-msci-beat-quarterly-earnings-1791400821864 | polymarket:5412317,1.0,explicit_platform_link,True,
+0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
+0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
+013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
+01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
+0509c568c72a130a,Aston Villa FC vs. Manchester City FC: Both Teams to Score,limitless:aston-villa-and-manchester-city-both-to-score-1792402236331 | predict:3169554,1.0,explicit_platform_link,False,
+743d74c672527467,Will Caleb Williams win the 2026 NFL MVP?,polymarket:1747730 | predict:941955,1.0,explicit_platform_link,True,0.2206185895060956624574754744
+7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,0.1526618319835661018598973742
+61f4a91a610ba089,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,polymarket:2589810 | predict:517146,1.0,explicit_platform_link,True,0.02539423432305819675312296754
+ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,0.2185612552513347884114633116
+a5ce0613a0b45b31,Will 1 Fed rate cut happen in 2026?,polymarket:616903 | predict:12743,1.0,explicit_platform_link,False,0.1825565630150034886661033916
+ef53d0f7e6c4ff8e,Will Athletic Bilbao win the 2026-27 LALIGA Championship?,polymarket:2771490 | predict:934722,1.0,explicit_platform_link,True,0.02393461407163695296506829174
+ea3d514acd6545e1,Will Pete Hegseth win the 2028 US Presidential Election?,polymarket:561264 | predict:932143,1.0,explicit_platform_link,True,1.438718559644159342819363256
+49bfccdc3655da9e,Will SC Freiburg be the 2026-27 Bundesliga champion?,polymarket:2849016 | predict:935733,1.0,explicit_platform_link,True,0.8316727812358300012366544400
+6b271b040b47b129,Will Oura's market cap be between $10B and $12.5B at market close on IPO day?,polymarket:2324606 | predict:394714,1.0,explicit_platform_link,True,0.7130072090253136563267685677
+df36a9fd0d4cacbf,Hyperbeat FDV above $50M one day after launch?,polymarket:690590 | predict:26426,1.0,explicit_platform_link,False,0.6421762894999442560087338764
+1c7366396b13cb0c,Will the Fed’s lower bound reach 3.0% or lower before 2027?,polymarket:690220 | predict:30531,1.0,explicit_platform_link,True,0.6413120170056630199073795903
+90c2a12baea655b8,Opensea FDV above $2B one day after launch?,polymarket:936450 | predict:900,1.0,explicit_platform_link,True,0.6144101959329825962254665072
+d073ef760d0ab6e2,Exact Score: BV Borussia 09 Dortmund 4 - 1 Eintracht Frankfurt?,polymarket:5534914 | predict:3167708,1.0,explicit_platform_link,True,
+435466d8f86f6496,Exact Score: BV Borussia 09 Dortmund 5 - 0 Eintracht Frankfurt?,polymarket:5534915 | predict:3167709,1.0,explicit_platform_link,True,
+d2bac44c1acc7280,Exact Score: BV Borussia 09 Dortmund 1 - 5 Eintracht Frankfurt?,polymarket:5534916 | predict:3167710,1.0,explicit_platform_link,True,
+25f8bdba5d460c93,Exact Score: BV Borussia 09 Dortmund 2 - 4 Eintracht Frankfurt?,polymarket:5534917 | predict:3167711,1.0,explicit_platform_link,True,
+03663a3f33f3eb65,Exact Score: BV Borussia 09 Dortmund 3 - 3 Eintracht Frankfurt?,polymarket:5534918 | predict:3167712,1.0,explicit_platform_link,True,
+0be2d19234dd4c4e,Exact Score: BV Borussia 09 Dortmund 4 - 2 Eintracht Frankfurt?,polymarket:5534919 | predict:3167713,1.0,explicit_platform_link,True,
+e2be2ec0d118e918,Exact Score: BV Borussia 09 Dortmund 5 - 1 Eintracht Frankfurt?,polymarket:5534921 | predict:3167714,1.0,explicit_platform_link,True,
+b72bd9885115e148,Exact Score: BV Borussia 09 Dortmund 2 - 5 Eintracht Frankfurt?,polymarket:5534923 | predict:3167715,1.0,explicit_platform_link,True,
+2e674f63a908bc0b,Exact Score: BV Borussia 09 Dortmund 3 - 4 Eintracht Frankfurt?,polymarket:5534925 | predict:3167716,1.0,explicit_platform_link,True,
+3e1f64047e9d951a,Exact Score: BV Borussia 09 Dortmund 4 - 3 Eintracht Frankfurt?,polymarket:5534926 | predict:3167717,1.0,explicit_platform_link,True,
+11f8655b342f7b66,Exact Score: BV Borussia 09 Dortmund 5 - 2 Eintracht Frankfurt?,polymarket:5534927 | predict:3167718,1.0,explicit_platform_link,True,
+c1686a9aae3ebc26,Exact Score: BV Borussia 09 Dortmund 3 - 5 Eintracht Frankfurt?,polymarket:5534928 | predict:3167719,1.0,explicit_platform_link,True,
+aeb6d5d79e680572,Exact Score: BV Borussia 09 Dortmund 4 - 4 Eintracht Frankfurt?,polymarket:5534929 | predict:3167720,1.0,explicit_platform_link,True,-24.97396012486825098797718645
+06535fb81c2820f9,Exact Score: BV Borussia 09 Dortmund 5 - 3 Eintracht Frankfurt?,polymarket:5534930 | predict:3167721,1.0,explicit_platform_link,True,
+bb0576289bb0f98d,Exact Score: BV Borussia 09 Dortmund 4 - 5 Eintracht Frankfurt?,polymarket:5534931 | predict:3167722,1.0,explicit_platform_link,True,
+65e3b36da3555c1f,Exact Score: BV Borussia 09 Dortmund 5 - 4 Eintracht Frankfurt?,polymarket:5534933 | predict:3167723,1.0,explicit_platform_link,True,
+b6e106eed24125a9,Exact Score: BV Borussia 09 Dortmund 5 - 5 Eintracht Frankfurt?,polymarket:5534935 | predict:3167724,1.0,explicit_platform_link,True,
+4ad85c523123566a,Exact Score: Any Other Score?,polymarket:5534937 | predict:3167725,1.0,explicit_platform_link,True,
+6f7d9ca3c03dcf0a,BV Borussia 09 Dortmund to score first vs. Eintracht Frankfurt?,polymarket:5534954 | predict:3167065,1.0,explicit_platform_link,True,-20.61486366704927397130266148
+9b9da414e4847597,Eintracht Frankfurt to score first vs. BV Borussia 09 Dortmund?,polymarket:5534956 | predict:3167066,1.0,explicit_platform_link,True,-21.27498227769498116666629787
+9f400fb4a77043e4,BV Borussia 09 Dortmund vs. Eintracht Frankfurt: Neither team to score first?,polymarket:5534958 | predict:3167067,1.0,explicit_platform_link,True,-24.64464172380210579898596889
+e85771280104f810,Racing Club de Lens vs. Paris FC: Both Teams to Score,polymarket:5536690 | predict:3169854,1.0,explicit_platform_link,True,-1.927017291273566303718810882
+c7397165dde563a5,SS Lazio vs. Parma Calcio 1913: Both Teams to Score,polymarket:5536699 | predict:3169796,1.0,explicit_platform_link,True,-2.014500281417079056491025035
+2163cfed626fd676,BV Borussia 09 Dortmund vs. Eintracht Frankfurt: Both Teams to Score,polymarket:5536710 | predict:3169674,1.0,explicit_platform_link,True,-1.882198677941611740031253278
+f39fd2547df18556,Chelsea FC vs. Tottenham Hotspur FC: Both Teams to Score,polymarket:5536743 | predict:3169734,1.0,explicit_platform_link,True,-2.389622480304985475479191348
+c43f4627f6921789,SSC Napoli vs. AS Roma: Both Teams to Score,polymarket:5536938 | predict:3169128,1.0,explicit_platform_link,True,-2.439628982474332576501022447
+ce3ae9fe59120d68,Toulouse FC vs. ES Troyes AC: Both Teams to Score,polymarket:5536939 | predict:3169918,1.0,explicit_platform_link,True,-2.439628982474332576501022447
+b73e96ffc9b89e38,RB Leipzig vs. SV 07 Elversberg: Both Teams to Score,polymarket:5536944 | predict:3169372,1.0,explicit_platform_link,True,-0.503038657171922685656154635
+2f55ef2242c247cc,Coventry City FC vs. Fulham FC: Both Teams to Score,polymarket:5536980 | predict:3169434,1.0,explicit_platform_link,True,-2.415579108129769293325376888
+c8381c3d8ef166ee,Cagliari Calcio vs. Bologna FC 1909: Both Teams to Score,polymarket:5537158 | predict:3169310,1.0,explicit_platform_link,True,-2.044764052962190638798801090
+0aea1d9407a0f5be,FC Augsburg vs. 1. FC Union Berlin: Both Teams to Score,polymarket:5537167 | predict:3169614,1.0,explicit_platform_link,True,-1.897631382946215583851607547
+2819a0d807aaa144,Arsenal FC vs. Everton FC: Both Teams to Score,polymarket:5537187 | predict:3169492,1.0,explicit_platform_link,True,-2.461783628149115259392725815
+d541924fa61eef34,Como 1907 vs. US Sassuolo Calcio: Both Teams to Score,polymarket:5537335 | predict:3169022,1.0,explicit_platform_link,True,-0.675170188871873404798366512
+c78882e3cdd54d21,1. FSV Mainz 05 vs. SV Werder Bremen: Both Teams to Score,polymarket:5537358 | predict:3169250,1.0,explicit_platform_link,True,-1.927017291273566303718810882
+5181c77b15109018,Aston Villa FC vs. Manchester City FC: Both Teams to Score,polymarket:5537366 | predict:3169554,1.0,explicit_platform_link,True,-1.957624226615078098017430801
+1cfc3785690b386d,SC Paderborn 07 vs. Hamburger SV: Both Teams to Score,polymarket:5537494 | predict:3169187,1.0,explicit_platform_link,True,-1.912570367799091444181167818
+2a8505bdf1f53cd8,1. FC Köln vs. FC Schalke 04: Both Teams to Score,polymarket:5537554 | predict:3169025,1.0,explicit_platform_link,True,-1.927017291273566303718810882
+f5ffa1cfbcec154c,Will Rayo Vallecano de Madrid win on 2026-10-24?,polymarket:5538676 | predict:3171261,1.0,explicit_platform_link,True,-1.563189354409835789273310798
+4fef913a44ec11e4,Will Rayo Vallecano de Madrid vs. Elche CF end in a draw?,polymarket:5538681 | predict:3171265,1.0,explicit_platform_link,True,-1.683571789761741872155626272
+824317f4604065ed,Will Elche CF win on 2026-10-24?,polymarket:5538685 | predict:3171268,1.0,explicit_platform_link,True,-1.109323773933904973825610781
+8c038bac0f9a981c,Rayo Vallecano de Madrid leading at halftime?,polymarket:5538710 | predict:3171260,1.0,explicit_platform_link,True,-14.87069486571037149755313887
+ce2c9a8014e0101c,Rayo Vallecano de Madrid vs. Elche CF: Draw at halftime?,polymarket:5538714 | predict:3171264,1.0,explicit_platform_link,True,-14.87069486571037149755313887
+d1c2eef281bb3253,Elche CF leading at halftime?,polymarket:5538716 | predict:3171267,1.0,explicit_platform_link,True,-22.79221440587782854694430884
+bb2be63718b82bd1,Rayo Vallecano de Madrid to win the second half?,polymarket:5538733 | predict:3171258,1.0,explicit_platform_link,True,-16.96648461546644067736895284
+aab8d48c6b2fe631,Rayo Vallecano de Madrid vs. Elche CF: Second half draw?,polymarket:5538737 | predict:3171263,1.0,explicit_platform_link,True,-15.11760627474848225113692423
+477e6387582e7bef,Elche CF to win the second half?,polymarket:5538741 | predict:3171266,1.0,explicit_platform_link,True,-22.93438059858460415321369498
+e4fc02c3439381d8,Exact Score: Rayo Vallecano de Madrid 0 - 0 Elche CF?,polymarket:5538756 | predict:3171386,1.0,explicit_platform_link,True,
+357535c8a801dc82,Exact Score: Rayo Vallecano de Madrid 0 - 1 Elche CF?,polymarket:5538760 | predict:3171388,1.0,explicit_platform_link,True,-24.38763164534783557209936110
+c1a94e47b5f5de9d,Exact Score: Rayo Vallecano de Madrid 1 - 0 Elche CF?,polymarket:5538762 | predict:3171390,1.0,explicit_platform_link,True,-1.891061487679631235318952334
+35fa73a96161b5c2,Exact Score: Rayo Vallecano de Madrid 0 - 2 Elche CF?,polymarket:5538766 | predict:3171392,1.0,explicit_platform_link,True,-24.75758826380092287999897757
+47a114d2aa27a767,Exact Score: Rayo Vallecano de Madrid 1 - 1 Elche CF?,polymarket:5538768 | predict:3171394,1.0,explicit_platform_link,True,-1.479128376592329503875935635
+e2c93a93ddd33975,Exact Score: Rayo Vallecano de Madrid 2 - 0 Elche CF?,polymarket:5538769 | predict:3171396,1.0,explicit_platform_link,True,-1.744784817934207829595443530
+c52012637afe5bf0,Exact Score: Rayo Vallecano de Madrid 0 - 3 Elche CF?,polymarket:5538774 | predict:3171398,1.0,explicit_platform_link,True,
+7bef352755deeb51,Exact Score: Rayo Vallecano de Madrid 1 - 2 Elche CF?,polymarket:5538776 | predict:3171400,1.0,explicit_platform_link,True,-24.51227374065848499727616751
+b3c0b82829d8be16,Exact Score: Rayo Vallecano de Madrid 2 - 1 Elche CF?,polymarket:5538780 | predict:3171402,1.0,explicit_platform_link,True,-1.818286690636745210757332399
+aa6d9bd2d309065e,Exact Score: Rayo Vallecano de Madrid 3 - 0 Elche CF?,polymarket:5538782 | predict:3171404,1.0,explicit_platform_link,True,-24.43764949225826589662722944
+10c2b00ff2ceb06a,Exact Score: Rayo Vallecano de Madrid 0 - 4 Elche CF?,polymarket:5538786 | predict:3171406,1.0,explicit_platform_link,True,
+aab708fe482adfbc,Exact Score: Rayo Vallecano de Madrid 1 - 3 Elche CF?,polymarket:5538790 | predict:3171408,1.0,explicit_platform_link,True,
+b77ca41d69eac100,Exact Score: Rayo Vallecano de Madrid 2 - 2 Elche CF?,polymarket:5538791 | predict:3171410,1.0,explicit_platform_link,True,-24.42516523249804816045540347
+9a281b0e6452af1c,Exact Score: Rayo Vallecano de Madrid 3 - 1 Elche CF?,polymarket:5538795 | predict:3171412,1.0,explicit_platform_link,True,-24.51227374065848499727616751
+47234e5c5945b022,Exact Score: Rayo Vallecano de Madrid 4 - 0 Elche CF?,polymarket:5538800 | predict:3171414,1.0,explicit_platform_link,True,
+b89f070be802909a,Exact Score: Rayo Vallecano de Madrid 0 - 5 Elche CF?,polymarket:5538801 | predict:3171416,1.0,explicit_platform_link,True,
+e6e31988a90f20aa,Exact Score: Rayo Vallecano de Madrid 1 - 4 Elche CF?,polymarket:5538806 | predict:3171418,1.0,explicit_platform_link,True,
+ac3c04b1e10ae6ef,Exact Score: Rayo Vallecano de Madrid 2 - 3 Elche CF?,polymarket:5538807 | predict:3171420,1.0,explicit_platform_link,True,
+577e0a6a71f61f64,Exact Score: Rayo Vallecano de Madrid 3 - 2 Elche CF?,polymarket:5538810 | predict:3171422,1.0,explicit_platform_link,True,-16.52872126328225346695148673
+b77fa04b7f14abae,Exact Score: Rayo Vallecano de Madrid 4 - 1 Elche CF?,polymarket:5538812 | predict:3171424,1.0,explicit_platform_link,True,
+8082ccc6acc14b1a,Exact Score: Rayo Vallecano de Madrid 5 - 0 Elche CF?,polymarket:5538814 | predict:3171426,1.0,explicit_platform_link,True,
+d2b2d953c15ab178,Exact Score: Rayo Vallecano de Madrid 1 - 5 Elche CF?,polymarket:5538816 | predict:3171428,1.0,explicit_platform_link,True,
+89b6e6036d1d01e4,Exact Score: Rayo Vallecano de Madrid 2 - 4 Elche CF?,polymarket:5538817 | predict:3171430,1.0,explicit_platform_link,True,
+9492a5a8fabacef9,Exact Score: Rayo Vallecano de Madrid 3 - 3 Elche CF?,polymarket:5538819 | predict:3171432,1.0,explicit_platform_link,True,
+3b6f0d9efd1d64ba,Exact Score: Rayo Vallecano de Madrid 4 - 2 Elche CF?,polymarket:5538821 | predict:3171434,1.0,explicit_platform_link,True,
+30166098a4eef552,Exact Score: Rayo Vallecano de Madrid 5 - 1 Elche CF?,polymarket:5538823 | predict:3171436,1.0,explicit_platform_link,True,
+4032c676e27393ea,Exact Score: Rayo Vallecano de Madrid 2 - 5 Elche CF?,polymarket:5538825 | predict:3171438,1.0,explicit_platform_link,True,
+60d9764177e0fc8f,Exact Score: Rayo Vallecano de Madrid 3 - 4 Elche CF?,polymarket:5538827 | predict:3171439,1.0,explicit_platform_link,True,
+c0353ecb06d2d724,Exact Score: Rayo Vallecano de Madrid 4 - 3 Elche CF?,polymarket:5538828 | predict:3171441,1.0,explicit_platform_link,True,
+77c50b6ff67a2845,Exact Score: Rayo Vallecano de Madrid 5 - 2 Elche CF?,polymarket:5538830 | predict:3171443,1.0,explicit_platform_link,True,
+8a5bfe525b0607d2,Exact Score: Rayo Vallecano de Madrid 3 - 5 Elche CF?,polymarket:5538831 | predict:3171445,1.0,explicit_platform_link,True,
+240fcd5a71fdb5ca,Exact Score: Rayo Vallecano de Madrid 4 - 4 Elche CF?,polymarket:5538832 | predict:3171447,1.0,explicit_platform_link,True,
+ac961be0ef020269,Exact Score: Rayo Vallecano de Madrid 5 - 3 Elche CF?,polymarket:5538834 | predict:3171449,1.0,explicit_platform_link,True,
+a8ffd0824975e3c9,Exact Score: Rayo Vallecano de Madrid 4 - 5 Elche CF?,polymarket:5538835 | predict:3171451,1.0,explicit_platform_link,True,
