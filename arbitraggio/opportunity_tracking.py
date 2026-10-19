@@ -15,7 +15,7 @@ from .scanner import fee_for
 
 def _episode_key(opportunity):
     legs=sorted((a['venue'],str(a['market']),a['outcome']) for a in opportunity['allocations'])
-    return '|'.join(':'.join(leg) for leg in legs)
+    return str(opportunity.get('budget',''))+'|'+'|'.join(':'.join(leg) for leg in legs)
 
 
 def _new_id(key,now):

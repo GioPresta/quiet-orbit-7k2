@@ -55,7 +55,7 @@ jobs:
             fi
           done
       - name: Scan once
-        run: python -m arbitraggio --budget 100 --once --reuse-catalog --output output
+        run: python -m arbitraggio --budget 100 --budgets 50 100 --once --reuse-catalog --output output
       - name: Track wallet positions once
         run: python -m arbitraggio.tracking --once --output output
       - name: Build static page

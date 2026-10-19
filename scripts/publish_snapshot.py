@@ -76,6 +76,7 @@ def main():
         "tracking_min_yield_pct": "1.5", "tracking_target_yield_pct": "1.5",
         "tax_rate_pct": "0",
         "enabled_venues": ["polymarket", "predict", "limitless", "opinion"],
+        "budgets": ["50", "100"],
     }
     defaults.update({k: v for k, v in (report.get("settings") or {}).items() if v is not None})
     state.update(server_time=time.time(), scanner_alive=True, csrf_token="static",

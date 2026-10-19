@@ -8,7 +8,7 @@ import sys
 import time
 import signal
 from .engine import D, Fee, Leg, number, optimize
-from .api import VENUES
+from .api import VENUES, Client
 from .scanner import discover, scan, dumps, json_default, suggestions, tracked_markets, background_discovery
 
 
@@ -25,7 +25,7 @@ def load_env():
 
 
 def export_csv(path, report):
-    fields = ['timestamp', 'name', 'profit', 'roi_pct', 'total_cost', 'payout', 'max_profitable_cost',
+    fields = ['timestamp', 'name', 'budget', 'profit', 'roi_pct', 'total_cost', 'payout', 'max_profitable_cost',
               'venue', 'market', 'outcome', 'gross_shares', 'net_shares', 'notional', 'cash_fee',
               'withheld_shares', 'total', 'limit_price', 'status', 'italy_restriction', 'freshness',
               'resolution_verified', 'fee_estimated']
@@ -45,7 +45,7 @@ def export_csv(path, report):
 
 def export_latest_csv(path, report):
     fields=['timestamp','name','profit_usd','roi_pct','total_cost_usd','payout_usd','max_profitable_cost_usd',
-            'max_feasible_budget_usd','size_ladder',
+            'max_feasible_budget_usd','size_ladder','budget_usd',
             'yes_venue','yes_price_avg','yes_spend','yes_expiry','no_venue','no_price_avg','no_spend','no_expiry',
             'yes_url','no_url','yes_volume_total','yes_volume24h','no_volume_total','no_volume24h',
             'yes_best_ask','yes_best_ask_size','yes_ask_depth_shares','yes_ask_depth_notional',
@@ -61,7 +61,7 @@ def export_latest_csv(path, report):
         for r in report['opportunities']:
             title=r['name']
             if title.startswith(('=','+','-','@')):title="'"+title
-            row=dict(timestamp=report['timestamp'],name=title,profit_usd=r['profit'],roi_pct=r['roi_pct'],
+            row=dict(timestamp=report['timestamp'],name=title,budget_usd=r.get('budget'),profit_usd=r['profit'],roi_pct=r['roi_pct'],
                      total_cost_usd=r['total_cost'],payout_usd=r['payout'],max_profitable_cost_usd=r.get('max_profitable_cost'),
                      max_feasible_budget_usd=r.get('max_feasible_budget'),
                      size_ladder=json.dumps(r.get('size_ladder'),ensure_ascii=False,default=str),
@@ -102,14 +102,14 @@ def append_csv_rows(path,fields,rows):
 
 
 def export_legs_csv(path,report):
-    fields=['timestamp','name','match_id','venue','market','outcome','url','price_avg','limit_price',
+    fields=['timestamp','name','match_id','budget_usd','venue','market','outcome','url','price_avg','limit_price',
             'gross_shares','net_shares','total','cash_fee','withheld_shares','fee_model','fee_rate',
             'volume_total','volume24h','best_ask','best_ask_size','ask_depth_shares','ask_depth_notional',
             'best_bid','bid_depth_shares','bid_depth_notional','fills']
     rows=[]
     for result in report.get('opportunities',[]):
         for leg in result.get('allocations',[]):
-            rows.append(dict(timestamp=report['timestamp'],name=result.get('name'),
+            rows.append(dict(timestamp=report['timestamp'],name=result.get('name'),budget_usd=result.get('budget'),
                              match_id=(result.get('match') or {}).get('id'),venue=leg.get('venue'),
                              market=leg.get('market'),outcome=leg.get('outcome'),url=leg.get('url'),
                              price_avg=leg.get('price_avg'),limit_price=leg.get('limit_price'),
@@ -175,6 +175,8 @@ def main():
     signal.signal(signal.SIGINT,signal.default_int_handler)
     parser = argparse.ArgumentParser(description='Arbitraggio: scanner read-only e sizing con fee e profondità')
     parser.add_argument('--budget', default='200', help='Budget totale per hedge, in USD nominali incluse fee')
+    parser.add_argument('--budgets', nargs='+', default=None,
+                        help='Budget multipli da calcolare, per esempio: 50 100')
     parser.add_argument('--venues', nargs='+', choices=VENUES, default=list(VENUES))
     parser.add_argument('--config', type=Path, default=Path('config.json'))
     parser.add_argument('--catalog', type=Path, default=Path('output/catalog.json'))
@@ -271,8 +273,16 @@ def main():
                 discovery_future=background_discovery(args.venues,args.pages,config.get('discovery_queries',[]),args.predict_pages,progress,config)
             # Reload settings/budget-independent mapping on every cycle.
             config = json.loads(args.config.read_text()) if args.config.exists() else {}
-            budget=number(config.get('budget',args.budget))
-            if budget<=0:raise ValueError('Budget deve essere positivo')
+            configured_budgets=config.get('budgets')
+            if isinstance(configured_budgets,list) and configured_budgets:
+                budgets=sorted({number(value) for value in configured_budgets})
+            elif args.budgets:
+                budgets=sorted({number(value) for value in args.budgets})
+            else:
+                budgets=[number(config.get('budget',args.budget))]
+            if not budgets or any(value<=0 for value in budgets):
+                raise ValueError('Budget deve essere positivo')
+            budget=max(budgets)
             config['_budget']=budget
             config['_output_dir']=str(args.output)
             enabled=config.get('enabled_venues')
@@ -289,8 +299,19 @@ def main():
                     live.close()
                     live=LiveBooks(selected).start()
                 live.changed.clear()
-            report = scan(active_catalog, config, budget, args.max_age, args.max_skew, minimum, args.markets,
-                          live.book if live else None)
+            book_cache={}
+            def cached_book(market,outcome):
+                key=(market['venue'],str(market['id']),outcome)
+                if key not in book_cache:
+                    book_cache[key]=live.book(market,outcome) if live else Client(market['venue']).book(market,outcome)
+                return book_cache[key]
+            reports=[scan(active_catalog,config,value,args.max_age,args.max_skew,minimum,
+                          args.markets,cached_book) for value in budgets]
+            report=reports[0]
+            report['opportunities']=[item for result in reports for item in result.get('opportunities',[])]
+            report['rejected']=[item for result in reports for item in result.get('rejected',[])]
+            report['budgets']=[str(value) for value in budgets]
+            report['budget']=str(budget)
             if config.get('require_rule_consistency',True):
                 before=len(report.get('opportunities',[]))
                 report['opportunities']=[o for o in report.get('opportunities',[])
@@ -322,9 +343,10 @@ def main():
             report['budget']=budget
             report['settings']={k:config.get(k) for k in
                                 ('budget','sort_policy','min_volume24h','max_matches','enabled_venues',
-                                 'tracking_min_yield_pct','tracking_target_yield_pct','tax_rate_pct')}
+                                 'tracking_min_yield_pct','tracking_target_yield_pct','tax_rate_pct','budgets')}
             report['settings']['enabled_venues']=enabled
             report['settings']['budget']=budget
+            report['settings']['budgets']=[str(value) for value in budgets]
             display(report)
             line = dumps(report)+'\n'
             latest = args.output/'latest.json'

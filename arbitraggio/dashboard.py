@@ -19,7 +19,7 @@ from .opportunity_tracking import ledger_csv
 
 ROOT=Path(__file__).resolve().parent.parent
 PUBLIC_SETTINGS={'budget','sort_policy','min_volume24h','max_matches','enabled_venues',
-                 'tracking_min_yield_pct','tracking_target_yield_pct','tax_rate_pct'}
+                 'tracking_min_yield_pct','tracking_target_yield_pct','tax_rate_pct','budgets'}
 SETTINGS_LOCK=threading.Lock()
 ADDRESS_RE=re.compile(r'^0x[0-9a-fA-F]{40}$')
 TRACKING_VENUES={'polymarket','predict','limitless','opinion'}
@@ -37,13 +37,17 @@ def settings(root):
     enabled=config.get('enabled_venues')
     result['enabled_venues']=(sorted(enabled) if isinstance(enabled,list) and enabled
                               else sorted(ARBITRAGE_VENUES))
+    configured_budgets=config.get('budgets')
+    result['budgets']=([str(x) for x in configured_budgets]
+                       if isinstance(configured_budgets,list) and configured_budgets
+                       else [str(config.get('budget','25'))])
     return result
 
 
 def update_settings(root,payload):
     if not isinstance(payload,dict) or set(payload)-{
             'budget','sort_policy','min_volume24h','enabled_venues',
-            'tracking_min_yield_pct','tracking_target_yield_pct','tax_rate_pct'}:
+            'tracking_min_yield_pct','tracking_target_yield_pct','tax_rate_pct','budgets'}:
         raise ValueError('Impostazioni non consentite')
     values={}
     for key,value in payload.items():
@@ -58,6 +62,15 @@ def update_settings(root,payload):
             n=number(value)
             if not 0<=n<=1000:raise ValueError('Rendimento minimo fuori intervallo')
             values[key]=str(n)
+        elif key=='budgets':
+            raw=value if isinstance(value,list) else str(value).split(',')
+            parsed=[]
+            for item in raw:
+                n=number(str(item).strip())
+                if not 0<n<=1000000:raise ValueError('Budget multiplo fuori intervallo')
+                parsed.append(str(n))
+            if not parsed:raise ValueError('Inserisci almeno un budget')
+            values[key]=list(dict.fromkeys(parsed))
         elif key in ('tracking_target_yield_pct','tax_rate_pct'):
             n=number(value)
             if not 0<=n<=1000:raise ValueError('Valore percentuale fuori intervallo')
