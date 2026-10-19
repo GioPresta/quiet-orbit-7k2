@@ -33,14 +33,19 @@ jobs:
           restore-keys: catalog-
       - name: Install
         run: pip install -r requirements.txt
-      - name: Restore published history
-        run: |
-          mkdir -p output
-          for file in opportunity-ledger.json opportunity-tracking.jsonl opportunities-legs.csv opportunities-sizes.csv tracking-history.jsonl tracking.json; do
-            if [ -f "docs/$file" ]; then
-              cp "docs/$file" "output/$file"
-            fi
-          done
+      - name: Restore detailed history
+        uses: actions/cache@v4
+        with:
+          path: |
+            output/opportunities-latest.csv
+            output/opportunities-legs.csv
+            output/opportunities-sizes.csv
+            output/opportunity-ledger.json
+            output/opportunity-tracking.jsonl
+            output/tracking.json
+            output/tracking-history.jsonl
+          key: data-${{ github.run_id }}
+          restore-keys: data-
       - name: Scan once
         run: python -m arbitraggio --budget 100 --once --reuse-catalog --output output
       - name: Track wallet positions once
