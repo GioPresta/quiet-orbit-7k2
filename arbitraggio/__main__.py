@@ -263,6 +263,16 @@ def main():
                                                              status='ok',markets=len(previous),
                                                              stale_refresh=True,
                                                              refresh_error=state.get('reason'))
+                        for venue in list(new_statuses):
+                            previous=[m for m in catalog if m['venue']==venue]
+                            incoming=[m for m in updated if m['venue']==venue]
+                            if previous and len(incoming)<len(previous):
+                                merged={ (m['venue'],str(m['id'])):m for m in previous }
+                                merged.update({(m['venue'],str(m['id'])):m for m in incoming})
+                                updated=[m for m in updated if m['venue']!=venue]+list(merged.values())
+                                new_statuses[venue]=dict(new_statuses.get(venue,{}),
+                                                         status='ok',markets=len(merged),
+                                                         stale_refresh=True)
                         catalog,statuses=updated,new_statuses
                         args.catalog.write_text(dumps(dict(markets=catalog,platforms=statuses,suggestions=suggestions(catalog)))+'\n')
                 except (ValueError,OSError,KeyError,TypeError):

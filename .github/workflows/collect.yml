@@ -22,6 +22,8 @@ jobs:
       LIMITLESS_API_KEY: ${{ secrets.LIMITLESS_API_KEY }}
     steps:
       - uses: actions/checkout@v4
+      - name: Runtime config
+        run: cp deploy/config.production.json config.json
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -29,8 +31,8 @@ jobs:
         uses: actions/cache@v4
         with:
           path: output/catalog.json
-          key: catalog-${{ github.run_id }}
-          restore-keys: catalog-
+          key: catalog-v2-${{ github.run_id }}
+          restore-keys: catalog-v2-
       - name: Install
         run: pip install -r requirements.txt
       - name: Restore detailed history

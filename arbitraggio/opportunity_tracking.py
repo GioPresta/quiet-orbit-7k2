@@ -15,7 +15,7 @@ from .scanner import fee_for
 
 def _episode_key(opportunity):
     legs=sorted((a['venue'],str(a['market']),a['outcome']) for a in opportunity['allocations'])
-    return str(opportunity.get('budget',''))+'|'+'|'.join(':'.join(leg) for leg in legs)
+    return '|'.join(':'.join(leg) for leg in legs)
 
 
 def _new_id(key,now):
@@ -141,6 +141,17 @@ def update_ledger(report,config,output_dir=Path('output'),catalog=None,book_prov
     except (OSError,ValueError):
         episodes=[]
     episodes=[e for e in episodes if isinstance(e,dict)]
+    normalized={}
+    for episode in episodes:
+        key=episode.get('key','')
+        parts=key.split('|',1)
+        if len(parts)==2 and parts[0].replace('.','',1).isdigit():
+            key=parts[1];episode['key']=key
+        rank=(episode.get('status')=='open',number(episode.get('budget',0)),episode.get('last_seen',0))
+        previous=normalized.get(key)
+        if previous is None or rank > (previous[0],number(previous[1].get('budget',0)),previous[1].get('last_seen',0)):
+            normalized[key]=(episode.get('status')=='open',episode)
+    episodes=[value[1] for value in normalized.values()]
     min_yield=number(config.get('tracking_min_yield_pct','1.5'))
     target_yield=number(config.get('tracking_target_yield_pct','1.5'))
     tax_rate=number(config.get('tax_rate_pct','0'))
@@ -154,7 +165,10 @@ def update_ledger(report,config,output_dir=Path('output'),catalog=None,book_prov
             continue
         cost,gross,net=_entry(opportunity,tax_rate)
         if net>=min_yield:
-            current[_episode_key(opportunity)]=opportunity
+            key=_episode_key(opportunity)
+            previous=current.get(key)
+            if previous is None or number(opportunity.get('budget',0))>number(previous.get('budget',0)):
+                current[key]=opportunity
     seen=set();snapshots=[]
     for key,opportunity in current.items():
         cost,gross,net=_entry(opportunity,tax_rate)
