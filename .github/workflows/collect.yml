@@ -46,6 +46,14 @@ jobs:
             output/tracking-history.jsonl
           key: data-${{ github.run_id }}
           restore-keys: data-
+      - name: Restore published data fallback
+        run: |
+          mkdir -p output
+          for file in opportunity-ledger.json opportunity-tracking.jsonl opportunities-legs.csv opportunities-sizes.csv tracking-history.jsonl tracking.json; do
+            if [ ! -s "output/$file" ] && [ -s "docs/data/$file" ]; then
+              cp "docs/data/$file" "output/$file"
+            fi
+          done
       - name: Scan once
         run: python -m arbitraggio --budget 100 --once --reuse-catalog --output output
       - name: Track wallet positions once
