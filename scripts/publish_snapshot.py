@@ -53,12 +53,23 @@ def main():
         report = json.loads((output / "latest.json").read_text())
     except (OSError, ValueError):
         report = {"opportunities": [], "timestamp": 0}
+    data_dir = docs / "data"
+    data_dir.mkdir(exist_ok=True)
+    recent_path = data_dir / "recent.json"
+    if report.get("opportunities"):
+        recent_path.write_text(json.dumps(report, ensure_ascii=False, default=str))
+    elif recent_path.exists():
+        try:
+            recent = json.loads(recent_path.read_text())
+            if recent.get("opportunities"):
+                report = recent
+                report["recent_fallback"] = True
+        except (OSError, ValueError):
+            pass
     try:
         ledger = json.loads((output / "opportunity-ledger.json").read_text())
     except (OSError, ValueError):
         ledger = {"episodes": [], "stats": {}}
-    data_dir = docs / "data"
-    data_dir.mkdir(exist_ok=True)
     for name in PUBLIC_FILES:
         source = output / name
         if source.exists():
