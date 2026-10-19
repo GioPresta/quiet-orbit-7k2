@@ -4,15 +4,23 @@
 <title>Market observer</title>
 <style>
 body{font-family:system-ui,sans-serif;margin:0;background:#f5f7fa;color:#182830}
-main{max-width:760px;margin:auto;padding:32px}
+main{max-width:1000px;margin:auto;padding:32px}
 h1{font-size:25px;margin:0 0 4px}p{color:#68777f;font-size:13px}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:20px 0}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:20px 0}
 .card{background:#fff;border:1px solid #e7ecf0;border-radius:8px;padding:14px}
 .card small{display:block;color:#87939a;font-size:10px;margin-bottom:5px}
-.card strong{font-size:23px}
+.card strong{font-size:22px}
+table{width:100%;border-collapse:collapse;background:#fff;margin:14px 0;font-size:12px}
+th,td{padding:9px 10px;border-bottom:1px solid #e8edf1;text-align:left;vertical-align:top}
+th{font-size:10px;color:#87939a;text-transform:uppercase}a{color:#167b61}
+#unlock{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:18px 0}
+#pass{height:36px;border:1px solid #dfe7e3;border-radius:7px;padding:0 10px;min-width:220px}
+button{height:36px;border:0;border-radius:7px;background:#167b61;color:#fff;padding:0 14px;font-weight:600}
+.error{color:#a45b5b}
+@media(max-width:700px){.grid{grid-template-columns:1fr 1fr}}
 </style></head><body><main>
 <h1>Market observer</h1>
-<p>Aggiornato: 2026-10-19T08:35:44.976231+00:00. Dati aggregati; dettagli non pubblici.</p>
+<p>Aggiornato: 2026-10-19T10:04:29.137344+00:00. Dati aggregati; dettagli cifrati.</p>
 <div class="grid">
 <div class="card"><small>Opportunità correnti</small><strong>1</strong></div>
 <div class="card"><small>Episodi seguiti</small><strong>1</strong></div>
@@ -21,5 +29,27 @@ h1{font-size:25px;margin:0 0 4px}p{color:#68777f;font-size:13px}
 <div class="card"><small>ROI ingresso medio</small><strong>2.898020840032501%</strong></div>
 <div class="card"><small>ROI uscita medio</small><strong>—%</strong></div>
 </div>
-<p>Il report dettagliato non viene pubblicato.</p>
+<div id="unlock"><input id="pass" type="password" placeholder="Passphrase dettagli" autocomplete="current-password"><button id="unlock-btn">Sblocca</button><span id="unlock-status" class="error"></span></div>
+<div id="details" hidden></div>
+<script>
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const b64=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+async function unlock(){
+ const status=document.getElementById('unlock-status');status.textContent='';
+ try{
+  const box=await (await fetch('details.enc',{cache:'no-store'})).json();
+  const material=await crypto.subtle.importKey('raw',new TextEncoder().encode(document.getElementById('pass').value),'PBKDF2',false,['deriveKey']);
+  const key=await crypto.subtle.deriveKey({name:'PBKDF2',salt:b64(box.salt),iterations:box.iterations,hash:'SHA-256'},material,{name:'AES-GCM',length:256},false,['decrypt']);
+  const plain=await crypto.subtle.decrypt({name:'AES-GCM',iv:b64(box.iv)},key,b64(box.data));
+  render(JSON.parse(new TextDecoder().decode(plain)));
+ }catch(e){status.textContent='Passphrase non valida o dettagli non disponibili.'}
+}
+function render(data){
+ const rows=data.opportunities.map(o=>`<tr><td>${esc(o.name)}</td><td>${esc(o.roi_pct)}%</td><td>${esc(o.profit)}</td><td>${esc(o.max_feasible_budget)}</td><td>${(o.legs||[]).map(l=>l.url?`<a href="${esc(l.url)}">Apri</a>`:'').join(' ')}</td></tr>`).join('');
+ const eps=data.episodes.map(e=>`<tr><td>${esc(e.name)}</td><td>${esc(e.status)}</td><td>${esc(e.entry_net_roi_pct)}%</td><td>${esc(e.exit_net_roi_pct)}%</td><td>${esc(e.duration_seconds)}</td></tr>`).join('');
+ document.getElementById('details').innerHTML=`<h2>Opportunità</h2><table><thead><tr><th>Mercato</th><th>ROI</th><th>Profitto</th><th>Budget max</th><th>Link</th></tr></thead><tbody>${rows||'<tr><td colspan="5">Nessuna</td></tr>'}</tbody></table><h2>Episodi</h2><table><thead><tr><th>Mercato</th><th>Stato</th><th>Ingresso</th><th>Uscita</th><th>Durata</th></tr></thead><tbody>${eps||'<tr><td colspan="5">Nessuno</td></tr>'}</tbody></table>`;
+ document.getElementById('details').hidden=false;
+}
+document.getElementById('unlock-btn').addEventListener('click',unlock);
+</script>
 </main></body></html>
