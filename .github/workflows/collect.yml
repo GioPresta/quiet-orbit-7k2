@@ -24,6 +24,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Runtime config
         run: cp deploy/config.production.json config.json
+      - name: Seed liquidity cache
+        run: mkdir -p output && cp deploy/liquidity-cache.json output/liquidity-cache.json
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
