@@ -1,0 +1,2 @@
+id,name,platforms,status,first_seen,closed_at,duration_seconds,entry_gross_roi_pct,entry_net_roi_pct,max_exit_net_roi_pct,exit_net_roi_pct,exit_net_profit,target_yield_pct,tax_rate_pct,budget,close_reason,last_error
+814271cde87647c5,Will Pete Hegseth win the 2028 US Presidential Election?,polymarket + predict,open,2026-10-19T08:33:40.715382+00:00,,,2.898020840032501128777442704,2.898020840032501128777442704,-0.3356817151096217999211384715,-0.3356817151096217999211384715,-0.33561457602618224240656639,1.5,0,100,,
