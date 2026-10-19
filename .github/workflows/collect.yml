@@ -20,6 +20,7 @@ jobs:
       PREDICT_API_KEY: ${{ secrets.PREDICT_API_KEY }}
       OPINION_API_KEY: ${{ secrets.OPINION_API_KEY }}
       LIMITLESS_API_KEY: ${{ secrets.LIMITLESS_API_KEY }}
+      DETAIL_PASSPHRASE: ${{ secrets.DETAIL_PASSPHRASE }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
