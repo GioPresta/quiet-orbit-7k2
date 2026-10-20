@@ -2,7 +2,7 @@ name: collect
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -54,5 +54,13 @@ jobs:
             echo "Nessun cambiamento"
           else
             git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push
+            for attempt in 1 2 3; do
+              git fetch origin main
+              if git rebase -X ours origin/main && git push origin main; then
+                exit 0
+              fi
+              git rebase --abort >/dev/null 2>&1 || true
+              sleep 3
+            done
+            exit 1
           fi
