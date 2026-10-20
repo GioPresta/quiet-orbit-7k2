@@ -1,101 +1,101 @@
 match_id,name,markets,score,match_reason,rules_identical,screening_profit
 0f02053923a7c813,Will October be the best month for Bitcoin in 2026?,polymarket:1296003 | predict:2815582,1.0,explicit_platform_link,True,0.6235573099653935252768853829
-04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
-0a1c607da4c967bd,SPCX Daily Up or Down,limitless:spcx-daily-up-or-down-p-1792429546789 | polymarket:5920638,1.0,explicit_platform_link,True,
 0a717fb8615545dd,Will MSCI (MSCI) beat quarterly earnings?,limitless:will-msci-msci-beat-quarterly-earnings-1791400821864 | polymarket:5412317,1.0,explicit_platform_link,True,
 0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
+19d0b6f706a4c9fb,Will Netflix (NFLX) beat quarterly earnings?,limitless:will-netflix-nflx-beat-quarterly-earnings-1791400848483 | polymarket:5412318,1.0,explicit_platform_link,True,
+22ec352906615f30,"Trump, Putin, and Xi seen together before 2027?",limitless:trump-putin-and-xi-seen-together-before-2027-1790611431074 | polymarket:4960175,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
-0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
-c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.9239771247483583341511429916
-08b8f7d0c528c698,Will Kamala Harris win the 2028 Democratic presidential nomination?,polymarket:559658 | predict:926132,1.0,explicit_platform_link,True,0.9695944759067020192748010762
-0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
-ff04c3cc8d1a6546,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,polymarket:2589813 | predict:517145,1.0,explicit_platform_link,True,0.7213939791226179960862233387
-fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nomination?,polymarket:561975 | predict:933798,1.0,explicit_platform_link,True,0.3203645866784373348410176071
-bc73426458f987eb,Will the Tampa Bay Rays win the 2026 World Series?,polymarket:1235549 | predict:17368,1.0,explicit_platform_link,True,1.211811396853318353060261723
-2b40a9e64fd3f50c,"Next White House Press Secretary announced by December 31, 2026?",polymarket:5784291 | predict:3415545,1.0,explicit_platform_link,True,3.539916086201440333639183403
-ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
-7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,2.665476457152708869831323974
-3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,0.5833518534522272855692275765
-9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.00555020753387554337145175726
-60754477e0c7689d,Exact Score: Juventus FC 3 - 1 Stade Rennais FC 1901?,polymarket:5438097 | predict:3073964,1.0,explicit_platform_link,True,-2.439576561910262383006061697
-eae12743d7a44363,Exact Score: Juventus FC 4 - 0 Stade Rennais FC 1901?,polymarket:5438098 | predict:3073965,1.0,explicit_platform_link,True,-11.40717083655008438877105296
-6c9fdda7c0971d08,Exact Score: Juventus FC 0 - 5 Stade Rennais FC 1901?,polymarket:5438099 | predict:3073966,1.0,explicit_platform_link,True,
-518ec4a4765605c2,Exact Score: Juventus FC 1 - 4 Stade Rennais FC 1901?,polymarket:5438100 | predict:3073967,1.0,explicit_platform_link,True,
-3ac1acebe0fc5c54,Exact Score: Juventus FC 2 - 3 Stade Rennais FC 1901?,polymarket:5438101 | predict:3073968,1.0,explicit_platform_link,True,
-0d2d70d73f7d4bb9,Exact Score: Juventus FC 3 - 2 Stade Rennais FC 1901?,polymarket:5438102 | predict:3073969,1.0,explicit_platform_link,True,-24.92623217094611472853299502
-225dc7f4e458536e,Exact Score: Juventus FC 4 - 1 Stade Rennais FC 1901?,polymarket:5438103 | predict:3073971,1.0,explicit_platform_link,True,-24.95012126897476026957168424
-cf3595c646abbd40,Exact Score: Juventus FC 5 - 0 Stade Rennais FC 1901?,polymarket:5438104 | predict:3073974,1.0,explicit_platform_link,True,
-b8f3ceefc3fdb2d3,Exact Score: Juventus FC 1 - 5 Stade Rennais FC 1901?,polymarket:5438105 | predict:3073976,1.0,explicit_platform_link,True,
-cb886f210f648612,Exact Score: Juventus FC 2 - 4 Stade Rennais FC 1901?,polymarket:5438106 | predict:3073978,1.0,explicit_platform_link,True,
-fbc7aa76f913917b,Exact Score: Juventus FC 3 - 3 Stade Rennais FC 1901?,polymarket:5438107 | predict:3073980,1.0,explicit_platform_link,True,
-0957e1f64d9da8f7,Exact Score: Juventus FC 4 - 2 Stade Rennais FC 1901?,polymarket:5438108 | predict:3073982,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-e39dce69bef4832f,Exact Score: Juventus FC 5 - 1 Stade Rennais FC 1901?,polymarket:5438109 | predict:3073984,1.0,explicit_platform_link,True,
-3764cea3cb6b9b6f,Exact Score: Juventus FC 2 - 5 Stade Rennais FC 1901?,polymarket:5438110 | predict:3073986,1.0,explicit_platform_link,True,
-107d190fd35065bb,Exact Score: Juventus FC 3 - 4 Stade Rennais FC 1901?,polymarket:5438111 | predict:3073989,1.0,explicit_platform_link,True,
-d991c96cdfa090af,Exact Score: Juventus FC 4 - 3 Stade Rennais FC 1901?,polymarket:5438112 | predict:3073991,1.0,explicit_platform_link,True,
-7331c12c90b64344,Exact Score: Juventus FC 5 - 2 Stade Rennais FC 1901?,polymarket:5438113 | predict:3073993,1.0,explicit_platform_link,True,
-dad383e4ddd41bbe,Exact Score: Juventus FC 3 - 5 Stade Rennais FC 1901?,polymarket:5438114 | predict:3073995,1.0,explicit_platform_link,True,
-77c36f01bc46e026,Exact Score: Juventus FC 4 - 4 Stade Rennais FC 1901?,polymarket:5438115 | predict:3073998,1.0,explicit_platform_link,True,
-88e63dc41e4b4570,Exact Score: Juventus FC 5 - 3 Stade Rennais FC 1901?,polymarket:5438116 | predict:3074000,1.0,explicit_platform_link,True,
-7d60e2a55f576b47,Exact Score: Juventus FC 4 - 5 Stade Rennais FC 1901?,polymarket:5438117 | predict:3074002,1.0,explicit_platform_link,True,
-ff918be0af992e10,Exact Score: Juventus FC 5 - 4 Stade Rennais FC 1901?,polymarket:5438118 | predict:3074004,1.0,explicit_platform_link,True,
-43e452b1b44b3377,Exact Score: Juventus FC 5 - 5 Stade Rennais FC 1901?,polymarket:5438119 | predict:3074006,1.0,explicit_platform_link,True,
-3badc03de62e004d,Exact Score: Any Other Score?,polymarket:5438120 | predict:3074008,1.0,explicit_platform_link,True,
-993731b27d16a23d,Juventus FC to score first vs. Stade Rennais FC 1901?,polymarket:5438121 | predict:3073278,1.0,explicit_platform_link,True,-11.94708130719213207480868251
-b38aa951c1d42351,Stade Rennais FC 1901 to score first vs. Juventus FC?,polymarket:5438122 | predict:3073279,1.0,explicit_platform_link,True,-0.8828783983781044095286365990
-780fd1c5f47e2637,Juventus FC vs. Stade Rennais FC 1901: Neither team to score first?,polymarket:5438123 | predict:3073280,1.0,explicit_platform_link,True,-24.64464172380210579898596889
-8b1709b5b4189fcf,Will SK Puntigamer Sturm Graz win on 2026-10-22?,polymarket:5438124 | predict:3073242,1.0,explicit_platform_link,True,-1.720795935605310581812986693
-bb8e6ac350d3b3e0,Will SK Puntigamer Sturm Graz vs. Olympique de Marseille end in a draw?,polymarket:5438125 | predict:3073243,1.0,explicit_platform_link,True,-1.705183434731874857809644745
-0639c0e70e7cd4b4,Will Olympique de Marseille win on 2026-10-22?,polymarket:5438126 | predict:3073244,1.0,explicit_platform_link,True,-2.035153876046288537982471154
-b0dc727de4db57c6,SK Puntigamer Sturm Graz leading at halftime?,polymarket:5438127 | predict:3073284,1.0,explicit_platform_link,True,-1.020047931808731808731808736
-8a5a221d232bffed,SK Puntigamer Sturm Graz vs. Olympique de Marseille: Draw at halftime?,polymarket:5438128 | predict:3073286,1.0,explicit_platform_link,True,0
-ff6fe8dea058d4e6,Olympique de Marseille leading at halftime?,polymarket:5438129 | predict:3073287,1.0,explicit_platform_link,True,0
-2d42c95ea8dbbc14,SK Puntigamer Sturm Graz to win the second half?,polymarket:5438130 | predict:3073254,1.0,explicit_platform_link,True,-22.05609166986900066668440877
-80b9e1026eab60cb,SK Puntigamer Sturm Graz vs. Olympique de Marseille: Second half draw?,polymarket:5438131 | predict:3073256,1.0,explicit_platform_link,True,-20.78297546371632313607543673
-b44b7026cc55e599,Olympique de Marseille to win the second half?,polymarket:5438132 | predict:3073258,1.0,explicit_platform_link,True,-15.60042520379951584234479230
-b8470647756553ff,Exact Score: SK Puntigamer Sturm Graz 0 - 0 Olympique de Marseille?,polymarket:5438133 | predict:3073914,1.0,explicit_platform_link,True,-10.89985207699371843070434515
-ff3ba8364f74687c,Exact Score: SK Puntigamer Sturm Graz 0 - 1 Olympique de Marseille?,polymarket:5438134 | predict:3073915,1.0,explicit_platform_link,True,-0.7998739966492146596858638794
-8ca4a4273689dadf,Exact Score: SK Puntigamer Sturm Graz 1 - 0 Olympique de Marseille?,polymarket:5438135 | predict:3073916,1.0,explicit_platform_link,True,-10.87540110431573740083619422
-5ccd680447c1db2d,Exact Score: SK Puntigamer Sturm Graz 0 - 2 Olympique de Marseille?,polymarket:5438136 | predict:3073917,1.0,explicit_platform_link,True,-10.75940375290216208738825977
-a5c7c39f97e22580,Exact Score: SK Puntigamer Sturm Graz 1 - 1 Olympique de Marseille?,polymarket:5438137 | predict:3073918,1.0,explicit_platform_link,True,-0.9741651063460533193936225831
-ed747174be757e81,Exact Score: SK Puntigamer Sturm Graz 2 - 0 Olympique de Marseille?,polymarket:5438138 | predict:3073919,1.0,explicit_platform_link,True,-24.95012126897476026957168424
-cbebcae141b8a1c7,Exact Score: SK Puntigamer Sturm Graz 0 - 3 Olympique de Marseille?,polymarket:5438139 | predict:3073920,1.0,explicit_platform_link,True,-2.003826187140099357790677755
-e21028a62db1599c,Exact Score: SK Puntigamer Sturm Graz 1 - 2 Olympique de Marseille?,polymarket:5438140 | predict:3073921,1.0,explicit_platform_link,True,-1.113346570052356020942408383
-4e974cd433fd5e91,Exact Score: SK Puntigamer Sturm Graz 2 - 1 Olympique de Marseille?,polymarket:5438141 | predict:3073922,1.0,explicit_platform_link,True,-24.38763164534783557209936110
-48212f815e9046b8,Exact Score: SK Puntigamer Sturm Graz 3 - 0 Olympique de Marseille?,polymarket:5438142 | predict:3073923,1.0,explicit_platform_link,True,-2.079609287057456575890910357
-f673ec240143e35f,Exact Score: SK Puntigamer Sturm Graz 0 - 4 Olympique de Marseille?,polymarket:5438143 | predict:3073924,1.0,explicit_platform_link,True,-2.126428068114601634276751916
-e18e3e6caf2d87af,Exact Score: SK Puntigamer Sturm Graz 1 - 3 Olympique de Marseille?,polymarket:5438144 | predict:3073925,1.0,explicit_platform_link,True,-24.41266751927312388747555535
-e0a4cc030795646c,Exact Score: SK Puntigamer Sturm Graz 2 - 2 Olympique de Marseille?,polymarket:5438145 | predict:3073926,1.0,explicit_platform_link,True,-24.51227374065848499727616751
-923e20d18b268464,Exact Score: SK Puntigamer Sturm Graz 3 - 1 Olympique de Marseille?,polymarket:5438146 | predict:3073927,1.0,explicit_platform_link,True,-11.06566378572586501301400100
-2c3061b31c27aa0c,Exact Score: SK Puntigamer Sturm Graz 4 - 0 Olympique de Marseille?,polymarket:5438147 | predict:3073928,1.0,explicit_platform_link,True,
-5c7c103d93ccf07b,Exact Score: SK Puntigamer Sturm Graz 0 - 5 Olympique de Marseille?,polymarket:5438148 | predict:3073929,1.0,explicit_platform_link,True,
-5b1a18f3c09f7989,Exact Score: SK Puntigamer Sturm Graz 1 - 4 Olympique de Marseille?,polymarket:5438149 | predict:3073930,1.0,explicit_platform_link,True,-15.89000827051404988830884152
-eda962ec3f7424f0,Exact Score: SK Puntigamer Sturm Graz 2 - 3 Olympique de Marseille?,polymarket:5438150 | predict:3073931,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-3c2f138c86c558ea,Exact Score: SK Puntigamer Sturm Graz 3 - 2 Olympique de Marseille?,polymarket:5438151 | predict:3073932,1.0,explicit_platform_link,True,-2.863278107672356621647299508
-e4bdd45cced78ff8,Exact Score: SK Puntigamer Sturm Graz 4 - 1 Olympique de Marseille?,polymarket:5438152 | predict:3073933,1.0,explicit_platform_link,True,
-69ae85d649de4a7c,Exact Score: SK Puntigamer Sturm Graz 5 - 0 Olympique de Marseille?,polymarket:5438153 | predict:3073934,1.0,explicit_platform_link,True,
-86d4b79e91011b35,Exact Score: SK Puntigamer Sturm Graz 1 - 5 Olympique de Marseille?,polymarket:5438154 | predict:3073935,1.0,explicit_platform_link,True,
-bf366e73c7274cba,Exact Score: SK Puntigamer Sturm Graz 2 - 4 Olympique de Marseille?,polymarket:5438155 | predict:3073936,1.0,explicit_platform_link,True,-1.985696463167872306180546167
-04ce96c0c40d41be,Exact Score: SK Puntigamer Sturm Graz 3 - 3 Olympique de Marseille?,polymarket:5438156 | predict:3073937,1.0,explicit_platform_link,True,-1.938601880357238420083353642
-f9261b29550bb651,Exact Score: SK Puntigamer Sturm Graz 4 - 2 Olympique de Marseille?,polymarket:5438157 | predict:3073938,1.0,explicit_platform_link,True,
-221034f71a59b5a1,Exact Score: SK Puntigamer Sturm Graz 5 - 1 Olympique de Marseille?,polymarket:5438158 | predict:3073939,1.0,explicit_platform_link,True,
-46f3bc8c091f53f8,Exact Score: SK Puntigamer Sturm Graz 2 - 5 Olympique de Marseille?,polymarket:5438159 | predict:3073940,1.0,explicit_platform_link,True,
-3adbe6f4fe2f2383,Exact Score: SK Puntigamer Sturm Graz 3 - 4 Olympique de Marseille?,polymarket:5438160 | predict:3073941,1.0,explicit_platform_link,True,
-2231f731e26b16cc,Exact Score: SK Puntigamer Sturm Graz 4 - 3 Olympique de Marseille?,polymarket:5438161 | predict:3073942,1.0,explicit_platform_link,True,
-3a4fd13acb348b62,Exact Score: SK Puntigamer Sturm Graz 5 - 2 Olympique de Marseille?,polymarket:5438162 | predict:3073943,1.0,explicit_platform_link,True,
-87d4d2dfabeb1a79,Exact Score: SK Puntigamer Sturm Graz 3 - 5 Olympique de Marseille?,polymarket:5438163 | predict:3073944,1.0,explicit_platform_link,True,
-bf30194b2238051c,Exact Score: SK Puntigamer Sturm Graz 4 - 4 Olympique de Marseille?,polymarket:5438164 | predict:3073945,1.0,explicit_platform_link,True,
-efd8d42f0b2fb937,Exact Score: SK Puntigamer Sturm Graz 5 - 3 Olympique de Marseille?,polymarket:5438165 | predict:3073946,1.0,explicit_platform_link,True,
-75a691ee7732ba24,Exact Score: SK Puntigamer Sturm Graz 4 - 5 Olympique de Marseille?,polymarket:5438166 | predict:3073947,1.0,explicit_platform_link,True,
-d6ba703a2d486873,Exact Score: SK Puntigamer Sturm Graz 5 - 4 Olympique de Marseille?,polymarket:5438167 | predict:3073948,1.0,explicit_platform_link,True,
-e4b06368faa3606e,Exact Score: SK Puntigamer Sturm Graz 5 - 5 Olympique de Marseille?,polymarket:5438168 | predict:3073949,1.0,explicit_platform_link,True,
-5128e30e0d104c0e,Exact Score: Any Other Score?,polymarket:5438169 | predict:3073950,1.0,explicit_platform_link,True,
-659dc3ebe62d3a60,SK Puntigamer Sturm Graz to score first vs. Olympique de Marseille?,polymarket:5438170 | predict:3073296,1.0,explicit_platform_link,True,-12.24702592429149494753061027
-bb380bd850e0211a,Olympique de Marseille to score first vs. SK Puntigamer Sturm Graz?,polymarket:5438171 | predict:3073297,1.0,explicit_platform_link,True,-16.06910919463078355688796555
-589f9a30f4c7f431,SK Puntigamer Sturm Graz vs. Olympique de Marseille: Neither team to score first?,polymarket:5438172 | predict:3073298,1.0,explicit_platform_link,True,-12.06684771452279232257008741
-ff211a076040e430,Will OFI win on 2026-10-22?,polymarket:5438173 | predict:3073227,1.0,explicit_platform_link,True,-0.7826125472695763870817715204
-4011c705a0f4672d,Will OFI vs. Bayer 04 Leverkusen end in a draw?,polymarket:5438174 | predict:3073228,1.0,explicit_platform_link,True,-0.9274495049669335581839517201
-afbc0105553efc79,Will Bayer 04 Leverkusen win on 2026-10-22?,polymarket:5438175 | predict:3073229,1.0,explicit_platform_link,True,-1.109323773933904973825610781
-3f4c06074351384c,OFI leading at halftime?,polymarket:5438176 | predict:3073248,1.0,explicit_platform_link,True,-2.657544844550463447413968404
+0509c568c72a130a,Aston Villa FC vs. Manchester City FC: Both Teams to Score,limitless:aston-villa-and-manchester-city-both-to-score-1792402236331 | predict:3169554,1.0,explicit_platform_link,False,
+743d74c672527467,Will Caleb Williams win the 2026 NFL MVP?,polymarket:1747730 | predict:941955,1.0,explicit_platform_link,True,0.2206185895060956624574754744
+7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,0.1526618319835661018598973742
+61f4a91a610ba089,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,polymarket:2589810 | predict:517146,1.0,explicit_platform_link,True,0.02539423432305819675312296754
+ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,0.2185612552513347884114633116
+a5ce0613a0b45b31,Will 1 Fed rate cut happen in 2026?,polymarket:616903 | predict:12743,1.0,explicit_platform_link,False,0.1825565630150034886661033916
+ef53d0f7e6c4ff8e,Will Athletic Bilbao win the 2026-27 LALIGA Championship?,polymarket:2771490 | predict:934722,1.0,explicit_platform_link,True,0.02393461407163695296506829174
+ea3d514acd6545e1,Will Pete Hegseth win the 2028 US Presidential Election?,polymarket:561264 | predict:932143,1.0,explicit_platform_link,True,1.438718559644159342819363256
+49bfccdc3655da9e,Will SC Freiburg be the 2026-27 Bundesliga champion?,polymarket:2849016 | predict:935733,1.0,explicit_platform_link,True,0.8316727812358300012366544400
+6b271b040b47b129,Will Oura's market cap be between $10B and $12.5B at market close on IPO day?,polymarket:2324606 | predict:394714,1.0,explicit_platform_link,True,0.7130072090253136563267685677
+df36a9fd0d4cacbf,Hyperbeat FDV above $50M one day after launch?,polymarket:690590 | predict:26426,1.0,explicit_platform_link,False,0.6421762894999442560087338764
+1c7366396b13cb0c,Will the Fed’s lower bound reach 3.0% or lower before 2027?,polymarket:690220 | predict:30531,1.0,explicit_platform_link,True,0.6413120170056630199073795903
+dce56f2a60b7bbe7,Will Luxembourg win the UEFA EURO 2028?,polymarket:3004695 | predict:944930,1.0,explicit_platform_link,True,-2.230600508947558191067129387
+5d9b8336667b0d9f,Will Malta win the UEFA EURO 2028?,polymarket:3004696 | predict:944931,1.0,explicit_platform_link,True,-1.402610940543042676931566327
+a5e7a55730665789,Will Moldova win the UEFA EURO 2028?,polymarket:3004697 | predict:944932,1.0,explicit_platform_link,True,-2.038459746528018085318730340
+0f237e5537361cae,Will Montenegro win the UEFA EURO 2028?,polymarket:3004698 | predict:944933,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
+747b710d6e9eab68,Will Netherlands win the UEFA EURO 2028?,polymarket:3004699 | predict:944934,1.0,explicit_platform_link,True,-0.6079553765613587134566992482
+50c938833d9939ff,Will North Macedonia win the UEFA EURO 2028?,polymarket:3004700 | predict:944935,1.0,explicit_platform_link,True,-0.2330906197059912125482643224
+46e783ea8d319038,Will Northern Ireland win the UEFA EURO 2028?,polymarket:3004701 | predict:944936,1.0,explicit_platform_link,True,-0.07616638837504803116450080091
+578ed8c027211ec1,Will Norway win the UEFA EURO 2028?,polymarket:3004702 | predict:944937,1.0,explicit_platform_link,True,-3.089965460792519264397944750
+2b4fc0c123ed30b1,Will Poland win the UEFA EURO 2028?,polymarket:3004703 | predict:944938,1.0,explicit_platform_link,True,-0.8539802018339259005802136313
+f07e4d6026a22b23,Will Portugal win the UEFA EURO 2028?,polymarket:3004704 | predict:944939,1.0,explicit_platform_link,True,-0.7844184736528377923995376266
+28a6e3f4642d7e36,Will Republic of Ireland win the UEFA EURO 2028?,polymarket:3004705 | predict:944940,1.0,explicit_platform_link,True,-0.07616638837504803116450080091
+b1736ea3d96e87f5,Will Romania win the UEFA EURO 2028?,polymarket:3004706 | predict:944941,1.0,explicit_platform_link,True,-1.402610940543042676931566327
+76b754bb50f06968,Will Russia win the UEFA EURO 2028?,polymarket:3004707 | predict:944942,1.0,explicit_platform_link,True,-0.2851687503358520097894016486
+638a1c4d56d6c92a,Will San Marino win the UEFA EURO 2028?,polymarket:3004708 | predict:944943,1.0,explicit_platform_link,True,-2.182717341682086618370258887
+4640169fd145822e,Will Scotland win the UEFA EURO 2028?,polymarket:3004709 | predict:944944,1.0,explicit_platform_link,True,-0.02724812661736619352601552378
+3de5615c5569980a,Will Serbia win the UEFA EURO 2028?,polymarket:3004710 | predict:944945,1.0,explicit_platform_link,True,-0.2330906197059912125482643224
+1311349c200a4b89,Will Slovakia win the UEFA EURO 2028?,polymarket:3004711 | predict:944946,1.0,explicit_platform_link,True,-0.07616638837504803116450080091
+b48bbee9f385a59c,Will Slovenia win the UEFA EURO 2028?,polymarket:3004712 | predict:944947,1.0,explicit_platform_link,True,-0.8505635513620461327002867175
+98c909ca6a9d9ca8,Will Spain win the UEFA EURO 2028?,polymarket:3004713 | predict:944948,1.0,explicit_platform_link,True,-0.9379301508413696219739011911
+13802cdcb8e893eb,Will Sweden win the UEFA EURO 2028?,polymarket:3004714 | predict:944949,1.0,explicit_platform_link,True,-0.1916250845820227704941362068
+aec5e0a679bd177f,Will Switzerland win the UEFA EURO 2028?,polymarket:3004715 | predict:944950,1.0,explicit_platform_link,True,-0.9114894691360708728958148815
+5088bbf54c85d308,Will Turkey win the UEFA EURO 2028?,polymarket:3004716 | predict:944951,1.0,explicit_platform_link,True,-0.7522128670129847475797245036
+bbdd314bc42c8719,Will Ukraine win the UEFA EURO 2028?,polymarket:3004717 | predict:944952,1.0,explicit_platform_link,True,-0.1321846359342767864313933734
+aea5661f459de359,Will Wales win the UEFA EURO 2028?,polymarket:3004718 | predict:944953,1.0,explicit_platform_link,True,-0.1321846359342767864313933734
+0cd96f223c839695,Will any AI model reach a Chatbot Arena score of at least 1540 by December 31?,polymarket:3071802 | predict:1850138,1.0,explicit_platform_link,True,-10.81705341259435075729572241
+063b333d3767c7ac,"Will Warsh be out as Fed Chair by December 31, 2026?",polymarket:3081879 | predict:927729,1.0,explicit_platform_link,True,-0.05263535486110596055240241870
+8bd9c5d7652eb421,"Will Warsh be out as Fed Chair by June 30, 2027?",polymarket:3081880 | predict:927730,1.0,explicit_platform_link,True,-0.2730028169005083649475423190
+2e7bad35862f1495,Will the ECB announce a 50+ bps decrease at the October 2026 meeting?,polymarket:3081963 | predict:929241,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
+683041bffed57f57,Will the ECB announce a 25 bps decrease at the October 2026 meeting?,polymarket:3081964 | predict:929242,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
+00de67fa79aa2267,Will the ECB announce no change at the October 2026 meeting?,polymarket:3081965 | predict:929243,1.0,explicit_platform_link,True,-0.7407471271548489111392580076
+a5d1134852ad615f,Will the ECB announce a 25 bps increase at the October 2026 meeting?,polymarket:3081966 | predict:929244,1.0,explicit_platform_link,True,-0.9283786240047691527654490163
+0844005d34c579a1,Will the ECB announce a 50+ bps increase at the October 2026 meeting?,polymarket:3081967 | predict:929245,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
+e7909a0cfbd964ad,Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?,polymarket:3215010 | predict:1051787,1.0,explicit_platform_link,True,-0.2402222153194199651599057636
+8be03faf554abdb8,Will the Fed decrease interest rates by 25 bps after the January 2027 meeting?,polymarket:3215011 | predict:1051790,1.0,explicit_platform_link,True,-0.7556485662150183578077524487
+fd315a83f0493702,Will there be no change in Fed interest rates after the January 2027 meeting?,polymarket:3215012 | predict:1051794,1.0,explicit_platform_link,True,-1.880060924062423827633059204
+ab01db6cbf3ff8c9,Will the Fed increase interest rates by 25 bps after the January 2027 meeting?,polymarket:3215013 | predict:1051797,1.0,explicit_platform_link,True,-1.304302215798491718438567267
+665d7b643c487759,Will the Fed increase interest rates by 50+ bps after the January 2027 meeting?,polymarket:3215014 | predict:1051799,1.0,explicit_platform_link,True,-0.6465350344626178071561308500
+30fdf8f2108bc309,"Will Bloomberg IPO by December 31, 2026?",polymarket:3231229 | predict:1066448,1.0,explicit_platform_link,True,-1.657532033092949255652925020
+75511a2d20dc4997,"Will Bloomberg IPO by March 31, 2027?",polymarket:3231230 | predict:1066449,1.0,explicit_platform_link,True,-3.127102924073922781437456049
+4201fee3830e10ac,"Will Bloomberg IPO by June 30, 2027?",polymarket:3231231 | predict:1066451,1.0,explicit_platform_link,True,-1.383362277612153341655596029
+ef27708be9050207,"Will Bloomberg IPO by September 30, 2027?",polymarket:3231232 | predict:1066452,1.0,explicit_platform_link,True,0
+2048dc876e78251c,"Will Bloomberg IPO by December 31, 2027?",polymarket:3231233 | predict:1066453,1.0,explicit_platform_link,True,-2.193449590221664766036537657
+45515c9e37eed2d8,"SCOTUS accepts sports event contract case by October 31, 2026?",polymarket:3231548 | predict:1849770,1.0,explicit_platform_link,True,0.1605780810919309514251304697
+5621344dc95a0830,Will HLE be number 1 on the end of year Global Power Rankings?,polymarket:3236055 | predict:1070738,1.0,explicit_platform_link,True,-0.8098187770143782650030873706
+da5f35bbab83ba2e,Will BLG be number 1 on the end of year Global Power Rankings?,polymarket:3236056 | predict:1070740,1.0,explicit_platform_link,True,-2.237294009962654583391001037
+9d7e91d3fdaf40e8,Will GEN be number 1 on the end of year Global Power Rankings?,polymarket:3236057 | predict:1070742,1.0,explicit_platform_link,True,-2.698366259997788507611219629
+effaf9a376ded881,Will T1 be number 1 on the end of year Global Power Rankings?,polymarket:3236058 | predict:1070743,1.0,explicit_platform_link,True,0
+1350f640e00ca7f5,Will G2 be number 1 on the end of year Global Power Rankings?,polymarket:3236059 | predict:1070746,1.0,explicit_platform_link,True,-4.847592545300766363651716227
+441c34e1587f3b32,Will LYON be number 1 on the end of year Global Power Rankings?,polymarket:3236060 | predict:1070748,1.0,explicit_platform_link,True,-0.4442359215378517303660983077
+0e40bbb1b7217402,Will TES be number 1 on the end of year Global Power Rankings?,polymarket:3236061 | predict:1070749,1.0,explicit_platform_link,True,-24.97396012486825098797718645
+ef78e494cdde5efa,Will KC be number 1 on the end of year Global Power Rankings?,polymarket:3236062 | predict:1070751,1.0,explicit_platform_link,True,-24.94900022054603528416970387
+2cc08147b8697eef,Will AL be number 1 on the end of year Global Power Rankings?,polymarket:3236063 | predict:1070753,1.0,explicit_platform_link,True,-24.79284900848011019116859735
+61ac40d6fb244963,Will KT be number 1 on the end of year Global Power Rankings?,polymarket:3236064 | predict:1070754,1.0,explicit_platform_link,True,-24.94900022054603528416970387
+405c76e1008e1864,Will FLY be number 1 on the end of year Global Power Rankings?,polymarket:3236065 | predict:1070755,1.0,explicit_platform_link,True,
+80ef55cd74a3e216,Will JDG be number 1 on the end of year Global Power Rankings?,polymarket:3236066 | predict:1070756,1.0,explicit_platform_link,True,-24.94900022054603528416970387
+70e1c9c2e15af80a,Will DK be number 1 on the end of year Global Power Rankings?,polymarket:3236067 | predict:1070757,1.0,explicit_platform_link,True,-24.76899674732702867798532430
+044f87d06b23f052,Will TLAW be number 1 on the end of year Global Power Rankings?,polymarket:3236068 | predict:1070758,1.0,explicit_platform_link,True,
+c70c1d54726475e5,Will WBG be number 1 on the end of year Global Power Rankings?,polymarket:3236069 | predict:1070759,1.0,explicit_platform_link,True,
+aa8e1642200a3692,Will TSW be number 1 on the end of year Global Power Rankings?,polymarket:3236070 | predict:1070760,1.0,explicit_platform_link,True,
+acc4f5a23a0e05e6,Will CFO be number 1 on the end of year Global Power Rankings?,polymarket:3236071 | predict:1070761,1.0,explicit_platform_link,True,
+7140a52aa8cde7ef,Will C9 be number 1 on the end of year Global Power Rankings?,polymarket:3236072 | predict:1070762,1.0,explicit_platform_link,True,
+6fb0cec92d3ee9d3,Will NIP be number 1 on the end of year Global Power Rankings?,polymarket:3236073 | predict:1070763,1.0,explicit_platform_link,True,
+a327faa419d2172f,Will MKOI be number 1 on the end of year Global Power Rankings?,polymarket:3236074 | predict:1070764,1.0,explicit_platform_link,True,
+ed4b6b0a8d50ddc3,Will WE be number 1 on the end of year Global Power Rankings?,polymarket:3236075 | predict:1070765,1.0,explicit_platform_link,True,
+59941c6417041834,Will IG be number 1 on the end of year Global Power Rankings?,polymarket:3236076 | predict:1070766,1.0,explicit_platform_link,True,-24.86481504557524680591207538
+76b2d0b872072fd9,Will GAM be number 1 on the end of year Global Power Rankings?,polymarket:3236077 | predict:1070767,1.0,explicit_platform_link,True,
+99a506fbec626216,Will BFX be number 1 on the end of year Global Power Rankings?,polymarket:3236078 | predict:1070768,1.0,explicit_platform_link,True,
+6a7870e1290e5847,Will DCG be number 1 on the end of year Global Power Rankings?,polymarket:3236079 | predict:1070769,1.0,explicit_platform_link,True,-24.97358597318392912732409553
+0755de0e11fb614c,"SSI public model released by October 31, 2026?",polymarket:3502550 | predict:1320952,1.0,explicit_platform_link,True,-1.740944732543856220416234415
+88da656268395297,Will Alibaba have the best Chinese AI model at the end of October 2026?,polymarket:3554471 | predict:1361966,1.0,explicit_platform_link,True,0
+e081e1617fa02621,Will Moonshot have the best Chinese AI model at the end of October 2026?,polymarket:3554472 | predict:1361967,1.0,explicit_platform_link,True,-0.5232177008218703102736497608
+30ea44f653bdd036,Will Baidu have the best Chinese AI model at the end of October 2026?,polymarket:3554473 | predict:1361970,1.0,explicit_platform_link,True,-24.74017656747230646071998179
+baf43af2362234ae,Will Z.ai have the best Chinese AI model at the end of October 2026?,polymarket:3554474 | predict:1361972,1.0,explicit_platform_link,True,-7.495837701442027847500523689
+d7bc6835d7fd3eb0,Will Xiaomi have the best Chinese AI model at the end of October 2026?,polymarket:3554475 | predict:1361974,1.0,explicit_platform_link,True,-2.956430002443195699975568040
+ce74d1b7c5da830d,Will DeepSeek have the best Chinese AI model at the end of October 2026?,polymarket:3554476 | predict:1361977,1.0,explicit_platform_link,True,-6.737125851098217320819862705
+211000b5eafbb33a,Will ByteDance have the best Chinese AI model at the end of October 2026?,polymarket:3554477 | predict:1361980,1.0,explicit_platform_link,True,-24.80134302245098999277449623
+7403ead29c14c930,Will MiniMax have the best Chinese AI model at the end of October 2026?,polymarket:3554478 | predict:1361981,1.0,explicit_platform_link,True,-7.161810561314242522877154074
+294d8f10228d49c4,Will Meituan have the best Chinese AI model at the end of October 2026?,polymarket:3554479 | predict:1361983,1.0,explicit_platform_link,True,
+0bf763db6f29833b,Will Tencent have the best Chinese AI model at the end of October 2026?,polymarket:3554480 | predict:1361986,1.0,explicit_platform_link,True,-24.80134302245098999277449623
+ffc36101685ce99e,Will StepFun have the best Chinese AI model at the end of October 2026?,polymarket:3554481 | predict:1361988,1.0,explicit_platform_link,True,
