@@ -1,9 +1,9 @@
 match_id,name,markets,score,match_reason,rules_identical,screening_profit
 0f02053923a7c813,Will October be the best month for Bitcoin in 2026?,polymarket:1296003 | predict:2815582,1.0,explicit_platform_link,True,0.6235573099653935252768853829
-04d9950a2d9eb8d7,BTC Up or Down - 15 Min,limitless:btc-up-or-down-15-min-1792502100 | polymarket:5922725,1.0,explicit_platform_link,False,
 04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
 0a1c607da4c967bd,SPCX Daily Up or Down,limitless:spcx-daily-up-or-down-p-1792429546789 | polymarket:5920638,1.0,explicit_platform_link,True,
 0c99d71fe4d92264,DOGE Up or Down Hourly,limitless:doge-up-or-down-hourly-p-1792490722755 | polymarket:5878252,1.0,explicit_platform_link,True,
+0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
@@ -19,83 +19,83 @@ ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 |
 6471feb59ef29034,Will Fenerbahçe SK win on 2026-10-20?,polymarket:5383472 | predict:3019976,1.0,explicit_platform_link,True,0.4874933765047374620766867349
 9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
 92b7a832101ec357,"Next Fable Model (5.2+) released by October 24, 2026?",polymarket:5205159 | predict:2846815,1.0,explicit_platform_link,True,0.07288915880180549856380796014
-28e2178337db819e,Will France win the UEFA EURO 2028?,polymarket:3004681 | predict:944916,1.0,explicit_platform_link,True,-0.6516491193220088455900797681
-f7bfd5e45264242a,Will Georgia win the UEFA EURO 2028?,polymarket:3004682 | predict:944917,1.0,explicit_platform_link,True,-3.075561178679042238377522354
-5b9d2eec838c39d8,Will Germany win the UEFA EURO 2028?,polymarket:3004683 | predict:944918,1.0,explicit_platform_link,True,-0.8318662833279595866781901926
-6e9d88f49337e6ba,Will Gibraltar win the UEFA EURO 2028?,polymarket:3004684 | predict:944919,1.0,explicit_platform_link,True,-2.086647281902784073938699419
-977d1c013c7775be,Will Greece win the UEFA EURO 2028?,polymarket:3004685 | predict:944920,1.0,explicit_platform_link,True,-0.8539802018339259005802136313
-72b447e3e467fbcf,Will Hungary win the UEFA EURO 2028?,polymarket:3004686 | predict:944921,1.0,explicit_platform_link,True,-0.2330906197059912125482643224
-5e13eece3dcc3abd,Will Iceland win the UEFA EURO 2028?,polymarket:3004687 | predict:944922,1.0,explicit_platform_link,True,-2.939848797274923343777785476
-6d0c55cd77c7707d,Will Israel win the UEFA EURO 2028?,polymarket:3004688 | predict:944923,1.0,explicit_platform_link,True,-1.501586025390826473725884026
-5ba4bdde4fa15ad4,Will Italy win the UEFA EURO 2028?,polymarket:3004689 | predict:944924,1.0,explicit_platform_link,True,-1.711085496709929377406131136
-9714efabe256c856,Will Kazakhstan win the UEFA EURO 2028?,polymarket:3004690 | predict:944925,1.0,explicit_platform_link,True,-3.213338870230639705144997976
-53ef3f26676e6de4,Will Kosovo win the UEFA EURO 2028?,polymarket:3004691 | predict:944926,1.0,explicit_platform_link,True,-2.936925876162668670066853136
-7d7da5c5393a058d,Will Latvia win the UEFA EURO 2028?,polymarket:3004692 | predict:944927,1.0,explicit_platform_link,True,-3.075561178679042238377522354
-32fd3c8b7dd38f5b,Will Liechtenstein win the UEFA EURO 2028?,polymarket:3004693 | predict:944928,1.0,explicit_platform_link,True,-3.486353056307532142548861056
-e1d30191048fe33f,Will Lithuania win the UEFA EURO 2028?,polymarket:3004694 | predict:944929,1.0,explicit_platform_link,True,-1.501586025390826473725884026
-dce56f2a60b7bbe7,Will Luxembourg win the UEFA EURO 2028?,polymarket:3004695 | predict:944930,1.0,explicit_platform_link,True,-1.203380806713370429443639325
-5d9b8336667b0d9f,Will Malta win the UEFA EURO 2028?,polymarket:3004696 | predict:944931,1.0,explicit_platform_link,True,-2.421128197594251007523764232
-a5e7a55730665789,Will Moldova win the UEFA EURO 2028?,polymarket:3004697 | predict:944932,1.0,explicit_platform_link,True,-1.990170109985697839371189266
-0f237e5537361cae,Will Montenegro win the UEFA EURO 2028?,polymarket:3004698 | predict:944933,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
-747b710d6e9eab68,Will Netherlands win the UEFA EURO 2028?,polymarket:3004699 | predict:944934,1.0,explicit_platform_link,True,-0.6079553765613587134566992482
-50c938833d9939ff,Will North Macedonia win the UEFA EURO 2028?,polymarket:3004700 | predict:944935,1.0,explicit_platform_link,True,-2.515793473859852222799193666
-46e783ea8d319038,Will Northern Ireland win the UEFA EURO 2028?,polymarket:3004701 | predict:944936,1.0,explicit_platform_link,True,-0.07616638837504803116450080091
-578ed8c027211ec1,Will Norway win the UEFA EURO 2028?,polymarket:3004702 | predict:944937,1.0,explicit_platform_link,True,-3.089965460792519264397944750
-2b4fc0c123ed30b1,Will Poland win the UEFA EURO 2028?,polymarket:3004703 | predict:944938,1.0,explicit_platform_link,True,-0.8539802018339259005802136313
-f07e4d6026a22b23,Will Portugal win the UEFA EURO 2028?,polymarket:3004704 | predict:944939,1.0,explicit_platform_link,True,-0.7844184736528377923995376266
-28a6e3f4642d7e36,Will Republic of Ireland win the UEFA EURO 2028?,polymarket:3004705 | predict:944940,1.0,explicit_platform_link,True,-0.07616638837504803116450080091
-b1736ea3d96e87f5,Will Romania win the UEFA EURO 2028?,polymarket:3004706 | predict:944941,1.0,explicit_platform_link,True,-2.230600508947558191067129387
-76b754bb50f06968,Will Russia win the UEFA EURO 2028?,polymarket:3004707 | predict:944942,1.0,explicit_platform_link,True,-0.1808977691039598941916072828
-638a1c4d56d6c92a,Will San Marino win the UEFA EURO 2028?,polymarket:3004708 | predict:944943,1.0,explicit_platform_link,True,-2.703939374521750519326363119
-4640169fd145822e,Will Scotland win the UEFA EURO 2028?,polymarket:3004709 | predict:944944,1.0,explicit_platform_link,True,-0.02724812661736619352601552378
-3de5615c5569980a,Will Serbia win the UEFA EURO 2028?,polymarket:3004710 | predict:944945,1.0,explicit_platform_link,True,-0.2330906197059912125482643224
-1311349c200a4b89,Will Slovakia win the UEFA EURO 2028?,polymarket:3004711 | predict:944946,1.0,explicit_platform_link,True,-0.07616638837504803116450080091
-b48bbee9f385a59c,Will Slovenia win the UEFA EURO 2028?,polymarket:3004712 | predict:944947,1.0,explicit_platform_link,True,-1.698269877826796395340221550
-98c909ca6a9d9ca8,Will Spain win the UEFA EURO 2028?,polymarket:3004713 | predict:944948,1.0,explicit_platform_link,True,-0.9379301508413696219739011911
-13802cdcb8e893eb,Will Sweden win the UEFA EURO 2028?,polymarket:3004714 | predict:944949,1.0,explicit_platform_link,True,-0.1916250845820227704941362068
-aec5e0a679bd177f,Will Switzerland win the UEFA EURO 2028?,polymarket:3004715 | predict:944950,1.0,explicit_platform_link,True,-0.9114894691360708728958148815
-5088bbf54c85d308,Will Turkey win the UEFA EURO 2028?,polymarket:3004716 | predict:944951,1.0,explicit_platform_link,True,-0.7011629263041988977685993578
-bbdd314bc42c8719,Will Ukraine win the UEFA EURO 2028?,polymarket:3004717 | predict:944952,1.0,explicit_platform_link,True,-0.1321846359342767864313933734
-aea5661f459de359,Will Wales win the UEFA EURO 2028?,polymarket:3004718 | predict:944953,1.0,explicit_platform_link,True,-0.1321846359342767864313933734
-0cd96f223c839695,Will any AI model reach a Chatbot Arena score of at least 1540 by December 31?,polymarket:3071802 | predict:1850138,1.0,explicit_platform_link,True,0
-063b333d3767c7ac,"Will Warsh be out as Fed Chair by December 31, 2026?",polymarket:3081879 | predict:927729,1.0,explicit_platform_link,True,-0.6209510890676745073885337381
-8bd9c5d7652eb421,"Will Warsh be out as Fed Chair by June 30, 2027?",polymarket:3081880 | predict:927730,1.0,explicit_platform_link,True,0.2368188462124479313274573741
-2e7bad35862f1495,Will the ECB announce a 50+ bps decrease at the October 2026 meeting?,polymarket:3081963 | predict:929241,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
-683041bffed57f57,Will the ECB announce a 25 bps decrease at the October 2026 meeting?,polymarket:3081964 | predict:929242,1.0,explicit_platform_link,True,
-00de67fa79aa2267,Will the ECB announce no change at the October 2026 meeting?,polymarket:3081965 | predict:929243,1.0,explicit_platform_link,True,-0.7407471271548489111392580076
-a5d1134852ad615f,Will the ECB announce a 25 bps increase at the October 2026 meeting?,polymarket:3081966 | predict:929244,1.0,explicit_platform_link,True,-0.9677923046817595870321284078
-0844005d34c579a1,Will the ECB announce a 50+ bps increase at the October 2026 meeting?,polymarket:3081967 | predict:929245,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
-dd6d2520e14c33dc,Will the Fed increase interest rates by 25 bps after the December 2026 meeting?,polymarket:3215008 | predict:1052064,1.0,explicit_platform_link,True,-1.350819245408209000438283593
-e7909a0cfbd964ad,Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?,polymarket:3215010 | predict:1051787,1.0,explicit_platform_link,True,-0.2402222153194199651599057636
-8be03faf554abdb8,Will the Fed decrease interest rates by 25 bps after the January 2027 meeting?,polymarket:3215011 | predict:1051790,1.0,explicit_platform_link,True,-0.7556485662150183578077524487
-fd315a83f0493702,Will there be no change in Fed interest rates after the January 2027 meeting?,polymarket:3215012 | predict:1051794,1.0,explicit_platform_link,True,-0.488673408048904737646459500
-665d7b643c487759,Will the Fed increase interest rates by 50+ bps after the January 2027 meeting?,polymarket:3215014 | predict:1051799,1.0,explicit_platform_link,True,-0.6465350344626178071561308500
-30fdf8f2108bc309,"Will Bloomberg IPO by December 31, 2026?",polymarket:3231229 | predict:1066448,1.0,explicit_platform_link,True,-1.657532033092949255652925020
-75511a2d20dc4997,"Will Bloomberg IPO by March 31, 2027?",polymarket:3231230 | predict:1066449,1.0,explicit_platform_link,True,-2.260569333917155348975004765
-4201fee3830e10ac,"Will Bloomberg IPO by June 30, 2027?",polymarket:3231231 | predict:1066451,1.0,explicit_platform_link,True,-1.383362277612153341655596029
-ef27708be9050207,"Will Bloomberg IPO by September 30, 2027?",polymarket:3231232 | predict:1066452,1.0,explicit_platform_link,True,-0.800258728881737731295253416
-2048dc876e78251c,"Will Bloomberg IPO by December 31, 2027?",polymarket:3231233 | predict:1066453,1.0,explicit_platform_link,True,-2.193449590221664766036537657
-45515c9e37eed2d8,"SCOTUS accepts sports event contract case by October 31, 2026?",polymarket:3231548 | predict:1849770,1.0,explicit_platform_link,True,0.102112
-5621344dc95a0830,Will HLE be number 1 on the end of year Global Power Rankings?,polymarket:3236055 | predict:1070738,1.0,explicit_platform_link,True,-1.962940865260411001470512465
-da5f35bbab83ba2e,Will BLG be number 1 on the end of year Global Power Rankings?,polymarket:3236056 | predict:1070740,1.0,explicit_platform_link,True,-2.237294009962654583391001037
-9d7e91d3fdaf40e8,Will GEN be number 1 on the end of year Global Power Rankings?,polymarket:3236057 | predict:1070742,1.0,explicit_platform_link,True,-2.266479795401274273260469866
-effaf9a376ded881,Will T1 be number 1 on the end of year Global Power Rankings?,polymarket:3236058 | predict:1070743,1.0,explicit_platform_link,True,0
-1350f640e00ca7f5,Will G2 be number 1 on the end of year Global Power Rankings?,polymarket:3236059 | predict:1070746,1.0,explicit_platform_link,True,-4.719796484636141683011358930
-441c34e1587f3b32,Will LYON be number 1 on the end of year Global Power Rankings?,polymarket:3236060 | predict:1070748,1.0,explicit_platform_link,True,-0.4442359215378517303660983077
-0e40bbb1b7217402,Will TES be number 1 on the end of year Global Power Rankings?,polymarket:3236061 | predict:1070749,1.0,explicit_platform_link,True,-0.5438517696777846954161335877
-ef78e494cdde5efa,Will KC be number 1 on the end of year Global Power Rankings?,polymarket:3236062 | predict:1070751,1.0,explicit_platform_link,True,-0.4407185922834072115237989821
-2cc08147b8697eef,Will AL be number 1 on the end of year Global Power Rankings?,polymarket:3236063 | predict:1070753,1.0,explicit_platform_link,True,-3.486353056307532142548861056
-61ac40d6fb244963,Will KT be number 1 on the end of year Global Power Rankings?,polymarket:3236064 | predict:1070754,1.0,explicit_platform_link,True,-24.89968351287676871308298612
-405c76e1008e1864,Will FLY be number 1 on the end of year Global Power Rankings?,polymarket:3236065 | predict:1070755,1.0,explicit_platform_link,True,
-80ef55cd74a3e216,Will JDG be number 1 on the end of year Global Power Rankings?,polymarket:3236066 | predict:1070756,1.0,explicit_platform_link,True,-24.89968351287676871308298612
-70e1c9c2e15af80a,Will DK be number 1 on the end of year Global Power Rankings?,polymarket:3236067 | predict:1070757,1.0,explicit_platform_link,True,-1.893283232632548807703659027
-044f87d06b23f052,Will TLAW be number 1 on the end of year Global Power Rankings?,polymarket:3236068 | predict:1070758,1.0,explicit_platform_link,True,
-c70c1d54726475e5,Will WBG be number 1 on the end of year Global Power Rankings?,polymarket:3236069 | predict:1070759,1.0,explicit_platform_link,True,
-aa8e1642200a3692,Will TSW be number 1 on the end of year Global Power Rankings?,polymarket:3236070 | predict:1070760,1.0,explicit_platform_link,True,
-acc4f5a23a0e05e6,Will CFO be number 1 on the end of year Global Power Rankings?,polymarket:3236071 | predict:1070761,1.0,explicit_platform_link,True,
-7140a52aa8cde7ef,Will C9 be number 1 on the end of year Global Power Rankings?,polymarket:3236072 | predict:1070762,1.0,explicit_platform_link,True,
-6fb0cec92d3ee9d3,Will NIP be number 1 on the end of year Global Power Rankings?,polymarket:3236073 | predict:1070763,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
-a327faa419d2172f,Will MKOI be number 1 on the end of year Global Power Rankings?,polymarket:3236074 | predict:1070764,1.0,explicit_platform_link,True,
-ed4b6b0a8d50ddc3,Will WE be number 1 on the end of year Global Power Rankings?,polymarket:3236075 | predict:1070765,1.0,explicit_platform_link,True,
-59941c6417041834,Will IG be number 1 on the end of year Global Power Rankings?,polymarket:3236076 | predict:1070766,1.0,explicit_platform_link,True,-1.501586025390826473725884026
-76b2d0b872072fd9,Will GAM be number 1 on the end of year Global Power Rankings?,polymarket:3236077 | predict:1070767,1.0,explicit_platform_link,True,
+f9b6491c539b9cde,Will Carolina Panthers win the 2027 NFL NFC Championship?,polymarket:1361063 | predict:934172,1.0,explicit_platform_link,True,-0.1800855113724475726488532304
+9a4fa7911929f2a9,Will New Orleans Saints win the 2027 NFL NFC Championship?,polymarket:1361064 | predict:934173,1.0,explicit_platform_link,True,0
+ff56e65315581a94,Will Tampa Bay Buccaneers win the 2027 NFL NFC Championship?,polymarket:1361065 | predict:934174,1.0,explicit_platform_link,True,0.00621482798333908447335384090
+846b5fb1e3575b25,Will Los Angeles Rams win the 2027 NFL NFC Championship?,polymarket:1361067 | predict:934176,1.0,explicit_platform_link,True,-0.6477334891398651279426524186
+3309f0e245c6187c,Will San Francisco 49ers win the 2027 NFL NFC Championship?,polymarket:1361068 | predict:934177,1.0,explicit_platform_link,True,1.373081399984671681645822241
+4c01df54f3e265a8,Will Seattle Seahawks win the 2027 NFL NFC Championship?,polymarket:1361069 | predict:934178,1.0,explicit_platform_link,True,-1.265019115063924968010465516
+80a57aba6a489683,Will Buffalo Bills win the 2027 NFL AFC Championship?,polymarket:1361080 | predict:935706,1.0,explicit_platform_link,True,-1.726421464946431615588394824
+bdaf00c28695b98e,Will Miami Dolphins win the 2027 NFL AFC Championship?,polymarket:1361081 | predict:935707,1.0,explicit_platform_link,True,0
+2fc8bb8dbbe4b289,Will New England Patriots win the 2027 NFL AFC Championship?,polymarket:1361082 | predict:935708,1.0,explicit_platform_link,True,0
+4a74a60a16609385,Will New York Jets win the 2027 NFL AFC Championship?,polymarket:1361083 | predict:935709,1.0,explicit_platform_link,True,0
+fa7b9b8ed7c81753,Will Cincinnati Bengals win the 2027 NFL AFC Championship?,polymarket:1361085 | predict:935711,1.0,explicit_platform_link,True,-0.2990404684369542780989789652
+0a9dd668e283d576,Will Pittsburgh Steelers win the 2027 NFL AFC Championship?,polymarket:1361087 | predict:935713,1.0,explicit_platform_link,True,0
+1bd7bdb32ced3b11,Will Indianapolis Colts win the 2027 NFL AFC Championship?,polymarket:1361089 | predict:935715,1.0,explicit_platform_link,True,0
+b312fcd5c82ab004,Will Jacksonville Jaguars win the 2027 NFL AFC Championship?,polymarket:1361090 | predict:935716,1.0,explicit_platform_link,True,-0.6266368947977718589464739692
+7808dffc0fde222d,Will Tennessee Titans win the 2027 NFL AFC Championship?,polymarket:1361091 | predict:935717,1.0,explicit_platform_link,True,0.1197088602340583202985519560
+fbbccef39f9ebbbd,Will Las Vegas Raiders win the 2027 NFL AFC Championship?,polymarket:1361094 | predict:935720,1.0,explicit_platform_link,True,0
+ae755ef4834cacb9,Will Los Angeles Chargers win the 2027 NFL AFC Championship?,polymarket:1361095 | predict:935721,1.0,explicit_platform_link,True,0.01378834583447850115391794897
+5c983aedecd2028d,Relay FDV above $100M one day after launch?,polymarket:1361725 | predict:14334,1.0,explicit_platform_link,False,0
+277e250ed1d72a15,Relay FDV above $300M one day after launch?,polymarket:1361726 | predict:14336,1.0,explicit_platform_link,False,-2.202558006894390473205891570
+11241b4da692ce59,Relay FDV above $500M one day after launch?,polymarket:1361727 | predict:14340,1.0,explicit_platform_link,False,-3.320261676159479251423921890
+044e8bb7f44b7164,Relay FDV above $600M one day after launch?,polymarket:1361728 | predict:14332,1.0,explicit_platform_link,False,-7.259016412384161752316764951
+1fab82e708ad212a,Relay FDV above $700M one day after launch?,polymarket:1361729 | predict:14337,1.0,explicit_platform_link,False,-3.041998781230956733698964050
+1a03285b9c54be28,Relay FDV above $800M one day after launch?,polymarket:1361730 | predict:14335,1.0,explicit_platform_link,False,-7.964717605484823436093790773
+19a88e841e15ce6b,Relay FDV above $900M one day after launch?,polymarket:1361731 | predict:14333,1.0,explicit_platform_link,False,-7.320008928933649817974691698
+97c54f124b0e2e3d,Relay FDV above $1B one day after launch?,polymarket:1361732 | predict:14341,1.0,explicit_platform_link,False,-5.158593232933068795786675906
+0050645be087c510,Relay FDV above $1.2B one day after launch?,polymarket:1361733 | predict:14338,1.0,explicit_platform_link,False,-4.129331133648022727061624185
+9e62ec6f7dca0083,Relay FDV above $1.5B one day after launch?,polymarket:1361734 | predict:14339,1.0,explicit_platform_link,False,-2.756172042510654399675293539
+547dc558f3ce8fb9,Will any AI model reach a Chatbot Arena score of at least 1650 by December 31?,polymarket:1370549 | predict:1850141,1.0,explicit_platform_link,True,-24.61734811824707126306723223
+5d9d3b0925b85086,Will any AI model reach a Chatbot Arena score of at least 1700 by December 31?,polymarket:1370551 | predict:1850142,1.0,explicit_platform_link,True,-24.60494464766923155105495438
+2374c0f4b04f17b2,"Will Hibachi launch a token by December 31, 2026?",polymarket:1415613 | predict:19744,1.0,explicit_platform_link,False,-3.613965386473459643981477504
+015ce6e80df60239,Will Stripe acquire any part of Paypal in 2026?,polymarket:1429755 | predict:1738106,1.0,explicit_platform_link,True,-0.1965105218114751409716982877
+40b5a49f037fa0e9,Will Buffalo Bills win the 2026 AFC East?,polymarket:1447909 | predict:942070,1.0,explicit_platform_link,True,0
+c4fa2d1ba3f5fc9b,Will Miami Dolphins win the 2026 AFC East,polymarket:1447910 | predict:942071,1.0,explicit_platform_link,True,0
+bc974a192facd7f5,Will New England Patriots win the 2026 AFC East?,polymarket:1447911 | predict:942072,1.0,explicit_platform_link,True,-1.106951699620797724115295031
+2960e8f1649b3604,Will New York Jets win the 2026 AFC East?,polymarket:1447912 | predict:942073,1.0,explicit_platform_link,True,0
+995527422ee8e683,Will Baltimore Ravens win the 2026 AFC North?,polymarket:1447918 | predict:942060,1.0,explicit_platform_link,True,-2.235952809329370504906365797
+de7a70531b3a5303,Will Cleveland Browns win the 2026 AFC North?,polymarket:1447920 | predict:942062,1.0,explicit_platform_link,True,-1.944845508988852513757673306
+4a616b3d845788cf,Will Pittsburgh Steelers win the 2026 AFC North?,polymarket:1447921 | predict:942063,1.0,explicit_platform_link,True,-1.354174257030492140737596886
+fcf5af04c34ac7ba,Will Houston Texans win the 2026 AFC South?,polymarket:1447932 | predict:942065,1.0,explicit_platform_link,True,-0.2540517879339840998289222071
+a84351fc9102bf33,Will Indianapolis Colts win the 2026 AFC South?,polymarket:1447933 | predict:942066,1.0,explicit_platform_link,True,-0.7053459689320388349514563122
+fa349440a2a3b93e,Will Jacksonville Jaguars win the 2026 AFC South?,polymarket:1447934 | predict:942067,1.0,explicit_platform_link,True,-1.843636139342045812446941800
+cf5fdd3c90dcb770,Will Tennessee Titans win the 2026 AFC South?,polymarket:1447935 | predict:942068,1.0,explicit_platform_link,True,0
+f68c6244a2ce9eff,Will Denver Broncos win the 2026 AFC West?,polymarket:1447945 | predict:942075,1.0,explicit_platform_link,True,-1.606404320851925044284607751
+1228e711df0f0710,Will Kansas City Chiefs win the 2026 AFC West?,polymarket:1447946 | predict:942076,1.0,explicit_platform_link,True,-1.688707518231144680458365393
+a9be8d2d37a48ffa,Will Las Vegas Raiders win the 2026 AFC West?,polymarket:1447947 | predict:942077,1.0,explicit_platform_link,True,-1.230904074215612759395247455
+b85cd5f2eb30e364,Will Los Angeles Chargers win the 2026 AFC West?,polymarket:1447948 | predict:942078,1.0,explicit_platform_link,True,-0.6880140391719270344459736249
+e53672dff6508ebd,Will Dallas Cowboys win the 2026 NFC East?,polymarket:1447964 | predict:942090,1.0,explicit_platform_link,True,-0.3682861323886136102830312630
+b1e450a768bd20bf,Will New York Giants win the 2026 NFC East?,polymarket:1447965 | predict:942091,1.0,explicit_platform_link,True,-3.013399168366675674654222564
+81f9fc407ec274a5,Will Philadelphia Eagles win the 2026 NFC East?,polymarket:1447966 | predict:942092,1.0,explicit_platform_link,True,-0.6991049874886135739111870428
+6872c4b28178e4ed,Will Washington Commanders win the 2026 NFC East?,polymarket:1447967 | predict:942093,1.0,explicit_platform_link,True,-3.275180913957528616888140188
+aa6afdb63d385adb,Will Detroit Lions win the 2026 NFC North?,polymarket:1447976 | predict:942081,1.0,explicit_platform_link,True,-1.550924526427841918774250816
+ffa749ffaee5bd53,Will Green Bay Packers win the 2026 NFC North?,polymarket:1447977 | predict:942082,1.0,explicit_platform_link,True,-1.285573805027071095726330686
+2123c9042f10aae2,Will Minnesota Vikings win the 2026 NFC North?,polymarket:1447978 | predict:942083,1.0,explicit_platform_link,True,-1.527553945137014649644029389
+3d1267d0c4f5ee9b,Will Atlanta Falcons win the 2026 NFC South?,polymarket:1448013 | predict:942085,1.0,explicit_platform_link,True,-3.656985903894765427060178934
+6636c291a4b1c393,Will Carolina Panthers win the 2026 NFC South?,polymarket:1448014 | predict:942086,1.0,explicit_platform_link,True,-2.610027229513005468619603777
+87166cfc54cded7e,Will New Orleans Saints win the 2026 NFC South?,polymarket:1448015 | predict:942087,1.0,explicit_platform_link,True,-0.1515309785796903277699577650
+d3dcddd6b6c256e8,Will Tampa Bay Buccaneers win the 2026 NFC South?,polymarket:1448016 | predict:942088,1.0,explicit_platform_link,True,-2.081623546243881682189928615
+4989b8a92f6a6eb3,Will Arizona Cardinals win the 2026 NFC West?,polymarket:1448022 | predict:942095,1.0,explicit_platform_link,True,0
+2c53be6a12a33a15,Will Los Angeles Rams win the 2026 NFC West?,polymarket:1448023 | predict:942096,1.0,explicit_platform_link,True,-0.2321926045707415691808116783
+c02a709fb72995ae,Will San Francisco 49ers win the 2026 NFC West?,polymarket:1448024 | predict:942097,1.0,explicit_platform_link,True,-1.250910341416617401265983883
+f86e8e3248f43f96,Will Seattle Seahawks win the 2026 NFC West?,polymarket:1448025 | predict:942098,1.0,explicit_platform_link,True,-0.3476778192852866040756912491
+c5114a6b8e46b479,Cambria FDV above $20M one day after launch?,polymarket:1485758 | predict:34340,1.0,explicit_platform_link,False,0
+5921e514ba438144,Cambria FDV above $30M one day after launch?,polymarket:1485759 | predict:34341,1.0,explicit_platform_link,False,-3.394878256338739962382915888
+d2bc4045f77fbebb,Cambria FDV above $40M one day after launch?,polymarket:1485760 | predict:34342,1.0,explicit_platform_link,False,0
+697e6475cb144847,Cambria FDV above $100M one day after launch?,polymarket:1485763 | predict:34345,1.0,explicit_platform_link,False,-0.4994230914525510717520378336
+7b8a9a551dec576f,Cambria FDV above $150M one day after launch?,polymarket:1485764 | predict:34346,1.0,explicit_platform_link,False,-2.624513257506850652910252635
+0f8374b5193d928d,Cambria FDV above $200M one day after launch?,polymarket:1485765 | predict:34347,1.0,explicit_platform_link,False,-2.472507216628343889864289859
+d57ba15ac1ba6979,Decibel FDV above $20M one day after launch?,polymarket:1486001 | predict:35159,1.0,explicit_platform_link,False,-0.959793477590777387337402130
+0c4f108a177d8b9f,Decibel FDV above $50M one day after launch?,polymarket:1486002 | predict:35163,1.0,explicit_platform_link,False,-6.182517860962129282613572505
+3c7067b5ee00d66f,Decibel FDV above $100M one day after launch?,polymarket:1486003 | predict:35160,1.0,explicit_platform_link,False,-3.683524868927235445022098684
+5ae488dc561963f2,Decibel FDV above $200M one day after launch?,polymarket:1486004 | predict:35164,1.0,explicit_platform_link,False,0
+cf1ada0e6d977aa4,Decibel FDV above $300M one day after launch?,polymarket:1486005 | predict:35161,1.0,explicit_platform_link,False,-7.032527873287404724695837961
+172771535da49c79,Decibel FDV above $500M one day after launch?,polymarket:1486006 | predict:35165,1.0,explicit_platform_link,False,-11.25464240508829868029551255
+08e1d9d691f30e2e,Decibel FDV above $800M one day after launch?,polymarket:1486007 | predict:35162,1.0,explicit_platform_link,False,-3.374008877544903160609683284
+d6dd5930ab1f517d,Yo FDV above $50M one day after launch?,polymarket:1535100 | predict:57637,1.0,explicit_platform_link,False,-6.427716872131089238373871393
+8c4ac884a9248151,Yo FDV above $100M one day after launch?,polymarket:1535101 | predict:57638,1.0,explicit_platform_link,False,-0.521664495114006514657980455
+ca044548d7d1a6a8,Yo FDV above $200M one day after launch?,polymarket:1535102 | predict:57639,1.0,explicit_platform_link,False,-0.675915002124946876328091800
+eeacb9052657aef4,Yo FDV above $300M one day after launch?,polymarket:1535103 | predict:57640,1.0,explicit_platform_link,False,0
+2169c517d0ae4569,Yo FDV above $500M one day after launch?,polymarket:1535104 | predict:57641,1.0,explicit_platform_link,False,-1.736982182138654161582527841
+1ca9b5545ab3c0f4,Surf FDV above $50M one day after launch?,polymarket:1535113 | predict:59877,1.0,explicit_platform_link,False,0
