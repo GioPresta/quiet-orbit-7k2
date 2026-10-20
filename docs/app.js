@@ -202,7 +202,7 @@ function renderLedger(){
   const venues=[...new Set((e.legs||[]).map(l=>venue(l.venue)))].join(' · ');
   const open=e.status==='open',age=open?Math.max(0,now-Number(e.first_seen)):Number(e.duration_seconds||0);
   const roi=exitValue(e),linkUrl=(e.urls||[])[0];
-  return `<tr><td><span class="position-title">${esc(e.name)}</span><span class="position-meta">${esc(venues)}</span></td><td>${esc(venues)}</td><td><span class="badge ${open?'review':'consistent'}">${open?'Aperta':'Target'}</span></td><td>${esc(dt(e.first_seen))}</td><td>${durationText(age)}<small class="cell-sub">${open?'finora':'al target'}</small></td><td>${num(e.entry_net_roi_pct,2)}%</td><td>${num(e.max_exit_net_roi_pct,2)}%</td><td class="${pnlClass(roi)}">${num(roi,2)}%<small class="cell-sub">${e.current_exit_fully_sellable===false?'uscita parziale':'uscita completa'}</small></td><td>${linkUrl?link(linkUrl,'Apri'):'—'}</td></tr>`
+  return `<tr><td><span class="position-title">${esc(e.name)}</span><span class="position-meta">${esc(venues)}</span></td><td>${esc(venues)}</td><td><span class="badge ${open?'review':'consistent'}">${open?'Aperta':'Target'}</span></td><td>${esc(dt(e.first_seen))}</td><td>${durationText(age)}<small class="cell-sub">${open?'finora':'al target'}</small></td><td>${num(e.entry_net_roi_pct,2)}%</td><td>${num(e.max_exit_net_roi_pct,2)}%</td><td class="${pnlClass(roi)}">${num(roi,2)}%<small class="cell-sub">${e.current_exit_fully_sellable===false?'profondità insufficiente':'bid fino in fondo'}</small></td><td>${linkUrl?link(linkUrl,'Apri'):'—'}</td></tr>`
  }).join('');
  const targets=episodes.filter(e=>e.status==='target'),chart=$('#ledger-chart');
  if(!targets.length){
