@@ -9,93 +9,93 @@ match_id,name,markets,score,match_reason,rules_identical,screening_profit
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
 be49105428c4e033,Will the Cleveland Browns win the 2027 NFL league championship?,polymarket:1357378 | predict:26938,1.0,explicit_platform_link,True,0.3123714657305512930342835392
-c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.1232013571157564049725663930
+c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.07398824739657784443939545167
 7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,1.939749689036411438094993444
 3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.1171605822620203402488688430
 0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
 fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nomination?,polymarket:561975 | predict:933798,1.0,explicit_platform_link,True,0.3203645866784373348410176071
 2b40a9e64fd3f50c,"Next White House Press Secretary announced by December 31, 2026?",polymarket:5784291 | predict:3415545,1.0,explicit_platform_link,True,4.107942498152042904059214697
 ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
+3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,0.9369979046598700974137286059
 6471feb59ef29034,Will Fenerbahçe SK win on 2026-10-20?,polymarket:5383472 | predict:3019976,1.0,explicit_platform_link,True,0.4874933765047374620766867349
 9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
-92b7a832101ec357,"Next Fable Model (5.2+) released by October 24, 2026?",polymarket:5205159 | predict:2846815,1.0,explicit_platform_link,True,0.07288915880180549856380796014
-f9b6491c539b9cde,Will Carolina Panthers win the 2027 NFL NFC Championship?,polymarket:1361063 | predict:934172,1.0,explicit_platform_link,True,-0.1800855113724475726488532304
-9a4fa7911929f2a9,Will New Orleans Saints win the 2027 NFL NFC Championship?,polymarket:1361064 | predict:934173,1.0,explicit_platform_link,True,0
-ff56e65315581a94,Will Tampa Bay Buccaneers win the 2027 NFL NFC Championship?,polymarket:1361065 | predict:934174,1.0,explicit_platform_link,True,0.00621482798333908447335384090
-846b5fb1e3575b25,Will Los Angeles Rams win the 2027 NFL NFC Championship?,polymarket:1361067 | predict:934176,1.0,explicit_platform_link,True,-0.6477334891398651279426524186
-3309f0e245c6187c,Will San Francisco 49ers win the 2027 NFL NFC Championship?,polymarket:1361068 | predict:934177,1.0,explicit_platform_link,True,1.373081399984671681645822241
-4c01df54f3e265a8,Will Seattle Seahawks win the 2027 NFL NFC Championship?,polymarket:1361069 | predict:934178,1.0,explicit_platform_link,True,-1.265019115063924968010465516
-80a57aba6a489683,Will Buffalo Bills win the 2027 NFL AFC Championship?,polymarket:1361080 | predict:935706,1.0,explicit_platform_link,True,-1.726421464946431615588394824
-bdaf00c28695b98e,Will Miami Dolphins win the 2027 NFL AFC Championship?,polymarket:1361081 | predict:935707,1.0,explicit_platform_link,True,0
-2fc8bb8dbbe4b289,Will New England Patriots win the 2027 NFL AFC Championship?,polymarket:1361082 | predict:935708,1.0,explicit_platform_link,True,0
-4a74a60a16609385,Will New York Jets win the 2027 NFL AFC Championship?,polymarket:1361083 | predict:935709,1.0,explicit_platform_link,True,0
-fa7b9b8ed7c81753,Will Cincinnati Bengals win the 2027 NFL AFC Championship?,polymarket:1361085 | predict:935711,1.0,explicit_platform_link,True,-0.2990404684369542780989789652
-0a9dd668e283d576,Will Pittsburgh Steelers win the 2027 NFL AFC Championship?,polymarket:1361087 | predict:935713,1.0,explicit_platform_link,True,0
-1bd7bdb32ced3b11,Will Indianapolis Colts win the 2027 NFL AFC Championship?,polymarket:1361089 | predict:935715,1.0,explicit_platform_link,True,0
-b312fcd5c82ab004,Will Jacksonville Jaguars win the 2027 NFL AFC Championship?,polymarket:1361090 | predict:935716,1.0,explicit_platform_link,True,-0.6266368947977718589464739692
-7808dffc0fde222d,Will Tennessee Titans win the 2027 NFL AFC Championship?,polymarket:1361091 | predict:935717,1.0,explicit_platform_link,True,0.1197088602340583202985519560
-fbbccef39f9ebbbd,Will Las Vegas Raiders win the 2027 NFL AFC Championship?,polymarket:1361094 | predict:935720,1.0,explicit_platform_link,True,0
-ae755ef4834cacb9,Will Los Angeles Chargers win the 2027 NFL AFC Championship?,polymarket:1361095 | predict:935721,1.0,explicit_platform_link,True,0.01378834583447850115391794897
-5c983aedecd2028d,Relay FDV above $100M one day after launch?,polymarket:1361725 | predict:14334,1.0,explicit_platform_link,False,0
-277e250ed1d72a15,Relay FDV above $300M one day after launch?,polymarket:1361726 | predict:14336,1.0,explicit_platform_link,False,-2.202558006894390473205891570
-11241b4da692ce59,Relay FDV above $500M one day after launch?,polymarket:1361727 | predict:14340,1.0,explicit_platform_link,False,-3.320261676159479251423921890
-044e8bb7f44b7164,Relay FDV above $600M one day after launch?,polymarket:1361728 | predict:14332,1.0,explicit_platform_link,False,-7.259016412384161752316764951
-1fab82e708ad212a,Relay FDV above $700M one day after launch?,polymarket:1361729 | predict:14337,1.0,explicit_platform_link,False,-3.041998781230956733698964050
-1a03285b9c54be28,Relay FDV above $800M one day after launch?,polymarket:1361730 | predict:14335,1.0,explicit_platform_link,False,-7.964717605484823436093790773
-19a88e841e15ce6b,Relay FDV above $900M one day after launch?,polymarket:1361731 | predict:14333,1.0,explicit_platform_link,False,-7.320008928933649817974691698
-97c54f124b0e2e3d,Relay FDV above $1B one day after launch?,polymarket:1361732 | predict:14341,1.0,explicit_platform_link,False,-5.158593232933068795786675906
-0050645be087c510,Relay FDV above $1.2B one day after launch?,polymarket:1361733 | predict:14338,1.0,explicit_platform_link,False,-4.129331133648022727061624185
-9e62ec6f7dca0083,Relay FDV above $1.5B one day after launch?,polymarket:1361734 | predict:14339,1.0,explicit_platform_link,False,-2.756172042510654399675293539
-547dc558f3ce8fb9,Will any AI model reach a Chatbot Arena score of at least 1650 by December 31?,polymarket:1370549 | predict:1850141,1.0,explicit_platform_link,True,-24.61734811824707126306723223
-5d9d3b0925b85086,Will any AI model reach a Chatbot Arena score of at least 1700 by December 31?,polymarket:1370551 | predict:1850142,1.0,explicit_platform_link,True,-24.60494464766923155105495438
-2374c0f4b04f17b2,"Will Hibachi launch a token by December 31, 2026?",polymarket:1415613 | predict:19744,1.0,explicit_platform_link,False,-3.613965386473459643981477504
-015ce6e80df60239,Will Stripe acquire any part of Paypal in 2026?,polymarket:1429755 | predict:1738106,1.0,explicit_platform_link,True,-0.1965105218114751409716982877
-40b5a49f037fa0e9,Will Buffalo Bills win the 2026 AFC East?,polymarket:1447909 | predict:942070,1.0,explicit_platform_link,True,0
-c4fa2d1ba3f5fc9b,Will Miami Dolphins win the 2026 AFC East,polymarket:1447910 | predict:942071,1.0,explicit_platform_link,True,0
-bc974a192facd7f5,Will New England Patriots win the 2026 AFC East?,polymarket:1447911 | predict:942072,1.0,explicit_platform_link,True,-1.106951699620797724115295031
-2960e8f1649b3604,Will New York Jets win the 2026 AFC East?,polymarket:1447912 | predict:942073,1.0,explicit_platform_link,True,0
-995527422ee8e683,Will Baltimore Ravens win the 2026 AFC North?,polymarket:1447918 | predict:942060,1.0,explicit_platform_link,True,-2.235952809329370504906365797
-de7a70531b3a5303,Will Cleveland Browns win the 2026 AFC North?,polymarket:1447920 | predict:942062,1.0,explicit_platform_link,True,-1.944845508988852513757673306
-4a616b3d845788cf,Will Pittsburgh Steelers win the 2026 AFC North?,polymarket:1447921 | predict:942063,1.0,explicit_platform_link,True,-1.354174257030492140737596886
-fcf5af04c34ac7ba,Will Houston Texans win the 2026 AFC South?,polymarket:1447932 | predict:942065,1.0,explicit_platform_link,True,-0.2540517879339840998289222071
-a84351fc9102bf33,Will Indianapolis Colts win the 2026 AFC South?,polymarket:1447933 | predict:942066,1.0,explicit_platform_link,True,-0.7053459689320388349514563122
-fa349440a2a3b93e,Will Jacksonville Jaguars win the 2026 AFC South?,polymarket:1447934 | predict:942067,1.0,explicit_platform_link,True,-1.843636139342045812446941800
-cf5fdd3c90dcb770,Will Tennessee Titans win the 2026 AFC South?,polymarket:1447935 | predict:942068,1.0,explicit_platform_link,True,0
-f68c6244a2ce9eff,Will Denver Broncos win the 2026 AFC West?,polymarket:1447945 | predict:942075,1.0,explicit_platform_link,True,-1.606404320851925044284607751
-1228e711df0f0710,Will Kansas City Chiefs win the 2026 AFC West?,polymarket:1447946 | predict:942076,1.0,explicit_platform_link,True,-1.688707518231144680458365393
-a9be8d2d37a48ffa,Will Las Vegas Raiders win the 2026 AFC West?,polymarket:1447947 | predict:942077,1.0,explicit_platform_link,True,-1.230904074215612759395247455
-b85cd5f2eb30e364,Will Los Angeles Chargers win the 2026 AFC West?,polymarket:1447948 | predict:942078,1.0,explicit_platform_link,True,-0.6880140391719270344459736249
-e53672dff6508ebd,Will Dallas Cowboys win the 2026 NFC East?,polymarket:1447964 | predict:942090,1.0,explicit_platform_link,True,-0.3682861323886136102830312630
-b1e450a768bd20bf,Will New York Giants win the 2026 NFC East?,polymarket:1447965 | predict:942091,1.0,explicit_platform_link,True,-3.013399168366675674654222564
-81f9fc407ec274a5,Will Philadelphia Eagles win the 2026 NFC East?,polymarket:1447966 | predict:942092,1.0,explicit_platform_link,True,-0.6991049874886135739111870428
-6872c4b28178e4ed,Will Washington Commanders win the 2026 NFC East?,polymarket:1447967 | predict:942093,1.0,explicit_platform_link,True,-3.275180913957528616888140188
-aa6afdb63d385adb,Will Detroit Lions win the 2026 NFC North?,polymarket:1447976 | predict:942081,1.0,explicit_platform_link,True,-1.550924526427841918774250816
-ffa749ffaee5bd53,Will Green Bay Packers win the 2026 NFC North?,polymarket:1447977 | predict:942082,1.0,explicit_platform_link,True,-1.285573805027071095726330686
-2123c9042f10aae2,Will Minnesota Vikings win the 2026 NFC North?,polymarket:1447978 | predict:942083,1.0,explicit_platform_link,True,-1.527553945137014649644029389
-3d1267d0c4f5ee9b,Will Atlanta Falcons win the 2026 NFC South?,polymarket:1448013 | predict:942085,1.0,explicit_platform_link,True,-3.656985903894765427060178934
-6636c291a4b1c393,Will Carolina Panthers win the 2026 NFC South?,polymarket:1448014 | predict:942086,1.0,explicit_platform_link,True,-2.610027229513005468619603777
-87166cfc54cded7e,Will New Orleans Saints win the 2026 NFC South?,polymarket:1448015 | predict:942087,1.0,explicit_platform_link,True,-0.1515309785796903277699577650
-d3dcddd6b6c256e8,Will Tampa Bay Buccaneers win the 2026 NFC South?,polymarket:1448016 | predict:942088,1.0,explicit_platform_link,True,-2.081623546243881682189928615
-4989b8a92f6a6eb3,Will Arizona Cardinals win the 2026 NFC West?,polymarket:1448022 | predict:942095,1.0,explicit_platform_link,True,0
-2c53be6a12a33a15,Will Los Angeles Rams win the 2026 NFC West?,polymarket:1448023 | predict:942096,1.0,explicit_platform_link,True,-0.2321926045707415691808116783
-c02a709fb72995ae,Will San Francisco 49ers win the 2026 NFC West?,polymarket:1448024 | predict:942097,1.0,explicit_platform_link,True,-1.250910341416617401265983883
-f86e8e3248f43f96,Will Seattle Seahawks win the 2026 NFC West?,polymarket:1448025 | predict:942098,1.0,explicit_platform_link,True,-0.3476778192852866040756912491
-c5114a6b8e46b479,Cambria FDV above $20M one day after launch?,polymarket:1485758 | predict:34340,1.0,explicit_platform_link,False,0
-5921e514ba438144,Cambria FDV above $30M one day after launch?,polymarket:1485759 | predict:34341,1.0,explicit_platform_link,False,-3.394878256338739962382915888
-d2bc4045f77fbebb,Cambria FDV above $40M one day after launch?,polymarket:1485760 | predict:34342,1.0,explicit_platform_link,False,0
-697e6475cb144847,Cambria FDV above $100M one day after launch?,polymarket:1485763 | predict:34345,1.0,explicit_platform_link,False,-0.4994230914525510717520378336
-7b8a9a551dec576f,Cambria FDV above $150M one day after launch?,polymarket:1485764 | predict:34346,1.0,explicit_platform_link,False,-2.624513257506850652910252635
-0f8374b5193d928d,Cambria FDV above $200M one day after launch?,polymarket:1485765 | predict:34347,1.0,explicit_platform_link,False,-2.472507216628343889864289859
-d57ba15ac1ba6979,Decibel FDV above $20M one day after launch?,polymarket:1486001 | predict:35159,1.0,explicit_platform_link,False,-0.959793477590777387337402130
-0c4f108a177d8b9f,Decibel FDV above $50M one day after launch?,polymarket:1486002 | predict:35163,1.0,explicit_platform_link,False,-6.182517860962129282613572505
-3c7067b5ee00d66f,Decibel FDV above $100M one day after launch?,polymarket:1486003 | predict:35160,1.0,explicit_platform_link,False,-3.683524868927235445022098684
-5ae488dc561963f2,Decibel FDV above $200M one day after launch?,polymarket:1486004 | predict:35164,1.0,explicit_platform_link,False,0
-cf1ada0e6d977aa4,Decibel FDV above $300M one day after launch?,polymarket:1486005 | predict:35161,1.0,explicit_platform_link,False,-7.032527873287404724695837961
-172771535da49c79,Decibel FDV above $500M one day after launch?,polymarket:1486006 | predict:35165,1.0,explicit_platform_link,False,-11.25464240508829868029551255
-08e1d9d691f30e2e,Decibel FDV above $800M one day after launch?,polymarket:1486007 | predict:35162,1.0,explicit_platform_link,False,-3.374008877544903160609683284
-d6dd5930ab1f517d,Yo FDV above $50M one day after launch?,polymarket:1535100 | predict:57637,1.0,explicit_platform_link,False,-6.427716872131089238373871393
-8c4ac884a9248151,Yo FDV above $100M one day after launch?,polymarket:1535101 | predict:57638,1.0,explicit_platform_link,False,-0.521664495114006514657980455
-ca044548d7d1a6a8,Yo FDV above $200M one day after launch?,polymarket:1535102 | predict:57639,1.0,explicit_platform_link,False,-0.675915002124946876328091800
-eeacb9052657aef4,Yo FDV above $300M one day after launch?,polymarket:1535103 | predict:57640,1.0,explicit_platform_link,False,0
-2169c517d0ae4569,Yo FDV above $500M one day after launch?,polymarket:1535104 | predict:57641,1.0,explicit_platform_link,False,-1.736982182138654161582527841
-1ca9b5545ab3c0f4,Surf FDV above $50M one day after launch?,polymarket:1535113 | predict:59877,1.0,explicit_platform_link,False,0
+afe6ca1b0f4b31d7,Will LSU Tigers win the 2027 CFP National Championship?,polymarket:1919743 | predict:174016,1.0,explicit_platform_link,True,-24.12639409000170673544896225
+789b36c9ce8a4e66,Will Texas Tech Red Raiders win the 2027 CFP National Championship?,polymarket:1919744 | predict:174017,1.0,explicit_platform_link,True,-24.91251723959813038929655233
+870ef914a159ad17,Will Texas A&M Aggies win the 2027 CFP National Championship?,polymarket:1919745 | predict:174018,1.0,explicit_platform_link,True,
+72adc21c51048eb3,Will Alabama Crimson Tide win the 2027 CFP National Championship?,polymarket:1919746 | predict:174019,1.0,explicit_platform_link,True,-16.13961128110847583249507425
+7ea888ed07a13fe1,Will Mississippi Rebels win the 2027 CFP National Championship?,polymarket:1919747 | predict:174020,1.0,explicit_platform_link,True,-2.408083342375992740314682456
+c0bf99439b4affd3,Will Oklahoma Sooners win the 2027 CFP National Championship?,polymarket:1919748 | predict:174021,1.0,explicit_platform_link,True,-24.82583301682587526027304038
+1c1c02c2167132b2,Will Michigan Wolverines win the 2027 CFP National Championship?,polymarket:1919749 | predict:174022,1.0,explicit_platform_link,True,-24.54869472149957822509989182
+83cd667dc5b044c6,Will USC Trojans win the 2027 CFP National Championship?,polymarket:1919750 | predict:174023,1.0,explicit_platform_link,True,-24.78837662228407109223651754
+bb15ca259848e7d7,Will Florida Gators win the 2027 CFP National Championship?,polymarket:1919751 | predict:174024,1.0,explicit_platform_link,True,-24.55065958439178681418673761
+153addf4a8dce277,Valantis FDV above $20M one day after launch?,polymarket:1929626 | predict:174078,1.0,explicit_platform_link,True,-0.6463455002105425175107162119
+dd6b4fafc5f05fba,Valantis FDV above $80M one day after launch?,polymarket:1929628 | predict:174080,1.0,explicit_platform_link,True,-0.7944080486667749173872849972
+5dd8c902379d5906,Valantis FDV above $100M one day after launch?,polymarket:1929629 | predict:174081,1.0,explicit_platform_link,True,0.2293408677788426235973301672
+4bd3f2926ba6d494,Valantis FDV above $150M one day after launch?,polymarket:1929630 | predict:174082,1.0,explicit_platform_link,True,-0.957319222199716426979947335
+28003781ce993643,Valantis FDV above $200M one day after launch?,polymarket:1929631 | predict:174083,1.0,explicit_platform_link,True,-2.159797069226882263769580600
+ba225c98e5bfd7e7,Valantis FDV above $300M one day after launch?,polymarket:1929632 | predict:174084,1.0,explicit_platform_link,True,-2.471897063275809869815319400
+366d40b664b7fbb9,Valantis FDV above $500M one day after launch?,polymarket:1929633 | predict:174085,1.0,explicit_platform_link,True,-4.675885400835285720555898278
+981fe8f63a1c05ba,Hotstuff FDV above $20M one day after launch?,polymarket:2000769 | predict:202732,1.0,explicit_platform_link,False,-5.106646819931645552884350530
+85a5232b7970964e,Hotstuff FDV above $50M one day after launch?,polymarket:2000770 | predict:202733,1.0,explicit_platform_link,False,0.5764906533390572547319633925
+98d90aec873a8427,Hotstuff FDV above $80M one day after launch?,polymarket:2000771 | predict:202734,1.0,explicit_platform_link,False,-1.157979759133690921971460380
+c78405a3be8bf096,Hotstuff FDV above $100M one day after launch?,polymarket:2000772 | predict:202735,1.0,explicit_platform_link,False,-1.004979759133690921971460380
+3d497732ff80766e,Hotstuff FDV above $150M one day after launch?,polymarket:2000773 | predict:202736,1.0,explicit_platform_link,False,-1.677145631067961165048543690
+a57f3e66b8764b2f,Hotstuff FDV above $200M one day after launch?,polymarket:2000774 | predict:202737,1.0,explicit_platform_link,False,0
+9cc7aadb32109c5a,Hotstuff FDV above $300M one day after launch?,polymarket:2000775 | predict:202738,1.0,explicit_platform_link,False,-6.425756524285781258904567776
+e9028f87174a73f8,Hotstuff FDV above $500M one day after launch?,polymarket:2000776 | predict:202739,1.0,explicit_platform_link,False,-0.717997196261682242990654205
+07b08abcb6e937ee,Will Jordan Bardella be on the ballot for the 2027 French presidential election?,polymarket:2054224 | predict:1850089,1.0,explicit_platform_link,True,-3.521063974197957488131254131
+877e099043c2bb40,Will Éric Zemmour be on the ballot for the 2027 French presidential election?,polymarket:2054225 | predict:1850090,1.0,explicit_platform_link,True,0
+a53d1d1d323868e8,Will Édouard Philippe be on the ballot for the 2027 French presidential election?,polymarket:2054226 | predict:1850091,1.0,explicit_platform_link,True,-7.510991442685654231847823841
+ca9dc5ca80eb5a94,Will David Lisnard be on the ballot for the 2027 French presidential election?,polymarket:2054227 | predict:1850092,1.0,explicit_platform_link,True,-9.283398267249885063639138354
+ed35a006a666968a,Will Xavier Bertrand be on the ballot for the 2027 French presidential election?,polymarket:2054228 | predict:1850093,1.0,explicit_platform_link,True,-3.431448115494124442578893297
+66ddb0afab22a960,Will Laurent Wauquiez be on the ballot for the 2027 French presidential election?,polymarket:2054229 | predict:1850094,1.0,explicit_platform_link,True,-24.36450631869914359458353830
+ad7230bfa5c65e1c,Will François Ruffin be on the ballot for the 2027 French presidential election?,polymarket:2054230 | predict:1850095,1.0,explicit_platform_link,True,-8.941416516103508219954763887
+60d23d3ea4a9a476,Will Gabriel Attal be on the ballot for the 2027 French presidential election?,polymarket:2054231 | predict:1850096,1.0,explicit_platform_link,True,-10.90740896801423204700101050
+ac636e62a618be82,Will Bruno Retailleau be on the ballot for the 2027 French presidential election?,polymarket:2054232 | predict:1850097,1.0,explicit_platform_link,True,-2.934413369325153374233128837
+55ef8c325ccb8f3c,Will François Hollande be on the ballot for the 2027 French presidential election?,polymarket:2054233 | predict:1850098,1.0,explicit_platform_link,True,-10.90740896801423204700101050
+75b7d48d99ed19d6,Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?,polymarket:2054234 | predict:1850099,1.0,explicit_platform_link,True,0
+10c7b39cd332eeb3,Will Jean-Luc Mélenchon be on the ballot for the 2027 French presidential election?,polymarket:2054235 | predict:1850100,1.0,explicit_platform_link,True,-2.840041666197171933095930149
+2d15e4d8843adb8d,Will Marine Tondelier be on the ballot for the 2027 French presidential election?,polymarket:2054236 | predict:1850101,1.0,explicit_platform_link,True,-12.11189045555741747061499053
+b314272ea1408338,Will Fabien Roussel be on the ballot for the 2027 French presidential election?,polymarket:2054237 | predict:1850102,1.0,explicit_platform_link,True,0
+3fd65afdd3de967b,Will Olivier Faure be on the ballot for the 2027 French presidential election?,polymarket:2054238 | predict:1850103,1.0,explicit_platform_link,True,-23.80343306993698709510029340
+4760f310c9dd0db2,Will Dominique de Villepin be on the ballot for the 2027 French presidential election?,polymarket:2054239 | predict:1850104,1.0,explicit_platform_link,True,-10.03350111950977256275146882
+4fb96f6e4ab1a5be,Will Ségolène Royal be on the ballot for the 2027 French presidential election?,polymarket:2054240 | predict:1850105,1.0,explicit_platform_link,True,-24.23261603764715020429458010
+ca9102045363b455,Will François Asselineau be on the ballot for the 2027 French presidential election?,polymarket:2054241 | predict:1850106,1.0,explicit_platform_link,True,0
+417e418ccda42408,Will Clémentine Autain be on the ballot for the 2027 French presidential election?,polymarket:2054242 | predict:1850107,1.0,explicit_platform_link,True,-24.08635351077723194480207075
+836da41817369c19,Will Nicolas Dupont-Aignan be on the ballot for the 2027 French presidential election?,polymarket:2054243 | predict:1850108,1.0,explicit_platform_link,True,-20.57736559315972375588272590
+111b667aca82cfea,Will Michel Barnier be on the ballot for the 2027 French presidential election?,polymarket:2054244 | predict:1850109,1.0,explicit_platform_link,True,-2.747662533629567784255958459
+d587d98a1ec298c5,Will Valérie Pécresse be on the ballot for the 2027 French presidential election?,polymarket:2054245 | predict:1850110,1.0,explicit_platform_link,True,-23.77241676610502148325052642
+15c6c36ea495dda3,Will François Bayrou be on the ballot for the 2027 French presidential election?,polymarket:2054246 | predict:1850111,1.0,explicit_platform_link,True,-2.185366191482247636676205116
+6c36f4b2e7fc79ab,Will Élisabeth Borne be on the ballot for the 2027 French presidential election?,polymarket:2054247 | predict:1850112,1.0,explicit_platform_link,True,-3.160424462793918678561306578
+c809b4b37509a87c,Will Yaël Braun-Pivet be on the ballot for the 2027 French presidential election?,polymarket:2054248 | predict:1850113,1.0,explicit_platform_link,True,-2.793899214075369060182887765
+49edaa70c0ad2811,Will Jean Castex be on the ballot for the 2027 French presidential election?,polymarket:2054249 | predict:1850114,1.0,explicit_platform_link,True,-2.280049015924698088981454947
+cd3bf6ede89e3d06,Will Gérald Darmanin be on the ballot for the 2027 French presidential election?,polymarket:2054250 | predict:1850115,1.0,explicit_platform_link,True,-23.83849606871980160219097902
+224b9a5511205a8b,Will Carole Delga be on the ballot for the 2027 French presidential election?,polymarket:2054251 | predict:1850116,1.0,explicit_platform_link,True,-23.63917119274735189435834851
+b6148357ad2d6f6e,Will Bernard Cazeneuve be on the ballot for the 2027 French presidential election?,polymarket:2054252 | predict:1850117,1.0,explicit_platform_link,True,-2.932045035324541310814059055
+7602363a0c565345,Will Manuel Bompard be on the ballot for the 2027 French presidential election?,polymarket:2054253 | predict:1850118,1.0,explicit_platform_link,True,-23.63917119274735189435834851
+6ea683c3f61e6c86,Will Mathilde Panot be on the ballot for the 2027 French presidential election?,polymarket:2054254 | predict:1850119,1.0,explicit_platform_link,True,-21.97192715147018265339470380
+224c56bdcf1be8f0,Will Sarah Knafo be on the ballot for the 2027 French presidential election?,polymarket:2054255 | predict:1850120,1.0,explicit_platform_link,True,0
+40a220e624371647,Will Sébastien Lecornu be on the ballot for the 2027 French presidential election?,polymarket:2054256 | predict:1850121,1.0,explicit_platform_link,True,-2.327244068052740093246969735
+277bb64971f0dde7,Will Jean-Michel Fauvergue be on the ballot for the 2027 French presidential election?,polymarket:2054257 | predict:1850122,1.0,explicit_platform_link,True,-23.59891211514675986716050282
+7147d0480fd9c1c1,Will Nathalie Arthaud be on the ballot for the 2027 French presidential election?,polymarket:2069953 | predict:1850123,1.0,explicit_platform_link,True,0
+d6c2e06f4b801013,Will Delphine Batho be on the ballot for the 2027 French presidential election?,polymarket:2069961 | predict:1850124,1.0,explicit_platform_link,True,-4.483606725351148442335596178
+d054bfa294c777c6,Will Jérôme Guedj be on the ballot for the 2027 French presidential election?,polymarket:2069963 | predict:1850125,1.0,explicit_platform_link,True,-24.09125151690207498600137262
+0701d5a019e01662,Will Karim Bouamrane be on the ballot for the 2027 French presidential election?,polymarket:2069978 | predict:1850126,1.0,explicit_platform_link,True,-23.90889012638250874233007931
+a793086f3bd1fea7,Will Michel-Edouard Leclerc be on the ballot for the 2027 French presidential election?,polymarket:2069984 | predict:1850127,1.0,explicit_platform_link,True,-2.042605601351084470308578215
+4fc230ddbadcf464,Will Manuel Valls be on the ballot for the 2027 French presidential election?,polymarket:2070028 | predict:1850128,1.0,explicit_platform_link,True,-24.03942971432731989794040591
+64721fe580e59700,Will Teddy Riner be on the ballot for the 2027 French presidential election?,polymarket:2070036 | predict:1850129,1.0,explicit_platform_link,True,-2.608384227099413070339110449
+2c816aa7bddb10fc,Will Matthieu Pigasse be on the ballot for the 2027 French presidential election?,polymarket:2070037 | predict:1850130,1.0,explicit_platform_link,True,-23.86945129663576265518013091
+e93087baf761e7ab,Will Juan Branco be on the ballot for the 2027 French presidential election?,polymarket:2070038 | predict:1850131,1.0,explicit_platform_link,True,-2.977906524337719883518342686
+1380bcf6632d0c37,Will Philippe de Villiers be on the ballot for the 2027 French presidential election?,polymarket:2070039 | predict:1850132,1.0,explicit_platform_link,True,-23.70597613139984600826969891
+a5398de8ef726374,Will Bally Bagayoko be on the ballot for the 2027 French presidential election?,polymarket:2070047 | predict:1850133,1.0,explicit_platform_link,True,-24.14285033787212337815737188
+587011e2f3e1e1e9,Will Anthropic’s market cap be less than 0.6T at market close on IPO day by December 31 2027?,polymarket:2110748 | predict:1533601,1.0,explicit_platform_link,True,-24.78938337978203500908480002
+4cb383759d335374,Will Anthropic’s market cap be between 0.6T and 0.9T at market close on IPO day by December 31 2027?,polymarket:2110749 | predict:1533604,1.0,explicit_platform_link,True,-24.91215547946931911890940266
+642ec185032a8857,Will Anthropic’s market cap be between 0.9T and 1.2T at market close on IPO day by December 31 2027?,polymarket:2110750 | predict:1533606,1.0,explicit_platform_link,True,-24.65495458216487864660318372
+3519f9375bd7134d,Will Anthropic’s market cap be between 1.2T and 1.5T at market close on IPO day by December 31 2027?,polymarket:2110751 | predict:1533608,1.0,explicit_platform_link,True,-24.67964696247796530688071156
+2ecca9a67e497c01,Will Anthropic’s market cap be between 1.5T and 1.8T at market close on IPO day by December 31 2027?,polymarket:2110752 | predict:1533610,1.0,explicit_platform_link,True,-10.19978018203449506723099966
+6332ac8904e1831a,Will Anthropic not IPO by December 31 2027?,polymarket:2110754 | predict:1533614,1.0,explicit_platform_link,True,-24.29139235611375424544858686
+90321af3d46ba9d3,APYX FDV above $50M one day after launch?,polymarket:2119246 | predict:260452,1.0,explicit_platform_link,True,0
+013a3b8ff2627f9c,APYX FDV above $80M one day after launch?,polymarket:2119247 | predict:260453,1.0,explicit_platform_link,True,-8.205214946854998934275165884
+5b6a60cce6c44f85,APYX FDV above $100M one day after launch?,polymarket:2119248 | predict:260454,1.0,explicit_platform_link,True,0
+ddeafeb4d748af4b,APYX FDV above $150M one day after launch?,polymarket:2119249 | predict:260455,1.0,explicit_platform_link,True,-10.27128357562635323229198887
+7be5a26ae8f54460,APYX FDV above $200M one day after launch?,polymarket:2119250 | predict:260456,1.0,explicit_platform_link,True,-6.220797562461913467397928100
