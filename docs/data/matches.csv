@@ -9,93 +9,93 @@ match_id,name,markets,score,match_reason,rules_identical,screening_profit
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
 be49105428c4e033,Will the Cleveland Browns win the 2027 NFL league championship?,polymarket:1357378 | predict:26938,1.0,explicit_platform_link,True,0.3123714657305512930342835392
-c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.9239771247483583341511429916
+c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.1725112960625153517916611930
 7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,1.939749689036411438094993444
 3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.1171605822620203402488688430
 0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
-ff04c3cc8d1a6546,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,polymarket:2589813 | predict:517145,1.0,explicit_platform_link,True,0.7213939791226179960862233387
 fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nomination?,polymarket:561975 | predict:933798,1.0,explicit_platform_link,True,0.3203645866784373348410176071
 2b40a9e64fd3f50c,"Next White House Press Secretary announced by December 31, 2026?",polymarket:5784291 | predict:3415545,1.0,explicit_platform_link,True,4.107942498152042904059214697
 ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
-3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,0.8861745915511250782136785896
+3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,0.8354525971139238976849864797
 9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
-bb77a7138d5c5ebf,Exact Score: Manchester City FC 4 - 2 AEK?,polymarket:5409247 | predict:3046328,1.0,explicit_platform_link,True,-0.5511167150864951765365498478
-45bebf931e972f58,Exact Score: Manchester City FC 5 - 1 AEK?,polymarket:5409249 | predict:3046330,1.0,explicit_platform_link,True,-0.3061635669291338582677165370
-432437db870a325d,Exact Score: Manchester City FC 2 - 5 AEK?,polymarket:5409251 | predict:3046332,1.0,explicit_platform_link,True,
-ebce5784b6daea9b,Exact Score: Manchester City FC 3 - 4 AEK?,polymarket:5409253 | predict:3046334,1.0,explicit_platform_link,True,-21.21101871102781675741529931
-e9db6bfef50b5313,Exact Score: Manchester City FC 4 - 3 AEK?,polymarket:5409255 | predict:3046336,1.0,explicit_platform_link,True,-0.8099925032156886434690313443
-9132c828350678b4,Exact Score: Manchester City FC 5 - 2 AEK?,polymarket:5409257 | predict:3046338,1.0,explicit_platform_link,True,-0.2234831341672838952646342610
-2d01fc884e201629,Exact Score: Manchester City FC 3 - 5 AEK?,polymarket:5409259 | predict:3046340,1.0,explicit_platform_link,True,
-d364c496dad51144,Exact Score: Manchester City FC 4 - 4 AEK?,polymarket:5409262 | predict:3046342,1.0,explicit_platform_link,True,
-2313e0295766eb6a,Exact Score: Manchester City FC 5 - 3 AEK?,polymarket:5409263 | predict:3046344,1.0,explicit_platform_link,True,-16.91951402800509677283585717
-48339722391809be,Exact Score: Manchester City FC 4 - 5 AEK?,polymarket:5409266 | predict:3046345,1.0,explicit_platform_link,True,
-a4c8a6279acae703,Exact Score: Manchester City FC 5 - 4 AEK?,polymarket:5409268 | predict:3046346,1.0,explicit_platform_link,True,
-848e2a550e54e232,Exact Score: Manchester City FC 5 - 5 AEK?,polymarket:5409270 | predict:3046347,1.0,explicit_platform_link,True,
-ec74501935676914,Exact Score: Any Other Score?,polymarket:5409272 | predict:3046348,1.0,explicit_platform_link,True,
-ed4ea6954d667e6c,Manchester City FC to score first vs. AEK?,polymarket:5409287 | predict:3046514,1.0,explicit_platform_link,True,-1.000702024409163567593898308
-2ef2fe77cd2d0fe4,AEK to score first vs. Manchester City FC?,polymarket:5409288 | predict:3046516,1.0,explicit_platform_link,True,-0.4702497546856185919513687272
-fd470e13cbb55f95,Manchester City FC vs. AEK: Neither team to score first?,polymarket:5409289 | predict:3046518,1.0,explicit_platform_link,True,0
-e921430695072814,Will AS Roma win on 2026-10-20?,polymarket:5409293 | predict:3046416,1.0,explicit_platform_link,True,0.5065717415115005476451259577
-e8f996b5038a4737,Will ŠK Slovan Bratislava win on 2026-10-20?,polymarket:5409295 | predict:3046418,1.0,explicit_platform_link,True,0.3231559970848835871274596133
-ffb128c83913d798,AS Roma leading at halftime?,polymarket:5409296 | predict:3046404,1.0,explicit_platform_link,True,0.6068140424130167282534867744
-200ff1481b0615c6,AS Roma vs. ŠK Slovan Bratislava: Draw at halftime?,polymarket:5409297 | predict:3046405,1.0,explicit_platform_link,True,-0.2561196347630548006675506670
-15b1b5c8a6c2df51,ŠK Slovan Bratislava leading at halftime?,polymarket:5409298 | predict:3046406,1.0,explicit_platform_link,True,-0.2521450080262689880368588336
-67184dd9fa257148,AS Roma to win the second half?,polymarket:5409302 | predict:3046349,1.0,explicit_platform_link,True,0
-dac87f6ac7fef366,AS Roma vs. ŠK Slovan Bratislava: Second half draw?,polymarket:5409303 | predict:3046350,1.0,explicit_platform_link,True,0
-594a90decd51ad1b,ŠK Slovan Bratislava to win the second half?,polymarket:5409304 | predict:3046351,1.0,explicit_platform_link,True,-2.684925621950535639659547870
-51a671b125ae879f,Exact Score: AS Roma 0 - 0 ŠK Slovan Bratislava?,polymarket:5409308 | predict:3046423,1.0,explicit_platform_link,True,0
-8f0a8c54992ddfd2,Exact Score: AS Roma 0 - 1 ŠK Slovan Bratislava?,polymarket:5409309 | predict:3046424,1.0,explicit_platform_link,True,0
-18490c513524e758,Exact Score: AS Roma 1 - 0 ŠK Slovan Bratislava?,polymarket:5409310 | predict:3046425,1.0,explicit_platform_link,True,-0.2205358473647384798091220236
-67d45ed27a932bfd,Exact Score: AS Roma 0 - 2 ŠK Slovan Bratislava?,polymarket:5409311 | predict:3046426,1.0,explicit_platform_link,True,0
-a8e9b04ce0215f72,Exact Score: AS Roma 1 - 1 ŠK Slovan Bratislava?,polymarket:5409312 | predict:3046427,1.0,explicit_platform_link,True,-0.07715294033627927997250401971
-b55a7d92ea406e7e,Exact Score: AS Roma 2 - 0 ŠK Slovan Bratislava?,polymarket:5409314 | predict:3046428,1.0,explicit_platform_link,True,-0.512916473050758765044479336
-8d970580f9c99081,Exact Score: AS Roma 0 - 3 ŠK Slovan Bratislava?,polymarket:5409316 | predict:3046429,1.0,explicit_platform_link,True,-0.6977088686482797150768332691
-2499d9af681c62b9,Exact Score: AS Roma 1 - 2 ŠK Slovan Bratislava?,polymarket:5409318 | predict:3046430,1.0,explicit_platform_link,True,0
-616714e50599b4f5,Exact Score: AS Roma 2 - 1 ŠK Slovan Bratislava?,polymarket:5409320 | predict:3046431,1.0,explicit_platform_link,True,-0.177435785248369292523833426
-e6bc574bf7554007,Exact Score: AS Roma 3 - 0 ŠK Slovan Bratislava?,polymarket:5409322 | predict:3046432,1.0,explicit_platform_link,True,-0.512149648241206030150753774
-f23044357191986c,Exact Score: AS Roma 0 - 4 ŠK Slovan Bratislava?,polymarket:5409324 | predict:3046433,1.0,explicit_platform_link,True,
-6e170bd204ca6db3,Exact Score: AS Roma 1 - 3 ŠK Slovan Bratislava?,polymarket:5409325 | predict:3046434,1.0,explicit_platform_link,True,0
-912ae6795de1df37,Exact Score: AS Roma 2 - 2 ŠK Slovan Bratislava?,polymarket:5409327 | predict:3046435,1.0,explicit_platform_link,True,-0.02085893045643802456033906515
-3d5b28ff1b5a8de0,Exact Score: AS Roma 3 - 1 ŠK Slovan Bratislava?,polymarket:5409329 | predict:3046436,1.0,explicit_platform_link,True,-0.7521399873273830571383142816
-21355e8e596c2d03,Exact Score: AS Roma 4 - 0 ŠK Slovan Bratislava?,polymarket:5409331 | predict:3046437,1.0,explicit_platform_link,True,-0.2960182356020942408376963427
-64b8719e512bbdad,Exact Score: AS Roma 0 - 5 ŠK Slovan Bratislava?,polymarket:5409333 | predict:3046438,1.0,explicit_platform_link,True,
-dfb75130be898566,Exact Score: AS Roma 1 - 4 ŠK Slovan Bratislava?,polymarket:5409335 | predict:3046439,1.0,explicit_platform_link,True,-10.16442845726585980149734442
-a63a3b9c95034cf4,Exact Score: AS Roma 2 - 3 ŠK Slovan Bratislava?,polymarket:5409337 | predict:3046440,1.0,explicit_platform_link,True,0
-38a7db872db75359,Exact Score: AS Roma 3 - 2 ŠK Slovan Bratislava?,polymarket:5409339 | predict:3046441,1.0,explicit_platform_link,True,-0.1666450019996633419779927457
-0ac8199979d59faf,Exact Score: AS Roma 4 - 1 ŠK Slovan Bratislava?,polymarket:5409342 | predict:3046442,1.0,explicit_platform_link,True,-0.7117716900946348823752697627
-99e67cf76f9fd69f,Exact Score: AS Roma 5 - 0 ŠK Slovan Bratislava?,polymarket:5409344 | predict:3046443,1.0,explicit_platform_link,True,-0.2917934704902695376101232843
-0ef3dd488d0fa7ec,Exact Score: AS Roma 1 - 5 ŠK Slovan Bratislava?,polymarket:5409346 | predict:3046444,1.0,explicit_platform_link,True,
-ed3a86361f43f68e,Exact Score: AS Roma 2 - 4 ŠK Slovan Bratislava?,polymarket:5409348 | predict:3046445,1.0,explicit_platform_link,True,-2.610063040843974356811610656
-0dc058b3f18bf75d,Exact Score: AS Roma 3 - 3 ŠK Slovan Bratislava?,polymarket:5409350 | predict:3046446,1.0,explicit_platform_link,True,0
-bdf5de51b9d95829,Exact Score: AS Roma 4 - 2 ŠK Slovan Bratislava?,polymarket:5409353 | predict:3046448,1.0,explicit_platform_link,True,-0.7623372503821593108206908265
-8767bccfa9df97ec,Exact Score: AS Roma 5 - 1 ŠK Slovan Bratislava?,polymarket:5409355 | predict:3046450,1.0,explicit_platform_link,True,-0.7709128444868607339449731077
-eda7ad44932e8fb7,Exact Score: AS Roma 2 - 5 ŠK Slovan Bratislava?,polymarket:5409357 | predict:3046452,1.0,explicit_platform_link,True,
-9549ac61e134edbd,Exact Score: AS Roma 3 - 4 ŠK Slovan Bratislava?,polymarket:5409359 | predict:3046453,1.0,explicit_platform_link,True,-12.25567969342998079691057670
-25d1f435f5fd8de8,Exact Score: AS Roma 4 - 3 ŠK Slovan Bratislava?,polymarket:5409361 | predict:3046454,1.0,explicit_platform_link,True,-0.6091310434432339174209254198
-6d94bc6aa3baf15c,Exact Score: AS Roma 5 - 2 ŠK Slovan Bratislava?,polymarket:5409363 | predict:3046455,1.0,explicit_platform_link,True,-0.9889083323814042344142342213
-80b63fc76c7f20b1,Exact Score: AS Roma 3 - 5 ŠK Slovan Bratislava?,polymarket:5409365 | predict:3046456,1.0,explicit_platform_link,True,
-40ff63cf65cb5a3b,Exact Score: AS Roma 4 - 4 ŠK Slovan Bratislava?,polymarket:5409367 | predict:3046457,1.0,explicit_platform_link,True,-2.515793473859852222799193666
-bd2ed9dd56ade648,Exact Score: AS Roma 5 - 3 ŠK Slovan Bratislava?,polymarket:5409369 | predict:3046458,1.0,explicit_platform_link,True,-0.9553065429286893509811068212
-505f014b49dbd2be,Exact Score: AS Roma 4 - 5 ŠK Slovan Bratislava?,polymarket:5409371 | predict:3046460,1.0,explicit_platform_link,True,
-3dc0a1e011403644,Exact Score: AS Roma 5 - 4 ŠK Slovan Bratislava?,polymarket:5409373 | predict:3046462,1.0,explicit_platform_link,True,
-a56f4a71816ebc6c,Exact Score: AS Roma 5 - 5 ŠK Slovan Bratislava?,polymarket:5409374 | predict:3046464,1.0,explicit_platform_link,True,
-c9a4c6ed5c8570c2,Exact Score: Any Other Score?,polymarket:5409376 | predict:3046465,1.0,explicit_platform_link,True,
-03520d2943128f81,AS Roma to score first vs. ŠK Slovan Bratislava?,polymarket:5409382 | predict:3046407,1.0,explicit_platform_link,True,-0.03576279717301490765192790625
-b0bede017a1d1436,ŠK Slovan Bratislava to score first vs. AS Roma?,polymarket:5409383 | predict:3046408,1.0,explicit_platform_link,True,-0.9549187739456029029704653566
-199d59e3b1c2457f,AS Roma vs. ŠK Slovan Bratislava: Neither team to score first?,polymarket:5409384 | predict:3046409,1.0,explicit_platform_link,True,0
-628d71c18cd69af8,Will FC Porto win on 2026-10-20?,polymarket:5409388 | predict:3046398,1.0,explicit_platform_link,True,0.00342332721487995345499426327
-cb37fa9ae455626f,Will FC Porto vs. PSV end in a draw?,polymarket:5409389 | predict:3046399,1.0,explicit_platform_link,True,-1.109323773933904973825610781
-c0b333c47d32ac96,Will PSV win on 2026-10-20?,polymarket:5409390 | predict:3046400,1.0,explicit_platform_link,True,-0.06229839225987594362555065117
-f37d0de1e641097e,FC Porto leading at halftime?,polymarket:5409391 | predict:3046555,1.0,explicit_platform_link,True,-1.094198587328922105176776961
-0a48ae310f314eff,FC Porto vs. PSV: Draw at halftime?,polymarket:5409392 | predict:3046556,1.0,explicit_platform_link,True,-1.434761768869950212090399547
-919f972935c93e79,PSV leading at halftime?,polymarket:5409393 | predict:3046557,1.0,explicit_platform_link,True,-0.5660974685702126538353901768
-14b44ca64967fa77,FC Porto to win the second half?,polymarket:5409394 | predict:3046549,1.0,explicit_platform_link,True,-2.502226361677801715756807439
-009d472ddb13a0cb,FC Porto vs. PSV: Second half draw?,polymarket:5409395 | predict:3046550,1.0,explicit_platform_link,True,0
-be012d8afee01849,PSV to win the second half?,polymarket:5409396 | predict:3046551,1.0,explicit_platform_link,True,0
-c2a809b7669dc8f5,Exact Score: FC Porto 0 - 0 PSV?,polymarket:5409398 | predict:3046157,1.0,explicit_platform_link,True,-0.2643519025234785995425812999
-ca8bcc27e281800a,Exact Score: FC Porto 0 - 1 PSV?,polymarket:5409399 | predict:3046164,1.0,explicit_platform_link,True,-0.3611683520455391337034219928
-9c4074fba9c7d854,Exact Score: FC Porto 1 - 0 PSV?,polymarket:5409400 | predict:3046167,1.0,explicit_platform_link,True,-0.5153514415581837189037626447
-01e2c8d3a88c477b,Exact Score: FC Porto 0 - 2 PSV?,polymarket:5409402 | predict:3046170,1.0,explicit_platform_link,True,-0.2847138207163426259962512817
-dd36a817ead0f7b5,Exact Score: FC Porto 1 - 1 PSV?,polymarket:5409403 | predict:3046173,1.0,explicit_platform_link,True,-0.1768891550785340314136125687
-8f5c0f2e02ef6ad3,Exact Score: FC Porto 2 - 0 PSV?,polymarket:5409404 | predict:3046176,1.0,explicit_platform_link,True,-0.8318662833279595866781901926
-55770d509a7ad3c7,Exact Score: FC Porto 0 - 3 PSV?,polymarket:5409406 | predict:3046178,1.0,explicit_platform_link,True,0
+6471feb59ef29034,Will Fenerbahçe SK win on 2026-10-20?,polymarket:5383472 | predict:3019976,1.0,explicit_platform_link,True,0.4874933765047374620766867349
+2e9940f18617dc70,Exact Score: Al Riyadh Saudi Club 3 - 5 Al Hilal Saudi Club?,polymarket:5214872 | predict:2855805,1.0,explicit_platform_link,True,
+6b55725c3e8b4d43,Exact Score: Al Riyadh Saudi Club 4 - 4 Al Hilal Saudi Club?,polymarket:5214874 | predict:2855807,1.0,explicit_platform_link,True,
+64e53dbbce5a65e3,Exact Score: Al Riyadh Saudi Club 5 - 3 Al Hilal Saudi Club?,polymarket:5214875 | predict:2855809,1.0,explicit_platform_link,True,
+a233e32112a071f6,Exact Score: Al Riyadh Saudi Club 4 - 5 Al Hilal Saudi Club?,polymarket:5214876 | predict:2855811,1.0,explicit_platform_link,True,
+2455fb9d2f273773,Exact Score: Al Riyadh Saudi Club 5 - 4 Al Hilal Saudi Club?,polymarket:5214878 | predict:2855813,1.0,explicit_platform_link,True,
+e1f57e88aedf676d,Exact Score: Al Riyadh Saudi Club 5 - 5 Al Hilal Saudi Club?,polymarket:5214879 | predict:2855815,1.0,explicit_platform_link,True,
+a82fb0bff24aa40a,Exact Score: Any Other Score?,polymarket:5214881 | predict:2855817,1.0,explicit_platform_link,True,
+86fd4399ae637b13,Al Riyadh Saudi Club to score first vs. Al Hilal Saudi Club?,polymarket:5214887 | predict:2855913,1.0,explicit_platform_link,True,
+7a02e8f671fdf43a,Al Hilal Saudi Club to score first vs. Al Riyadh Saudi Club?,polymarket:5214888 | predict:2855916,1.0,explicit_platform_link,True,
+d8a90cc5b7d4e089,Al Riyadh Saudi Club vs. Al Hilal Saudi Club: Neither team to score first?,polymarket:5214890 | predict:2855919,1.0,explicit_platform_link,True,
+92aadeb754034f49,Al Ittihad Saudi Club leading at halftime?,polymarket:5214893 | predict:2855912,1.0,explicit_platform_link,True,
+fadc1308bf41340e,Al Ittihad Saudi Club vs. Al Shabab Saudi Club: Draw at halftime?,polymarket:5214894 | predict:2855914,1.0,explicit_platform_link,True,
+c5d137f35f1f9d9f,Al Shabab Saudi Club leading at halftime?,polymarket:5214895 | predict:2855917,1.0,explicit_platform_link,True,
+e05ac5bd3d684b31,Al Ittihad Saudi Club to win the second half?,polymarket:5214896 | predict:2855932,1.0,explicit_platform_link,True,
+0c27358d4f34f64a,Al Ittihad Saudi Club vs. Al Shabab Saudi Club: Second half draw?,polymarket:5214897 | predict:2855935,1.0,explicit_platform_link,True,
+fa3dca0f2f249e9c,Al Shabab Saudi Club to win the second half?,polymarket:5214898 | predict:2855937,1.0,explicit_platform_link,True,
+2ae58c673b6927ab,Exact Score: Al Ittihad Saudi Club 0 - 0 Al Shabab Saudi Club?,polymarket:5214899 | predict:2855793,1.0,explicit_platform_link,True,
+8b8885969d22c19a,Exact Score: Al Ittihad Saudi Club 0 - 1 Al Shabab Saudi Club?,polymarket:5214900 | predict:2855796,1.0,explicit_platform_link,True,
+3353faf3273e579d,Exact Score: Al Ittihad Saudi Club 1 - 0 Al Shabab Saudi Club?,polymarket:5214901 | predict:2855799,1.0,explicit_platform_link,True,
+d026737d88698665,Exact Score: Al Ittihad Saudi Club 0 - 2 Al Shabab Saudi Club?,polymarket:5214902 | predict:2855802,1.0,explicit_platform_link,True,
+1b17e19712e61f71,Exact Score: Al Ittihad Saudi Club 1 - 1 Al Shabab Saudi Club?,polymarket:5214903 | predict:2855804,1.0,explicit_platform_link,True,
+b1376da5fc906606,Exact Score: Al Ittihad Saudi Club 2 - 0 Al Shabab Saudi Club?,polymarket:5214904 | predict:2855806,1.0,explicit_platform_link,True,
+5e21ba3529878aa6,Exact Score: Al Ittihad Saudi Club 0 - 3 Al Shabab Saudi Club?,polymarket:5214905 | predict:2855808,1.0,explicit_platform_link,True,
+262bac5fe45429d6,Exact Score: Al Ittihad Saudi Club 1 - 2 Al Shabab Saudi Club?,polymarket:5214906 | predict:2855810,1.0,explicit_platform_link,True,
+3165dfcccfd6d643,Exact Score: Al Ittihad Saudi Club 2 - 1 Al Shabab Saudi Club?,polymarket:5214907 | predict:2855812,1.0,explicit_platform_link,True,
+e61095406b09e505,Exact Score: Al Ittihad Saudi Club 3 - 0 Al Shabab Saudi Club?,polymarket:5214908 | predict:2855814,1.0,explicit_platform_link,True,
+01880518d457cc9f,Exact Score: Al Ittihad Saudi Club 0 - 4 Al Shabab Saudi Club?,polymarket:5214909 | predict:2855816,1.0,explicit_platform_link,True,
+706290c1af5c1b2d,Exact Score: Al Ittihad Saudi Club 1 - 3 Al Shabab Saudi Club?,polymarket:5214910 | predict:2855818,1.0,explicit_platform_link,True,
+b5ffc6403baafb22,Exact Score: Al Ittihad Saudi Club 2 - 2 Al Shabab Saudi Club?,polymarket:5214911 | predict:2855819,1.0,explicit_platform_link,True,
+772b09bcefd580e1,Exact Score: Al Ittihad Saudi Club 3 - 1 Al Shabab Saudi Club?,polymarket:5214912 | predict:2855820,1.0,explicit_platform_link,True,
+4c09d0df2a22ac71,Exact Score: Al Ittihad Saudi Club 4 - 0 Al Shabab Saudi Club?,polymarket:5214913 | predict:2855822,1.0,explicit_platform_link,True,
+5bc0cd89620b3aef,Exact Score: Al Ittihad Saudi Club 0 - 5 Al Shabab Saudi Club?,polymarket:5214914 | predict:2855824,1.0,explicit_platform_link,True,
+f33bc9b39bb5d129,Exact Score: Al Ittihad Saudi Club 1 - 4 Al Shabab Saudi Club?,polymarket:5214915 | predict:2855825,1.0,explicit_platform_link,True,
+4a661e12fcef0058,Exact Score: Al Ittihad Saudi Club 2 - 3 Al Shabab Saudi Club?,polymarket:5214916 | predict:2855826,1.0,explicit_platform_link,True,
+75ac180b5a62015e,Exact Score: Al Ittihad Saudi Club 3 - 2 Al Shabab Saudi Club?,polymarket:5214917 | predict:2855827,1.0,explicit_platform_link,True,
+99c823217919a6c7,Exact Score: Al Ittihad Saudi Club 4 - 1 Al Shabab Saudi Club?,polymarket:5214918 | predict:2855828,1.0,explicit_platform_link,True,
+8497234e31ed7a87,Exact Score: Al Ittihad Saudi Club 5 - 0 Al Shabab Saudi Club?,polymarket:5214919 | predict:2855829,1.0,explicit_platform_link,True,
+ee0c6b95ea72bf2a,Exact Score: Al Ittihad Saudi Club 1 - 5 Al Shabab Saudi Club?,polymarket:5214920 | predict:2855830,1.0,explicit_platform_link,True,
+5b711b25e5afea22,Exact Score: Al Ittihad Saudi Club 2 - 4 Al Shabab Saudi Club?,polymarket:5214921 | predict:2855831,1.0,explicit_platform_link,True,
+bd3d806f0297b9a9,Exact Score: Al Ittihad Saudi Club 3 - 3 Al Shabab Saudi Club?,polymarket:5214922 | predict:2855832,1.0,explicit_platform_link,True,
+4c9decbd813721e7,Exact Score: Al Ittihad Saudi Club 4 - 2 Al Shabab Saudi Club?,polymarket:5214923 | predict:2855833,1.0,explicit_platform_link,True,
+9fb80fdc5a1ce4dd,Exact Score: Al Ittihad Saudi Club 5 - 1 Al Shabab Saudi Club?,polymarket:5214924 | predict:2855834,1.0,explicit_platform_link,True,
+e267060e041e1289,Exact Score: Al Ittihad Saudi Club 2 - 5 Al Shabab Saudi Club?,polymarket:5214925 | predict:2855835,1.0,explicit_platform_link,True,
+44586d75305623e4,Exact Score: Al Ittihad Saudi Club 3 - 4 Al Shabab Saudi Club?,polymarket:5214926 | predict:2855836,1.0,explicit_platform_link,True,
+88f244f27a3e110d,Exact Score: Al Ittihad Saudi Club 4 - 3 Al Shabab Saudi Club?,polymarket:5214927 | predict:2855837,1.0,explicit_platform_link,True,
+67853bd9595f0346,Exact Score: Al Ittihad Saudi Club 5 - 2 Al Shabab Saudi Club?,polymarket:5214928 | predict:2855838,1.0,explicit_platform_link,True,
+dd6661bb09788002,Exact Score: Al Ittihad Saudi Club 3 - 5 Al Shabab Saudi Club?,polymarket:5214929 | predict:2855839,1.0,explicit_platform_link,True,
+5e0104b9b05dfc92,Exact Score: Al Ittihad Saudi Club 4 - 4 Al Shabab Saudi Club?,polymarket:5214930 | predict:2855840,1.0,explicit_platform_link,True,
+5c336b04d56466b7,Exact Score: Al Ittihad Saudi Club 5 - 3 Al Shabab Saudi Club?,polymarket:5214931 | predict:2855841,1.0,explicit_platform_link,True,
+aa36ce8dd2256173,Exact Score: Al Ittihad Saudi Club 4 - 5 Al Shabab Saudi Club?,polymarket:5214932 | predict:2855842,1.0,explicit_platform_link,True,
+9383efbdb9d68527,Exact Score: Al Ittihad Saudi Club 5 - 4 Al Shabab Saudi Club?,polymarket:5214933 | predict:2855843,1.0,explicit_platform_link,True,
+164229c9599de435,Exact Score: Al Ittihad Saudi Club 5 - 5 Al Shabab Saudi Club?,polymarket:5214934 | predict:2855844,1.0,explicit_platform_link,True,
+1a15dc73181d7ae5,Exact Score: Any Other Score?,polymarket:5214935 | predict:2855845,1.0,explicit_platform_link,True,
+ccaf89f2ade7ca82,Al Ittihad Saudi Club to score first vs. Al Shabab Saudi Club?,polymarket:5214936 | predict:2855846,1.0,explicit_platform_link,True,
+56bd539810017f92,Al Shabab Saudi Club to score first vs. Al Ittihad Saudi Club?,polymarket:5214937 | predict:2855847,1.0,explicit_platform_link,True,
+bf65a50f7b009f30,Al Ittihad Saudi Club vs. Al Shabab Saudi Club: Neither team to score first?,polymarket:5214938 | predict:2855848,1.0,explicit_platform_link,True,
+308c3f812259a6a5,Al Ittihad Saudi Club vs. Al Shabab Saudi Club: Both Teams to Score,polymarket:5220429 | predict:2861532,1.0,explicit_platform_link,True,
+68a8b9dbb1252684,Al Riyadh Saudi Club vs. Al Hilal Saudi Club: Both Teams to Score,polymarket:5220492 | predict:2861691,1.0,explicit_platform_link,True,
+de4ace93e9240ff4,Will PSOE win the most seats in the 2026 Spanish general election?,polymarket:5336560 | predict:2977692,1.0,explicit_platform_link,False,-0.9308661079432780895041059113
+aa57fb558c70ce94,Will PP win the most seats in the 2026 Spanish general election?,polymarket:5336561 | predict:2977695,1.0,explicit_platform_link,False,-0.4230991076578563430936789560
+a84e4b0a25efc1b2,Will Abha Saudi Club win on 2026-10-19?,polymarket:5339865 | predict:2978257,1.0,explicit_platform_link,True,-3.222259591752257263343078152
+5080b63d35f1454f,Will Abha Saudi Club vs. Al Kholood Saudi Club end in a draw?,polymarket:5339866 | predict:2978261,1.0,explicit_platform_link,True,-4.350908456098588085540052375
+eabd1d6d7bad72e5,Will Al Kholood Saudi Club win on 2026-10-19?,polymarket:5339867 | predict:2978266,1.0,explicit_platform_link,True,0
+2e52a63a84950db8,Abha Saudi Club leading at halftime?,polymarket:5339925 | predict:2978404,1.0,explicit_platform_link,True,
+59999c8da769ff55,Abha Saudi Club vs. Al Kholood Saudi Club: Draw at halftime?,polymarket:5339926 | predict:2978405,1.0,explicit_platform_link,True,-18.61633325552924547963271257
+fdfdfcadf7a66ca8,Al Kholood Saudi Club leading at halftime?,polymarket:5339927 | predict:2978406,1.0,explicit_platform_link,True,
+3e95e74ccb0148b6,Abha Saudi Club to win the second half?,polymarket:5339928 | predict:2978322,1.0,explicit_platform_link,True,
+9f0324bdea606c73,Abha Saudi Club vs. Al Kholood Saudi Club: Second half draw?,polymarket:5339929 | predict:2978326,1.0,explicit_platform_link,True,
+aa9c6d3ffb81ed42,Al Kholood Saudi Club to win the second half?,polymarket:5339930 | predict:2978329,1.0,explicit_platform_link,True,
+d67a8e7c19cdfb39,Exact Score: Abha Saudi Club 0 - 0 Al Kholood Saudi Club?,polymarket:5339931 | predict:2978407,1.0,explicit_platform_link,True,
+e8667de819292455,Exact Score: Abha Saudi Club 0 - 1 Al Kholood Saudi Club?,polymarket:5339932 | predict:2978408,1.0,explicit_platform_link,True,
+51db609166246216,Exact Score: Abha Saudi Club 1 - 0 Al Kholood Saudi Club?,polymarket:5339933 | predict:2978409,1.0,explicit_platform_link,True,
+13aabecb9725b50f,Exact Score: Abha Saudi Club 0 - 2 Al Kholood Saudi Club?,polymarket:5339934 | predict:2978410,1.0,explicit_platform_link,True,
+356a3807bfc663cf,Exact Score: Abha Saudi Club 1 - 1 Al Kholood Saudi Club?,polymarket:5339935 | predict:2978411,1.0,explicit_platform_link,True,-23.87532040085535054916938555
+9e3de80f1cf5f3d7,Exact Score: Abha Saudi Club 2 - 0 Al Kholood Saudi Club?,polymarket:5339936 | predict:2978412,1.0,explicit_platform_link,True,
+31168aa77483133e,Exact Score: Abha Saudi Club 0 - 3 Al Kholood Saudi Club?,polymarket:5339937 | predict:2978414,1.0,explicit_platform_link,True,
+78afb231b52162af,Exact Score: Abha Saudi Club 1 - 2 Al Kholood Saudi Club?,polymarket:5339938 | predict:2978416,1.0,explicit_platform_link,True,
+713d55012f4f6040,Exact Score: Abha Saudi Club 2 - 1 Al Kholood Saudi Club?,polymarket:5339939 | predict:2978418,1.0,explicit_platform_link,True,
+9f14d0dcf0199fd4,Exact Score: Abha Saudi Club 3 - 0 Al Kholood Saudi Club?,polymarket:5339940 | predict:2978419,1.0,explicit_platform_link,True,
+2df10251c67d2f5b,Exact Score: Abha Saudi Club 0 - 4 Al Kholood Saudi Club?,polymarket:5339941 | predict:2978420,1.0,explicit_platform_link,True,
