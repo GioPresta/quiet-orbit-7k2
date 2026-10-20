@@ -1,101 +1,101 @@
 match_id,name,markets,score,match_reason,rules_identical,screening_profit
 0f02053923a7c813,Will October be the best month for Bitcoin in 2026?,polymarket:1296003 | predict:2815582,1.0,explicit_platform_link,True,0.6235573099653935252768853829
+04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
+0a1c607da4c967bd,SPCX Daily Up or Down,limitless:spcx-daily-up-or-down-p-1792429546789 | polymarket:5920638,1.0,explicit_platform_link,True,
 0a717fb8615545dd,Will MSCI (MSCI) beat quarterly earnings?,limitless:will-msci-msci-beat-quarterly-earnings-1791400821864 | polymarket:5412317,1.0,explicit_platform_link,True,
 0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
-19d0b6f706a4c9fb,Will Netflix (NFLX) beat quarterly earnings?,limitless:will-netflix-nflx-beat-quarterly-earnings-1791400848483 | polymarket:5412318,1.0,explicit_platform_link,True,
-22ec352906615f30,"Trump, Putin, and Xi seen together before 2027?",limitless:trump-putin-and-xi-seen-together-before-2027-1790611431074 | polymarket:4960175,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
-0509c568c72a130a,Aston Villa FC vs. Manchester City FC: Both Teams to Score,limitless:aston-villa-and-manchester-city-both-to-score-1792402236331 | predict:3169554,1.0,explicit_platform_link,False,
-743d74c672527467,Will Caleb Williams win the 2026 NFL MVP?,polymarket:1747730 | predict:941955,1.0,explicit_platform_link,True,0.2206185895060956624574754744
-7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,0.1526618319835661018598973742
-61f4a91a610ba089,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,polymarket:2589810 | predict:517146,1.0,explicit_platform_link,True,0.02539423432305819675312296754
-ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,0.2185612552513347884114633116
-a5ce0613a0b45b31,Will 1 Fed rate cut happen in 2026?,polymarket:616903 | predict:12743,1.0,explicit_platform_link,False,0.1825565630150034886661033916
-ef53d0f7e6c4ff8e,Will Athletic Bilbao win the 2026-27 LALIGA Championship?,polymarket:2771490 | predict:934722,1.0,explicit_platform_link,True,0.02393461407163695296506829174
-ea3d514acd6545e1,Will Pete Hegseth win the 2028 US Presidential Election?,polymarket:561264 | predict:932143,1.0,explicit_platform_link,True,1.438718559644159342819363256
-49bfccdc3655da9e,Will SC Freiburg be the 2026-27 Bundesliga champion?,polymarket:2849016 | predict:935733,1.0,explicit_platform_link,True,0.8316727812358300012366544400
-6b271b040b47b129,Will Oura's market cap be between $10B and $12.5B at market close on IPO day?,polymarket:2324606 | predict:394714,1.0,explicit_platform_link,True,0.7130072090253136563267685677
-df36a9fd0d4cacbf,Hyperbeat FDV above $50M one day after launch?,polymarket:690590 | predict:26426,1.0,explicit_platform_link,False,0.6421762894999442560087338764
-1c7366396b13cb0c,Will the Fed’s lower bound reach 3.0% or lower before 2027?,polymarket:690220 | predict:30531,1.0,explicit_platform_link,True,0.6413120170056630199073795903
-dce56f2a60b7bbe7,Will Luxembourg win the UEFA EURO 2028?,polymarket:3004695 | predict:944930,1.0,explicit_platform_link,True,-2.230600508947558191067129387
-5d9b8336667b0d9f,Will Malta win the UEFA EURO 2028?,polymarket:3004696 | predict:944931,1.0,explicit_platform_link,True,-1.402610940543042676931566327
-a5e7a55730665789,Will Moldova win the UEFA EURO 2028?,polymarket:3004697 | predict:944932,1.0,explicit_platform_link,True,-2.038459746528018085318730340
-0f237e5537361cae,Will Montenegro win the UEFA EURO 2028?,polymarket:3004698 | predict:944933,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
-747b710d6e9eab68,Will Netherlands win the UEFA EURO 2028?,polymarket:3004699 | predict:944934,1.0,explicit_platform_link,True,-0.6079553765613587134566992482
-50c938833d9939ff,Will North Macedonia win the UEFA EURO 2028?,polymarket:3004700 | predict:944935,1.0,explicit_platform_link,True,-0.2330906197059912125482643224
-46e783ea8d319038,Will Northern Ireland win the UEFA EURO 2028?,polymarket:3004701 | predict:944936,1.0,explicit_platform_link,True,-0.07616638837504803116450080091
-578ed8c027211ec1,Will Norway win the UEFA EURO 2028?,polymarket:3004702 | predict:944937,1.0,explicit_platform_link,True,-3.089965460792519264397944750
-2b4fc0c123ed30b1,Will Poland win the UEFA EURO 2028?,polymarket:3004703 | predict:944938,1.0,explicit_platform_link,True,-0.8539802018339259005802136313
-f07e4d6026a22b23,Will Portugal win the UEFA EURO 2028?,polymarket:3004704 | predict:944939,1.0,explicit_platform_link,True,-0.7844184736528377923995376266
-28a6e3f4642d7e36,Will Republic of Ireland win the UEFA EURO 2028?,polymarket:3004705 | predict:944940,1.0,explicit_platform_link,True,-0.07616638837504803116450080091
-b1736ea3d96e87f5,Will Romania win the UEFA EURO 2028?,polymarket:3004706 | predict:944941,1.0,explicit_platform_link,True,-1.402610940543042676931566327
-76b754bb50f06968,Will Russia win the UEFA EURO 2028?,polymarket:3004707 | predict:944942,1.0,explicit_platform_link,True,-0.2851687503358520097894016486
-638a1c4d56d6c92a,Will San Marino win the UEFA EURO 2028?,polymarket:3004708 | predict:944943,1.0,explicit_platform_link,True,-2.182717341682086618370258887
-4640169fd145822e,Will Scotland win the UEFA EURO 2028?,polymarket:3004709 | predict:944944,1.0,explicit_platform_link,True,-0.02724812661736619352601552378
-3de5615c5569980a,Will Serbia win the UEFA EURO 2028?,polymarket:3004710 | predict:944945,1.0,explicit_platform_link,True,-0.2330906197059912125482643224
-1311349c200a4b89,Will Slovakia win the UEFA EURO 2028?,polymarket:3004711 | predict:944946,1.0,explicit_platform_link,True,-0.07616638837504803116450080091
-b48bbee9f385a59c,Will Slovenia win the UEFA EURO 2028?,polymarket:3004712 | predict:944947,1.0,explicit_platform_link,True,-0.8505635513620461327002867175
-98c909ca6a9d9ca8,Will Spain win the UEFA EURO 2028?,polymarket:3004713 | predict:944948,1.0,explicit_platform_link,True,-0.9379301508413696219739011911
-13802cdcb8e893eb,Will Sweden win the UEFA EURO 2028?,polymarket:3004714 | predict:944949,1.0,explicit_platform_link,True,-0.1916250845820227704941362068
-aec5e0a679bd177f,Will Switzerland win the UEFA EURO 2028?,polymarket:3004715 | predict:944950,1.0,explicit_platform_link,True,-0.9114894691360708728958148815
-5088bbf54c85d308,Will Turkey win the UEFA EURO 2028?,polymarket:3004716 | predict:944951,1.0,explicit_platform_link,True,-0.7522128670129847475797245036
-bbdd314bc42c8719,Will Ukraine win the UEFA EURO 2028?,polymarket:3004717 | predict:944952,1.0,explicit_platform_link,True,-0.1321846359342767864313933734
-aea5661f459de359,Will Wales win the UEFA EURO 2028?,polymarket:3004718 | predict:944953,1.0,explicit_platform_link,True,-0.1321846359342767864313933734
-0cd96f223c839695,Will any AI model reach a Chatbot Arena score of at least 1540 by December 31?,polymarket:3071802 | predict:1850138,1.0,explicit_platform_link,True,-10.81705341259435075729572241
-063b333d3767c7ac,"Will Warsh be out as Fed Chair by December 31, 2026?",polymarket:3081879 | predict:927729,1.0,explicit_platform_link,True,-0.05263535486110596055240241870
-8bd9c5d7652eb421,"Will Warsh be out as Fed Chair by June 30, 2027?",polymarket:3081880 | predict:927730,1.0,explicit_platform_link,True,-0.2730028169005083649475423190
-2e7bad35862f1495,Will the ECB announce a 50+ bps decrease at the October 2026 meeting?,polymarket:3081963 | predict:929241,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
-683041bffed57f57,Will the ECB announce a 25 bps decrease at the October 2026 meeting?,polymarket:3081964 | predict:929242,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
-00de67fa79aa2267,Will the ECB announce no change at the October 2026 meeting?,polymarket:3081965 | predict:929243,1.0,explicit_platform_link,True,-0.7407471271548489111392580076
-a5d1134852ad615f,Will the ECB announce a 25 bps increase at the October 2026 meeting?,polymarket:3081966 | predict:929244,1.0,explicit_platform_link,True,-0.9283786240047691527654490163
-0844005d34c579a1,Will the ECB announce a 50+ bps increase at the October 2026 meeting?,polymarket:3081967 | predict:929245,1.0,explicit_platform_link,True,-0.02362709424580249215553221662
-e7909a0cfbd964ad,Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?,polymarket:3215010 | predict:1051787,1.0,explicit_platform_link,True,-0.2402222153194199651599057636
-8be03faf554abdb8,Will the Fed decrease interest rates by 25 bps after the January 2027 meeting?,polymarket:3215011 | predict:1051790,1.0,explicit_platform_link,True,-0.7556485662150183578077524487
-fd315a83f0493702,Will there be no change in Fed interest rates after the January 2027 meeting?,polymarket:3215012 | predict:1051794,1.0,explicit_platform_link,True,-1.880060924062423827633059204
-ab01db6cbf3ff8c9,Will the Fed increase interest rates by 25 bps after the January 2027 meeting?,polymarket:3215013 | predict:1051797,1.0,explicit_platform_link,True,-1.304302215798491718438567267
-665d7b643c487759,Will the Fed increase interest rates by 50+ bps after the January 2027 meeting?,polymarket:3215014 | predict:1051799,1.0,explicit_platform_link,True,-0.6465350344626178071561308500
-30fdf8f2108bc309,"Will Bloomberg IPO by December 31, 2026?",polymarket:3231229 | predict:1066448,1.0,explicit_platform_link,True,-1.657532033092949255652925020
-75511a2d20dc4997,"Will Bloomberg IPO by March 31, 2027?",polymarket:3231230 | predict:1066449,1.0,explicit_platform_link,True,-3.127102924073922781437456049
-4201fee3830e10ac,"Will Bloomberg IPO by June 30, 2027?",polymarket:3231231 | predict:1066451,1.0,explicit_platform_link,True,-1.383362277612153341655596029
-ef27708be9050207,"Will Bloomberg IPO by September 30, 2027?",polymarket:3231232 | predict:1066452,1.0,explicit_platform_link,True,0
-2048dc876e78251c,"Will Bloomberg IPO by December 31, 2027?",polymarket:3231233 | predict:1066453,1.0,explicit_platform_link,True,-2.193449590221664766036537657
-45515c9e37eed2d8,"SCOTUS accepts sports event contract case by October 31, 2026?",polymarket:3231548 | predict:1849770,1.0,explicit_platform_link,True,0.1605780810919309514251304697
-5621344dc95a0830,Will HLE be number 1 on the end of year Global Power Rankings?,polymarket:3236055 | predict:1070738,1.0,explicit_platform_link,True,-0.8098187770143782650030873706
-da5f35bbab83ba2e,Will BLG be number 1 on the end of year Global Power Rankings?,polymarket:3236056 | predict:1070740,1.0,explicit_platform_link,True,-2.237294009962654583391001037
-9d7e91d3fdaf40e8,Will GEN be number 1 on the end of year Global Power Rankings?,polymarket:3236057 | predict:1070742,1.0,explicit_platform_link,True,-2.698366259997788507611219629
-effaf9a376ded881,Will T1 be number 1 on the end of year Global Power Rankings?,polymarket:3236058 | predict:1070743,1.0,explicit_platform_link,True,0
-1350f640e00ca7f5,Will G2 be number 1 on the end of year Global Power Rankings?,polymarket:3236059 | predict:1070746,1.0,explicit_platform_link,True,-4.847592545300766363651716227
-441c34e1587f3b32,Will LYON be number 1 on the end of year Global Power Rankings?,polymarket:3236060 | predict:1070748,1.0,explicit_platform_link,True,-0.4442359215378517303660983077
-0e40bbb1b7217402,Will TES be number 1 on the end of year Global Power Rankings?,polymarket:3236061 | predict:1070749,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-ef78e494cdde5efa,Will KC be number 1 on the end of year Global Power Rankings?,polymarket:3236062 | predict:1070751,1.0,explicit_platform_link,True,-24.94900022054603528416970387
-2cc08147b8697eef,Will AL be number 1 on the end of year Global Power Rankings?,polymarket:3236063 | predict:1070753,1.0,explicit_platform_link,True,-24.79284900848011019116859735
-61ac40d6fb244963,Will KT be number 1 on the end of year Global Power Rankings?,polymarket:3236064 | predict:1070754,1.0,explicit_platform_link,True,-24.94900022054603528416970387
-405c76e1008e1864,Will FLY be number 1 on the end of year Global Power Rankings?,polymarket:3236065 | predict:1070755,1.0,explicit_platform_link,True,
-80ef55cd74a3e216,Will JDG be number 1 on the end of year Global Power Rankings?,polymarket:3236066 | predict:1070756,1.0,explicit_platform_link,True,-24.94900022054603528416970387
-70e1c9c2e15af80a,Will DK be number 1 on the end of year Global Power Rankings?,polymarket:3236067 | predict:1070757,1.0,explicit_platform_link,True,-24.76899674732702867798532430
-044f87d06b23f052,Will TLAW be number 1 on the end of year Global Power Rankings?,polymarket:3236068 | predict:1070758,1.0,explicit_platform_link,True,
-c70c1d54726475e5,Will WBG be number 1 on the end of year Global Power Rankings?,polymarket:3236069 | predict:1070759,1.0,explicit_platform_link,True,
-aa8e1642200a3692,Will TSW be number 1 on the end of year Global Power Rankings?,polymarket:3236070 | predict:1070760,1.0,explicit_platform_link,True,
-acc4f5a23a0e05e6,Will CFO be number 1 on the end of year Global Power Rankings?,polymarket:3236071 | predict:1070761,1.0,explicit_platform_link,True,
-7140a52aa8cde7ef,Will C9 be number 1 on the end of year Global Power Rankings?,polymarket:3236072 | predict:1070762,1.0,explicit_platform_link,True,
-6fb0cec92d3ee9d3,Will NIP be number 1 on the end of year Global Power Rankings?,polymarket:3236073 | predict:1070763,1.0,explicit_platform_link,True,
-a327faa419d2172f,Will MKOI be number 1 on the end of year Global Power Rankings?,polymarket:3236074 | predict:1070764,1.0,explicit_platform_link,True,
-ed4b6b0a8d50ddc3,Will WE be number 1 on the end of year Global Power Rankings?,polymarket:3236075 | predict:1070765,1.0,explicit_platform_link,True,
-59941c6417041834,Will IG be number 1 on the end of year Global Power Rankings?,polymarket:3236076 | predict:1070766,1.0,explicit_platform_link,True,-24.86481504557524680591207538
-76b2d0b872072fd9,Will GAM be number 1 on the end of year Global Power Rankings?,polymarket:3236077 | predict:1070767,1.0,explicit_platform_link,True,
-99a506fbec626216,Will BFX be number 1 on the end of year Global Power Rankings?,polymarket:3236078 | predict:1070768,1.0,explicit_platform_link,True,
-6a7870e1290e5847,Will DCG be number 1 on the end of year Global Power Rankings?,polymarket:3236079 | predict:1070769,1.0,explicit_platform_link,True,-24.97358597318392912732409553
-0755de0e11fb614c,"SSI public model released by October 31, 2026?",polymarket:3502550 | predict:1320952,1.0,explicit_platform_link,True,-1.740944732543856220416234415
-88da656268395297,Will Alibaba have the best Chinese AI model at the end of October 2026?,polymarket:3554471 | predict:1361966,1.0,explicit_platform_link,True,0
-e081e1617fa02621,Will Moonshot have the best Chinese AI model at the end of October 2026?,polymarket:3554472 | predict:1361967,1.0,explicit_platform_link,True,-0.5232177008218703102736497608
-30ea44f653bdd036,Will Baidu have the best Chinese AI model at the end of October 2026?,polymarket:3554473 | predict:1361970,1.0,explicit_platform_link,True,-24.74017656747230646071998179
-baf43af2362234ae,Will Z.ai have the best Chinese AI model at the end of October 2026?,polymarket:3554474 | predict:1361972,1.0,explicit_platform_link,True,-7.495837701442027847500523689
-d7bc6835d7fd3eb0,Will Xiaomi have the best Chinese AI model at the end of October 2026?,polymarket:3554475 | predict:1361974,1.0,explicit_platform_link,True,-2.956430002443195699975568040
-ce74d1b7c5da830d,Will DeepSeek have the best Chinese AI model at the end of October 2026?,polymarket:3554476 | predict:1361977,1.0,explicit_platform_link,True,-6.737125851098217320819862705
-211000b5eafbb33a,Will ByteDance have the best Chinese AI model at the end of October 2026?,polymarket:3554477 | predict:1361980,1.0,explicit_platform_link,True,-24.80134302245098999277449623
-7403ead29c14c930,Will MiniMax have the best Chinese AI model at the end of October 2026?,polymarket:3554478 | predict:1361981,1.0,explicit_platform_link,True,-7.161810561314242522877154074
-294d8f10228d49c4,Will Meituan have the best Chinese AI model at the end of October 2026?,polymarket:3554479 | predict:1361983,1.0,explicit_platform_link,True,
-0bf763db6f29833b,Will Tencent have the best Chinese AI model at the end of October 2026?,polymarket:3554480 | predict:1361986,1.0,explicit_platform_link,True,-24.80134302245098999277449623
-ffc36101685ce99e,Will StepFun have the best Chinese AI model at the end of October 2026?,polymarket:3554481 | predict:1361988,1.0,explicit_platform_link,True,
+0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
+c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.9239771247483583341511429916
+3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.1171605822620203402488688430
+0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
+ff04c3cc8d1a6546,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,polymarket:2589813 | predict:517145,1.0,explicit_platform_link,True,0.7213939791226179960862233387
+fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nomination?,polymarket:561975 | predict:933798,1.0,explicit_platform_link,True,0.3203645866784373348410176071
+bc73426458f987eb,Will the Tampa Bay Rays win the 2026 World Series?,polymarket:1235549 | predict:17368,1.0,explicit_platform_link,True,1.314867369778637808268824198
+2b40a9e64fd3f50c,"Next White House Press Secretary announced by December 31, 2026?",polymarket:5784291 | predict:3415545,1.0,explicit_platform_link,True,4.107942498152042904059214697
+ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
+7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,1.939749689036411438094993444
+3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,0.8354525971139238976849864797
+9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
+e34a800d0fc23109,Al Fateh Saudi Club vs. Al Shabab Saudi Club: Neither team to score first?,polymarket:5441790 | predict:3076657,1.0,explicit_platform_link,True,
+bf494048fd6cc6fe,Will Al Ahli Saudi Club win on 2026-10-22?,polymarket:5441791 | predict:3076689,1.0,explicit_platform_link,True,-1.206624678663239074550128535
+af1518b3cdb1b874,Will Al Ahli Saudi Club vs. Al Khaleej Saudi Club end in a draw?,polymarket:5441792 | predict:3076690,1.0,explicit_platform_link,True,-1.493350364415057479900818976
+5bd6dae0941f3824,Will Al Khaleej Saudi Club win on 2026-10-22?,polymarket:5441793 | predict:3076691,1.0,explicit_platform_link,True,-2.222302416791309502237428475
+6697269721ca69b0,Al Ahli Saudi Club leading at halftime?,polymarket:5441794 | predict:3076670,1.0,explicit_platform_link,True,-20.54422429281094119100396311
+e73ea5fcb7077ce5,Al Ahli Saudi Club vs. Al Khaleej Saudi Club: Draw at halftime?,polymarket:5441795 | predict:3076671,1.0,explicit_platform_link,True,-17.41521905735087495210116234
+8ef52f287eb7bf91,Al Khaleej Saudi Club leading at halftime?,polymarket:5441796 | predict:3076672,1.0,explicit_platform_link,True,-13.75058788202893824331048695
+d5780064b5ab60f7,Exact Score: Al Ahli Saudi Club 0 - 0 Al Khaleej Saudi Club?,polymarket:5441797 | predict:3076977,1.0,explicit_platform_link,True,
+0c86f574ac4dca6a,Exact Score: Al Ahli Saudi Club 0 - 1 Al Khaleej Saudi Club?,polymarket:5441798 | predict:3076981,1.0,explicit_platform_link,True,
+a48d5d194438b9c2,Exact Score: Al Ahli Saudi Club 1 - 0 Al Khaleej Saudi Club?,polymarket:5441799 | predict:3076984,1.0,explicit_platform_link,True,
+88c7c004611eb794,Exact Score: Al Ahli Saudi Club 0 - 2 Al Khaleej Saudi Club?,polymarket:5441800 | predict:3076987,1.0,explicit_platform_link,True,
+d5d9a78206199f23,Exact Score: Al Ahli Saudi Club 1 - 1 Al Khaleej Saudi Club?,polymarket:5441801 | predict:3076989,1.0,explicit_platform_link,True,
+4008f9d404b79eaf,Exact Score: Al Ahli Saudi Club 2 - 0 Al Khaleej Saudi Club?,polymarket:5441802 | predict:3076992,1.0,explicit_platform_link,True,
+9eb1919293e2d48c,Exact Score: Al Ahli Saudi Club 0 - 3 Al Khaleej Saudi Club?,polymarket:5441803 | predict:3076995,1.0,explicit_platform_link,True,
+a23d89dffe6e7d29,Exact Score: Al Ahli Saudi Club 1 - 2 Al Khaleej Saudi Club?,polymarket:5441804 | predict:3076998,1.0,explicit_platform_link,True,
+4d85e9268694dcc6,Exact Score: Al Ahli Saudi Club 2 - 1 Al Khaleej Saudi Club?,polymarket:5441805 | predict:3077001,1.0,explicit_platform_link,True,
+f30c83b74776aa56,Exact Score: Al Ahli Saudi Club 3 - 0 Al Khaleej Saudi Club?,polymarket:5441806 | predict:3077005,1.0,explicit_platform_link,True,
+64ca452ca1c2e250,Exact Score: Al Ahli Saudi Club 0 - 4 Al Khaleej Saudi Club?,polymarket:5441807 | predict:3077008,1.0,explicit_platform_link,True,
+d4d6b854be3e4d68,Exact Score: Al Ahli Saudi Club 1 - 3 Al Khaleej Saudi Club?,polymarket:5441808 | predict:3077011,1.0,explicit_platform_link,True,
+ea3c53b0a28c9bb6,Exact Score: Al Ahli Saudi Club 2 - 2 Al Khaleej Saudi Club?,polymarket:5441809 | predict:3077014,1.0,explicit_platform_link,True,
+45ba97d6beb92770,Exact Score: Al Ahli Saudi Club 3 - 1 Al Khaleej Saudi Club?,polymarket:5441810 | predict:3077017,1.0,explicit_platform_link,True,
+82c0ea3a00df9db4,Exact Score: Al Ahli Saudi Club 4 - 0 Al Khaleej Saudi Club?,polymarket:5441811 | predict:3077019,1.0,explicit_platform_link,True,
+b6e3262a2e5c66b4,Exact Score: Al Ahli Saudi Club 0 - 5 Al Khaleej Saudi Club?,polymarket:5441812 | predict:3077022,1.0,explicit_platform_link,True,
+85e79faa0e1c1a52,Exact Score: Al Ahli Saudi Club 1 - 4 Al Khaleej Saudi Club?,polymarket:5441813 | predict:3077026,1.0,explicit_platform_link,True,
+93ecc125a89bcecd,Exact Score: Al Ahli Saudi Club 2 - 3 Al Khaleej Saudi Club?,polymarket:5441814 | predict:3077028,1.0,explicit_platform_link,True,
+2537aff9d832b37e,Exact Score: Al Ahli Saudi Club 3 - 2 Al Khaleej Saudi Club?,polymarket:5441815 | predict:3077031,1.0,explicit_platform_link,True,
+322a6cd663e17451,Exact Score: Al Ahli Saudi Club 4 - 1 Al Khaleej Saudi Club?,polymarket:5441816 | predict:3077033,1.0,explicit_platform_link,True,
+b3b89c63c379178d,Exact Score: Al Ahli Saudi Club 5 - 0 Al Khaleej Saudi Club?,polymarket:5441817 | predict:3077036,1.0,explicit_platform_link,True,
+f2a189a324797512,Exact Score: Al Ahli Saudi Club 1 - 5 Al Khaleej Saudi Club?,polymarket:5441818 | predict:3077039,1.0,explicit_platform_link,True,
+2e6aefe401dee741,Exact Score: Al Ahli Saudi Club 2 - 4 Al Khaleej Saudi Club?,polymarket:5441819 | predict:3077043,1.0,explicit_platform_link,True,
+ebcdb90932f6b2ad,Exact Score: Al Ahli Saudi Club 3 - 3 Al Khaleej Saudi Club?,polymarket:5441820 | predict:3077046,1.0,explicit_platform_link,True,
+f3979ef04bc48f66,Exact Score: Al Ahli Saudi Club 4 - 2 Al Khaleej Saudi Club?,polymarket:5441821 | predict:3077048,1.0,explicit_platform_link,True,
+5d6ee3a5c992a5d2,Exact Score: Al Ahli Saudi Club 5 - 1 Al Khaleej Saudi Club?,polymarket:5441822 | predict:3077053,1.0,explicit_platform_link,True,
+1f854cb12b591003,Exact Score: Al Ahli Saudi Club 2 - 5 Al Khaleej Saudi Club?,polymarket:5441823 | predict:3077056,1.0,explicit_platform_link,True,
+65f3889d3b7832f1,Exact Score: Al Ahli Saudi Club 3 - 4 Al Khaleej Saudi Club?,polymarket:5441824 | predict:3077059,1.0,explicit_platform_link,True,
+bdeef37c544cd599,Exact Score: Al Ahli Saudi Club 4 - 3 Al Khaleej Saudi Club?,polymarket:5441825 | predict:3077062,1.0,explicit_platform_link,True,
+d4ce7879b977c31e,Exact Score: Al Ahli Saudi Club 5 - 2 Al Khaleej Saudi Club?,polymarket:5441826 | predict:3077065,1.0,explicit_platform_link,True,
+ba3a7c5dcc280df6,Exact Score: Al Ahli Saudi Club 3 - 5 Al Khaleej Saudi Club?,polymarket:5441827 | predict:3077068,1.0,explicit_platform_link,True,
+7ff5b5ed290311a9,Exact Score: Al Ahli Saudi Club 4 - 4 Al Khaleej Saudi Club?,polymarket:5441828 | predict:3077071,1.0,explicit_platform_link,True,
+3953a08caf2afb48,Exact Score: Al Ahli Saudi Club 5 - 3 Al Khaleej Saudi Club?,polymarket:5441829 | predict:3077074,1.0,explicit_platform_link,True,
+6d9a02ba7fdfdce2,Exact Score: Al Ahli Saudi Club 4 - 5 Al Khaleej Saudi Club?,polymarket:5441830 | predict:3077077,1.0,explicit_platform_link,True,
+d45175f23acf2bdc,Exact Score: Al Ahli Saudi Club 5 - 4 Al Khaleej Saudi Club?,polymarket:5441831 | predict:3077080,1.0,explicit_platform_link,True,
+467068a6eb6557d5,Exact Score: Al Ahli Saudi Club 5 - 5 Al Khaleej Saudi Club?,polymarket:5441832 | predict:3077084,1.0,explicit_platform_link,True,
+4f678c5848271520,Exact Score: Any Other Score?,polymarket:5441833 | predict:3077086,1.0,explicit_platform_link,True,
+a44340f2e8109f70,Al Ahli Saudi Club to score first vs. Al Khaleej Saudi Club?,polymarket:5441834 | predict:3076681,1.0,explicit_platform_link,True,-17.34878072537492576893952485
+07a65d4d78517278,Al Khaleej Saudi Club to score first vs. Al Ahli Saudi Club?,polymarket:5441835 | predict:3076682,1.0,explicit_platform_link,True,-14.27910278986319610113681549
+3d49dfb6f7dd57bc,Al Ahli Saudi Club vs. Al Khaleej Saudi Club: Neither team to score first?,polymarket:5441836 | predict:3076683,1.0,explicit_platform_link,True,-10.53943589040004602808598400
+65047ed59dbb3955,Al Ahli Saudi Club vs. Al Khaleej Saudi Club: Both Teams to Score,polymarket:5445123 | predict:3080468,1.0,explicit_platform_link,True,-3.703904761904761904761904765
+5eb3c9c66632b72e,Al Fateh Saudi Club vs. Al Shabab Saudi Club: Both Teams to Score,polymarket:5445169 | predict:3080204,1.0,explicit_platform_link,True,-18.19240073017257810531217181
+d22136f3ed3aca6b,Al Hazem SC vs. Al Fayha Saudi Club: Both Teams to Score,polymarket:5445217 | predict:3080251,1.0,explicit_platform_link,True,-19.33972966241094174252083267
+b1b9248dab5c249c,Will Beşiktaş JK win on 2026-10-22?,polymarket:5470209 | predict:3105521,1.0,explicit_platform_link,True,-1.558720080644920296401957542
+63e2600ec01cc772,Will Beşiktaş JK vs. Crystal Palace FC end in a draw?,polymarket:5470210 | predict:3105522,1.0,explicit_platform_link,True,-1.202403304543747653022906485
+cf386944ec5e3502,Will Crystal Palace FC win on 2026-10-22?,polymarket:5470211 | predict:3105523,1.0,explicit_platform_link,True,-0.3606935436521507540425944082
+e1463ce88a0ead1e,Beşiktaş JK leading at halftime?,polymarket:5470212 | predict:3104401,1.0,explicit_platform_link,True,0
+298dd5c68cd3e167,Beşiktaş JK vs. Crystal Palace FC: Draw at halftime?,polymarket:5470213 | predict:3104405,1.0,explicit_platform_link,True,0
+223d458316cbe715,Crystal Palace FC leading at halftime?,polymarket:5470214 | predict:3104410,1.0,explicit_platform_link,True,-0.9496841722885313959522573920
+5c87bf25730e6872,Beşiktaş JK to win the second half?,polymarket:5470215 | predict:3104402,1.0,explicit_platform_link,True,-19.68756881576658178628393036
+271eb80eedfecf61,Beşiktaş JK vs. Crystal Palace FC: Second half draw?,polymarket:5470216 | predict:3104406,1.0,explicit_platform_link,True,-16.27487018662279574314945249
+39ee5893fddadb78,Crystal Palace FC to win the second half?,polymarket:5470217 | predict:3104411,1.0,explicit_platform_link,True,-24.39711621831543014966074665
+c6be187f7ea81651,Exact Score: Beşiktaş JK 0 - 0 Crystal Palace FC?,polymarket:5470218 | predict:3104490,1.0,explicit_platform_link,True,-10.39211610036981714410370241
+f502fcfa86b287fc,Exact Score: Beşiktaş JK 0 - 1 Crystal Palace FC?,polymarket:5470219 | predict:3104491,1.0,explicit_platform_link,True,-10.60164713478127041088280120
+e6edc8793ac8e41c,Exact Score: Beşiktaş JK 1 - 0 Crystal Palace FC?,polymarket:5470220 | predict:3104492,1.0,explicit_platform_link,True,-10.32282935391110159380831474
+1059eaaec5d0ab02,Exact Score: Beşiktaş JK 0 - 2 Crystal Palace FC?,polymarket:5470221 | predict:3104493,1.0,explicit_platform_link,True,-2.027053092134543766494385536
+d503e01d839f42da,Exact Score: Beşiktaş JK 1 - 1 Crystal Palace FC?,polymarket:5470222 | predict:3104494,1.0,explicit_platform_link,True,-10.99315305834137432425101190
+d6e791c0f6cbe9d3,Exact Score: Beşiktaş JK 2 - 0 Crystal Palace FC?,polymarket:5470223 | predict:3104495,1.0,explicit_platform_link,True,-10.60164713478127041088280120
+6f134b3d6a948253,Exact Score: Beşiktaş JK 0 - 3 Crystal Palace FC?,polymarket:5470224 | predict:3104496,1.0,explicit_platform_link,True,-1.471693380736045140514461222
+e96a14fe22ff66e5,Exact Score: Beşiktaş JK 1 - 2 Crystal Palace FC?,polymarket:5470225 | predict:3104497,1.0,explicit_platform_link,True,-6.481854216941719223240329600
+5b1d63366084ea59,Exact Score: Beşiktaş JK 2 - 1 Crystal Palace FC?,polymarket:5470226 | predict:3104498,1.0,explicit_platform_link,True,-10.81827801567329328376934801
+882552a057d73491,Exact Score: Beşiktaş JK 3 - 0 Crystal Palace FC?,polymarket:5470227 | predict:3104499,1.0,explicit_platform_link,True,-1.384183939419938112715180299
+23b4d2aac08aa514,Exact Score: Beşiktaş JK 0 - 4 Crystal Palace FC?,polymarket:5470228 | predict:3104500,1.0,explicit_platform_link,True,
+aa0756b31c6c66c7,Exact Score: Beşiktaş JK 1 - 3 Crystal Palace FC?,polymarket:5470229 | predict:3104501,1.0,explicit_platform_link,True,-1.666915224138843272083042892
+ce822622d61d7670,Exact Score: Beşiktaş JK 2 - 2 Crystal Palace FC?,polymarket:5470230 | predict:3104502,1.0,explicit_platform_link,True,-10.62174732705515825249592864
+8f564e06f9b0e6c0,Exact Score: Beşiktaş JK 3 - 1 Crystal Palace FC?,polymarket:5470231 | predict:3104503,1.0,explicit_platform_link,True,-10.65476502951016199101297811
+c5caf55fd1e1d615,Exact Score: Beşiktaş JK 4 - 0 Crystal Palace FC?,polymarket:5470232 | predict:3104504,1.0,explicit_platform_link,True,-2.126428068114601634276751916
+6e9da194f365d96c,Exact Score: Beşiktaş JK 0 - 5 Crystal Palace FC?,polymarket:5470233 | predict:3104505,1.0,explicit_platform_link,True,
+92050e3b3ea0b289,Exact Score: Beşiktaş JK 1 - 4 Crystal Palace FC?,polymarket:5470234 | predict:3104506,1.0,explicit_platform_link,True,
+aaade5fab3fdf09f,Exact Score: Beşiktaş JK 2 - 3 Crystal Palace FC?,polymarket:5470235 | predict:3104507,1.0,explicit_platform_link,True,-0.7623372503821593108206908265
+bc6fd7f2079492e2,Exact Score: Beşiktaş JK 3 - 2 Crystal Palace FC?,polymarket:5470236 | predict:3104508,1.0,explicit_platform_link,True,-15.52556599330602793502156905
+6b5bb34cbf334753,Exact Score: Beşiktaş JK 4 - 1 Crystal Palace FC?,polymarket:5470237 | predict:3104509,1.0,explicit_platform_link,True,-2.863278107672356621647299508
+5b1b8c3551280db8,Exact Score: Beşiktaş JK 5 - 0 Crystal Palace FC?,polymarket:5470238 | predict:3104510,1.0,explicit_platform_link,True,
