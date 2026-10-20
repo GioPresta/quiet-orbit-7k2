@@ -1,101 +1,101 @@
 match_id,name,markets,score,match_reason,rules_identical,screening_profit
+04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
 0a717fb8615545dd,Will MSCI (MSCI) beat quarterly earnings?,limitless:will-msci-msci-beat-quarterly-earnings-1791400821864 | polymarket:5412317,1.0,explicit_platform_link,True,
 0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
-19d0b6f706a4c9fb,Will Netflix (NFLX) beat quarterly earnings?,limitless:will-netflix-nflx-beat-quarterly-earnings-1791400848483 | polymarket:5412318,1.0,explicit_platform_link,True,
-22ec352906615f30,"Trump, Putin, and Xi seen together before 2027?",limitless:trump-putin-and-xi-seen-together-before-2027-1790611431074 | polymarket:4960175,1.0,explicit_platform_link,True,
+11cd37cc7972d507,US Government removes public access to another Anthropic AI model in 2026?,limitless:us-government-removes-public-access-to-another-anthropic-ai-model-in-2-1790774745313 | polymarket:2787891,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0509c568c72a130a,Aston Villa FC vs. Manchester City FC: Both Teams to Score,limitless:aston-villa-and-manchester-city-both-to-score-1792402236331 | predict:3169554,1.0,explicit_platform_link,False,
-743d74c672527467,Will Caleb Williams win the 2026 NFL MVP?,polymarket:1747730 | predict:941955,1.0,explicit_platform_link,True,0.2206185895060956624574754744
-7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,0.1526618319835661018598973742
+3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.2653462546129285131710005147
+28ed8810a1c1ea39,Will Delcy Rodríguez be the leader of Venezuela end of 2026?,polymarket:1105742 | predict:935753,1.0,explicit_platform_link,True,0.0858225816301199834505585432
+ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,0.0812002890970194720959511868
 61f4a91a610ba089,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,polymarket:2589810 | predict:517146,1.0,explicit_platform_link,True,0.02539423432305819675312296754
-ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,0.2185612552513347884114633116
+043ca3adb53894bf,Tesla and SpaceX merger officially announced by December 31?,polymarket:2252540 | predict:1283446,1.0,explicit_platform_link,True,0.2235029838215606634748474066
 a5ce0613a0b45b31,Will 1 Fed rate cut happen in 2026?,polymarket:616903 | predict:12743,1.0,explicit_platform_link,False,0.1825565630150034886661033916
-ef53d0f7e6c4ff8e,Will Athletic Bilbao win the 2026-27 LALIGA Championship?,polymarket:2771490 | predict:934722,1.0,explicit_platform_link,True,0.02393461407163695296506829174
+c64223aebc9f01c9,"Will Bitcoin reach $105,000 in October?",polymarket:5170728 | predict:2813852,1.0,explicit_platform_link,True,0.04019966799123126666550984345
+d5959224b7eca5d4,Will Toronto Raptors win the 2027 NBA Finals?,polymarket:2243309 | predict:927669,1.0,explicit_platform_link,True,0.2405785856834661016472211039
 ea3d514acd6545e1,Will Pete Hegseth win the 2028 US Presidential Election?,polymarket:561264 | predict:932143,1.0,explicit_platform_link,True,1.438718559644159342819363256
 49bfccdc3655da9e,Will SC Freiburg be the 2026-27 Bundesliga champion?,polymarket:2849016 | predict:935733,1.0,explicit_platform_link,True,0.8316727812358300012366544400
 6b271b040b47b129,Will Oura's market cap be between $10B and $12.5B at market close on IPO day?,polymarket:2324606 | predict:394714,1.0,explicit_platform_link,True,0.7130072090253136563267685677
 df36a9fd0d4cacbf,Hyperbeat FDV above $50M one day after launch?,polymarket:690590 | predict:26426,1.0,explicit_platform_link,False,0.6421762894999442560087338764
-1c7366396b13cb0c,Will the Fed’s lower bound reach 3.0% or lower before 2027?,polymarket:690220 | predict:30531,1.0,explicit_platform_link,True,0.6413120170056630199073795903
-90c2a12baea655b8,Opensea FDV above $2B one day after launch?,polymarket:936450 | predict:900,1.0,explicit_platform_link,True,0.6144101959329825962254665072
-d71706b4495699e7,Exact Score: Any Other Score?,polymarket:5438071 | predict:3073843,1.0,explicit_platform_link,True,
-00304c100bfea443,RU Saint-Gilloise to score first vs. MH Hapoel Be'er Sheva?,polymarket:5438072 | predict:3074080,1.0,explicit_platform_link,True,-5.201523497898917948310634998
-8e473b7bda3efec9,MH Hapoel Be'er Sheva to score first vs. RU Saint-Gilloise?,polymarket:5438073 | predict:3074083,1.0,explicit_platform_link,True,-22.05609166986900066668440877
-439c77759b4f244b,RU Saint-Gilloise vs. MH Hapoel Be'er Sheva: Neither team to score first?,polymarket:5438074 | predict:3074085,1.0,explicit_platform_link,True,-3.849605045947030126684770654
-c118932da94c67e1,Will Juventus FC win on 2026-10-22?,polymarket:5438075 | predict:3073759,1.0,explicit_platform_link,True,-1.454842555525506880934877726
-82df5543327c7606,Will Juventus FC vs. Stade Rennais FC 1901 end in a draw?,polymarket:5438076 | predict:3073762,1.0,explicit_platform_link,True,-1.615855296067541650740062484
-625f0cc48bf70275,Will Stade Rennais FC 1901 win on 2026-10-22?,polymarket:5438077 | predict:3073763,1.0,explicit_platform_link,True,-0.826967741935483870967741920
-a10a32d47476a9d2,Juventus FC leading at halftime?,polymarket:5438078 | predict:3073269,1.0,explicit_platform_link,True,-4.503754404725218284540318443
-eeb65e4b7db69e4f,Juventus FC vs. Stade Rennais FC 1901: Draw at halftime?,polymarket:5438079 | predict:3073270,1.0,explicit_platform_link,True,-5.075699463917525773195876293
-468cf11c9b0150c9,Stade Rennais FC 1901 leading at halftime?,polymarket:5438080 | predict:3073271,1.0,explicit_platform_link,True,-0.9215014014606155451225873809
-0bea11d8b2fbc8d3,Juventus FC to win the second half?,polymarket:5438081 | predict:3073272,1.0,explicit_platform_link,True,
-73cbe43e0a760466,Juventus FC vs. Stade Rennais FC 1901: Second half draw?,polymarket:5438082 | predict:3073273,1.0,explicit_platform_link,True,-23.03999445943992371141461261
-565e3e78e607f447,Stade Rennais FC 1901 to win the second half?,polymarket:5438083 | predict:3073274,1.0,explicit_platform_link,True,
-dcab08475b85bdf2,Exact Score: Juventus FC 0 - 0 Stade Rennais FC 1901?,polymarket:5438084 | predict:3073951,1.0,explicit_platform_link,True,-24.68454255771244470530574598
-fc645e1d33f8145b,Exact Score: Juventus FC 0 - 1 Stade Rennais FC 1901?,polymarket:5438085 | predict:3073952,1.0,explicit_platform_link,True,-24.70894293414957262572199702
-ff0e2ca83d33f61a,Exact Score: Juventus FC 1 - 0 Stade Rennais FC 1901?,polymarket:5438086 | predict:3073953,1.0,explicit_platform_link,True,-7.435339024494675491777926245
-7c0e86d78304e064,Exact Score: Juventus FC 0 - 2 Stade Rennais FC 1901?,polymarket:5438087 | predict:3073954,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-1d1f1ac2109d83e7,Exact Score: Juventus FC 1 - 1 Stade Rennais FC 1901?,polymarket:5438088 | predict:3073955,1.0,explicit_platform_link,True,-3.076721809768076181742776201
-8edaf6f2ed1be5e9,Exact Score: Juventus FC 2 - 0 Stade Rennais FC 1901?,polymarket:5438089 | predict:3073956,1.0,explicit_platform_link,True,-7.597165198725702311794068041
-3869fe98bb3f308e,Exact Score: Juventus FC 0 - 3 Stade Rennais FC 1901?,polymarket:5438090 | predict:3073957,1.0,explicit_platform_link,True,
-02dbb9139da11858,Exact Score: Juventus FC 1 - 2 Stade Rennais FC 1901?,polymarket:5438091 | predict:3073958,1.0,explicit_platform_link,True,-7.220521440255123095571783592
-bc1bf00591416252,Exact Score: Juventus FC 2 - 1 Stade Rennais FC 1901?,polymarket:5438092 | predict:3073959,1.0,explicit_platform_link,True,-24.00550485029972889320358986
-92b75376e7bee8e0,Exact Score: Juventus FC 3 - 0 Stade Rennais FC 1901?,polymarket:5438093 | predict:3073960,1.0,explicit_platform_link,True,-24.51227374065848499727616751
-d800da421a2ea646,Exact Score: Juventus FC 0 - 4 Stade Rennais FC 1901?,polymarket:5438094 | predict:3073961,1.0,explicit_platform_link,True,
-a6a8815c6c923c3e,Exact Score: Juventus FC 1 - 3 Stade Rennais FC 1901?,polymarket:5438095 | predict:3073962,1.0,explicit_platform_link,True,
-c2d1a5219cec6eae,Exact Score: Juventus FC 2 - 2 Stade Rennais FC 1901?,polymarket:5438096 | predict:3073963,1.0,explicit_platform_link,True,-24.73329144778726835364018521
-60754477e0c7689d,Exact Score: Juventus FC 3 - 1 Stade Rennais FC 1901?,polymarket:5438097 | predict:3073964,1.0,explicit_platform_link,True,-2.439576561910262383006061697
-eae12743d7a44363,Exact Score: Juventus FC 4 - 0 Stade Rennais FC 1901?,polymarket:5438098 | predict:3073965,1.0,explicit_platform_link,True,-24.95012126897476026957168424
-6c9fdda7c0971d08,Exact Score: Juventus FC 0 - 5 Stade Rennais FC 1901?,polymarket:5438099 | predict:3073966,1.0,explicit_platform_link,True,
-518ec4a4765605c2,Exact Score: Juventus FC 1 - 4 Stade Rennais FC 1901?,polymarket:5438100 | predict:3073967,1.0,explicit_platform_link,True,
-3ac1acebe0fc5c54,Exact Score: Juventus FC 2 - 3 Stade Rennais FC 1901?,polymarket:5438101 | predict:3073968,1.0,explicit_platform_link,True,
-0d2d70d73f7d4bb9,Exact Score: Juventus FC 3 - 2 Stade Rennais FC 1901?,polymarket:5438102 | predict:3073969,1.0,explicit_platform_link,True,-24.91426873146948294946820926
-225dc7f4e458536e,Exact Score: Juventus FC 4 - 1 Stade Rennais FC 1901?,polymarket:5438103 | predict:3073971,1.0,explicit_platform_link,True,-24.95012126897476026957168424
-cf3595c646abbd40,Exact Score: Juventus FC 5 - 0 Stade Rennais FC 1901?,polymarket:5438104 | predict:3073974,1.0,explicit_platform_link,True,
-b8f3ceefc3fdb2d3,Exact Score: Juventus FC 1 - 5 Stade Rennais FC 1901?,polymarket:5438105 | predict:3073976,1.0,explicit_platform_link,True,
-cb886f210f648612,Exact Score: Juventus FC 2 - 4 Stade Rennais FC 1901?,polymarket:5438106 | predict:3073978,1.0,explicit_platform_link,True,
-fbc7aa76f913917b,Exact Score: Juventus FC 3 - 3 Stade Rennais FC 1901?,polymarket:5438107 | predict:3073980,1.0,explicit_platform_link,True,
-0957e1f64d9da8f7,Exact Score: Juventus FC 4 - 2 Stade Rennais FC 1901?,polymarket:5438108 | predict:3073982,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-e39dce69bef4832f,Exact Score: Juventus FC 5 - 1 Stade Rennais FC 1901?,polymarket:5438109 | predict:3073984,1.0,explicit_platform_link,True,
-3764cea3cb6b9b6f,Exact Score: Juventus FC 2 - 5 Stade Rennais FC 1901?,polymarket:5438110 | predict:3073986,1.0,explicit_platform_link,True,
-107d190fd35065bb,Exact Score: Juventus FC 3 - 4 Stade Rennais FC 1901?,polymarket:5438111 | predict:3073989,1.0,explicit_platform_link,True,
-d991c96cdfa090af,Exact Score: Juventus FC 4 - 3 Stade Rennais FC 1901?,polymarket:5438112 | predict:3073991,1.0,explicit_platform_link,True,
-7331c12c90b64344,Exact Score: Juventus FC 5 - 2 Stade Rennais FC 1901?,polymarket:5438113 | predict:3073993,1.0,explicit_platform_link,True,
-dad383e4ddd41bbe,Exact Score: Juventus FC 3 - 5 Stade Rennais FC 1901?,polymarket:5438114 | predict:3073995,1.0,explicit_platform_link,True,
-77c36f01bc46e026,Exact Score: Juventus FC 4 - 4 Stade Rennais FC 1901?,polymarket:5438115 | predict:3073998,1.0,explicit_platform_link,True,
-88e63dc41e4b4570,Exact Score: Juventus FC 5 - 3 Stade Rennais FC 1901?,polymarket:5438116 | predict:3074000,1.0,explicit_platform_link,True,
-7d60e2a55f576b47,Exact Score: Juventus FC 4 - 5 Stade Rennais FC 1901?,polymarket:5438117 | predict:3074002,1.0,explicit_platform_link,True,
-ff918be0af992e10,Exact Score: Juventus FC 5 - 4 Stade Rennais FC 1901?,polymarket:5438118 | predict:3074004,1.0,explicit_platform_link,True,
-43e452b1b44b3377,Exact Score: Juventus FC 5 - 5 Stade Rennais FC 1901?,polymarket:5438119 | predict:3074006,1.0,explicit_platform_link,True,
-3badc03de62e004d,Exact Score: Any Other Score?,polymarket:5438120 | predict:3074008,1.0,explicit_platform_link,True,
-993731b27d16a23d,Juventus FC to score first vs. Stade Rennais FC 1901?,polymarket:5438121 | predict:3073278,1.0,explicit_platform_link,True,-13.57764249398818833917340045
-b38aa951c1d42351,Stade Rennais FC 1901 to score first vs. Juventus FC?,polymarket:5438122 | predict:3073279,1.0,explicit_platform_link,True,-21.11299686559716499388955788
-780fd1c5f47e2637,Juventus FC vs. Stade Rennais FC 1901: Neither team to score first?,polymarket:5438123 | predict:3073280,1.0,explicit_platform_link,True,-24.64464172380210579898596889
-8b1709b5b4189fcf,Will SK Puntigamer Sturm Graz win on 2026-10-22?,polymarket:5438124 | predict:3073242,1.0,explicit_platform_link,True,-1.720795935605310581812986693
-bb8e6ac350d3b3e0,Will SK Puntigamer Sturm Graz vs. Olympique de Marseille end in a draw?,polymarket:5438125 | predict:3073243,1.0,explicit_platform_link,True,-1.705183434731874857809644745
-0639c0e70e7cd4b4,Will Olympique de Marseille win on 2026-10-22?,polymarket:5438126 | predict:3073244,1.0,explicit_platform_link,True,-2.035153876046288537982471154
-b0dc727de4db57c6,SK Puntigamer Sturm Graz leading at halftime?,polymarket:5438127 | predict:3073284,1.0,explicit_platform_link,True,-6.222418647643750812622166495
-8a5a221d232bffed,SK Puntigamer Sturm Graz vs. Olympique de Marseille: Draw at halftime?,polymarket:5438128 | predict:3073286,1.0,explicit_platform_link,True,0
-ff6fe8dea058d4e6,Olympique de Marseille leading at halftime?,polymarket:5438129 | predict:3073287,1.0,explicit_platform_link,True,-5.023285341249354672173464124
-2d42c95ea8dbbc14,SK Puntigamer Sturm Graz to win the second half?,polymarket:5438130 | predict:3073254,1.0,explicit_platform_link,True,-22.20678785237078286893542541
-80b9e1026eab60cb,SK Puntigamer Sturm Graz vs. Olympique de Marseille: Second half draw?,polymarket:5438131 | predict:3073256,1.0,explicit_platform_link,True,-20.78297546371632313607543673
-b44b7026cc55e599,Olympique de Marseille to win the second half?,polymarket:5438132 | predict:3073258,1.0,explicit_platform_link,True,-15.60042520379951584234479230
-b8470647756553ff,Exact Score: SK Puntigamer Sturm Graz 0 - 0 Olympique de Marseille?,polymarket:5438133 | predict:3073914,1.0,explicit_platform_link,True,-24.36254169584953815295912728
-ff3ba8364f74687c,Exact Score: SK Puntigamer Sturm Graz 0 - 1 Olympique de Marseille?,polymarket:5438134 | predict:3073915,1.0,explicit_platform_link,True,-2.361652451233071379623467410
-8ca4a4273689dadf,Exact Score: SK Puntigamer Sturm Graz 1 - 0 Olympique de Marseille?,polymarket:5438135 | predict:3073916,1.0,explicit_platform_link,True,-24.63558555221255095122291093
-5ccd680447c1db2d,Exact Score: SK Puntigamer Sturm Graz 0 - 2 Olympique de Marseille?,polymarket:5438136 | predict:3073917,1.0,explicit_platform_link,True,-2.439576561910262383006061697
-a5c7c39f97e22580,Exact Score: SK Puntigamer Sturm Graz 1 - 1 Olympique de Marseille?,polymarket:5438137 | predict:3073918,1.0,explicit_platform_link,True,-7.293807216226547409783421105
-ed747174be757e81,Exact Score: SK Puntigamer Sturm Graz 2 - 0 Olympique de Marseille?,polymarket:5438138 | predict:3073919,1.0,explicit_platform_link,True,-24.58641909572855495600688798
-cbebcae141b8a1c7,Exact Score: SK Puntigamer Sturm Graz 0 - 3 Olympique de Marseille?,polymarket:5438139 | predict:3073920,1.0,explicit_platform_link,True,-6.901579881734673136992660828
-e21028a62db1599c,Exact Score: SK Puntigamer Sturm Graz 1 - 2 Olympique de Marseille?,polymarket:5438140 | predict:3073921,1.0,explicit_platform_link,True,-7.249660072904427322190741544
-4e974cd433fd5e91,Exact Score: SK Puntigamer Sturm Graz 2 - 1 Olympique de Marseille?,polymarket:5438141 | predict:3073922,1.0,explicit_platform_link,True,-2.066632207851157218654052185
-48212f815e9046b8,Exact Score: SK Puntigamer Sturm Graz 3 - 0 Olympique de Marseille?,polymarket:5438142 | predict:3073923,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-f673ec240143e35f,Exact Score: SK Puntigamer Sturm Graz 0 - 4 Olympique de Marseille?,polymarket:5438143 | predict:3073924,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-e18e3e6caf2d87af,Exact Score: SK Puntigamer Sturm Graz 1 - 3 Olympique de Marseille?,polymarket:5438144 | predict:3073925,1.0,explicit_platform_link,True,-1.541619244965904804890549779
-e0a4cc030795646c,Exact Score: SK Puntigamer Sturm Graz 2 - 2 Olympique de Marseille?,polymarket:5438145 | predict:3073926,1.0,explicit_platform_link,True,-2.439576561910262383006061697
-923e20d18b268464,Exact Score: SK Puntigamer Sturm Graz 3 - 1 Olympique de Marseille?,polymarket:5438146 | predict:3073927,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-2c3061b31c27aa0c,Exact Score: SK Puntigamer Sturm Graz 4 - 0 Olympique de Marseille?,polymarket:5438147 | predict:3073928,1.0,explicit_platform_link,True,
-5c7c103d93ccf07b,Exact Score: SK Puntigamer Sturm Graz 0 - 5 Olympique de Marseille?,polymarket:5438148 | predict:3073929,1.0,explicit_platform_link,True,
-5b1a18f3c09f7989,Exact Score: SK Puntigamer Sturm Graz 1 - 4 Olympique de Marseille?,polymarket:5438149 | predict:3073930,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-eda962ec3f7424f0,Exact Score: SK Puntigamer Sturm Graz 2 - 3 Olympique de Marseille?,polymarket:5438150 | predict:3073931,1.0,explicit_platform_link,True,-24.97396012486825098797718645
+92386cfad9f06df6,Exact Score: Real Salt Lake 1 - 1 St. Louis City SC?,polymarket:5565933 | predict:3196670,1.0,explicit_platform_link,True,
+7de9c30a00ff0a71,Exact Score: Real Salt Lake 2 - 0 St. Louis City SC?,polymarket:5565934 | predict:3196671,1.0,explicit_platform_link,True,
+95236cab4645d934,Exact Score: Real Salt Lake 0 - 3 St. Louis City SC?,polymarket:5565935 | predict:3196672,1.0,explicit_platform_link,True,
+9616b404c04f4ff9,Exact Score: Real Salt Lake 1 - 2 St. Louis City SC?,polymarket:5565936 | predict:3196673,1.0,explicit_platform_link,True,
+11b2c372e687b148,Exact Score: Real Salt Lake 2 - 1 St. Louis City SC?,polymarket:5565937 | predict:3196674,1.0,explicit_platform_link,True,
+8a1f163304237275,Exact Score: Real Salt Lake 3 - 0 St. Louis City SC?,polymarket:5565938 | predict:3196675,1.0,explicit_platform_link,True,
+f3e0ae6878bf69eb,Exact Score: Real Salt Lake 0 - 4 St. Louis City SC?,polymarket:5565939 | predict:3196676,1.0,explicit_platform_link,True,
+bf2a517b4e125c54,Exact Score: Real Salt Lake 1 - 3 St. Louis City SC?,polymarket:5565940 | predict:3196677,1.0,explicit_platform_link,True,
+07ad7c698880c0dc,Exact Score: Real Salt Lake 2 - 2 St. Louis City SC?,polymarket:5565941 | predict:3196678,1.0,explicit_platform_link,True,
+5dce7f8990bdd4b2,Exact Score: Real Salt Lake 3 - 1 St. Louis City SC?,polymarket:5565942 | predict:3196679,1.0,explicit_platform_link,True,
+e7c25ee369ea1124,Exact Score: Real Salt Lake 4 - 0 St. Louis City SC?,polymarket:5565943 | predict:3196680,1.0,explicit_platform_link,True,
+514af5e91f7d3ff7,Exact Score: Real Salt Lake 0 - 5 St. Louis City SC?,polymarket:5565944 | predict:3196681,1.0,explicit_platform_link,True,
+1dc57e20dfb0c914,Exact Score: Real Salt Lake 1 - 4 St. Louis City SC?,polymarket:5565945 | predict:3196682,1.0,explicit_platform_link,True,
+254f82c8c79b53c6,Exact Score: Real Salt Lake 2 - 3 St. Louis City SC?,polymarket:5565946 | predict:3196683,1.0,explicit_platform_link,True,
+1fa61185036ecfb0,Exact Score: Real Salt Lake 3 - 2 St. Louis City SC?,polymarket:5565947 | predict:3196684,1.0,explicit_platform_link,True,
+bbe2087d1a1aa491,Exact Score: Real Salt Lake 4 - 1 St. Louis City SC?,polymarket:5565948 | predict:3196685,1.0,explicit_platform_link,True,
+49ff8e972cea42fb,Exact Score: Real Salt Lake 5 - 0 St. Louis City SC?,polymarket:5565949 | predict:3196686,1.0,explicit_platform_link,True,
+212b81e5c40dfd60,Exact Score: Real Salt Lake 1 - 5 St. Louis City SC?,polymarket:5565950 | predict:3196687,1.0,explicit_platform_link,True,
+aaee2bec500af18e,Exact Score: Real Salt Lake 2 - 4 St. Louis City SC?,polymarket:5565951 | predict:3196688,1.0,explicit_platform_link,True,
+d6783fa6b96eb900,Exact Score: Real Salt Lake 3 - 3 St. Louis City SC?,polymarket:5565952 | predict:3196689,1.0,explicit_platform_link,True,
+89521b2dfacfda59,Exact Score: Real Salt Lake 4 - 2 St. Louis City SC?,polymarket:5565953 | predict:3196690,1.0,explicit_platform_link,True,
+682b1e4babc77725,Exact Score: Real Salt Lake 5 - 1 St. Louis City SC?,polymarket:5565954 | predict:3196691,1.0,explicit_platform_link,True,
+609cc706c319063d,Exact Score: Real Salt Lake 2 - 5 St. Louis City SC?,polymarket:5565955 | predict:3196693,1.0,explicit_platform_link,True,
+36160228f3c5275a,Exact Score: Real Salt Lake 3 - 4 St. Louis City SC?,polymarket:5565956 | predict:3196695,1.0,explicit_platform_link,True,
+e1155e6e6470347b,Exact Score: Real Salt Lake 4 - 3 St. Louis City SC?,polymarket:5565957 | predict:3196697,1.0,explicit_platform_link,True,
+8b93e5ef83d73462,Exact Score: Real Salt Lake 5 - 2 St. Louis City SC?,polymarket:5565958 | predict:3196700,1.0,explicit_platform_link,True,
+e059fe7d8b19f765,Exact Score: Real Salt Lake 3 - 5 St. Louis City SC?,polymarket:5565959 | predict:3196702,1.0,explicit_platform_link,True,
+8036995dd9dd6ada,Exact Score: Real Salt Lake 4 - 4 St. Louis City SC?,polymarket:5565960 | predict:3196704,1.0,explicit_platform_link,True,
+ac42123b6120b7f9,Exact Score: Real Salt Lake 5 - 3 St. Louis City SC?,polymarket:5565961 | predict:3196707,1.0,explicit_platform_link,True,
+a804c655c88597d8,Exact Score: Real Salt Lake 4 - 5 St. Louis City SC?,polymarket:5565962 | predict:3196709,1.0,explicit_platform_link,True,
+84b7dfdc345581e9,Exact Score: Real Salt Lake 5 - 4 St. Louis City SC?,polymarket:5565963 | predict:3196711,1.0,explicit_platform_link,True,
+60982bd12076e043,Exact Score: Real Salt Lake 5 - 5 St. Louis City SC?,polymarket:5565964 | predict:3196713,1.0,explicit_platform_link,True,
+5112bfc2e58a5062,Exact Score: Any Other Score?,polymarket:5565965 | predict:3196715,1.0,explicit_platform_link,True,
+5c83e33f03b9b63a,Real Salt Lake to score first vs. St. Louis City SC?,polymarket:5565966 | predict:3196885,1.0,explicit_platform_link,True,
+e0c7700296cae6b0,St. Louis City SC to score first vs. Real Salt Lake?,polymarket:5565967 | predict:3196888,1.0,explicit_platform_link,True,
+15ec57fada4e86ef,Real Salt Lake vs. St. Louis City SC: Neither team to score first?,polymarket:5565968 | predict:3196889,1.0,explicit_platform_link,True,
+27676b9456274570,Will Portland Timbers win on 2026-10-24?,polymarket:5565969 | predict:3196635,1.0,explicit_platform_link,True,-2.524554602802488290540507678
+7b3e48e9273d35e0,Will Portland Timbers vs. Charlotte FC end in a draw?,polymarket:5565970 | predict:3196636,1.0,explicit_platform_link,True,-2.088944165135353607375723410
+5c4e484db9a2ab41,Will Charlotte FC win on 2026-10-24?,polymarket:5565971 | predict:3196637,1.0,explicit_platform_link,True,-2.197257515010834778971865607
+8c04431fe0541c3f,Portland Timbers leading at halftime?,polymarket:5565972 | predict:3196645,1.0,explicit_platform_link,True,
+0692cae90b50cdb5,Portland Timbers vs. Charlotte FC: Draw at halftime?,polymarket:5565973 | predict:3196647,1.0,explicit_platform_link,True,-20.61486366704927397130266148
+b4ed58fca5138bd9,Charlotte FC leading at halftime?,polymarket:5565974 | predict:3196648,1.0,explicit_platform_link,True,-22.05609166986900066668440877
+a06f9ca26f4c1a16,Portland Timbers to win the second half?,polymarket:5565975 | predict:3196641,1.0,explicit_platform_link,True,
+ddfcf482497aa225,Portland Timbers vs. Charlotte FC: Second half draw?,polymarket:5565976 | predict:3196642,1.0,explicit_platform_link,True,-21.59308517614962881351486057
+800a2a6a104ecee0,Charlotte FC to win the second half?,polymarket:5565977 | predict:3196643,1.0,explicit_platform_link,True,-22.05609166986900066668440877
+2b22ef41e4b9b112,Exact Score: Portland Timbers 0 - 0 Charlotte FC?,polymarket:5565978 | predict:3196962,1.0,explicit_platform_link,True,
+3ee851dc1e7efb42,Exact Score: Portland Timbers 0 - 1 Charlotte FC?,polymarket:5565979 | predict:3196963,1.0,explicit_platform_link,True,
+e602e308fd724099,Exact Score: Portland Timbers 1 - 0 Charlotte FC?,polymarket:5565980 | predict:3196964,1.0,explicit_platform_link,True,
+63118cf0d7a0c850,Exact Score: Portland Timbers 0 - 2 Charlotte FC?,polymarket:5565981 | predict:3196965,1.0,explicit_platform_link,True,
+857819d9f3866752,Exact Score: Portland Timbers 1 - 1 Charlotte FC?,polymarket:5565982 | predict:3196966,1.0,explicit_platform_link,True,
+2409b8a5100568b0,Exact Score: Portland Timbers 2 - 0 Charlotte FC?,polymarket:5565983 | predict:3196967,1.0,explicit_platform_link,True,
+0082c305ea7e368d,Exact Score: Portland Timbers 0 - 3 Charlotte FC?,polymarket:5565984 | predict:3196968,1.0,explicit_platform_link,True,
+1ed4b68e1eeeeaef,Exact Score: Portland Timbers 1 - 2 Charlotte FC?,polymarket:5565985 | predict:3196969,1.0,explicit_platform_link,True,
+3de3ddc24575b284,Exact Score: Portland Timbers 2 - 1 Charlotte FC?,polymarket:5565986 | predict:3196970,1.0,explicit_platform_link,True,
+adea9a0fcf44cec4,Exact Score: Portland Timbers 3 - 0 Charlotte FC?,polymarket:5565987 | predict:3196971,1.0,explicit_platform_link,True,
+d9252e15562b72bc,Exact Score: Portland Timbers 0 - 4 Charlotte FC?,polymarket:5565988 | predict:3196972,1.0,explicit_platform_link,True,
+586b627e2b0d6327,Exact Score: Portland Timbers 1 - 3 Charlotte FC?,polymarket:5565989 | predict:3196973,1.0,explicit_platform_link,True,
+d80c57c6af44a34e,Exact Score: Portland Timbers 2 - 2 Charlotte FC?,polymarket:5565990 | predict:3196974,1.0,explicit_platform_link,True,
+38b97e4473e85038,Exact Score: Portland Timbers 3 - 1 Charlotte FC?,polymarket:5565991 | predict:3196975,1.0,explicit_platform_link,True,
+cd85fa86b11008d2,Exact Score: Portland Timbers 4 - 0 Charlotte FC?,polymarket:5565992 | predict:3196976,1.0,explicit_platform_link,True,
+0e19fee67de1479b,Exact Score: Portland Timbers 0 - 5 Charlotte FC?,polymarket:5565993 | predict:3196977,1.0,explicit_platform_link,True,
+5fd3a8369b14c50c,Exact Score: Portland Timbers 1 - 4 Charlotte FC?,polymarket:5565994 | predict:3196978,1.0,explicit_platform_link,True,
+467ab450333b026e,Exact Score: Portland Timbers 2 - 3 Charlotte FC?,polymarket:5565995 | predict:3196979,1.0,explicit_platform_link,True,
+3392641fa88560cd,Exact Score: Portland Timbers 3 - 2 Charlotte FC?,polymarket:5565996 | predict:3196980,1.0,explicit_platform_link,True,
+bc42fde46a835170,Exact Score: Portland Timbers 4 - 1 Charlotte FC?,polymarket:5565997 | predict:3196981,1.0,explicit_platform_link,True,
+2d58be296f4e35e2,Exact Score: Portland Timbers 5 - 0 Charlotte FC?,polymarket:5565998 | predict:3196983,1.0,explicit_platform_link,True,
+2231bf2ff5b0adef,Exact Score: Portland Timbers 1 - 5 Charlotte FC?,polymarket:5565999 | predict:3196985,1.0,explicit_platform_link,True,
+581247534f82f705,Exact Score: Portland Timbers 2 - 4 Charlotte FC?,polymarket:5566000 | predict:3196987,1.0,explicit_platform_link,True,
+afe40e96bef891a4,Exact Score: Portland Timbers 3 - 3 Charlotte FC?,polymarket:5566001 | predict:3196988,1.0,explicit_platform_link,True,
+0e8bb556758c040d,Exact Score: Portland Timbers 4 - 2 Charlotte FC?,polymarket:5566002 | predict:3196989,1.0,explicit_platform_link,True,
+06655e0284ab31a7,Exact Score: Portland Timbers 5 - 1 Charlotte FC?,polymarket:5566003 | predict:3196990,1.0,explicit_platform_link,True,
+95fd9547a11101ca,Exact Score: Portland Timbers 2 - 5 Charlotte FC?,polymarket:5566004 | predict:3196991,1.0,explicit_platform_link,True,
+7909fb6908b44ffd,Exact Score: Portland Timbers 3 - 4 Charlotte FC?,polymarket:5566005 | predict:3196992,1.0,explicit_platform_link,True,
+c6bba81c8e2fb147,Exact Score: Portland Timbers 4 - 3 Charlotte FC?,polymarket:5566006 | predict:3196993,1.0,explicit_platform_link,True,
+d85b1eab2b1f436b,Exact Score: Portland Timbers 5 - 2 Charlotte FC?,polymarket:5566007 | predict:3196994,1.0,explicit_platform_link,True,
+bef71580902736d1,Exact Score: Portland Timbers 3 - 5 Charlotte FC?,polymarket:5566008 | predict:3196995,1.0,explicit_platform_link,True,
+395d6203b255a1c7,Exact Score: Portland Timbers 4 - 4 Charlotte FC?,polymarket:5566009 | predict:3196996,1.0,explicit_platform_link,True,
+78ba1287f08be6c0,Exact Score: Portland Timbers 5 - 3 Charlotte FC?,polymarket:5566010 | predict:3196997,1.0,explicit_platform_link,True,
+b7f20fe1f1c1e169,Exact Score: Portland Timbers 4 - 5 Charlotte FC?,polymarket:5566011 | predict:3196998,1.0,explicit_platform_link,True,
+5176bed1f43cad4c,Exact Score: Portland Timbers 5 - 4 Charlotte FC?,polymarket:5566012 | predict:3196999,1.0,explicit_platform_link,True,
