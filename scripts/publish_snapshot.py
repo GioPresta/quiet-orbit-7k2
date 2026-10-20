@@ -54,6 +54,7 @@ def main():
         report = json.loads((output / "latest.json").read_text())
     except (OSError, ValueError):
         report = {"opportunities": [], "timestamp": 0}
+    scan_timestamp = report.get("timestamp") or 0
     data_dir = docs / "data"
     data_dir.mkdir(exist_ok=True)
     recent_path = data_dir / "recent.json"
@@ -65,6 +66,7 @@ def main():
             if recent.get("opportunities"):
                 report = recent
                 report["recent_fallback"] = True
+                report["last_scan_at"] = scan_timestamp
         except (OSError, ValueError):
             pass
     try:
@@ -82,6 +84,7 @@ def main():
         shutil.copy2(output / "latest.json", data_dir / "latest.json")
 
     state = dict(report)
+    state.setdefault("last_scan_at", scan_timestamp)
     defaults = {
         "budget": report.get("budget", "100"),
         "sort_policy": "liquidity", "min_volume24h": "0", "max_matches": 64,
