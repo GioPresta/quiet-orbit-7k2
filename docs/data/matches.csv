@@ -2,8 +2,8 @@ match_id,name,markets,score,match_reason,rules_identical,screening_profit
 0f02053923a7c813,Will October be the best month for Bitcoin in 2026?,polymarket:1296003 | predict:2815582,1.0,explicit_platform_link,True,0.6235573099653935252768853829
 04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
 0a1c607da4c967bd,SPCX Daily Up or Down,limitless:spcx-daily-up-or-down-p-1792429546789 | polymarket:5920638,1.0,explicit_platform_link,True,
-0a717fb8615545dd,Will MSCI (MSCI) beat quarterly earnings?,limitless:will-msci-msci-beat-quarterly-earnings-1791400821864 | polymarket:5412317,1.0,explicit_platform_link,True,
-0e12c044fbc27096,BTC Up or Down Hourly,limitless:btc-up-or-down-hourly-p-1792487105356 | polymarket:5872491,1.0,explicit_platform_link,True,
+0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
+11cd37cc7972d507,US Government removes public access to another Anthropic AI model in 2026?,limitless:us-government-removes-public-access-to-another-anthropic-ai-model-in-2-1790774745313 | polymarket:2787891,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
@@ -19,83 +19,83 @@ ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 |
 9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
 043ca3adb53894bf,Tesla and SpaceX merger officially announced by December 31?,polymarket:2252540 | predict:1283446,1.0,explicit_platform_link,True,1.544285942406983552456485869
 b28a022d18947870,Will a team from LCK (South Korea) win LoL Worlds 2026?,polymarket:1059066 | predict:935086,1.0,explicit_platform_link,True,0.4208171885749991731994601406
-338e9b50469a8a92,Exact Score: Al Nassr Saudi Club 0 - 1 NEOM SC?,polymarket:5390838 | predict:3028989,1.0,explicit_platform_link,True,0
-4abeadc1fa9ee00b,Exact Score: Al Nassr Saudi Club 1 - 0 NEOM SC?,polymarket:5390839 | predict:3028993,1.0,explicit_platform_link,True,-1.223548174870020469223617310
-c67088812261304a,Exact Score: Al Nassr Saudi Club 0 - 2 NEOM SC?,polymarket:5390840 | predict:3028995,1.0,explicit_platform_link,True,0
-1b6e013117a102ff,Exact Score: Al Nassr Saudi Club 1 - 1 NEOM SC?,polymarket:5390841 | predict:3028997,1.0,explicit_platform_link,True,-1.301360638610467204283522167
-15c12c2dee5dadbe,Exact Score: Al Nassr Saudi Club 2 - 0 NEOM SC?,polymarket:5390842 | predict:3028999,1.0,explicit_platform_link,True,-1.330332118559160086540812422
-c6b928c5aab571c1,Exact Score: Al Nassr Saudi Club 0 - 3 NEOM SC?,polymarket:5390843 | predict:3029001,1.0,explicit_platform_link,True,0
-7ad99b6a83443b15,Exact Score: Al Nassr Saudi Club 1 - 2 NEOM SC?,polymarket:5390844 | predict:3029003,1.0,explicit_platform_link,True,-0.8662167908725875025722126337
-e16c9201faed873d,Exact Score: Al Nassr Saudi Club 2 - 1 NEOM SC?,polymarket:5390845 | predict:3029005,1.0,explicit_platform_link,True,-1.301430338659743009435985381
-45bb9aeb9cbbd2a2,Exact Score: Al Nassr Saudi Club 3 - 0 NEOM SC?,polymarket:5390846 | predict:3029007,1.0,explicit_platform_link,True,-0.9983873912204837767306471323
-01ca6282271d1b62,Exact Score: Al Nassr Saudi Club 0 - 4 NEOM SC?,polymarket:5390847 | predict:3029009,1.0,explicit_platform_link,True,
-3281a244af0fa422,Exact Score: Al Nassr Saudi Club 1 - 3 NEOM SC?,polymarket:5390848 | predict:3029011,1.0,explicit_platform_link,True,0
-3a3880602d99b28a,Exact Score: Al Nassr Saudi Club 2 - 2 NEOM SC?,polymarket:5390849 | predict:3029013,1.0,explicit_platform_link,True,-0.7105447007493793540926536712
-f43fae3285edbf1c,Exact Score: Al Nassr Saudi Club 3 - 1 NEOM SC?,polymarket:5390850 | predict:3029015,1.0,explicit_platform_link,True,-1.065652884651247400114295899
-46c97c643d5a98ab,Exact Score: Al Nassr Saudi Club 4 - 0 NEOM SC?,polymarket:5390851 | predict:3029017,1.0,explicit_platform_link,True,-1.846345092639091838978306627
-df86a6673480648d,Exact Score: Al Nassr Saudi Club 0 - 5 NEOM SC?,polymarket:5390852 | predict:3029019,1.0,explicit_platform_link,True,
-a6dd76fb112490f0,Exact Score: Al Nassr Saudi Club 1 - 4 NEOM SC?,polymarket:5390853 | predict:3029021,1.0,explicit_platform_link,True,
-3a0a97ababdbb3f2,Exact Score: Al Nassr Saudi Club 2 - 3 NEOM SC?,polymarket:5390854 | predict:3029023,1.0,explicit_platform_link,True,0
-7f664687861cde7e,Exact Score: Al Nassr Saudi Club 3 - 2 NEOM SC?,polymarket:5390855 | predict:3029025,1.0,explicit_platform_link,True,-0.6748985356932498246343216410
-adc5833294f12549,Exact Score: Al Nassr Saudi Club 4 - 1 NEOM SC?,polymarket:5390856 | predict:3029027,1.0,explicit_platform_link,True,-2.135919168542115949071036431
-99bbaa2e9cbce071,Exact Score: Al Nassr Saudi Club 5 - 0 NEOM SC?,polymarket:5390857 | predict:3029029,1.0,explicit_platform_link,True,-16.72086588878965722809792132
-c073dbd91207ebbd,Exact Score: Al Nassr Saudi Club 1 - 5 NEOM SC?,polymarket:5390858 | predict:3029031,1.0,explicit_platform_link,True,
-d5e7a5c059abf60c,Exact Score: Al Nassr Saudi Club 2 - 4 NEOM SC?,polymarket:5390859 | predict:3029033,1.0,explicit_platform_link,True,-4.285618296036664103369011383
-d81ee50424d95760,Exact Score: Al Nassr Saudi Club 3 - 3 NEOM SC?,polymarket:5390860 | predict:3029035,1.0,explicit_platform_link,True,0
-2a23620c63d721ae,Exact Score: Al Nassr Saudi Club 4 - 2 NEOM SC?,polymarket:5390861 | predict:3029037,1.0,explicit_platform_link,True,-1.123619386804885081721578955
-e94bcac1e99480bb,Exact Score: Al Nassr Saudi Club 5 - 1 NEOM SC?,polymarket:5390862 | predict:3029039,1.0,explicit_platform_link,True,-20.07963269224452028982105674
-25c9437a48ae82fa,Exact Score: Al Nassr Saudi Club 2 - 5 NEOM SC?,polymarket:5390863 | predict:3029041,1.0,explicit_platform_link,True,
-8bec1b8755e8d989,Exact Score: Al Nassr Saudi Club 3 - 4 NEOM SC?,polymarket:5390864 | predict:3029043,1.0,explicit_platform_link,True,-21.41985846687937101355331185
-70624793c72d8dd2,Exact Score: Al Nassr Saudi Club 4 - 3 NEOM SC?,polymarket:5390865 | predict:3029045,1.0,explicit_platform_link,True,-16.27107141687831272371860705
-e8b5839198836fde,Exact Score: Al Nassr Saudi Club 5 - 2 NEOM SC?,polymarket:5390866 | predict:3029047,1.0,explicit_platform_link,True,-19.17006339026159601697375033
-ba210bb2bdecbfd7,Exact Score: Al Nassr Saudi Club 3 - 5 NEOM SC?,polymarket:5390867 | predict:3029049,1.0,explicit_platform_link,True,
-eac0f23f0074f695,Exact Score: Al Nassr Saudi Club 4 - 4 NEOM SC?,polymarket:5390868 | predict:3029051,1.0,explicit_platform_link,True,-3.350266884171841527172968259
-9403719280303b75,Exact Score: Al Nassr Saudi Club 5 - 3 NEOM SC?,polymarket:5390869 | predict:3029053,1.0,explicit_platform_link,True,-21.09718158535891008654069316
-ff6168b3c5789652,Exact Score: Al Nassr Saudi Club 4 - 5 NEOM SC?,polymarket:5390870 | predict:3029055,1.0,explicit_platform_link,True,
-71bb167599e9b72a,Exact Score: Al Nassr Saudi Club 5 - 4 NEOM SC?,polymarket:5390871 | predict:3029058,1.0,explicit_platform_link,True,
-840706cc490fb1c4,Exact Score: Al Nassr Saudi Club 5 - 5 NEOM SC?,polymarket:5390872 | predict:3029060,1.0,explicit_platform_link,True,
-76cdd5eb5c6a0ca9,Exact Score: Any Other Score?,polymarket:5390873 | predict:3029061,1.0,explicit_platform_link,True,
-a1b21a65d20a85ff,Al Nassr Saudi Club to score first vs. NEOM SC?,polymarket:5390874 | predict:3028952,1.0,explicit_platform_link,True,-2.742186873595631963172067695
-46f1a042bb1b9e95,NEOM SC to score first vs. Al Nassr Saudi Club?,polymarket:5390875 | predict:3028958,1.0,explicit_platform_link,True,-1.760198932585658284709804412
-f8b55c18dc8a9e99,Al Nassr Saudi Club vs. NEOM SC: Neither team to score first?,polymarket:5390876 | predict:3028962,1.0,explicit_platform_link,True,-1.085407802349466945779180830
-f0f2a8d38837f2d4,Al Ettifaq Saudi Club leading at halftime?,polymarket:5390877 | predict:3028973,1.0,explicit_platform_link,True,-1.720795935605310581812986693
-bdee129ce77f131f,Al Ettifaq Saudi Club vs. Al Ittihad Saudi Club: Draw at halftime?,polymarket:5390878 | predict:3028974,1.0,explicit_platform_link,True,-1.895017170432275612500251043
-99248a3932a99e90,Al Ittihad Saudi Club leading at halftime?,polymarket:5390880 | predict:3028975,1.0,explicit_platform_link,True,-1.927017291273566303718810882
-1e7a782b282ebf6c,Al Ettifaq Saudi Club to win the second half?,polymarket:5390882 | predict:3028823,1.0,explicit_platform_link,True,-7.857744095550331810804698525
-a4bc911cb1de4201,Al Ettifaq Saudi Club vs. Al Ittihad Saudi Club: Second half draw?,polymarket:5390883 | predict:3028825,1.0,explicit_platform_link,True,-7.909125066400632263581358581
-7b3b4a876fdabeed,Al Ittihad Saudi Club to win the second half?,polymarket:5390884 | predict:3028826,1.0,explicit_platform_link,True,-16.29834315341677704279843164
-ffedf2b1a8635213,Exact Score: Al Ettifaq Saudi Club 0 - 0 Al Ittihad Saudi Club?,polymarket:5390885 | predict:3029103,1.0,explicit_platform_link,True,-0.7179670322639049311311870016
-84a1c50bf600869f,Exact Score: Al Ettifaq Saudi Club 0 - 1 Al Ittihad Saudi Club?,polymarket:5390886 | predict:3029104,1.0,explicit_platform_link,True,-0.5221254898780285973231102237
-43234eba2fa70416,Exact Score: Al Ettifaq Saudi Club 1 - 0 Al Ittihad Saudi Club?,polymarket:5390887 | predict:3029105,1.0,explicit_platform_link,True,-0.8030971783509156231520170257
-80ef103c9d0b8ab6,Exact Score: Al Ettifaq Saudi Club 0 - 2 Al Ittihad Saudi Club?,polymarket:5390888 | predict:3029106,1.0,explicit_platform_link,True,-0.8873757187350263536176329958
-c6bcbb08c3e8b7ae,Exact Score: Al Ettifaq Saudi Club 1 - 1 Al Ittihad Saudi Club?,polymarket:5390889 | predict:3029107,1.0,explicit_platform_link,True,-1.561073739612990532375055015
-30352ef301dff804,Exact Score: Al Ettifaq Saudi Club 2 - 0 Al Ittihad Saudi Club?,polymarket:5390890 | predict:3029108,1.0,explicit_platform_link,True,-0.8136379708312008209384400288
-9a3c5fda90a6e20f,Exact Score: Al Ettifaq Saudi Club 0 - 3 Al Ittihad Saudi Club?,polymarket:5390891 | predict:3029109,1.0,explicit_platform_link,True,-0.9186787222562294850559326411
-fddd0b56005e6b2c,Exact Score: Al Ettifaq Saudi Club 1 - 2 Al Ittihad Saudi Club?,polymarket:5390892 | predict:3029110,1.0,explicit_platform_link,True,-1.077450109693261412124627645
-79ab5049c714898f,Exact Score: Al Ettifaq Saudi Club 2 - 1 Al Ittihad Saudi Club?,polymarket:5390893 | predict:3029111,1.0,explicit_platform_link,True,-1.065652884651247400114295899
-01c451d32e577755,Exact Score: Al Ettifaq Saudi Club 3 - 0 Al Ittihad Saudi Club?,polymarket:5390894 | predict:3029112,1.0,explicit_platform_link,True,-0.6877475139985504564304184648
-ac8581ff3af36abe,Exact Score: Al Ettifaq Saudi Club 0 - 4 Al Ittihad Saudi Club?,polymarket:5390895 | predict:3029113,1.0,explicit_platform_link,True,-1.074817635073494686447373760
-b745ad8eef66028d,Exact Score: Al Ettifaq Saudi Club 1 - 3 Al Ittihad Saudi Club?,polymarket:5390896 | predict:3029114,1.0,explicit_platform_link,True,-1.052011925557353061358589352
-f3acb1ed119ecac1,Exact Score: Al Ettifaq Saudi Club 2 - 2 Al Ittihad Saudi Club?,polymarket:5390897 | predict:3029115,1.0,explicit_platform_link,True,-1.241756866312549033402842493
-c2911e206dce3f58,Exact Score: Al Ettifaq Saudi Club 3 - 1 Al Ittihad Saudi Club?,polymarket:5390898 | predict:3029116,1.0,explicit_platform_link,True,-0.8168994071566391023085412862
-4d8894b3217d9920,Exact Score: Al Ettifaq Saudi Club 4 - 0 Al Ittihad Saudi Club?,polymarket:5390899 | predict:3029117,1.0,explicit_platform_link,True,
-f8343b74b8a277c7,Exact Score: Al Ettifaq Saudi Club 0 - 5 Al Ittihad Saudi Club?,polymarket:5390900 | predict:3029118,1.0,explicit_platform_link,True,-21.57827042947230032727581075
-b16c79ed40e0f09b,Exact Score: Al Ettifaq Saudi Club 1 - 4 Al Ittihad Saudi Club?,polymarket:5390901 | predict:3029119,1.0,explicit_platform_link,True,-1.701736362277642534698650271
-b41d3dabe3b44254,Exact Score: Al Ettifaq Saudi Club 2 - 3 Al Ittihad Saudi Club?,polymarket:5390902 | predict:3029120,1.0,explicit_platform_link,True,-0.8331308761950833618627768150
-ddd4675e1bc29336,Exact Score: Al Ettifaq Saudi Club 3 - 2 Al Ittihad Saudi Club?,polymarket:5390903 | predict:3029121,1.0,explicit_platform_link,True,-0.8103714841382722644470893941
-7306f4b9c2a1e630,Exact Score: Al Ettifaq Saudi Club 4 - 1 Al Ittihad Saudi Club?,polymarket:5390904 | predict:3029122,1.0,explicit_platform_link,True,
-6841d3f0b129f5be,Exact Score: Al Ettifaq Saudi Club 5 - 0 Al Ittihad Saudi Club?,polymarket:5390905 | predict:3029123,1.0,explicit_platform_link,True,
-ab2e417907ed6114,Exact Score: Al Ettifaq Saudi Club 1 - 5 Al Ittihad Saudi Club?,polymarket:5390906 | predict:3029124,1.0,explicit_platform_link,True,-21.41985846687937101355331185
-991feb5623ec4bcf,Exact Score: Al Ettifaq Saudi Club 2 - 4 Al Ittihad Saudi Club?,polymarket:5390907 | predict:3029125,1.0,explicit_platform_link,True,-1.172323878286164757909264938
-a3d7ff64dad6ce3e,Exact Score: Al Ettifaq Saudi Club 3 - 3 Al Ittihad Saudi Club?,polymarket:5390908 | predict:3029126,1.0,explicit_platform_link,True,-0.4516169904689205216386085307
-221950ea69c58794,Exact Score: Al Ettifaq Saudi Club 4 - 2 Al Ittihad Saudi Club?,polymarket:5390909 | predict:3029127,1.0,explicit_platform_link,True,-4.285618296036664103369011383
-d66542eee470f97f,Exact Score: Al Ettifaq Saudi Club 5 - 1 Al Ittihad Saudi Club?,polymarket:5390910 | predict:3029128,1.0,explicit_platform_link,True,-20.76645748451620385256907118
-f2b0fdeed5a78c0a,Exact Score: Al Ettifaq Saudi Club 2 - 5 Al Ittihad Saudi Club?,polymarket:5390911 | predict:3029129,1.0,explicit_platform_link,True,-21.57827042947230032727581075
-511cb8141f669c65,Exact Score: Al Ettifaq Saudi Club 3 - 4 Al Ittihad Saudi Club?,polymarket:5390912 | predict:3029130,1.0,explicit_platform_link,True,-21.25950745938042832315174683
-a801e5a7889c0604,Exact Score: Al Ettifaq Saudi Club 4 - 3 Al Ittihad Saudi Club?,polymarket:5390913 | predict:3029131,1.0,explicit_platform_link,True,-16.72086588878965722809792132
-a6255ec10853d070,Exact Score: Al Ettifaq Saudi Club 5 - 2 Al Ittihad Saudi Club?,polymarket:5390914 | predict:3029132,1.0,explicit_platform_link,True,
-88b484283dd88d29,Exact Score: Al Ettifaq Saudi Club 3 - 5 Al Ittihad Saudi Club?,polymarket:5390915 | predict:3029133,1.0,explicit_platform_link,True,-20.93284413538042409896227472
-07541b21706adf6a,Exact Score: Al Ettifaq Saudi Club 4 - 4 Al Ittihad Saudi Club?,polymarket:5390916 | predict:3029134,1.0,explicit_platform_link,True,-3.350266884171841527172968259
-b2692595285bc3f6,Exact Score: Al Ettifaq Saudi Club 5 - 3 Al Ittihad Saudi Club?,polymarket:5390917 | predict:3029135,1.0,explicit_platform_link,True,
-e6c55e0aa8130bb3,Exact Score: Al Ettifaq Saudi Club 4 - 5 Al Ittihad Saudi Club?,polymarket:5390918 | predict:3029136,1.0,explicit_platform_link,True,
-c4f2e86ac9b411e2,Exact Score: Al Ettifaq Saudi Club 5 - 4 Al Ittihad Saudi Club?,polymarket:5390919 | predict:3029137,1.0,explicit_platform_link,True,
+8af4458e6467c673,Exact Score: New York Red Bulls 3 - 3 Inter Miami CF?,polymarket:5565309 | predict:3197226,1.0,explicit_platform_link,True,
+46c79280efa89625,Exact Score: New York Red Bulls 4 - 2 Inter Miami CF?,polymarket:5565310 | predict:3197227,1.0,explicit_platform_link,True,
+b48778c15618ca6b,Exact Score: New York Red Bulls 5 - 1 Inter Miami CF?,polymarket:5565312 | predict:3197228,1.0,explicit_platform_link,True,
+91df367710d1d9a1,Exact Score: New York Red Bulls 2 - 5 Inter Miami CF?,polymarket:5565313 | predict:3197229,1.0,explicit_platform_link,True,
+fe5b5c355c8dfe64,Exact Score: New York Red Bulls 3 - 4 Inter Miami CF?,polymarket:5565314 | predict:3197230,1.0,explicit_platform_link,True,
+aa87e4c72589afc8,Exact Score: New York Red Bulls 4 - 3 Inter Miami CF?,polymarket:5565316 | predict:3197231,1.0,explicit_platform_link,True,
+5b7c3d57273b9098,Exact Score: New York Red Bulls 5 - 2 Inter Miami CF?,polymarket:5565317 | predict:3197232,1.0,explicit_platform_link,True,
+b8503afafea20ccd,Exact Score: New York Red Bulls 3 - 5 Inter Miami CF?,polymarket:5565318 | predict:3197233,1.0,explicit_platform_link,True,
+be89a7963ddd8a6d,Exact Score: New York Red Bulls 4 - 4 Inter Miami CF?,polymarket:5565320 | predict:3197234,1.0,explicit_platform_link,True,
+0e52e6324ad60da2,Exact Score: New York Red Bulls 5 - 3 Inter Miami CF?,polymarket:5565321 | predict:3197235,1.0,explicit_platform_link,True,
+06f40a55d8ea8c21,Exact Score: New York Red Bulls 4 - 5 Inter Miami CF?,polymarket:5565322 | predict:3197236,1.0,explicit_platform_link,True,
+716fb00db49f8d6f,Exact Score: New York Red Bulls 5 - 4 Inter Miami CF?,polymarket:5565324 | predict:3197237,1.0,explicit_platform_link,True,
+699b5d755a2ce2c5,Exact Score: New York Red Bulls 5 - 5 Inter Miami CF?,polymarket:5565325 | predict:3197238,1.0,explicit_platform_link,True,
+606a4dc7ce0731be,Exact Score: Any Other Score?,polymarket:5565326 | predict:3197239,1.0,explicit_platform_link,True,
+198cda96d0501ee6,New York Red Bulls to score first vs. Inter Miami CF?,polymarket:5565334 | predict:3197320,1.0,explicit_platform_link,True,
+49359dc760a16b7e,Inter Miami CF to score first vs. New York Red Bulls?,polymarket:5565335 | predict:3197321,1.0,explicit_platform_link,True,
+99522f676a6883a4,New York Red Bulls vs. Inter Miami CF: Neither team to score first?,polymarket:5565337 | predict:3197322,1.0,explicit_platform_link,True,
+90fb1880bd155b37,Will D.C. United SC win on 2026-10-24?,polymarket:5565341 | predict:3197301,1.0,explicit_platform_link,True,-1.720605692307692307692307693
+53fb97f2dda43762,Will D.C. United SC vs. FC Cincinnati end in a draw?,polymarket:5565342 | predict:3197302,1.0,explicit_platform_link,True,-1.261121164426059979317476729
+35ed17205b73e441,Will FC Cincinnati win on 2026-10-24?,polymarket:5565343 | predict:3197303,1.0,explicit_platform_link,True,-13.68556982404139880409668725
+a2a3d6db28682e45,D.C. United SC leading at halftime?,polymarket:5565351 | predict:3198903,1.0,explicit_platform_link,True,
+d41b3ae6257fcf31,D.C. United SC vs. FC Cincinnati: Draw at halftime?,polymarket:5565352 | predict:3198906,1.0,explicit_platform_link,True,
+e1bf961019ba6af4,FC Cincinnati leading at halftime?,polymarket:5565353 | predict:3198908,1.0,explicit_platform_link,True,
+6dcdb0e80121c256,D.C. United SC to win the second half?,polymarket:5565358 | predict:3197446,1.0,explicit_platform_link,True,
+36436535ff4e614e,D.C. United SC vs. FC Cincinnati: Second half draw?,polymarket:5565359 | predict:3197450,1.0,explicit_platform_link,True,
+d0a2ec47e3dabf46,FC Cincinnati to win the second half?,polymarket:5565360 | predict:3197452,1.0,explicit_platform_link,True,
+273d0550048484bf,Exact Score: D.C. United SC 0 - 0 FC Cincinnati?,polymarket:5565364 | predict:3198904,1.0,explicit_platform_link,True,
+34f1c75ab479654f,Exact Score: D.C. United SC 0 - 1 FC Cincinnati?,polymarket:5565365 | predict:3198909,1.0,explicit_platform_link,True,
+7cbe2a139da4f1ce,Exact Score: D.C. United SC 1 - 0 FC Cincinnati?,polymarket:5565366 | predict:3198910,1.0,explicit_platform_link,True,
+f4cea287ca8880bb,Exact Score: D.C. United SC 0 - 2 FC Cincinnati?,polymarket:5565368 | predict:3198911,1.0,explicit_platform_link,True,
+45ac766f5d4ef33f,Exact Score: D.C. United SC 1 - 1 FC Cincinnati?,polymarket:5565369 | predict:3198912,1.0,explicit_platform_link,True,
+35f8a63cca361ffc,Exact Score: D.C. United SC 2 - 0 FC Cincinnati?,polymarket:5565371 | predict:3198913,1.0,explicit_platform_link,True,
+ef4b20c4d30742c1,Exact Score: D.C. United SC 0 - 3 FC Cincinnati?,polymarket:5565372 | predict:3198914,1.0,explicit_platform_link,True,
+e2360227a1b11740,Exact Score: D.C. United SC 1 - 2 FC Cincinnati?,polymarket:5565374 | predict:3198915,1.0,explicit_platform_link,True,
+f91ccf39c55bf98e,Exact Score: D.C. United SC 2 - 1 FC Cincinnati?,polymarket:5565375 | predict:3198916,1.0,explicit_platform_link,True,
+db61704287f05374,Exact Score: D.C. United SC 3 - 0 FC Cincinnati?,polymarket:5565376 | predict:3198917,1.0,explicit_platform_link,True,
+bb1898795d6b6ceb,Exact Score: D.C. United SC 0 - 4 FC Cincinnati?,polymarket:5565378 | predict:3198918,1.0,explicit_platform_link,True,
+27bc67019920834c,Exact Score: D.C. United SC 1 - 3 FC Cincinnati?,polymarket:5565379 | predict:3198919,1.0,explicit_platform_link,True,
+dfe157bf701658db,Exact Score: D.C. United SC 2 - 2 FC Cincinnati?,polymarket:5565380 | predict:3198920,1.0,explicit_platform_link,True,
+7c5fee1647624352,Exact Score: D.C. United SC 3 - 1 FC Cincinnati?,polymarket:5565382 | predict:3198921,1.0,explicit_platform_link,True,
+4160ab9650d19ecd,Exact Score: D.C. United SC 4 - 0 FC Cincinnati?,polymarket:5565383 | predict:3198922,1.0,explicit_platform_link,True,
+c99332c56552a434,Exact Score: D.C. United SC 0 - 5 FC Cincinnati?,polymarket:5565384 | predict:3198923,1.0,explicit_platform_link,True,
+9107efdff2eb10bb,Exact Score: D.C. United SC 1 - 4 FC Cincinnati?,polymarket:5565386 | predict:3198924,1.0,explicit_platform_link,True,
+2a31066b6e3db48f,Exact Score: D.C. United SC 2 - 3 FC Cincinnati?,polymarket:5565387 | predict:3198925,1.0,explicit_platform_link,True,
+9f02de060faab6f3,Exact Score: D.C. United SC 3 - 2 FC Cincinnati?,polymarket:5565389 | predict:3198926,1.0,explicit_platform_link,True,
+09501f854207a1f1,Exact Score: D.C. United SC 4 - 1 FC Cincinnati?,polymarket:5565390 | predict:3198927,1.0,explicit_platform_link,True,
+7ee25b5e63ddc56e,Exact Score: D.C. United SC 5 - 0 FC Cincinnati?,polymarket:5565391 | predict:3198928,1.0,explicit_platform_link,True,
+57070b910bdcbe0a,Exact Score: D.C. United SC 1 - 5 FC Cincinnati?,polymarket:5565393 | predict:3198929,1.0,explicit_platform_link,True,
+8c2a2e6a4e10b96a,Exact Score: D.C. United SC 2 - 4 FC Cincinnati?,polymarket:5565394 | predict:3198930,1.0,explicit_platform_link,True,
+e37881e0046353f9,Exact Score: D.C. United SC 3 - 3 FC Cincinnati?,polymarket:5565395 | predict:3198931,1.0,explicit_platform_link,True,
+ebeafebc376427fd,Exact Score: D.C. United SC 4 - 2 FC Cincinnati?,polymarket:5565397 | predict:3198932,1.0,explicit_platform_link,True,
+14a16ba113c8e05d,Exact Score: D.C. United SC 5 - 1 FC Cincinnati?,polymarket:5565398 | predict:3198933,1.0,explicit_platform_link,True,
+50a027d49b742966,Exact Score: D.C. United SC 2 - 5 FC Cincinnati?,polymarket:5565399 | predict:3198934,1.0,explicit_platform_link,True,
+cfedc9e34bbddbd1,Exact Score: D.C. United SC 3 - 4 FC Cincinnati?,polymarket:5565401 | predict:3198935,1.0,explicit_platform_link,True,
+65005a13500e82ce,Exact Score: D.C. United SC 4 - 3 FC Cincinnati?,polymarket:5565402 | predict:3198936,1.0,explicit_platform_link,True,
+dfd22b8214332237,Exact Score: D.C. United SC 5 - 2 FC Cincinnati?,polymarket:5565404 | predict:3198937,1.0,explicit_platform_link,True,
+743e21af4154fdf1,Exact Score: D.C. United SC 3 - 5 FC Cincinnati?,polymarket:5565405 | predict:3198938,1.0,explicit_platform_link,True,
+9a2f9b6cc3f41a03,Exact Score: D.C. United SC 4 - 4 FC Cincinnati?,polymarket:5565406 | predict:3198939,1.0,explicit_platform_link,True,
+cda27ade3f28b311,Exact Score: D.C. United SC 5 - 3 FC Cincinnati?,polymarket:5565408 | predict:3198940,1.0,explicit_platform_link,True,
+10bfb28707976e1d,Exact Score: D.C. United SC 4 - 5 FC Cincinnati?,polymarket:5565409 | predict:3198941,1.0,explicit_platform_link,True,
+8c7377610b2be21b,Exact Score: D.C. United SC 5 - 4 FC Cincinnati?,polymarket:5565411 | predict:3198942,1.0,explicit_platform_link,True,
+efe51cc479727066,Exact Score: D.C. United SC 5 - 5 FC Cincinnati?,polymarket:5565412 | predict:3198943,1.0,explicit_platform_link,True,
+a00f550b92eef613,Exact Score: Any Other Score?,polymarket:5565413 | predict:3198944,1.0,explicit_platform_link,True,
+17cb70919ff17d36,D.C. United SC to score first vs. FC Cincinnati?,polymarket:5565421 | predict:3198689,1.0,explicit_platform_link,True,
+08db1b9f726caa59,FC Cincinnati to score first vs. D.C. United SC?,polymarket:5565422 | predict:3198690,1.0,explicit_platform_link,True,
+d67179ccfb6e8387,D.C. United SC vs. FC Cincinnati: Neither team to score first?,polymarket:5565423 | predict:3198691,1.0,explicit_platform_link,True,
+02053c4a253babbf,Will Atlanta United FC win on 2026-10-24?,polymarket:5565433 | predict:3197574,1.0,explicit_platform_link,True,-2.362689012695754920611514957
+e6b8ee83f1597f05,Will Atlanta United FC vs. Chicago Fire FC end in a draw?,polymarket:5565435 | predict:3197575,1.0,explicit_platform_link,True,-0.7115548003398470688190314247
+831de062e714f201,Will Chicago Fire FC win on 2026-10-24?,polymarket:5565437 | predict:3197576,1.0,explicit_platform_link,True,-1.003324613373016888194644655
+2c1518252935b695,Atlanta United FC leading at halftime?,polymarket:5565442 | predict:3199001,1.0,explicit_platform_link,True,-1.261121164426059979317476729
+b355427fcae2143b,Atlanta United FC vs. Chicago Fire FC: Draw at halftime?,polymarket:5565443 | predict:3199002,1.0,explicit_platform_link,True,-1.161768861268695203713254256
+c335a40a0279127d,Chicago Fire FC leading at halftime?,polymarket:5565444 | predict:3199003,1.0,explicit_platform_link,True,-1.413618821096173733195449842
+32ea9fd260c5f3e0,Atlanta United FC to win the second half?,polymarket:5565446 | predict:3198680,1.0,explicit_platform_link,True,-21.11299686559716499388955788
+39ef0b8ab2c3908d,Atlanta United FC vs. Chicago Fire FC: Second half draw?,polymarket:5565447 | predict:3198683,1.0,explicit_platform_link,True,-21.43499983360559316712220150
+f4541da0e8274e89,Chicago Fire FC to win the second half?,polymarket:5565449 | predict:3198687,1.0,explicit_platform_link,True,-21.11299686559716499388955788
+e94d0c2b83512259,Exact Score: Atlanta United FC 0 - 0 Chicago Fire FC?,polymarket:5565453 | predict:3196586,1.0,explicit_platform_link,True,
+7c850cd5b2075717,Exact Score: Atlanta United FC 0 - 1 Chicago Fire FC?,polymarket:5565454 | predict:3196588,1.0,explicit_platform_link,True,
+a607ce1b6b38c896,Exact Score: Atlanta United FC 1 - 0 Chicago Fire FC?,polymarket:5565455 | predict:3196589,1.0,explicit_platform_link,True,
+d8587945ea5912e2,Exact Score: Atlanta United FC 0 - 2 Chicago Fire FC?,polymarket:5565457 | predict:3196591,1.0,explicit_platform_link,True,
+8621eed2d69f0fee,Exact Score: Atlanta United FC 1 - 1 Chicago Fire FC?,polymarket:5565459 | predict:3196592,1.0,explicit_platform_link,True,
