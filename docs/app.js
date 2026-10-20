@@ -225,7 +225,7 @@ $('#ledger-min-entry').addEventListener('input',renderLedger);
 $('#ledger-min-exit').addEventListener('input',renderLedger);
 setInterval(()=>{if(currentView==='tracking')refreshLedger()},10000);
 const baseRenderSummary=renderSummary;
-renderSummary=function(){baseRenderSummary();if(!state)return;const opportunities=uniqueByMarket((state.opportunities||[]).filter(o=>o.full_budget_executable));$('#metric-opps').textContent=opportunities.length;$('#nav-count').textContent=opportunities.length;$('#metric-rules').textContent=opportunities.filter(o=>ruleStatus(o)==='consistent').length};
+renderSummary=function(){baseRenderSummary();if(!state)return;const opportunities=uniqueByMarket((state.opportunities||[]).filter(o=>o.full_budget_executable));$('#metric-opps').textContent=opportunities.length;$('#nav-count').textContent=opportunities.length;$('#metric-rules').textContent=opportunities.filter(o=>ruleStatus(o)==='consistent').length;const scanTime=state.last_scan_at||state.timestamp;$('#metric-time').textContent=scanTime?new Date(scanTime*1000).toLocaleTimeString('it-IT',{timeZone:'Europe/Rome'}):'—'};
 function syncBudgetFilter(){if(!state)return;const select=$('#budget-filter');const current=select.value;
  const budgets=[...new Set((state.opportunities||[]).map(o=>String(o.budget)).filter(Boolean))].sort((a,b)=>n(a)-n(b));
  const signature=budgets.join(',');
