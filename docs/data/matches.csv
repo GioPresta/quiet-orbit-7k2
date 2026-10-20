@@ -9,93 +9,93 @@ match_id,name,markets,score,match_reason,rules_identical,screening_profit
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
 be49105428c4e033,Will the Cleveland Browns win the 2027 NFL league championship?,polymarket:1357378 | predict:26938,1.0,explicit_platform_link,True,0.3123714657305512930342835392
-c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.07398824739657784443939545167
+c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.3707250821940636758575136479
 7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,1.939749689036411438094993444
 3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.1171605822620203402488688430
 0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
 fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nomination?,polymarket:561975 | predict:933798,1.0,explicit_platform_link,True,0.3203645866784373348410176071
 2b40a9e64fd3f50c,"Next White House Press Secretary announced by December 31, 2026?",polymarket:5784291 | predict:3415545,1.0,explicit_platform_link,True,4.107942498152042904059214697
 ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
-3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,0.9369979046598700974137286059
+3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,1.244082578415513434024657313
 6471feb59ef29034,Will Fenerbahçe SK win on 2026-10-20?,polymarket:5383472 | predict:3019976,1.0,explicit_platform_link,True,0.4874933765047374620766867349
 9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
-db335c0dbf587619,Will the Phoenix Suns be the 2027 NBA Western Conference Champion?,polymarket:2668737 | predict:936421,1.0,explicit_platform_link,True,-24.93693203883452295853045841
-04b971201e573338,Will the Sacramento Kings be the 2027 NBA Western Conference Champion?,polymarket:2668738 | predict:936422,1.0,explicit_platform_link,True,-24.91227418090530506938589816
-981ed18114371a36,Will the Dallas Mavericks be the 2027 NBA Western Conference Champion?,polymarket:2668739 | predict:936423,1.0,explicit_platform_link,True,-24.83896889981823727958870070
-ac878f0dbfae3288,Will the Houston Rockets be the 2027 NBA Western Conference Champion?,polymarket:2668740 | predict:936424,1.0,explicit_platform_link,True,0
-b3282668f0c03d69,Will the Memphis Grizzlies be the 2027 NBA Western Conference Champion?,polymarket:2668741 | predict:936425,1.0,explicit_platform_link,True,-24.88719693134142178633997875
-ff160fdf11925566,Will the San Antonio Spurs be the 2027 NBA Western Conference Champion?,polymarket:2668743 | predict:936427,1.0,explicit_platform_link,True,-0.355607343192248852626211120
-88c2fb8a320b795d,Will AJ Dybantsa win the 2026-27 NBA Rookie of the Year?,polymarket:2668796 | predict:942144,1.0,explicit_platform_link,True,-0.3946192053352328334353645533
-de04991b363af468,Will Darryn Peterson win the 2026-27 NBA Rookie of the Year?,polymarket:2668797 | predict:942145,1.0,explicit_platform_link,True,0.4297784932564801365190880434
-7eaf0f437f831ab6,Will Cameron Boozer win the 2026-27 NBA Rookie of the Year?,polymarket:2668798 | predict:942146,1.0,explicit_platform_link,True,-0.5996867752722035324715718003
-b8b189545ae00ad5,Will Caleb Wilson win the 2026-27 NBA Rookie of the Year?,polymarket:2668799 | predict:942147,1.0,explicit_platform_link,True,-0.8549244038186502024993811506
-6f376d038b0427f3,Will Keaton Wagler win the 2026-27 NBA Rookie of the Year?,polymarket:2668800 | predict:942148,1.0,explicit_platform_link,True,-21.83699495339202817995994128
-d328276c71716152,Will Mikel Brown Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668801 | predict:942149,1.0,explicit_platform_link,True,-23.43632949770493795432809395
-33f019deedd311e7,Will Darius Acuff Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668802 | predict:942150,1.0,explicit_platform_link,True,-3.777461173679570785194691032
-790f282d4a1763ca,Will Kingston Flemings win the 2026-27 NBA Rookie of the Year?,polymarket:2668803 | predict:942151,1.0,explicit_platform_link,True,-21.91377266373346299951655904
-92d7f17527c4ca7d,Will Morez Johnson Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668804 | predict:942152,1.0,explicit_platform_link,True,-23.50410544758676208027345323
-0b7c68ed346d582c,Will Brayden Burries win the 2026-27 NBA Rookie of the Year?,polymarket:2668805 | predict:942153,1.0,explicit_platform_link,True,-23.49074863200588762646833093
-2f98521a3292de1c,Will Yaxel Lendeborg win the 2026-27 NBA Rookie of the Year?,polymarket:2668806 | predict:942154,1.0,explicit_platform_link,True,-22.81804775181382656108555035
-ca188224c6c43741,Will Aday Mara win the 2026-27 NBA Rookie of the Year?,polymarket:2668807 | predict:942155,1.0,explicit_platform_link,True,-21.75947440129344022096392904
-27f9894f968b89af,Will Nate Ament win the 2026-27 NBA Rookie of the Year?,polymarket:2668808 | predict:942156,1.0,explicit_platform_link,True,0
-820a784c388ad998,Will Hannes Steinbach win the 2026-27 NBA Rookie of the Year?,polymarket:2668809 | predict:942157,1.0,explicit_platform_link,True,-0.02388743916211368368966866588
-2c1a03a615a622ba,Will Dailyn Swain win the 2026-27 NBA Rookie of the Year?,polymarket:2668810 | predict:942158,1.0,explicit_platform_link,True,
-dce9f5879f33b22b,Will Bennett Stirtz win the 2026-27 NBA Rookie of the Year?,polymarket:2668811 | predict:942159,1.0,explicit_platform_link,True,-23.58657921663090888804830471
-30dcfd96af8a3755,Will Ebuka Okorie win the 2026-27 NBA Rookie of the Year?,polymarket:2668812 | predict:942160,1.0,explicit_platform_link,True,-23.47682435852189061328806736
-5d65fcf399048179,Will Christian Anderson win the 2026-27 NBA Rookie of the Year?,polymarket:2668813 | predict:942161,1.0,explicit_platform_link,True,-23.54533720968745451334143821
-cdb2bd5f31a8e70a,Will Allen Graves win the 2026-27 NBA Rookie of the Year?,polymarket:2668814 | predict:942162,1.0,explicit_platform_link,True,-23.51814100542929389145707687
-afd0e89b01d41a78,Will Jayden Quaintance win the 2026-27 NBA Rookie of the Year?,polymarket:2668815 | predict:942163,1.0,explicit_platform_link,True,-23.61377238164353803409414044
-b489551004ed7c72,Will Karim López win the 2026-27 NBA Rookie of the Year?,polymarket:2668816 | predict:942164,1.0,explicit_platform_link,True,-23.54533720968745451334143821
-6f622bf4011a6027,Will Labaron Philon Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668817 | predict:942165,1.0,explicit_platform_link,True,-23.54547601229496863854765607
-d10e8ef52914a738,Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?,polymarket:2668818 | predict:942166,1.0,explicit_platform_link,True,-23.51800273261055714413634566
-d2f02bc949b0580e,Will Cameron Carr win the 2026-27 NBA Rookie of the Year?,polymarket:2668819 | predict:942167,1.0,explicit_platform_link,True,-23.55905262824777031738944034
-97a5bf70318f63b2,Will Sergio De Larrea win the 2026-27 NBA Rookie of the Year?,polymarket:2668820 | predict:942168,1.0,explicit_platform_link,True,-23.47668565390258874105628470
-446d47fa5918d19c,Will Tarris Reed Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668821 | predict:942169,1.0,explicit_platform_link,True,-23.49033295066992613087849788
-538514f4522f6dc1,Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668822 | predict:942170,1.0,explicit_platform_link,True,-21.85176657093322245912086008
-5c3951c01a8ccfe7,Will Joshua Jefferson win the 2026-27 NBA Rookie of the Year?,polymarket:2668823 | predict:942171,1.0,explicit_platform_link,True,-23.47654612849086785991303739
-deaa8de544898729,Will Alex Karaban win the 2026-27 NBA Rookie of the Year?,polymarket:2668824 | predict:942172,1.0,explicit_platform_link,True,-23.55905262824777031738944034
-5f8a8be7c42844aa,Will Koa Peat win the 2026-27 NBA Rookie of the Year?,polymarket:2668825 | predict:942173,1.0,explicit_platform_link,True,-23.55905262824777031738944034
-b7d58439e71d84a7,Will Gavin McKenna win the 2026-27 Calder Trophy?,polymarket:2683278 | predict:587888,1.0,explicit_platform_link,True,-0.8464297631019323177589203382
-4d480e8af2f39d2a,Will Ivar Stenberg win the 2026-27 Calder Trophy?,polymarket:2683279 | predict:587841,1.0,explicit_platform_link,True,0.4893646338043293748773396978
-9124690320117474,Will Chase Reid win the 2026-27 Calder Trophy?,polymarket:2683280 | predict:587861,1.0,explicit_platform_link,True,-21.05342716054336519340840969
-69125fcbe8f3d8de,Will Caleb Malhotra win the 2026-27 Calder Trophy?,polymarket:2683281 | predict:587892,1.0,explicit_platform_link,True,-20.97120911633799746579760148
-928afeb5f827b6c8,Will Carson Carels win the 2026-27 Calder Trophy?,polymarket:2683282 | predict:587875,1.0,explicit_platform_link,True,-21.23237949477493476450206678
-a36b700bfb7cc81d,Will Viggo Björck win the 2026-27 Calder Trophy?,polymarket:2683283 | predict:587889,1.0,explicit_platform_link,True,0
-03cf720cecff2478,Will Keaton Verhoeff win the 2026-27 Calder Trophy?,polymarket:2683284 | predict:587842,1.0,explicit_platform_link,True,
-27e9fb2e9d05fd06,Will Alberts Smits win the 2026-27 Calder Trophy?,polymarket:2683285 | predict:587862,1.0,explicit_platform_link,True,-21.00372600624963499076413223
-026638e6e572f6c3,Will Tynan Lawrence win the 2026-27 Calder Trophy?,polymarket:2683286 | predict:587893,1.0,explicit_platform_link,True,
-f958c1266529bdee,Will Daxon Rudolph win the 2026-27 Calder Trophy?,polymarket:2683287 | predict:587876,1.0,explicit_platform_link,True,
-53cdf91b6ff3866e,Will Ethan Belchetz win the 2026-27 Calder Trophy?,polymarket:2683288 | predict:587890,1.0,explicit_platform_link,True,-21.08689067672333018177958642
-c2c2b7f7d7bd6af5,Will Malte Gustafsson win the 2026-27 Calder Trophy?,polymarket:2683289 | predict:587843,1.0,explicit_platform_link,True,-21.18361603605684241585411589
-da1fcbd853d135e3,Will Wyatt Cullen win the 2026-27 Calder Trophy?,polymarket:2683290 | predict:587844,1.0,explicit_platform_link,True,-21.13468698057406682131237116
-2f899e1deab9469d,Will Ryan Lin win the 2026-27 Calder Trophy?,polymarket:2683291 | predict:587894,1.0,explicit_platform_link,True,-21.20037949412679605994488889
-dfba400040e1e2bb,Will Alexander Command win the 2026-27 Calder Trophy?,polymarket:2683292 | predict:587877,1.0,explicit_platform_link,True,-21.21614335625328561339837181
-d6311adf47f7d0d6,Will Nikita Klepov win the 2026-27 Calder Trophy?,polymarket:2683293 | predict:587891,1.0,explicit_platform_link,True,
-569e7c7a51c6953d,Will Oscar Hemming win the 2026-27 Calder Trophy?,polymarket:2683294 | predict:587845,1.0,explicit_platform_link,True,
-81cbad77d962ae65,Will Oliver Suvanto win the 2026-27 Calder Trophy?,polymarket:2683295 | predict:587863,1.0,explicit_platform_link,True,
-2fd47b7525960154,Will Xavier Villeneuve win the 2026-27 Calder Trophy?,polymarket:2683296 | predict:587901,1.0,explicit_platform_link,True,-21.11834035025425437997539177
-79b04520d6af63fd,Will Adam Novotný win the 2026-27 Calder Trophy?,polymarket:2683297 | predict:587878,1.0,explicit_platform_link,True,
-5a93c8afd77f6c73,Will Elton Hermansson win the 2026-27 Calder Trophy?,polymarket:2683298 | predict:587902,1.0,explicit_platform_link,True,
-4714741e7098f810,Will JP Hurlbert win the 2026-27 Calder Trophy?,polymarket:2683299 | predict:587846,1.0,explicit_platform_link,True,
-2d39c6cf8e600786,Will Ilya Morozov win the 2026-27 Calder Trophy?,polymarket:2683300 | predict:587864,1.0,explicit_platform_link,True,
-d92d8b99fb47a61c,Will Maddox Dagenais win the 2026-27 Calder Trophy?,polymarket:2683301 | predict:587903,1.0,explicit_platform_link,True,-21.15118018204878610046598069
-88630ec224d846eb,Will Liam Ruck win the 2026-27 Calder Trophy?,polymarket:2683302 | predict:587895,1.0,explicit_platform_link,True,
-6aa213dea96aa2cd,Will Tommy Bleyl win the 2026-27 Calder Trophy?,polymarket:2683303 | predict:587847,1.0,explicit_platform_link,True,-20.92106121443849421505193560
-50a54e4d4f6af859,Will Mathis Preston win the 2026-27 Calder Trophy?,polymarket:2683304 | predict:587904,1.0,explicit_platform_link,True,
-5f9b9d4472ee494a,Will Marcus Nordmark win the 2026-27 Calder Trophy?,polymarket:2683305 | predict:587848,1.0,explicit_platform_link,True,
-b0161aeb8705cb90,Will Markus Ruck win the 2026-27 Calder Trophy?,polymarket:2683306 | predict:587896,1.0,explicit_platform_link,True,
-fcc19791ed40a49d,Will William Hakansson win the 2026-27 Calder Trophy?,polymarket:2683307 | predict:587849,1.0,explicit_platform_link,True,
-2a1a5ee82f57375f,Will the Boston Celtics be the 2027 NBA Eastern Conference Champion?,polymarket:2685350 | predict:936431,1.0,explicit_platform_link,True,-0.7539595683447673673260490773
-81706036fd743c65,Will the Brooklyn Nets be the 2027 NBA Eastern Conference Champion?,polymarket:2685351 | predict:936432,1.0,explicit_platform_link,True,-0.9821840610702242808721695068
-ecf2f6e3d4dbe5b4,Will the New York Knicks be the 2027 NBA Eastern Conference Champion?,polymarket:2685352 | predict:936433,1.0,explicit_platform_link,True,-0.273502892753040506583576240
-d73916752f10704d,Will the Philadelphia 76ers be the 2027 NBA Eastern Conference Champion?,polymarket:2685353 | predict:936434,1.0,explicit_platform_link,True,0
-cf038a98d6d25aec,Will the Toronto Raptors be the 2027 NBA Eastern Conference Champion?,polymarket:2685354 | predict:936435,1.0,explicit_platform_link,True,-4.170584912742508978476893155
-bcb6deda0379a612,Will the Chicago Bulls be the 2027 NBA Eastern Conference Champion?,polymarket:2685355 | predict:936436,1.0,explicit_platform_link,True,-24.80095596025831385351922575
-cd540b2e60af94ca,Will the Cleveland Cavaliers be the 2027 NBA Eastern Conference Champion?,polymarket:2685356 | predict:936437,1.0,explicit_platform_link,True,-3.249044222158891022369028038
-31fb2b4d3d2641eb,Will the Detroit Pistons be the 2027 NBA Eastern Conference Champion?,polymarket:2685357 | predict:936438,1.0,explicit_platform_link,True,-3.735530561230303192489336933
-01360754d195514f,Will the Indiana Pacers be the 2027 NBA Eastern Conference Champion?,polymarket:2685358 | predict:936439,1.0,explicit_platform_link,True,-24.23342024060197222701996237
-2e9a9f6196d59eca,Will the Milwaukee Bucks be the 2027 NBA Eastern Conference Champion?,polymarket:2685359 | predict:936440,1.0,explicit_platform_link,True,-24.81327850998311931824151098
-c091847867b9082e,Will the Atlanta Hawks be the 2027 NBA Eastern Conference Champion?,polymarket:2685360 | predict:936441,1.0,explicit_platform_link,True,-24.67702293023201552214814304
-a1503c0f626797d9,Will the Charlotte Hornets be the 2027 NBA Eastern Conference Champion?,polymarket:2685361 | predict:936442,1.0,explicit_platform_link,True,-24.78921758370558635654282043
-28f5de4bad8e6646,Will the Miami Heat be the 2027 NBA Eastern Conference Champion?,polymarket:2685362 | predict:936443,1.0,explicit_platform_link,True,-4.102740381883693644605811916
-e50e1d1d1cf7e0ca,Will the Orlando Magic be the 2027 NBA Eastern Conference Champion?,polymarket:2685363 | predict:936444,1.0,explicit_platform_link,True,-24.67736635402074829945146838
+ce807ddc54f9d68a,Will Le Mans win the 2026-27 Ligue 1 Championship?,polymarket:2771659 | predict:935051,1.0,explicit_platform_link,True,0.07559952978478396540837807489
+8f921e89f531472a,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,polymarket:2772166 | predict:659166,1.0,explicit_platform_link,True,0
+5e44a18d499b09ba,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,polymarket:2772167 | predict:659167,1.0,explicit_platform_link,True,-0.3445813616056407881551639776
+18711e8e43735767,Will Arsenal win the 2026-27 UEFA Champions League Championship?,polymarket:2772168 | predict:659168,1.0,explicit_platform_link,True,-0.3914518210696480781823574652
+e48f489d767f2a09,Will Liverpool win the 2026-27 UEFA Champions League Championship?,polymarket:2772171 | predict:659171,1.0,explicit_platform_link,True,-0.1681691715095556442678844221
+d12fa345c6da7b30,Will Napoli win the 2026-27 UEFA Champions League Championship?,polymarket:2772173 | predict:659173,1.0,explicit_platform_link,True,0
+f2f1502543c24fa1,Will Barcelona win the 2026-27 UEFA Champions League Championship?,polymarket:2772176 | predict:659176,1.0,explicit_platform_link,True,-0.5823565992906898101940677182
+4256fd9f96d5aa0c,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,polymarket:2772179 | predict:659179,1.0,explicit_platform_link,True,-0.1082769103888745815091424079
+8036bd55a6c84502,Will Real Betis win the 2026-27 UEFA Champions League Championship?,polymarket:2772180 | predict:659180,1.0,explicit_platform_link,True,0
+059dca0a29daa56b,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,polymarket:2772184 | predict:659184,1.0,explicit_platform_link,True,0
+e883dc50b9785a17,Will Lens win the 2026-27 UEFA Champions League Championship?,polymarket:2772185 | predict:659185,1.0,explicit_platform_link,True,0
+ff065852d0eb0231,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,polymarket:2772187 | predict:659187,1.0,explicit_platform_link,True,0
+c3b95d5e9ba25b6f,Will Slavia Prague win the 2026-27 UEFA Champions League Championship?,polymarket:2772192 | predict:659192,1.0,explicit_platform_link,True,-0.02254365020304865351189853376
+0dc0b85fec8ea676,Will Crystal Palace win the 2026-27 UEFA Europa League Championship?,polymarket:2772208 | predict:659208,1.0,explicit_platform_link,True,-0.08574256415998767928015257038
+a3cc5a67117e1623,Will Sunderland win the 2026-27 UEFA Europa League Championship?,polymarket:2772210 | predict:659210,1.0,explicit_platform_link,True,-1.298910519564120027242498305
+c07124b2c5283c09,Will Milan win the 2026-27 UEFA Europa League Championship?,polymarket:2772211 | predict:659211,1.0,explicit_platform_link,True,-0.2542093693283577619512545746
+d8d9e61294641d94,Will Juventus win the 2026-27 UEFA Europa League Championship?,polymarket:2772212 | predict:659212,1.0,explicit_platform_link,True,-0.7745114322453098494000706635
+f4c7e0fefceae4d6,Will Real Sociedad win the 2026-27 UEFA Europa League Championship?,polymarket:2772213 | predict:659213,1.0,explicit_platform_link,True,-2.514966716403267990022488707
+1c46b19d7ea07d26,Will Celta Vigo win the 2026-27 UEFA Europa League Championship?,polymarket:2772214 | predict:659214,1.0,explicit_platform_link,True,-2.141068618282811577956765285
+2950709291a053f0,Will TSG Hoffenheim win the 2026-27 UEFA Europa League Championship?,polymarket:2772215 | predict:659215,1.0,explicit_platform_link,True,0
+477187973f925f53,Will Bayer Leverkusen win the 2026-27 UEFA Europa League Championship?,polymarket:2772216 | predict:659216,1.0,explicit_platform_link,True,-0.6164334373101229308088916686
+4315378fc533016a,Will Marseille win the 2026-27 UEFA Europa League Championship?,polymarket:2772217 | predict:659217,1.0,explicit_platform_link,True,-0.1484710497991797186052770506
+a1828a1e3950700d,Will Rennes win the 2026-27 UEFA Europa League Championship?,polymarket:2772218 | predict:659218,1.0,explicit_platform_link,True,0
+d8d8e5c27b3a0a15,Will AZ win the 2026-27 UEFA Europa League Championship?,polymarket:2772219 | predict:659219,1.0,explicit_platform_link,True,0
+73218d5691325dea,Will Torreense win the 2026-27 UEFA Europa League Championship?,polymarket:2772220 | predict:659220,1.0,explicit_platform_link,True,-0.1766049577480991810639172244
+038e6fcfe4f1c04c,Gianni Infantino out as FIFA President by December 31?,polymarket:2821657 | predict:700264,1.0,explicit_platform_link,True,-0.6940454585186614222500190017
+b8bfd75aeeec8070,Will Bayern Munich be the 2026-27 Bundesliga champion?,polymarket:2849009 | predict:935726,1.0,explicit_platform_link,True,-4.593105563624569882120725997
+d23cd1ffb5040c46,Will Bayer Leverkusen be the 2026-27 Bundesliga champion?,polymarket:2849011 | predict:935728,1.0,explicit_platform_link,True,0
+5fa1fa0f111c4788,Will RB Leipzig be the 2026-27 Bundesliga champion?,polymarket:2849012 | predict:935729,1.0,explicit_platform_link,True,0
+ad5d0cb1fbec5aaf,Will Eintracht Frankfurt be the 2026-27 Bundesliga champion?,polymarket:2849013 | predict:935730,1.0,explicit_platform_link,True,0
+bbc57223ff471d67,Will VfB Stuttgart be the 2026-27 Bundesliga champion?,polymarket:2849014 | predict:935731,1.0,explicit_platform_link,True,0
+cb8464835e612661,Will TSG Hoffenheim be the 2026-27 Bundesliga champion?,polymarket:2849015 | predict:935732,1.0,explicit_platform_link,True,0
+49bfccdc3655da9e,Will SC Freiburg be the 2026-27 Bundesliga champion?,polymarket:2849016 | predict:935733,1.0,explicit_platform_link,True,0.8316727812358300012366544400
+ded8048f0f11e33a,Will Mainz 05 be the 2026-27 Bundesliga champion?,polymarket:2849017 | predict:935734,1.0,explicit_platform_link,True,0
+32a3d212f2d3f40a,Will Borussia Mönchengladbach be the 2026-27 Bundesliga champion?,polymarket:2849018 | predict:935735,1.0,explicit_platform_link,True,0
+87aab49a0a340bee,Will 1. FC Köln be the 2026-27 Bundesliga champion?,polymarket:2849019 | predict:935736,1.0,explicit_platform_link,True,0
+b96b2a505a212b52,Will FC Augsburg be the 2026-27 Bundesliga champion?,polymarket:2849020 | predict:935737,1.0,explicit_platform_link,True,0
+9368e7a39a5ce353,Will Union Berlin be the 2026-27 Bundesliga champion?,polymarket:2849021 | predict:935738,1.0,explicit_platform_link,True,
+7f870fc0caf604cf,Will Werder Bremen be the 2026-27 Bundesliga champion?,polymarket:2849022 | predict:935739,1.0,explicit_platform_link,True,0
+a31384f263932ebc,Will Hamburger SV be the 2026-27 Bundesliga champion?,polymarket:2849023 | predict:935740,1.0,explicit_platform_link,True,
+cc8aefb98a0f431c,Will Schalke 04 be the 2026-27 Bundesliga champion?,polymarket:2849024 | predict:935741,1.0,explicit_platform_link,True,0
+3398c3a1e391ed98,Will SC Paderborn be the 2026-27 Bundesliga champion?,polymarket:2849025 | predict:935742,1.0,explicit_platform_link,True,
+ff30de33aa2cfba9,Will SV Elversberg be the 2026-27 Bundesliga champion?,polymarket:2849026 | predict:935743,1.0,explicit_platform_link,True,
+e948865b9c4a27e2,Will a Chinese company have one of the top 3 AI models by December 31?,polymarket:2873443 | predict:1850134,1.0,explicit_platform_link,True,-1.398480707457619259827875344
+b73afb5a790aaaf1,"Will DeepSeek IPO by December 31, 2026?",polymarket:2928988 | predict:792172,1.0,explicit_platform_link,True,0.5187344087402411092985153338
+287f39cfe3ef40a7,"Will DeepSeek IPO by March 31, 2027?",polymarket:2928989 | predict:792173,1.0,explicit_platform_link,True,-0.9075667985270037117749409932
+234b2f5446382298,"Will DeepSeek IPO by June 30, 2027?",polymarket:2928990 | predict:792174,1.0,explicit_platform_link,True,-2.170178749383730484798685286
+240cb9c9f21b99db,"Will DeepSeek IPO by September 30, 2027?",polymarket:2928991 | predict:792175,1.0,explicit_platform_link,True,-1.057615626382630069643588698
+d92a52b9d6bf7074,"Will DeepSeek IPO by December 31, 2027?",polymarket:2928992 | predict:792176,1.0,explicit_platform_link,True,-0.7746704563367160157838109882
+2a8be8e83adce20a,Will Albania win the UEFA EURO 2028?,polymarket:3004664 | predict:944899,1.0,explicit_platform_link,True,-0.04325345798779204378025679628
+006fc5c97758f5ee,Will Andorra win the UEFA EURO 2028?,polymarket:3004665 | predict:944900,1.0,explicit_platform_link,True,0
+8d822088e06d118c,Will Armenia win the UEFA EURO 2028?,polymarket:3004666 | predict:944901,1.0,explicit_platform_link,True,-24.92436611470563616759219032
+9dfa19a04fc3ecce,Will Austria win the UEFA EURO 2028?,polymarket:3004667 | predict:944902,1.0,explicit_platform_link,True,-1.259981273124659073505559125
+839e04dd00a03841,Will Azerbaijan win the UEFA EURO 2028?,polymarket:3004668 | predict:944903,1.0,explicit_platform_link,True,-2.562977565777998127210492829
+9f63ecd149a97663,Will Belarus win the UEFA EURO 2028?,polymarket:3004669 | predict:944904,1.0,explicit_platform_link,True,-2.797424930254886865941682727
+9587282a0ae08b0d,Will Belgium win the UEFA EURO 2028?,polymarket:3004670 | predict:944905,1.0,explicit_platform_link,True,-0.7856186191190724862943092271
+ba4c97e77a1787cd,Will Bosnia and Herzegovina win the UEFA EURO 2028?,polymarket:3004671 | predict:944906,1.0,explicit_platform_link,True,-0.8031518383778708819704689458
+5511d5e2ee5a3be7,Will Bulgaria win the UEFA EURO 2028?,polymarket:3004672 | predict:944907,1.0,explicit_platform_link,True,-0.1285898190465674386306232900
+9a7fdbfcfda450cc,Will Croatia win the UEFA EURO 2028?,polymarket:3004673 | predict:944908,1.0,explicit_platform_link,True,-0.7556485662150183578077524487
+18efdd0ae422e07b,Will Cyprus win the UEFA EURO 2028?,polymarket:3004674 | predict:944909,1.0,explicit_platform_link,True,-2.709887082999143494184875132
+89c1ade6ea69ec0f,Will Czech Republic win the UEFA EURO 2028?,polymarket:3004675 | predict:944910,1.0,explicit_platform_link,True,-0.02724812661736619352601552378
+f01c95839fde8b06,Will Denmark win the UEFA EURO 2028?,polymarket:3004676 | predict:944911,1.0,explicit_platform_link,True,-0.4442359215378517303660983077
+83e7d8a8940d6527,Will England win the UEFA EURO 2028?,polymarket:3004677 | predict:944912,1.0,explicit_platform_link,True,-0.2171069970772442588726513519
+98f27cf06c1374fe,Will Estonia win the UEFA EURO 2028?,polymarket:3004678 | predict:944913,1.0,explicit_platform_link,True,-1.698269877826796395340221550
+c75341a920bc47b5,Will Faroe Islands win the UEFA EURO 2028?,polymarket:3004679 | predict:944914,1.0,explicit_platform_link,True,-1.747178991693171620540209934
+76430d55e6994061,Will Finland win the UEFA EURO 2028?,polymarket:3004680 | predict:944915,1.0,explicit_platform_link,True,-2.468510454946803085626212262
+28e2178337db819e,Will France win the UEFA EURO 2028?,polymarket:3004681 | predict:944916,1.0,explicit_platform_link,True,-0.6516491193220088455900797681
+f7bfd5e45264242a,Will Georgia win the UEFA EURO 2028?,polymarket:3004682 | predict:944917,1.0,explicit_platform_link,True,-3.075561178679042238377522354
+5b9d2eec838c39d8,Will Germany win the UEFA EURO 2028?,polymarket:3004683 | predict:944918,1.0,explicit_platform_link,True,-0.8318662833279595866781901926
+6e9d88f49337e6ba,Will Gibraltar win the UEFA EURO 2028?,polymarket:3004684 | predict:944919,1.0,explicit_platform_link,True,-2.086647281902784073938699419
+977d1c013c7775be,Will Greece win the UEFA EURO 2028?,polymarket:3004685 | predict:944920,1.0,explicit_platform_link,True,-0.8539802018339259005802136313
+72b447e3e467fbcf,Will Hungary win the UEFA EURO 2028?,polymarket:3004686 | predict:944921,1.0,explicit_platform_link,True,-0.2330906197059912125482643224
+5e13eece3dcc3abd,Will Iceland win the UEFA EURO 2028?,polymarket:3004687 | predict:944922,1.0,explicit_platform_link,True,-2.939848797274923343777785476
+6d0c55cd77c7707d,Will Israel win the UEFA EURO 2028?,polymarket:3004688 | predict:944923,1.0,explicit_platform_link,True,-1.501586025390826473725884026
+5ba4bdde4fa15ad4,Will Italy win the UEFA EURO 2028?,polymarket:3004689 | predict:944924,1.0,explicit_platform_link,True,-1.711085496709929377406131136
+9714efabe256c856,Will Kazakhstan win the UEFA EURO 2028?,polymarket:3004690 | predict:944925,1.0,explicit_platform_link,True,-3.213338870230639705144997976
+53ef3f26676e6de4,Will Kosovo win the UEFA EURO 2028?,polymarket:3004691 | predict:944926,1.0,explicit_platform_link,True,-2.936925876162668670066853136
+7d7da5c5393a058d,Will Latvia win the UEFA EURO 2028?,polymarket:3004692 | predict:944927,1.0,explicit_platform_link,True,-3.075561178679042238377522354
+32fd3c8b7dd38f5b,Will Liechtenstein win the UEFA EURO 2028?,polymarket:3004693 | predict:944928,1.0,explicit_platform_link,True,-3.486353056307532142548861056
+e1d30191048fe33f,Will Lithuania win the UEFA EURO 2028?,polymarket:3004694 | predict:944929,1.0,explicit_platform_link,True,-1.501586025390826473725884026
