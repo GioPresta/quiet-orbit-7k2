@@ -4,6 +4,7 @@ import signal
 import subprocess
 import sys
 import time
+import os
 from pathlib import Path
 
 
@@ -11,9 +12,11 @@ ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "output"
 OUTPUT.mkdir(exist_ok=True)
 SERVICES = [
-    ("dashboard", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio.dashboard", "--port", "8765"]),
+    ("dashboard", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio.dashboard",
+                   "--port", os.environ.get("PORT", "8765")]),
     ("tracker", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio.tracking", "--interval", "8"]),
-    ("scanner", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio", "--budget", "100", "--pages", "50", "--reuse-catalog"]),
+    ("scanner", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio", "--budget", "100",
+                 "--pages", os.environ.get("SCAN_PAGES", "10"), "--reuse-catalog"]),
 ]
 processes = {}
 
