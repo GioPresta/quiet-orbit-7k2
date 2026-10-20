@@ -21,7 +21,7 @@ const expiryCell=o=>o.allocations.map(a=>`<small class="cell-sub">${esc(venue(a.
 const id=o=>o.allocations.map(a=>`${a.venue}:${a.market}:${a.outcome}`).join('|')+'|budget:'+o.budget;
 const ruleStatus=o=>o.rules?.status||'review';
 const ruleName=s=>({consistent:'Coerenza testuale',review:'Da verificare',conflict:'Conflitto rilevato'}[s]||'Da verificare');
-const stale=()=>staticMode?false:(!state||!state.scanner_alive||Date.now()/1000-Number(state.timestamp)>120);
+const stale=()=>staticMode?false:(!state||!state.scanner_alive||Date.now()/1000-Number(state.timestamp)>300);
 function safeUrl(value){try{const u=new URL(value);return u.protocol==='https:'&&['polymarket.com','predict.fun','limitless.exchange','app.opinion.trade','opinion.trade'].includes(u.hostname)?u.href:null}catch{return null}}
 function link(url,label){const safe=safeUrl(url);return safe?`<a class="market-link" href="${esc(safe)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`:`<span class="value-neutral">Link in aggiornamento</span>`}
 function category(title){const t=title.toLowerCase();if(/fdv|bitcoin|ethereum|btc |token|protocol|crypto/.test(t))return ['crypto','◈'];if(/nba|liga|league| fc |finals|champion|match|win the 2027/.test(t))return ['sport','◉'];if(/fed|rate|valuation|ipo|merger|stock|price/.test(t))return ['economy','↗'];return ['','▧']}
