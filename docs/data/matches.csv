@@ -1,101 +1,101 @@
 match_id,name,markets,score,match_reason,rules_identical,screening_profit
-04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
+0f02053923a7c813,Will October be the best month for Bitcoin in 2026?,polymarket:1296003 | predict:2815582,1.0,explicit_platform_link,True,0.6235573099653935252768853829
 0a717fb8615545dd,Will MSCI (MSCI) beat quarterly earnings?,limitless:will-msci-msci-beat-quarterly-earnings-1791400821864 | polymarket:5412317,1.0,explicit_platform_link,True,
 0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
-11cd37cc7972d507,US Government removes public access to another Anthropic AI model in 2026?,limitless:us-government-removes-public-access-to-another-anthropic-ai-model-in-2-1790774745313 | polymarket:2787891,1.0,explicit_platform_link,True,
+19d0b6f706a4c9fb,Will Netflix (NFLX) beat quarterly earnings?,limitless:will-netflix-nflx-beat-quarterly-earnings-1791400848483 | polymarket:5412318,1.0,explicit_platform_link,True,
+22ec352906615f30,"Trump, Putin, and Xi seen together before 2027?",limitless:trump-putin-and-xi-seen-together-before-2027-1790611431074 | polymarket:4960175,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0509c568c72a130a,Aston Villa FC vs. Manchester City FC: Both Teams to Score,limitless:aston-villa-and-manchester-city-both-to-score-1792402236331 | predict:3169554,1.0,explicit_platform_link,False,
-3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.2653462546129285131710005147
-28ed8810a1c1ea39,Will Delcy Rodríguez be the leader of Venezuela end of 2026?,polymarket:1105742 | predict:935753,1.0,explicit_platform_link,True,0.0858225816301199834505585432
-ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,0.0812002890970194720959511868
+743d74c672527467,Will Caleb Williams win the 2026 NFL MVP?,polymarket:1747730 | predict:941955,1.0,explicit_platform_link,True,0.2206185895060956624574754744
+7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,0.1526618319835661018598973742
 61f4a91a610ba089,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,polymarket:2589810 | predict:517146,1.0,explicit_platform_link,True,0.02539423432305819675312296754
-043ca3adb53894bf,Tesla and SpaceX merger officially announced by December 31?,polymarket:2252540 | predict:1283446,1.0,explicit_platform_link,True,0.2235029838215606634748474066
+ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,0.2185612552513347884114633116
 a5ce0613a0b45b31,Will 1 Fed rate cut happen in 2026?,polymarket:616903 | predict:12743,1.0,explicit_platform_link,False,0.1825565630150034886661033916
-c64223aebc9f01c9,"Will Bitcoin reach $105,000 in October?",polymarket:5170728 | predict:2813852,1.0,explicit_platform_link,True,0.04019966799123126666550984345
-d5959224b7eca5d4,Will Toronto Raptors win the 2027 NBA Finals?,polymarket:2243309 | predict:927669,1.0,explicit_platform_link,True,0.2405785856834661016472211039
+ef53d0f7e6c4ff8e,Will Athletic Bilbao win the 2026-27 LALIGA Championship?,polymarket:2771490 | predict:934722,1.0,explicit_platform_link,True,0.02393461407163695296506829174
 ea3d514acd6545e1,Will Pete Hegseth win the 2028 US Presidential Election?,polymarket:561264 | predict:932143,1.0,explicit_platform_link,True,1.438718559644159342819363256
 49bfccdc3655da9e,Will SC Freiburg be the 2026-27 Bundesliga champion?,polymarket:2849016 | predict:935733,1.0,explicit_platform_link,True,0.8316727812358300012366544400
 6b271b040b47b129,Will Oura's market cap be between $10B and $12.5B at market close on IPO day?,polymarket:2324606 | predict:394714,1.0,explicit_platform_link,True,0.7130072090253136563267685677
 df36a9fd0d4cacbf,Hyperbeat FDV above $50M one day after launch?,polymarket:690590 | predict:26426,1.0,explicit_platform_link,False,0.6421762894999442560087338764
-92386cfad9f06df6,Exact Score: Real Salt Lake 1 - 1 St. Louis City SC?,polymarket:5565933 | predict:3196670,1.0,explicit_platform_link,True,
-7de9c30a00ff0a71,Exact Score: Real Salt Lake 2 - 0 St. Louis City SC?,polymarket:5565934 | predict:3196671,1.0,explicit_platform_link,True,
-95236cab4645d934,Exact Score: Real Salt Lake 0 - 3 St. Louis City SC?,polymarket:5565935 | predict:3196672,1.0,explicit_platform_link,True,
-9616b404c04f4ff9,Exact Score: Real Salt Lake 1 - 2 St. Louis City SC?,polymarket:5565936 | predict:3196673,1.0,explicit_platform_link,True,
-11b2c372e687b148,Exact Score: Real Salt Lake 2 - 1 St. Louis City SC?,polymarket:5565937 | predict:3196674,1.0,explicit_platform_link,True,
-8a1f163304237275,Exact Score: Real Salt Lake 3 - 0 St. Louis City SC?,polymarket:5565938 | predict:3196675,1.0,explicit_platform_link,True,
-f3e0ae6878bf69eb,Exact Score: Real Salt Lake 0 - 4 St. Louis City SC?,polymarket:5565939 | predict:3196676,1.0,explicit_platform_link,True,
-bf2a517b4e125c54,Exact Score: Real Salt Lake 1 - 3 St. Louis City SC?,polymarket:5565940 | predict:3196677,1.0,explicit_platform_link,True,
-07ad7c698880c0dc,Exact Score: Real Salt Lake 2 - 2 St. Louis City SC?,polymarket:5565941 | predict:3196678,1.0,explicit_platform_link,True,
-5dce7f8990bdd4b2,Exact Score: Real Salt Lake 3 - 1 St. Louis City SC?,polymarket:5565942 | predict:3196679,1.0,explicit_platform_link,True,
-e7c25ee369ea1124,Exact Score: Real Salt Lake 4 - 0 St. Louis City SC?,polymarket:5565943 | predict:3196680,1.0,explicit_platform_link,True,
-514af5e91f7d3ff7,Exact Score: Real Salt Lake 0 - 5 St. Louis City SC?,polymarket:5565944 | predict:3196681,1.0,explicit_platform_link,True,
-1dc57e20dfb0c914,Exact Score: Real Salt Lake 1 - 4 St. Louis City SC?,polymarket:5565945 | predict:3196682,1.0,explicit_platform_link,True,
-254f82c8c79b53c6,Exact Score: Real Salt Lake 2 - 3 St. Louis City SC?,polymarket:5565946 | predict:3196683,1.0,explicit_platform_link,True,
-1fa61185036ecfb0,Exact Score: Real Salt Lake 3 - 2 St. Louis City SC?,polymarket:5565947 | predict:3196684,1.0,explicit_platform_link,True,
-bbe2087d1a1aa491,Exact Score: Real Salt Lake 4 - 1 St. Louis City SC?,polymarket:5565948 | predict:3196685,1.0,explicit_platform_link,True,
-49ff8e972cea42fb,Exact Score: Real Salt Lake 5 - 0 St. Louis City SC?,polymarket:5565949 | predict:3196686,1.0,explicit_platform_link,True,
-212b81e5c40dfd60,Exact Score: Real Salt Lake 1 - 5 St. Louis City SC?,polymarket:5565950 | predict:3196687,1.0,explicit_platform_link,True,
-aaee2bec500af18e,Exact Score: Real Salt Lake 2 - 4 St. Louis City SC?,polymarket:5565951 | predict:3196688,1.0,explicit_platform_link,True,
-d6783fa6b96eb900,Exact Score: Real Salt Lake 3 - 3 St. Louis City SC?,polymarket:5565952 | predict:3196689,1.0,explicit_platform_link,True,
-89521b2dfacfda59,Exact Score: Real Salt Lake 4 - 2 St. Louis City SC?,polymarket:5565953 | predict:3196690,1.0,explicit_platform_link,True,
-682b1e4babc77725,Exact Score: Real Salt Lake 5 - 1 St. Louis City SC?,polymarket:5565954 | predict:3196691,1.0,explicit_platform_link,True,
-609cc706c319063d,Exact Score: Real Salt Lake 2 - 5 St. Louis City SC?,polymarket:5565955 | predict:3196693,1.0,explicit_platform_link,True,
-36160228f3c5275a,Exact Score: Real Salt Lake 3 - 4 St. Louis City SC?,polymarket:5565956 | predict:3196695,1.0,explicit_platform_link,True,
-e1155e6e6470347b,Exact Score: Real Salt Lake 4 - 3 St. Louis City SC?,polymarket:5565957 | predict:3196697,1.0,explicit_platform_link,True,
-8b93e5ef83d73462,Exact Score: Real Salt Lake 5 - 2 St. Louis City SC?,polymarket:5565958 | predict:3196700,1.0,explicit_platform_link,True,
-e059fe7d8b19f765,Exact Score: Real Salt Lake 3 - 5 St. Louis City SC?,polymarket:5565959 | predict:3196702,1.0,explicit_platform_link,True,
-8036995dd9dd6ada,Exact Score: Real Salt Lake 4 - 4 St. Louis City SC?,polymarket:5565960 | predict:3196704,1.0,explicit_platform_link,True,
-ac42123b6120b7f9,Exact Score: Real Salt Lake 5 - 3 St. Louis City SC?,polymarket:5565961 | predict:3196707,1.0,explicit_platform_link,True,
-a804c655c88597d8,Exact Score: Real Salt Lake 4 - 5 St. Louis City SC?,polymarket:5565962 | predict:3196709,1.0,explicit_platform_link,True,
-84b7dfdc345581e9,Exact Score: Real Salt Lake 5 - 4 St. Louis City SC?,polymarket:5565963 | predict:3196711,1.0,explicit_platform_link,True,
-60982bd12076e043,Exact Score: Real Salt Lake 5 - 5 St. Louis City SC?,polymarket:5565964 | predict:3196713,1.0,explicit_platform_link,True,
-5112bfc2e58a5062,Exact Score: Any Other Score?,polymarket:5565965 | predict:3196715,1.0,explicit_platform_link,True,
-5c83e33f03b9b63a,Real Salt Lake to score first vs. St. Louis City SC?,polymarket:5565966 | predict:3196885,1.0,explicit_platform_link,True,
-e0c7700296cae6b0,St. Louis City SC to score first vs. Real Salt Lake?,polymarket:5565967 | predict:3196888,1.0,explicit_platform_link,True,
-15ec57fada4e86ef,Real Salt Lake vs. St. Louis City SC: Neither team to score first?,polymarket:5565968 | predict:3196889,1.0,explicit_platform_link,True,
-27676b9456274570,Will Portland Timbers win on 2026-10-24?,polymarket:5565969 | predict:3196635,1.0,explicit_platform_link,True,-2.524554602802488290540507678
-7b3e48e9273d35e0,Will Portland Timbers vs. Charlotte FC end in a draw?,polymarket:5565970 | predict:3196636,1.0,explicit_platform_link,True,-2.088944165135353607375723410
-5c4e484db9a2ab41,Will Charlotte FC win on 2026-10-24?,polymarket:5565971 | predict:3196637,1.0,explicit_platform_link,True,-2.197257515010834778971865607
-8c04431fe0541c3f,Portland Timbers leading at halftime?,polymarket:5565972 | predict:3196645,1.0,explicit_platform_link,True,
-0692cae90b50cdb5,Portland Timbers vs. Charlotte FC: Draw at halftime?,polymarket:5565973 | predict:3196647,1.0,explicit_platform_link,True,-20.61486366704927397130266148
-b4ed58fca5138bd9,Charlotte FC leading at halftime?,polymarket:5565974 | predict:3196648,1.0,explicit_platform_link,True,-22.05609166986900066668440877
-a06f9ca26f4c1a16,Portland Timbers to win the second half?,polymarket:5565975 | predict:3196641,1.0,explicit_platform_link,True,
-ddfcf482497aa225,Portland Timbers vs. Charlotte FC: Second half draw?,polymarket:5565976 | predict:3196642,1.0,explicit_platform_link,True,-21.59308517614962881351486057
-800a2a6a104ecee0,Charlotte FC to win the second half?,polymarket:5565977 | predict:3196643,1.0,explicit_platform_link,True,-22.05609166986900066668440877
-2b22ef41e4b9b112,Exact Score: Portland Timbers 0 - 0 Charlotte FC?,polymarket:5565978 | predict:3196962,1.0,explicit_platform_link,True,
-3ee851dc1e7efb42,Exact Score: Portland Timbers 0 - 1 Charlotte FC?,polymarket:5565979 | predict:3196963,1.0,explicit_platform_link,True,
-e602e308fd724099,Exact Score: Portland Timbers 1 - 0 Charlotte FC?,polymarket:5565980 | predict:3196964,1.0,explicit_platform_link,True,
-63118cf0d7a0c850,Exact Score: Portland Timbers 0 - 2 Charlotte FC?,polymarket:5565981 | predict:3196965,1.0,explicit_platform_link,True,
-857819d9f3866752,Exact Score: Portland Timbers 1 - 1 Charlotte FC?,polymarket:5565982 | predict:3196966,1.0,explicit_platform_link,True,
-2409b8a5100568b0,Exact Score: Portland Timbers 2 - 0 Charlotte FC?,polymarket:5565983 | predict:3196967,1.0,explicit_platform_link,True,
-0082c305ea7e368d,Exact Score: Portland Timbers 0 - 3 Charlotte FC?,polymarket:5565984 | predict:3196968,1.0,explicit_platform_link,True,
-1ed4b68e1eeeeaef,Exact Score: Portland Timbers 1 - 2 Charlotte FC?,polymarket:5565985 | predict:3196969,1.0,explicit_platform_link,True,
-3de3ddc24575b284,Exact Score: Portland Timbers 2 - 1 Charlotte FC?,polymarket:5565986 | predict:3196970,1.0,explicit_platform_link,True,
-adea9a0fcf44cec4,Exact Score: Portland Timbers 3 - 0 Charlotte FC?,polymarket:5565987 | predict:3196971,1.0,explicit_platform_link,True,
-d9252e15562b72bc,Exact Score: Portland Timbers 0 - 4 Charlotte FC?,polymarket:5565988 | predict:3196972,1.0,explicit_platform_link,True,
-586b627e2b0d6327,Exact Score: Portland Timbers 1 - 3 Charlotte FC?,polymarket:5565989 | predict:3196973,1.0,explicit_platform_link,True,
-d80c57c6af44a34e,Exact Score: Portland Timbers 2 - 2 Charlotte FC?,polymarket:5565990 | predict:3196974,1.0,explicit_platform_link,True,
-38b97e4473e85038,Exact Score: Portland Timbers 3 - 1 Charlotte FC?,polymarket:5565991 | predict:3196975,1.0,explicit_platform_link,True,
-cd85fa86b11008d2,Exact Score: Portland Timbers 4 - 0 Charlotte FC?,polymarket:5565992 | predict:3196976,1.0,explicit_platform_link,True,
-0e19fee67de1479b,Exact Score: Portland Timbers 0 - 5 Charlotte FC?,polymarket:5565993 | predict:3196977,1.0,explicit_platform_link,True,
-5fd3a8369b14c50c,Exact Score: Portland Timbers 1 - 4 Charlotte FC?,polymarket:5565994 | predict:3196978,1.0,explicit_platform_link,True,
-467ab450333b026e,Exact Score: Portland Timbers 2 - 3 Charlotte FC?,polymarket:5565995 | predict:3196979,1.0,explicit_platform_link,True,
-3392641fa88560cd,Exact Score: Portland Timbers 3 - 2 Charlotte FC?,polymarket:5565996 | predict:3196980,1.0,explicit_platform_link,True,
-bc42fde46a835170,Exact Score: Portland Timbers 4 - 1 Charlotte FC?,polymarket:5565997 | predict:3196981,1.0,explicit_platform_link,True,
-2d58be296f4e35e2,Exact Score: Portland Timbers 5 - 0 Charlotte FC?,polymarket:5565998 | predict:3196983,1.0,explicit_platform_link,True,
-2231bf2ff5b0adef,Exact Score: Portland Timbers 1 - 5 Charlotte FC?,polymarket:5565999 | predict:3196985,1.0,explicit_platform_link,True,
-581247534f82f705,Exact Score: Portland Timbers 2 - 4 Charlotte FC?,polymarket:5566000 | predict:3196987,1.0,explicit_platform_link,True,
-afe40e96bef891a4,Exact Score: Portland Timbers 3 - 3 Charlotte FC?,polymarket:5566001 | predict:3196988,1.0,explicit_platform_link,True,
-0e8bb556758c040d,Exact Score: Portland Timbers 4 - 2 Charlotte FC?,polymarket:5566002 | predict:3196989,1.0,explicit_platform_link,True,
-06655e0284ab31a7,Exact Score: Portland Timbers 5 - 1 Charlotte FC?,polymarket:5566003 | predict:3196990,1.0,explicit_platform_link,True,
-95fd9547a11101ca,Exact Score: Portland Timbers 2 - 5 Charlotte FC?,polymarket:5566004 | predict:3196991,1.0,explicit_platform_link,True,
-7909fb6908b44ffd,Exact Score: Portland Timbers 3 - 4 Charlotte FC?,polymarket:5566005 | predict:3196992,1.0,explicit_platform_link,True,
-c6bba81c8e2fb147,Exact Score: Portland Timbers 4 - 3 Charlotte FC?,polymarket:5566006 | predict:3196993,1.0,explicit_platform_link,True,
-d85b1eab2b1f436b,Exact Score: Portland Timbers 5 - 2 Charlotte FC?,polymarket:5566007 | predict:3196994,1.0,explicit_platform_link,True,
-bef71580902736d1,Exact Score: Portland Timbers 3 - 5 Charlotte FC?,polymarket:5566008 | predict:3196995,1.0,explicit_platform_link,True,
-395d6203b255a1c7,Exact Score: Portland Timbers 4 - 4 Charlotte FC?,polymarket:5566009 | predict:3196996,1.0,explicit_platform_link,True,
-78ba1287f08be6c0,Exact Score: Portland Timbers 5 - 3 Charlotte FC?,polymarket:5566010 | predict:3196997,1.0,explicit_platform_link,True,
-b7f20fe1f1c1e169,Exact Score: Portland Timbers 4 - 5 Charlotte FC?,polymarket:5566011 | predict:3196998,1.0,explicit_platform_link,True,
-5176bed1f43cad4c,Exact Score: Portland Timbers 5 - 4 Charlotte FC?,polymarket:5566012 | predict:3196999,1.0,explicit_platform_link,True,
+1c7366396b13cb0c,Will the Fed’s lower bound reach 3.0% or lower before 2027?,polymarket:690220 | predict:30531,1.0,explicit_platform_link,True,0.6413120170056630199073795903
+e14219b744bb68d4,Exact Score: SSC Napoli 3 - 1 FK Bodø/Glimt?,polymarket:5409582 | predict:3046296,1.0,explicit_platform_link,True,-1.101509543574626455763451725
+f9f6e030f316b04a,Exact Score: SSC Napoli 4 - 0 FK Bodø/Glimt?,polymarket:5409584 | predict:3046298,1.0,explicit_platform_link,True,-0.8198207989570812560185829142
+fe72cb70ab988365,Exact Score: SSC Napoli 0 - 5 FK Bodø/Glimt?,polymarket:5409586 | predict:3046300,1.0,explicit_platform_link,True,
+2127b4ca646e0052,Exact Score: SSC Napoli 1 - 4 FK Bodø/Glimt?,polymarket:5409588 | predict:3046302,1.0,explicit_platform_link,True,
+23787d0785c3fa24,Exact Score: SSC Napoli 2 - 3 FK Bodø/Glimt?,polymarket:5409590 | predict:3046304,1.0,explicit_platform_link,True,-0.3965539847531193896252872934
+7fba95c395550fff,Exact Score: SSC Napoli 3 - 2 FK Bodø/Glimt?,polymarket:5409592 | predict:3046306,1.0,explicit_platform_link,True,-0.8556431588154382991321200000
+8661e9e5f52706e8,Exact Score: SSC Napoli 4 - 1 FK Bodø/Glimt?,polymarket:5409594 | predict:3046308,1.0,explicit_platform_link,True,-0.8869925751854640017139139809
+6da91da118ddd0a1,Exact Score: SSC Napoli 5 - 0 FK Bodø/Glimt?,polymarket:5409596 | predict:3046310,1.0,explicit_platform_link,True,
+aea40040b90a1a66,Exact Score: SSC Napoli 1 - 5 FK Bodø/Glimt?,polymarket:5409598 | predict:3046312,1.0,explicit_platform_link,True,
+f9a69710bdde0140,Exact Score: SSC Napoli 2 - 4 FK Bodø/Glimt?,polymarket:5409600 | predict:3046314,1.0,explicit_platform_link,True,
+a451971ce63c7e26,Exact Score: SSC Napoli 3 - 3 FK Bodø/Glimt?,polymarket:5409602 | predict:3046316,1.0,explicit_platform_link,True,-0.3309293745046245368205912750
+541f4700310ced3b,Exact Score: SSC Napoli 4 - 2 FK Bodø/Glimt?,polymarket:5409603 | predict:3046318,1.0,explicit_platform_link,True,-2.266337105511641882210070390
+3e47a6f52ead2b05,Exact Score: SSC Napoli 5 - 1 FK Bodø/Glimt?,polymarket:5409605 | predict:3046320,1.0,explicit_platform_link,True,
+b4ca64d319b4032e,Exact Score: SSC Napoli 2 - 5 FK Bodø/Glimt?,polymarket:5409607 | predict:3046322,1.0,explicit_platform_link,True,
+2aeb5ddf8e68889b,Exact Score: SSC Napoli 3 - 4 FK Bodø/Glimt?,polymarket:5409609 | predict:3046324,1.0,explicit_platform_link,True,
+5b111411bb46ebba,Exact Score: SSC Napoli 4 - 3 FK Bodø/Glimt?,polymarket:5409611 | predict:3046326,1.0,explicit_platform_link,True,
+ff8c6ea68f4f4fbb,Exact Score: SSC Napoli 5 - 2 FK Bodø/Glimt?,polymarket:5409613 | predict:3046329,1.0,explicit_platform_link,True,
+56486e4c6e6726aa,Exact Score: SSC Napoli 3 - 5 FK Bodø/Glimt?,polymarket:5409615 | predict:3046331,1.0,explicit_platform_link,True,
+9885aab8e13e3cf6,Exact Score: SSC Napoli 4 - 4 FK Bodø/Glimt?,polymarket:5409617 | predict:3046333,1.0,explicit_platform_link,True,
+b967aff5359b9f0a,Exact Score: SSC Napoli 5 - 3 FK Bodø/Glimt?,polymarket:5409618 | predict:3046335,1.0,explicit_platform_link,True,
+def06b21a08afa2c,Exact Score: SSC Napoli 4 - 5 FK Bodø/Glimt?,polymarket:5409619 | predict:3046337,1.0,explicit_platform_link,True,
+1ffd25fe9b6b6175,Exact Score: SSC Napoli 5 - 4 FK Bodø/Glimt?,polymarket:5409620 | predict:3046339,1.0,explicit_platform_link,True,
+71461da25ef0b542,Exact Score: SSC Napoli 5 - 5 FK Bodø/Glimt?,polymarket:5409621 | predict:3046341,1.0,explicit_platform_link,True,
+f75d5337650a62a2,Exact Score: Any Other Score?,polymarket:5409622 | predict:3046343,1.0,explicit_platform_link,True,
+a2f4947104df4a75,SSC Napoli to score first vs. FK Bodø/Glimt?,polymarket:5409624 | predict:3046355,1.0,explicit_platform_link,True,-14.10692630934736317192554750
+83876538c1bd10fb,FK Bodø/Glimt to score first vs. SSC Napoli?,polymarket:5409626 | predict:3046356,1.0,explicit_platform_link,True,-4.910412123465768116552622993
+9a8d83c49b4bef5d,SSC Napoli vs. FK Bodø/Glimt: Neither team to score first?,polymarket:5409628 | predict:3046357,1.0,explicit_platform_link,True,-1.999033318478220929126038879
+1cd2af82ab5fc17a,Will VfB Stuttgart win on 2026-10-20?,polymarket:5409629 | predict:3046552,1.0,explicit_platform_link,True,-0.8190175463891606172234371356
+8caa3449392b893d,Will VfB Stuttgart vs. Club Atlético de Madrid end in a draw?,polymarket:5409630 | predict:3046553,1.0,explicit_platform_link,True,-1.224447442150046695029573538
+276639907f731b01,Will Club Atlético de Madrid win on 2026-10-20?,polymarket:5409631 | predict:3046554,1.0,explicit_platform_link,True,-1.558720080644920296401957542
+48b2f8a2e035871c,VfB Stuttgart leading at halftime?,polymarket:5409632 | predict:3046401,1.0,explicit_platform_link,True,-1.720795935605310581812986693
+50052719bf36924c,VfB Stuttgart vs. Club Atlético de Madrid: Draw at halftime?,polymarket:5409633 | predict:3046402,1.0,explicit_platform_link,True,-1.927270247060902216071938323
+37d41d889dea28bd,Club Atlético de Madrid leading at halftime?,polymarket:5409634 | predict:3046403,1.0,explicit_platform_link,True,-0.3982540165289256198347107427
+5282a9ec9ded7770,VfB Stuttgart to win the second half?,polymarket:5409635 | predict:3046459,1.0,explicit_platform_link,True,-21.59308517614962881351486057
+d99e0366fb13e6fb,VfB Stuttgart vs. Club Atlético de Madrid: Second half draw?,polymarket:5409636 | predict:3046461,1.0,explicit_platform_link,True,-4.211697108066971080669710815
+92283ad3dca974e9,Club Atlético de Madrid to win the second half?,polymarket:5409637 | predict:3046463,1.0,explicit_platform_link,True,-13.87537488248285533723233447
+ac243543f7c40b1a,Exact Score: VfB Stuttgart 0 - 0 Club Atlético de Madrid?,polymarket:5409638 | predict:3046155,1.0,explicit_platform_link,True,-0.5603154196409318640047581331
+91dd048b614e6e6c,Exact Score: VfB Stuttgart 0 - 1 Club Atlético de Madrid?,polymarket:5409639 | predict:3046158,1.0,explicit_platform_link,True,-0.7874083033854576639889708115
+6dab79aa93851f7d,Exact Score: VfB Stuttgart 1 - 0 Club Atlético de Madrid?,polymarket:5409640 | predict:3046160,1.0,explicit_platform_link,True,-0.9451295592553735032921110862
+6cfd5f041cfbcef6,Exact Score: VfB Stuttgart 0 - 2 Club Atlético de Madrid?,polymarket:5409641 | predict:3046162,1.0,explicit_platform_link,True,-1.023707351710377441734764703
+a86d92507227e56f,Exact Score: VfB Stuttgart 1 - 1 Club Atlético de Madrid?,polymarket:5409642 | predict:3046165,1.0,explicit_platform_link,True,-1.312317760817086946324867090
+1dd53826c934e7cf,Exact Score: VfB Stuttgart 2 - 0 Club Atlético de Madrid?,polymarket:5409643 | predict:3046168,1.0,explicit_platform_link,True,-0.4990114983128805506779189092
+7a475d0f4e246b50,Exact Score: VfB Stuttgart 0 - 3 Club Atlético de Madrid?,polymarket:5409644 | predict:3046171,1.0,explicit_platform_link,True,-0.6015683942173467675565970914
+07bcad1a2b00557f,Exact Score: VfB Stuttgart 1 - 2 Club Atlético de Madrid?,polymarket:5409645 | predict:3046174,1.0,explicit_platform_link,True,-1.161456484634566579656638683
+7841dde84c61ba16,Exact Score: VfB Stuttgart 2 - 1 Club Atlético de Madrid?,polymarket:5409646 | predict:3046177,1.0,explicit_platform_link,True,-1.007562239642789547632204598
+989d8e62ed1dc403,Exact Score: VfB Stuttgart 3 - 0 Club Atlético de Madrid?,polymarket:5409647 | predict:3046180,1.0,explicit_platform_link,True,-0.3344077445379162803547636129
+a8bdb76ab82be5db,Exact Score: VfB Stuttgart 0 - 4 Club Atlético de Madrid?,polymarket:5409648 | predict:3046183,1.0,explicit_platform_link,True,-1.891414821883397462708555878
+797e967d9b4b3cd8,Exact Score: VfB Stuttgart 1 - 3 Club Atlético de Madrid?,polymarket:5409649 | predict:3046186,1.0,explicit_platform_link,True,-0.5964226875918433233794808334
+32fe705f4dec6284,Exact Score: VfB Stuttgart 2 - 2 Club Atlético de Madrid?,polymarket:5409650 | predict:3046189,1.0,explicit_platform_link,True,-0.7711069968518069587331899249
+f027c2840fdc9779,Exact Score: VfB Stuttgart 3 - 1 Club Atlético de Madrid?,polymarket:5409651 | predict:3046192,1.0,explicit_platform_link,True,-0.4340915920330687487423495167
+e1b3aa7408e285db,Exact Score: VfB Stuttgart 4 - 0 Club Atlético de Madrid?,polymarket:5409652 | predict:3046196,1.0,explicit_platform_link,True,-0.3547877582681247818153446348
+00e313ee6fdee38c,Exact Score: VfB Stuttgart 0 - 5 Club Atlético de Madrid?,polymarket:5409653 | predict:3046199,1.0,explicit_platform_link,True,-0.4547523171509028989991952926
+da7d94229b2f2956,Exact Score: VfB Stuttgart 1 - 4 Club Atlético de Madrid?,polymarket:5409654 | predict:3046201,1.0,explicit_platform_link,True,-0.6434239343856354326305154031
+e4465acde36deb86,Exact Score: VfB Stuttgart 2 - 3 Club Atlético de Madrid?,polymarket:5409655 | predict:3046204,1.0,explicit_platform_link,True,-0.6559841482542083285683807324
+8fdac90ca54b773d,Exact Score: VfB Stuttgart 3 - 2 Club Atlético de Madrid?,polymarket:5409656 | predict:3046207,1.0,explicit_platform_link,True,-0.4273195947800483183964499582
+1b7946be07ad9491,Exact Score: VfB Stuttgart 4 - 1 Club Atlético de Madrid?,polymarket:5409657 | predict:3046210,1.0,explicit_platform_link,True,-0.7080534693952450457268991349
+9d8d0c29ea9bc94f,Exact Score: VfB Stuttgart 5 - 0 Club Atlético de Madrid?,polymarket:5409658 | predict:3046213,1.0,explicit_platform_link,True,
+c75e588c3ba1491f,Exact Score: VfB Stuttgart 1 - 5 Club Atlético de Madrid?,polymarket:5409659 | predict:3046216,1.0,explicit_platform_link,True,
+d158c1ba9b7af4ce,Exact Score: VfB Stuttgart 2 - 4 Club Atlético de Madrid?,polymarket:5409660 | predict:3046219,1.0,explicit_platform_link,True,-1.411942426240783702662384974
+0cd9c1d1cd33dc62,Exact Score: VfB Stuttgart 3 - 3 Club Atlético de Madrid?,polymarket:5409661 | predict:3046222,1.0,explicit_platform_link,True,-0.3448072417146847102274007804
+1973e3fda738f32a,Exact Score: VfB Stuttgart 4 - 2 Club Atlético de Madrid?,polymarket:5409662 | predict:3046225,1.0,explicit_platform_link,True,-0.4652153931309318344095445829
+4f658d488bb5657d,Exact Score: VfB Stuttgart 5 - 1 Club Atlético de Madrid?,polymarket:5409663 | predict:3046229,1.0,explicit_platform_link,True,-24.96204696727697485822458168
+4f1f0cb66a6321be,Exact Score: VfB Stuttgart 2 - 5 Club Atlético de Madrid?,polymarket:5409664 | predict:3046232,1.0,explicit_platform_link,True,-0.5543097028706488789111525287
+9db8db20ee2e07a5,Exact Score: VfB Stuttgart 3 - 4 Club Atlético de Madrid?,polymarket:5409665 | predict:3046235,1.0,explicit_platform_link,True,-0.5612521666665196296645054481
+b9ebe6816c422c15,Exact Score: VfB Stuttgart 4 - 3 Club Atlético de Madrid?,polymarket:5409666 | predict:3046238,1.0,explicit_platform_link,True,
+a29efffe4e970a63,Exact Score: VfB Stuttgart 5 - 2 Club Atlético de Madrid?,polymarket:5409667 | predict:3046242,1.0,explicit_platform_link,True,-24.97396012486825098797718645
+e84659c91110cbe6,Exact Score: VfB Stuttgart 3 - 5 Club Atlético de Madrid?,polymarket:5409668 | predict:3046244,1.0,explicit_platform_link,True,
+4287c5242ff5178e,Exact Score: VfB Stuttgart 4 - 4 Club Atlético de Madrid?,polymarket:5409669 | predict:3046248,1.0,explicit_platform_link,True,-24.97396012486825098797718645
+af05cba0d3799083,Exact Score: VfB Stuttgart 5 - 3 Club Atlético de Madrid?,polymarket:5409670 | predict:3046250,1.0,explicit_platform_link,True,
+e45278b754a56506,Exact Score: VfB Stuttgart 4 - 5 Club Atlético de Madrid?,polymarket:5409671 | predict:3046253,1.0,explicit_platform_link,True,
+8e1d7408c8bd353a,Exact Score: VfB Stuttgart 5 - 4 Club Atlético de Madrid?,polymarket:5409672 | predict:3046256,1.0,explicit_platform_link,True,
+9ddbf0a007d44eb6,Exact Score: VfB Stuttgart 5 - 5 Club Atlético de Madrid?,polymarket:5409673 | predict:3046259,1.0,explicit_platform_link,True,
+44ddb65a324e1623,Exact Score: Any Other Score?,polymarket:5409674 | predict:3046262,1.0,explicit_platform_link,True,
+21b69320d84982be,VfB Stuttgart to score first vs. Club Atlético de Madrid?,polymarket:5409675 | predict:3046410,1.0,explicit_platform_link,True,0
+3fa1a1f7035b6e75,Club Atlético de Madrid to score first vs. VfB Stuttgart?,polymarket:5409676 | predict:3046411,1.0,explicit_platform_link,True,-16.29834315341677704279843164
+d083aeb42c7d001b,VfB Stuttgart vs. Club Atlético de Madrid: Neither team to score first?,polymarket:5409677 | predict:3046412,1.0,explicit_platform_link,True,-1.466218691658708127160747603
+896ec5036ccddac0,Will Paris Saint-Germain FC win on 2026-10-20?,polymarket:5409678 | predict:3046469,1.0,explicit_platform_link,True,-1.481925539877470684445430104
+1373618146a66f08,Will Paris Saint-Germain FC vs. FC Barcelona end in a draw?,polymarket:5409679 | predict:3046470,1.0,explicit_platform_link,True,-1.109323773933904973825610781
+968ffad372b03b27,Will FC Barcelona win on 2026-10-20?,polymarket:5409680 | predict:3046471,1.0,explicit_platform_link,True,-1.496678668615497962045322206
+aef15de0e77e821d,Paris Saint-Germain FC leading at halftime?,polymarket:5409681 | predict:3046413,1.0,explicit_platform_link,True,-1.860863110175745108629387959
