@@ -9,93 +9,93 @@ match_id,name,markets,score,match_reason,rules_identical,screening_profit
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
 be49105428c4e033,Will the Cleveland Browns win the 2027 NFL league championship?,polymarket:1357378 | predict:26938,1.0,explicit_platform_link,True,0.3123714657305512930342835392
-c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.1725112960625153517916611930
 7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,1.939749689036411438094993444
 3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.1171605822620203402488688430
 0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
 fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nomination?,polymarket:561975 | predict:933798,1.0,explicit_platform_link,True,0.3203645866784373348410176071
 2b40a9e64fd3f50c,"Next White House Press Secretary announced by December 31, 2026?",polymarket:5784291 | predict:3415545,1.0,explicit_platform_link,True,4.107942498152042904059214697
 ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
-3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,0.8354525971139238976849864797
-9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
 6471feb59ef29034,Will Fenerbahçe SK win on 2026-10-20?,polymarket:5383472 | predict:3019976,1.0,explicit_platform_link,True,0.4874933765047374620766867349
-2fb548ed53ddb201,Exact Score: Al Diraiyah Saudi Club 3 - 1 Al Riyadh Saudi Club?,polymarket:5390758 | predict:3029075,1.0,explicit_platform_link,True,-0.4721145817254349488336709056
-cb0c8fe4415a8ed1,Exact Score: Al Diraiyah Saudi Club 4 - 0 Al Riyadh Saudi Club?,polymarket:5390759 | predict:3029076,1.0,explicit_platform_link,True,-1.510556285857056816573633171
-a3d760bba081a15d,Exact Score: Al Diraiyah Saudi Club 0 - 5 Al Riyadh Saudi Club?,polymarket:5390760 | predict:3029077,1.0,explicit_platform_link,True,
-6a0ab517a4f3fde6,Exact Score: Al Diraiyah Saudi Club 1 - 4 Al Riyadh Saudi Club?,polymarket:5390761 | predict:3029078,1.0,explicit_platform_link,True,-12.71424145629013060007749741
-a14291e66a5308ae,Exact Score: Al Diraiyah Saudi Club 2 - 3 Al Riyadh Saudi Club?,polymarket:5390762 | predict:3029079,1.0,explicit_platform_link,True,0
-3111a81cc277d868,Exact Score: Al Diraiyah Saudi Club 3 - 2 Al Riyadh Saudi Club?,polymarket:5390763 | predict:3029080,1.0,explicit_platform_link,True,-0.5156023589329719188873111554
-18030ad97d201598,Exact Score: Al Diraiyah Saudi Club 4 - 1 Al Riyadh Saudi Club?,polymarket:5390764 | predict:3029081,1.0,explicit_platform_link,True,-1.510556285857056816573633171
-2370ee84b0173fd2,Exact Score: Al Diraiyah Saudi Club 5 - 0 Al Riyadh Saudi Club?,polymarket:5390765 | predict:3029082,1.0,explicit_platform_link,True,-14.07358306593852968610861560
-aa2c91f66f4d9f81,Exact Score: Al Diraiyah Saudi Club 1 - 5 Al Riyadh Saudi Club?,polymarket:5390766 | predict:3029083,1.0,explicit_platform_link,True,-13.54275240711105559622048087
-0be41759d1fa0c45,Exact Score: Al Diraiyah Saudi Club 2 - 4 Al Riyadh Saudi Club?,polymarket:5390767 | predict:3029084,1.0,explicit_platform_link,True,-4.285618296036664103369011383
-2e02413ff2c59bc1,Exact Score: Al Diraiyah Saudi Club 3 - 3 Al Riyadh Saudi Club?,polymarket:5390768 | predict:3029085,1.0,explicit_platform_link,True,0
-c1cd194cdc927fda,Exact Score: Al Diraiyah Saudi Club 4 - 2 Al Riyadh Saudi Club?,polymarket:5390769 | predict:3029086,1.0,explicit_platform_link,True,0
-d790244cf744401f,Exact Score: Al Diraiyah Saudi Club 5 - 1 Al Riyadh Saudi Club?,polymarket:5390770 | predict:3029087,1.0,explicit_platform_link,True,-15.80798826236446147628117383
-cb6d85c32751f29e,Exact Score: Al Diraiyah Saudi Club 2 - 5 Al Riyadh Saudi Club?,polymarket:5390771 | predict:3029088,1.0,explicit_platform_link,True,
-7f2631d6e024d750,Exact Score: Al Diraiyah Saudi Club 3 - 4 Al Riyadh Saudi Club?,polymarket:5390772 | predict:3029089,1.0,explicit_platform_link,True,-13.54275240711105559622048087
-3665904b52b1c707,Exact Score: Al Diraiyah Saudi Club 4 - 3 Al Riyadh Saudi Club?,polymarket:5390773 | predict:3029090,1.0,explicit_platform_link,True,-12.42904535665492852856876007
-cce406417823d7f1,Exact Score: Al Diraiyah Saudi Club 5 - 2 Al Riyadh Saudi Club?,polymarket:5390774 | predict:3029091,1.0,explicit_platform_link,True,-16.27107141687831272371860705
-4ca2335bce448dc7,Exact Score: Al Diraiyah Saudi Club 3 - 5 Al Riyadh Saudi Club?,polymarket:5390775 | predict:3029092,1.0,explicit_platform_link,True,
-81fef35ca456f861,Exact Score: Al Diraiyah Saudi Club 4 - 4 Al Riyadh Saudi Club?,polymarket:5390776 | predict:3029093,1.0,explicit_platform_link,True,-3.350266884171841527172968259
-a0870da6d92a1e1f,Exact Score: Al Diraiyah Saudi Club 5 - 3 Al Riyadh Saudi Club?,polymarket:5390777 | predict:3029094,1.0,explicit_platform_link,True,-16.27107141687831272371860705
-3ced82a339ccbd7a,Exact Score: Al Diraiyah Saudi Club 4 - 5 Al Riyadh Saudi Club?,polymarket:5390778 | predict:3029095,1.0,explicit_platform_link,True,
-3a3b599e0277aead,Exact Score: Al Diraiyah Saudi Club 5 - 4 Al Riyadh Saudi Club?,polymarket:5390779 | predict:3029096,1.0,explicit_platform_link,True,
-186bfe29ccf84d98,Exact Score: Al Diraiyah Saudi Club 5 - 5 Al Riyadh Saudi Club?,polymarket:5390780 | predict:3029097,1.0,explicit_platform_link,True,
-7023ad6fbf2a7fb6,Exact Score: Any Other Score?,polymarket:5390781 | predict:3029098,1.0,explicit_platform_link,True,
-46e08f213c94ce60,Al Diraiyah Saudi Club to score first vs. Al Riyadh Saudi Club?,polymarket:5390782 | predict:3028953,1.0,explicit_platform_link,True,-0.02783877038895859473023836850
-ba73b7866dd81c68,Al Riyadh Saudi Club to score first vs. Al Diraiyah Saudi Club?,polymarket:5390783 | predict:3028956,1.0,explicit_platform_link,True,1.120977845424616995703059576
-c44b8b39b5e6cfb1,Al Diraiyah Saudi Club vs. Al Riyadh Saudi Club: Neither team to score first?,polymarket:5390784 | predict:3028960,1.0,explicit_platform_link,True,-0.7080698290287828972899804617
-a2a71c293993500d,Al Taawoun Saudi Club leading at halftime?,polymarket:5390785 | predict:3028967,1.0,explicit_platform_link,True,-0.4865736223645696347516226180
-7ed76a440b19e130,Al Taawoun Saudi Club vs. Al Qadisiyah Saudi Club: Draw at halftime?,polymarket:5390786 | predict:3028968,1.0,explicit_platform_link,True,-1.407656695765071664075712792
-62cfc932cbbbead7,Al Qadisiyah Saudi Club leading at halftime?,polymarket:5390787 | predict:3028969,1.0,explicit_platform_link,True,-1.607694254619083776259174879
-df3e169cf6571ef4,Al Taawoun Saudi Club to win the second half?,polymarket:5390788 | predict:3028955,1.0,explicit_platform_link,True,-4.937331706650611379520207177
-a97a64566834458c,Al Taawoun Saudi Club vs. Al Qadisiyah Saudi Club: Second half draw?,polymarket:5390789 | predict:3028959,1.0,explicit_platform_link,True,0
-5e4cfa50f8e24fd3,Al Qadisiyah Saudi Club to win the second half?,polymarket:5390790 | predict:3028963,1.0,explicit_platform_link,True,0
-39a217e1523eabce,Exact Score: Al Taawoun Saudi Club 0 - 0 Al Qadisiyah Saudi Club?,polymarket:5390791 | predict:3028984,1.0,explicit_platform_link,True,-0.2891525737736125262085047755
-bdc70bb8a8dd2b42,Exact Score: Al Taawoun Saudi Club 0 - 1 Al Qadisiyah Saudi Club?,polymarket:5390792 | predict:3028988,1.0,explicit_platform_link,True,-1.084891896545858446386547200
-962a34fcfd8bf8fc,Exact Score: Al Taawoun Saudi Club 1 - 0 Al Qadisiyah Saudi Club?,polymarket:5390793 | predict:3028991,1.0,explicit_platform_link,True,-0.3248655288298858648153518598
-662f464a117ac8fd,Exact Score: Al Taawoun Saudi Club 0 - 2 Al Qadisiyah Saudi Club?,polymarket:5390794 | predict:3028994,1.0,explicit_platform_link,True,-0.8318662833279595866781901926
-de1fbe0546fe78f8,Exact Score: Al Taawoun Saudi Club 1 - 1 Al Qadisiyah Saudi Club?,polymarket:5390795 | predict:3028996,1.0,explicit_platform_link,True,-0.4341120455707523735231519897
-31972f7c49420e32,Exact Score: Al Taawoun Saudi Club 2 - 0 Al Qadisiyah Saudi Club?,polymarket:5390796 | predict:3028998,1.0,explicit_platform_link,True,0
-e1a8e782cf0a8a14,Exact Score: Al Taawoun Saudi Club 0 - 3 Al Qadisiyah Saudi Club?,polymarket:5390797 | predict:3029000,1.0,explicit_platform_link,True,0
-8e4ceaf169ff7b1c,Exact Score: Al Taawoun Saudi Club 1 - 2 Al Qadisiyah Saudi Club?,polymarket:5390798 | predict:3029002,1.0,explicit_platform_link,True,-1.155799151870653918263316807
-c165fbd515611928,Exact Score: Al Taawoun Saudi Club 2 - 1 Al Qadisiyah Saudi Club?,polymarket:5390799 | predict:3029004,1.0,explicit_platform_link,True,-0.2569682272722594702957749161
-4e862445303efb9a,Exact Score: Al Taawoun Saudi Club 3 - 0 Al Qadisiyah Saudi Club?,polymarket:5390800 | predict:3029006,1.0,explicit_platform_link,True,0
-ec463c5d645ad88b,Exact Score: Al Taawoun Saudi Club 0 - 4 Al Qadisiyah Saudi Club?,polymarket:5390801 | predict:3029008,1.0,explicit_platform_link,True,-1.446225344103017280967477056
-9a4bb4750f94c34d,Exact Score: Al Taawoun Saudi Club 1 - 3 Al Qadisiyah Saudi Club?,polymarket:5390802 | predict:3029010,1.0,explicit_platform_link,True,-1.148348210805891625029496902
-50f5ac92b69112e8,Exact Score: Al Taawoun Saudi Club 2 - 2 Al Qadisiyah Saudi Club?,polymarket:5390803 | predict:3029012,1.0,explicit_platform_link,True,0
-abf401a51feaaa61,Exact Score: Al Taawoun Saudi Club 3 - 1 Al Qadisiyah Saudi Club?,polymarket:5390804 | predict:3029014,1.0,explicit_platform_link,True,0
-15979bc4ca03094f,Exact Score: Al Taawoun Saudi Club 4 - 0 Al Qadisiyah Saudi Club?,polymarket:5390805 | predict:3029016,1.0,explicit_platform_link,True,
-f224e7a58621d7a3,Exact Score: Al Taawoun Saudi Club 0 - 5 Al Qadisiyah Saudi Club?,polymarket:5390806 | predict:3029018,1.0,explicit_platform_link,True,-15.08712984257051995354233777
-709d8efb0134c877,Exact Score: Al Taawoun Saudi Club 1 - 4 Al Qadisiyah Saudi Club?,polymarket:5390807 | predict:3029020,1.0,explicit_platform_link,True,-2.405430766129069354315899837
-2aaec259db8ec54b,Exact Score: Al Taawoun Saudi Club 2 - 3 Al Qadisiyah Saudi Club?,polymarket:5390808 | predict:3029022,1.0,explicit_platform_link,True,-0.4516296990383128029252056144
-cd4cb44ca35116b6,Exact Score: Al Taawoun Saudi Club 3 - 2 Al Qadisiyah Saudi Club?,polymarket:5390809 | predict:3029024,1.0,explicit_platform_link,True,0
-648206dce4b1dae1,Exact Score: Al Taawoun Saudi Club 4 - 1 Al Qadisiyah Saudi Club?,polymarket:5390810 | predict:3029026,1.0,explicit_platform_link,True,
-4f8e3b0046e693b7,Exact Score: Al Taawoun Saudi Club 5 - 0 Al Qadisiyah Saudi Club?,polymarket:5390811 | predict:3029028,1.0,explicit_platform_link,True,
-d6275010548cfdd3,Exact Score: Al Taawoun Saudi Club 1 - 5 Al Qadisiyah Saudi Club?,polymarket:5390812 | predict:3029030,1.0,explicit_platform_link,True,-15.08712984257051995354233777
-d5353d3f00831a2b,Exact Score: Al Taawoun Saudi Club 2 - 4 Al Qadisiyah Saudi Club?,polymarket:5390813 | predict:3029032,1.0,explicit_platform_link,True,-1.220931399982501809232419162
-6b1194ff7f2e3116,Exact Score: Al Taawoun Saudi Club 3 - 3 Al Qadisiyah Saudi Club?,polymarket:5390814 | predict:3029034,1.0,explicit_platform_link,True,0
-bb8a72e9fa7c14b2,Exact Score: Al Taawoun Saudi Club 4 - 2 Al Qadisiyah Saudi Club?,polymarket:5390815 | predict:3029036,1.0,explicit_platform_link,True,-4.285618296036664103369011383
-959896da0ec6afd9,Exact Score: Al Taawoun Saudi Club 5 - 1 Al Qadisiyah Saudi Club?,polymarket:5390816 | predict:3029038,1.0,explicit_platform_link,True,
-76d3673e81055d90,Exact Score: Al Taawoun Saudi Club 2 - 5 Al Qadisiyah Saudi Club?,polymarket:5390817 | predict:3029040,1.0,explicit_platform_link,True,-14.33284463333179468293210786
-2169af89a3001aa0,Exact Score: Al Taawoun Saudi Club 3 - 4 Al Qadisiyah Saudi Club?,polymarket:5390818 | predict:3029042,1.0,explicit_platform_link,True,-15.80798826236446147628117383
-e13e663c2f53db2e,Exact Score: Al Taawoun Saudi Club 4 - 3 Al Qadisiyah Saudi Club?,polymarket:5390819 | predict:3029044,1.0,explicit_platform_link,True,-15.33101869637549641017997863
-7715805722cdaca6,Exact Score: Al Taawoun Saudi Club 5 - 2 Al Qadisiyah Saudi Club?,polymarket:5390820 | predict:3029046,1.0,explicit_platform_link,True,
-621169d8538a1345,Exact Score: Al Taawoun Saudi Club 3 - 5 Al Qadisiyah Saudi Club?,polymarket:5390821 | predict:3029048,1.0,explicit_platform_link,True,-19.54100676896112978088882627
-e075e9034af14ee0,Exact Score: Al Taawoun Saudi Club 4 - 4 Al Qadisiyah Saudi Club?,polymarket:5390822 | predict:3029050,1.0,explicit_platform_link,True,-3.350266884171841527172968259
-f3526c26d5d8cb83,Exact Score: Al Taawoun Saudi Club 5 - 3 Al Qadisiyah Saudi Club?,polymarket:5390823 | predict:3029052,1.0,explicit_platform_link,True,
-8ea961e4444a20cc,Exact Score: Al Taawoun Saudi Club 4 - 5 Al Qadisiyah Saudi Club?,polymarket:5390824 | predict:3029054,1.0,explicit_platform_link,True,
-b82f076d91dca1b8,Exact Score: Al Taawoun Saudi Club 5 - 4 Al Qadisiyah Saudi Club?,polymarket:5390825 | predict:3029056,1.0,explicit_platform_link,True,
-5d54b8dfe4a4309a,Exact Score: Al Taawoun Saudi Club 5 - 5 Al Qadisiyah Saudi Club?,polymarket:5390826 | predict:3029057,1.0,explicit_platform_link,True,
-b09a868d53ded546,Exact Score: Any Other Score?,polymarket:5390827 | predict:3029059,1.0,explicit_platform_link,True,
-b81fb3aca54a42b9,Al Taawoun Saudi Club to score first vs. Al Qadisiyah Saudi Club?,polymarket:5390828 | predict:3028970,1.0,explicit_platform_link,True,-2.176535565826574808871835140
-61267682162f2056,Al Qadisiyah Saudi Club to score first vs. Al Taawoun Saudi Club?,polymarket:5390829 | predict:3028971,1.0,explicit_platform_link,True,-1.327342635425925175266966387
-07dfed0554295a78,Al Taawoun Saudi Club vs. Al Qadisiyah Saudi Club: Neither team to score first?,polymarket:5390830 | predict:3028972,1.0,explicit_platform_link,True,-1.039793630867960760383383828
-0e30da89c7d5c36e,Al Nassr Saudi Club leading at halftime?,polymarket:5390831 | predict:3028905,1.0,explicit_platform_link,True,-2.053898225038372230312094148
-ce358ad47b8caf14,Al Nassr Saudi Club vs. NEOM SC: Draw at halftime?,polymarket:5390832 | predict:3028908,1.0,explicit_platform_link,True,-1.407656695765071664075712792
-766acd49d1f9b734,NEOM SC leading at halftime?,polymarket:5390833 | predict:3028911,1.0,explicit_platform_link,True,-1.924492655661303751149153136
-b7065d1c8f60ec53,Al Nassr Saudi Club to win the second half?,polymarket:5390834 | predict:3028904,1.0,explicit_platform_link,True,-5.422239898000362613389791846
-90d0137441fdda05,Al Nassr Saudi Club vs. NEOM SC: Second half draw?,polymarket:5390835 | predict:3028906,1.0,explicit_platform_link,True,-7.139212264933216724238863426
-41a496df144520db,NEOM SC to win the second half?,polymarket:5390836 | predict:3028909,1.0,explicit_platform_link,True,-6.907705463066907260229729625
-6d506d68baa3ca9d,Exact Score: Al Nassr Saudi Club 0 - 0 NEOM SC?,polymarket:5390837 | predict:3028985,1.0,explicit_platform_link,True,-0.4609447298386634499568495039
+9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
+043ca3adb53894bf,Tesla and SpaceX merger officially announced by December 31?,polymarket:2252540 | predict:1283446,1.0,explicit_platform_link,True,1.544285942406983552456485869
+b28a022d18947870,Will a team from LCK (South Korea) win LoL Worlds 2026?,polymarket:1059066 | predict:935086,1.0,explicit_platform_link,True,0.4208171885749991731994601406
+338e9b50469a8a92,Exact Score: Al Nassr Saudi Club 0 - 1 NEOM SC?,polymarket:5390838 | predict:3028989,1.0,explicit_platform_link,True,0
+4abeadc1fa9ee00b,Exact Score: Al Nassr Saudi Club 1 - 0 NEOM SC?,polymarket:5390839 | predict:3028993,1.0,explicit_platform_link,True,-1.223548174870020469223617310
+c67088812261304a,Exact Score: Al Nassr Saudi Club 0 - 2 NEOM SC?,polymarket:5390840 | predict:3028995,1.0,explicit_platform_link,True,0
+1b6e013117a102ff,Exact Score: Al Nassr Saudi Club 1 - 1 NEOM SC?,polymarket:5390841 | predict:3028997,1.0,explicit_platform_link,True,-1.301360638610467204283522167
+15c12c2dee5dadbe,Exact Score: Al Nassr Saudi Club 2 - 0 NEOM SC?,polymarket:5390842 | predict:3028999,1.0,explicit_platform_link,True,-1.330332118559160086540812422
+c6b928c5aab571c1,Exact Score: Al Nassr Saudi Club 0 - 3 NEOM SC?,polymarket:5390843 | predict:3029001,1.0,explicit_platform_link,True,0
+7ad99b6a83443b15,Exact Score: Al Nassr Saudi Club 1 - 2 NEOM SC?,polymarket:5390844 | predict:3029003,1.0,explicit_platform_link,True,-0.8662167908725875025722126337
+e16c9201faed873d,Exact Score: Al Nassr Saudi Club 2 - 1 NEOM SC?,polymarket:5390845 | predict:3029005,1.0,explicit_platform_link,True,-1.301430338659743009435985381
+45bb9aeb9cbbd2a2,Exact Score: Al Nassr Saudi Club 3 - 0 NEOM SC?,polymarket:5390846 | predict:3029007,1.0,explicit_platform_link,True,-0.9983873912204837767306471323
+01ca6282271d1b62,Exact Score: Al Nassr Saudi Club 0 - 4 NEOM SC?,polymarket:5390847 | predict:3029009,1.0,explicit_platform_link,True,
+3281a244af0fa422,Exact Score: Al Nassr Saudi Club 1 - 3 NEOM SC?,polymarket:5390848 | predict:3029011,1.0,explicit_platform_link,True,0
+3a3880602d99b28a,Exact Score: Al Nassr Saudi Club 2 - 2 NEOM SC?,polymarket:5390849 | predict:3029013,1.0,explicit_platform_link,True,-0.7105447007493793540926536712
+f43fae3285edbf1c,Exact Score: Al Nassr Saudi Club 3 - 1 NEOM SC?,polymarket:5390850 | predict:3029015,1.0,explicit_platform_link,True,-1.065652884651247400114295899
+46c97c643d5a98ab,Exact Score: Al Nassr Saudi Club 4 - 0 NEOM SC?,polymarket:5390851 | predict:3029017,1.0,explicit_platform_link,True,-1.846345092639091838978306627
+df86a6673480648d,Exact Score: Al Nassr Saudi Club 0 - 5 NEOM SC?,polymarket:5390852 | predict:3029019,1.0,explicit_platform_link,True,
+a6dd76fb112490f0,Exact Score: Al Nassr Saudi Club 1 - 4 NEOM SC?,polymarket:5390853 | predict:3029021,1.0,explicit_platform_link,True,
+3a0a97ababdbb3f2,Exact Score: Al Nassr Saudi Club 2 - 3 NEOM SC?,polymarket:5390854 | predict:3029023,1.0,explicit_platform_link,True,0
+7f664687861cde7e,Exact Score: Al Nassr Saudi Club 3 - 2 NEOM SC?,polymarket:5390855 | predict:3029025,1.0,explicit_platform_link,True,-0.6748985356932498246343216410
+adc5833294f12549,Exact Score: Al Nassr Saudi Club 4 - 1 NEOM SC?,polymarket:5390856 | predict:3029027,1.0,explicit_platform_link,True,-2.135919168542115949071036431
+99bbaa2e9cbce071,Exact Score: Al Nassr Saudi Club 5 - 0 NEOM SC?,polymarket:5390857 | predict:3029029,1.0,explicit_platform_link,True,-16.72086588878965722809792132
+c073dbd91207ebbd,Exact Score: Al Nassr Saudi Club 1 - 5 NEOM SC?,polymarket:5390858 | predict:3029031,1.0,explicit_platform_link,True,
+d5e7a5c059abf60c,Exact Score: Al Nassr Saudi Club 2 - 4 NEOM SC?,polymarket:5390859 | predict:3029033,1.0,explicit_platform_link,True,-4.285618296036664103369011383
+d81ee50424d95760,Exact Score: Al Nassr Saudi Club 3 - 3 NEOM SC?,polymarket:5390860 | predict:3029035,1.0,explicit_platform_link,True,0
+2a23620c63d721ae,Exact Score: Al Nassr Saudi Club 4 - 2 NEOM SC?,polymarket:5390861 | predict:3029037,1.0,explicit_platform_link,True,-1.123619386804885081721578955
+e94bcac1e99480bb,Exact Score: Al Nassr Saudi Club 5 - 1 NEOM SC?,polymarket:5390862 | predict:3029039,1.0,explicit_platform_link,True,-20.07963269224452028982105674
+25c9437a48ae82fa,Exact Score: Al Nassr Saudi Club 2 - 5 NEOM SC?,polymarket:5390863 | predict:3029041,1.0,explicit_platform_link,True,
+8bec1b8755e8d989,Exact Score: Al Nassr Saudi Club 3 - 4 NEOM SC?,polymarket:5390864 | predict:3029043,1.0,explicit_platform_link,True,-21.41985846687937101355331185
+70624793c72d8dd2,Exact Score: Al Nassr Saudi Club 4 - 3 NEOM SC?,polymarket:5390865 | predict:3029045,1.0,explicit_platform_link,True,-16.27107141687831272371860705
+e8b5839198836fde,Exact Score: Al Nassr Saudi Club 5 - 2 NEOM SC?,polymarket:5390866 | predict:3029047,1.0,explicit_platform_link,True,-19.17006339026159601697375033
+ba210bb2bdecbfd7,Exact Score: Al Nassr Saudi Club 3 - 5 NEOM SC?,polymarket:5390867 | predict:3029049,1.0,explicit_platform_link,True,
+eac0f23f0074f695,Exact Score: Al Nassr Saudi Club 4 - 4 NEOM SC?,polymarket:5390868 | predict:3029051,1.0,explicit_platform_link,True,-3.350266884171841527172968259
+9403719280303b75,Exact Score: Al Nassr Saudi Club 5 - 3 NEOM SC?,polymarket:5390869 | predict:3029053,1.0,explicit_platform_link,True,-21.09718158535891008654069316
+ff6168b3c5789652,Exact Score: Al Nassr Saudi Club 4 - 5 NEOM SC?,polymarket:5390870 | predict:3029055,1.0,explicit_platform_link,True,
+71bb167599e9b72a,Exact Score: Al Nassr Saudi Club 5 - 4 NEOM SC?,polymarket:5390871 | predict:3029058,1.0,explicit_platform_link,True,
+840706cc490fb1c4,Exact Score: Al Nassr Saudi Club 5 - 5 NEOM SC?,polymarket:5390872 | predict:3029060,1.0,explicit_platform_link,True,
+76cdd5eb5c6a0ca9,Exact Score: Any Other Score?,polymarket:5390873 | predict:3029061,1.0,explicit_platform_link,True,
+a1b21a65d20a85ff,Al Nassr Saudi Club to score first vs. NEOM SC?,polymarket:5390874 | predict:3028952,1.0,explicit_platform_link,True,-2.742186873595631963172067695
+46f1a042bb1b9e95,NEOM SC to score first vs. Al Nassr Saudi Club?,polymarket:5390875 | predict:3028958,1.0,explicit_platform_link,True,-1.760198932585658284709804412
+f8b55c18dc8a9e99,Al Nassr Saudi Club vs. NEOM SC: Neither team to score first?,polymarket:5390876 | predict:3028962,1.0,explicit_platform_link,True,-1.085407802349466945779180830
+f0f2a8d38837f2d4,Al Ettifaq Saudi Club leading at halftime?,polymarket:5390877 | predict:3028973,1.0,explicit_platform_link,True,-1.720795935605310581812986693
+bdee129ce77f131f,Al Ettifaq Saudi Club vs. Al Ittihad Saudi Club: Draw at halftime?,polymarket:5390878 | predict:3028974,1.0,explicit_platform_link,True,-1.895017170432275612500251043
+99248a3932a99e90,Al Ittihad Saudi Club leading at halftime?,polymarket:5390880 | predict:3028975,1.0,explicit_platform_link,True,-1.927017291273566303718810882
+1e7a782b282ebf6c,Al Ettifaq Saudi Club to win the second half?,polymarket:5390882 | predict:3028823,1.0,explicit_platform_link,True,-7.857744095550331810804698525
+a4bc911cb1de4201,Al Ettifaq Saudi Club vs. Al Ittihad Saudi Club: Second half draw?,polymarket:5390883 | predict:3028825,1.0,explicit_platform_link,True,-7.909125066400632263581358581
+7b3b4a876fdabeed,Al Ittihad Saudi Club to win the second half?,polymarket:5390884 | predict:3028826,1.0,explicit_platform_link,True,-16.29834315341677704279843164
+ffedf2b1a8635213,Exact Score: Al Ettifaq Saudi Club 0 - 0 Al Ittihad Saudi Club?,polymarket:5390885 | predict:3029103,1.0,explicit_platform_link,True,-0.7179670322639049311311870016
+84a1c50bf600869f,Exact Score: Al Ettifaq Saudi Club 0 - 1 Al Ittihad Saudi Club?,polymarket:5390886 | predict:3029104,1.0,explicit_platform_link,True,-0.5221254898780285973231102237
+43234eba2fa70416,Exact Score: Al Ettifaq Saudi Club 1 - 0 Al Ittihad Saudi Club?,polymarket:5390887 | predict:3029105,1.0,explicit_platform_link,True,-0.8030971783509156231520170257
+80ef103c9d0b8ab6,Exact Score: Al Ettifaq Saudi Club 0 - 2 Al Ittihad Saudi Club?,polymarket:5390888 | predict:3029106,1.0,explicit_platform_link,True,-0.8873757187350263536176329958
+c6bcbb08c3e8b7ae,Exact Score: Al Ettifaq Saudi Club 1 - 1 Al Ittihad Saudi Club?,polymarket:5390889 | predict:3029107,1.0,explicit_platform_link,True,-1.561073739612990532375055015
+30352ef301dff804,Exact Score: Al Ettifaq Saudi Club 2 - 0 Al Ittihad Saudi Club?,polymarket:5390890 | predict:3029108,1.0,explicit_platform_link,True,-0.8136379708312008209384400288
+9a3c5fda90a6e20f,Exact Score: Al Ettifaq Saudi Club 0 - 3 Al Ittihad Saudi Club?,polymarket:5390891 | predict:3029109,1.0,explicit_platform_link,True,-0.9186787222562294850559326411
+fddd0b56005e6b2c,Exact Score: Al Ettifaq Saudi Club 1 - 2 Al Ittihad Saudi Club?,polymarket:5390892 | predict:3029110,1.0,explicit_platform_link,True,-1.077450109693261412124627645
+79ab5049c714898f,Exact Score: Al Ettifaq Saudi Club 2 - 1 Al Ittihad Saudi Club?,polymarket:5390893 | predict:3029111,1.0,explicit_platform_link,True,-1.065652884651247400114295899
+01c451d32e577755,Exact Score: Al Ettifaq Saudi Club 3 - 0 Al Ittihad Saudi Club?,polymarket:5390894 | predict:3029112,1.0,explicit_platform_link,True,-0.6877475139985504564304184648
+ac8581ff3af36abe,Exact Score: Al Ettifaq Saudi Club 0 - 4 Al Ittihad Saudi Club?,polymarket:5390895 | predict:3029113,1.0,explicit_platform_link,True,-1.074817635073494686447373760
+b745ad8eef66028d,Exact Score: Al Ettifaq Saudi Club 1 - 3 Al Ittihad Saudi Club?,polymarket:5390896 | predict:3029114,1.0,explicit_platform_link,True,-1.052011925557353061358589352
+f3acb1ed119ecac1,Exact Score: Al Ettifaq Saudi Club 2 - 2 Al Ittihad Saudi Club?,polymarket:5390897 | predict:3029115,1.0,explicit_platform_link,True,-1.241756866312549033402842493
+c2911e206dce3f58,Exact Score: Al Ettifaq Saudi Club 3 - 1 Al Ittihad Saudi Club?,polymarket:5390898 | predict:3029116,1.0,explicit_platform_link,True,-0.8168994071566391023085412862
+4d8894b3217d9920,Exact Score: Al Ettifaq Saudi Club 4 - 0 Al Ittihad Saudi Club?,polymarket:5390899 | predict:3029117,1.0,explicit_platform_link,True,
+f8343b74b8a277c7,Exact Score: Al Ettifaq Saudi Club 0 - 5 Al Ittihad Saudi Club?,polymarket:5390900 | predict:3029118,1.0,explicit_platform_link,True,-21.57827042947230032727581075
+b16c79ed40e0f09b,Exact Score: Al Ettifaq Saudi Club 1 - 4 Al Ittihad Saudi Club?,polymarket:5390901 | predict:3029119,1.0,explicit_platform_link,True,-1.701736362277642534698650271
+b41d3dabe3b44254,Exact Score: Al Ettifaq Saudi Club 2 - 3 Al Ittihad Saudi Club?,polymarket:5390902 | predict:3029120,1.0,explicit_platform_link,True,-0.8331308761950833618627768150
+ddd4675e1bc29336,Exact Score: Al Ettifaq Saudi Club 3 - 2 Al Ittihad Saudi Club?,polymarket:5390903 | predict:3029121,1.0,explicit_platform_link,True,-0.8103714841382722644470893941
+7306f4b9c2a1e630,Exact Score: Al Ettifaq Saudi Club 4 - 1 Al Ittihad Saudi Club?,polymarket:5390904 | predict:3029122,1.0,explicit_platform_link,True,
+6841d3f0b129f5be,Exact Score: Al Ettifaq Saudi Club 5 - 0 Al Ittihad Saudi Club?,polymarket:5390905 | predict:3029123,1.0,explicit_platform_link,True,
+ab2e417907ed6114,Exact Score: Al Ettifaq Saudi Club 1 - 5 Al Ittihad Saudi Club?,polymarket:5390906 | predict:3029124,1.0,explicit_platform_link,True,-21.41985846687937101355331185
+991feb5623ec4bcf,Exact Score: Al Ettifaq Saudi Club 2 - 4 Al Ittihad Saudi Club?,polymarket:5390907 | predict:3029125,1.0,explicit_platform_link,True,-1.172323878286164757909264938
+a3d7ff64dad6ce3e,Exact Score: Al Ettifaq Saudi Club 3 - 3 Al Ittihad Saudi Club?,polymarket:5390908 | predict:3029126,1.0,explicit_platform_link,True,-0.4516169904689205216386085307
+221950ea69c58794,Exact Score: Al Ettifaq Saudi Club 4 - 2 Al Ittihad Saudi Club?,polymarket:5390909 | predict:3029127,1.0,explicit_platform_link,True,-4.285618296036664103369011383
+d66542eee470f97f,Exact Score: Al Ettifaq Saudi Club 5 - 1 Al Ittihad Saudi Club?,polymarket:5390910 | predict:3029128,1.0,explicit_platform_link,True,-20.76645748451620385256907118
+f2b0fdeed5a78c0a,Exact Score: Al Ettifaq Saudi Club 2 - 5 Al Ittihad Saudi Club?,polymarket:5390911 | predict:3029129,1.0,explicit_platform_link,True,-21.57827042947230032727581075
+511cb8141f669c65,Exact Score: Al Ettifaq Saudi Club 3 - 4 Al Ittihad Saudi Club?,polymarket:5390912 | predict:3029130,1.0,explicit_platform_link,True,-21.25950745938042832315174683
+a801e5a7889c0604,Exact Score: Al Ettifaq Saudi Club 4 - 3 Al Ittihad Saudi Club?,polymarket:5390913 | predict:3029131,1.0,explicit_platform_link,True,-16.72086588878965722809792132
+a6255ec10853d070,Exact Score: Al Ettifaq Saudi Club 5 - 2 Al Ittihad Saudi Club?,polymarket:5390914 | predict:3029132,1.0,explicit_platform_link,True,
+88b484283dd88d29,Exact Score: Al Ettifaq Saudi Club 3 - 5 Al Ittihad Saudi Club?,polymarket:5390915 | predict:3029133,1.0,explicit_platform_link,True,-20.93284413538042409896227472
+07541b21706adf6a,Exact Score: Al Ettifaq Saudi Club 4 - 4 Al Ittihad Saudi Club?,polymarket:5390916 | predict:3029134,1.0,explicit_platform_link,True,-3.350266884171841527172968259
+b2692595285bc3f6,Exact Score: Al Ettifaq Saudi Club 5 - 3 Al Ittihad Saudi Club?,polymarket:5390917 | predict:3029135,1.0,explicit_platform_link,True,
+e6c55e0aa8130bb3,Exact Score: Al Ettifaq Saudi Club 4 - 5 Al Ittihad Saudi Club?,polymarket:5390918 | predict:3029136,1.0,explicit_platform_link,True,
+c4f2e86ac9b411e2,Exact Score: Al Ettifaq Saudi Club 5 - 4 Al Ittihad Saudi Club?,polymarket:5390919 | predict:3029137,1.0,explicit_platform_link,True,
