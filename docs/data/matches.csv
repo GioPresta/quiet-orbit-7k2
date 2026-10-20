@@ -1,101 +1,101 @@
 match_id,name,markets,score,match_reason,rules_identical,screening_profit
 0f02053923a7c813,Will October be the best month for Bitcoin in 2026?,polymarket:1296003 | predict:2815582,1.0,explicit_platform_link,True,0.6235573099653935252768853829
+014e6e89fa8e5268,BTC Up or Down - 15 Min,limitless:btc-up-or-down-15-min-1792503900 | polymarket:5923798,1.0,explicit_platform_link,False,
 04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
 0a1c607da4c967bd,SPCX Daily Up or Down,limitless:spcx-daily-up-or-down-p-1792429546789 | polymarket:5920638,1.0,explicit_platform_link,True,
 0c99d71fe4d92264,DOGE Up or Down Hourly,limitless:doge-up-or-down-hourly-p-1792490722755 | polymarket:5878252,1.0,explicit_platform_link,True,
-0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
 be49105428c4e033,Will the Cleveland Browns win the 2027 NFL league championship?,polymarket:1357378 | predict:26938,1.0,explicit_platform_link,True,0.3123714657305512930342835392
-c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.3707250821940636758575136479
+c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.3133953205020920502092050215
 7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,1.939749689036411438094993444
 3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.1171605822620203402488688430
 0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
 fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nomination?,polymarket:561975 | predict:933798,1.0,explicit_platform_link,True,0.3203645866784373348410176071
 2b40a9e64fd3f50c,"Next White House Press Secretary announced by December 31, 2026?",polymarket:5784291 | predict:3415545,1.0,explicit_platform_link,True,4.107942498152042904059214697
+cf1d16097bd66df6,Will AEK win on 2026-10-20?,polymarket:5409197 | predict:3046271,1.0,explicit_platform_link,True,0.1015281195869487047857824615
 ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
-3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,1.244082578415513434024657313
+3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,1.090078800944140646862290947
 6471feb59ef29034,Will Fenerbahçe SK win on 2026-10-20?,polymarket:5383472 | predict:3019976,1.0,explicit_platform_link,True,0.4874933765047374620766867349
-9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
-857813bc197c2448,Will Anthropic's initial public offering occur in August 2027 (ET)?,polymarket:3721435 | predict:1515789,1.0,explicit_platform_link,True,-24.61242868325835499580855153
-1cd3177f912300d1,Will Anthropic's initial public offering occur in September 2027 (ET)?,polymarket:3721436 | predict:1515790,1.0,explicit_platform_link,True,-24.48541823932384489892501070
-eaf1e1fc6e5d25bd,Will Anthropic's initial public offering occur in October 2027 (ET)?,polymarket:3721437 | predict:1515791,1.0,explicit_platform_link,True,-24.73818088607119709670981052
-70d107b291756a6b,Will Anthropic's initial public offering occur in November 2027 (ET)?,polymarket:3721438 | predict:1515792,1.0,explicit_platform_link,True,-24.73818088607119709670981052
-ddcc6cc94d48cab7,Will Anthropic's initial public offering occur in December 2027 (ET)?,polymarket:3721439 | predict:1515793,1.0,explicit_platform_link,True,-24.73818088607119709670981052
-b9c823e2f961aa8b,Will Anthropic not IPO before 2028?,polymarket:3721440 | predict:1515794,1.0,explicit_platform_link,True,-24.42272161851811864999063111
-3962b7959a79ac61,Will FC Cincinnati win on 2026-09-05?,polymarket:3809067 | predict:1651937,1.0,explicit_platform_link,True,-0.332748971193415637860082300
-270ba4eb1135d2aa,Will FC Cincinnati vs. D.C. United SC end in a draw?,polymarket:3809072 | predict:1651940,1.0,explicit_platform_link,True,-0.349281997918834547346514050
-d5776a313318944b,Will D.C. United SC win on 2026-09-05?,polymarket:3809076 | predict:1651942,1.0,explicit_platform_link,True,-0.257580171977744056651492160
-240140e5cfc8c7f6,"Will Zcash dip to $700 by December 31, 2026?",polymarket:3867076 | predict:1738193,1.0,explicit_platform_link,True,-1.340337361058012920359816172
-6a47196bf05214dc,"Will Zcash dip to $200 by December 31, 2026?",polymarket:3867079 | predict:1738196,1.0,explicit_platform_link,True,-21.85042954456671360048763857
-93d6fc89a37d96cf,"Will Zcash dip to $300 by December 31, 2026?",polymarket:3867080 | predict:1738200,1.0,explicit_platform_link,True,-21.40855835977315896942553530
-ff676e426cc07875,"Will Zcash dip to $600 by December 31, 2026?",polymarket:3867081 | predict:1738199,1.0,explicit_platform_link,True,-2.628484404518641323206230465
-9f9a091751e5e4ad,"Will Zcash dip to $500 by December 31, 2026?",polymarket:3867083 | predict:1738197,1.0,explicit_platform_link,True,-1.433683284074694449667845904
-d49d5fcbca286840,"Will Zcash reach $2000 by December 31, 2026?",polymarket:3867085 | predict:1738201,1.0,explicit_platform_link,True,-10.88222383746631425811200609
-6a60644fe360d1a2,"Will Zcash dip to $400 by December 31, 2026?",polymarket:3867086 | predict:1738202,1.0,explicit_platform_link,True,-0.7900403904267836132206653082
-9fb5fdf33626ad82,Will Lighter reach $12 before 2027?,polymarket:3867163 | predict:1738301,1.0,explicit_platform_link,True,-2.136323864525159392305410664
-40e88da6c851c85a,Will Lighter dip to $2.5 before 2027?,polymarket:3867164 | predict:1738302,1.0,explicit_platform_link,True,-3.749744342980616040584483511
-e647af7f8b3a04ca,Will Lighter reach $20 before 2027?,polymarket:3867165 | predict:1738303,1.0,explicit_platform_link,True,-24.47728779763122878248747967
-40b4bf0a37f7b59b,Will Lighter dip to $2 before 2027?,polymarket:3867167 | predict:1738305,1.0,explicit_platform_link,True,-3.237998781230956733698964050
-4518074c32421d8b,Will Lighter reach $15 before 2027?,polymarket:3867168 | predict:1738306,1.0,explicit_platform_link,True,-24.68925600753117484377105713
-2b38af134754723b,Will OpenAI IPO by March 31 2027?,polymarket:3956999 | predict:1849674,1.0,explicit_platform_link,True,-1.019763537318437383068572226
-8ec1bc36abf87fbc,"Will OpenAI IPO by June 30, 2027?",polymarket:3957123 | predict:1849675,1.0,explicit_platform_link,True,-0.379623023915687069314957440
-f4664b4ed2a0fccc,Will the Fed Hike–Pause–Hike in the next three decisions (Sep–Oct–Dec)?,polymarket:4170752 | predict:1929304,1.0,explicit_platform_link,True,-1.769928778334318233191547425
-0b407b34cdc88898,Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?,polymarket:4170753 | predict:1929307,1.0,explicit_platform_link,True,-1.931831296564635882179449352
-a5ff96db4919f609,Will the Fed Hike–Hike–Hike in the next three decisions (Sep–Oct–Dec)?,polymarket:4170754 | predict:1929308,1.0,explicit_platform_link,True,-0.8017699268367538883443721532
-1085186e017e79e4,Will the Fed Hike–Hike–Pause in the next three decisions (Sep–Oct–Dec)?,polymarket:4170755 | predict:1929309,1.0,explicit_platform_link,True,-0.01253051426170089825077480680
-3c84dc0e9386bf00,Will the Fed decide differently in the next three decisions (Sep–Oct–Dec)?,polymarket:4170760 | predict:1929318,1.0,explicit_platform_link,True,-0.5236700276565180319192175725
-40722a9ae11aeafc,"Next Fable Model (5.2+) released by October 31, 2026?",polymarket:4178411 | predict:1936575,1.0,explicit_platform_link,True,-0.09444788535546872753847200428
-c500d0e81eaf456c,"Next Fable Model (5.2+) released by December 31, 2026?",polymarket:4178412 | predict:1936578,1.0,explicit_platform_link,True,-0.8163499292878118592218740658
-32ca8c5028982602,Will Levante UD win on 2026-09-16?,polymarket:4182985 | predict:1940195,1.0,explicit_platform_link,True,-0.7678179298538625546169113835
-8190d9ec7a5dee77,Will Levante UD vs. Athletic Club end in a draw?,polymarket:4182986 | predict:1940196,1.0,explicit_platform_link,True,-0.8390169860496699653488581314
-308b5ac7a407883d,Will Athletic Club win on 2026-09-16?,polymarket:4182987 | predict:1940197,1.0,explicit_platform_link,True,-1.538035742527281353787758996
-6a5c1d1db91457d6,Levante UD leading at halftime?,polymarket:4183102 | predict:1940267,1.0,explicit_platform_link,True,-1.635826172755811986292994535
-09591d914d1b8dcd,Levante UD vs. Athletic Club: Draw at halftime?,polymarket:4183103 | predict:1940268,1.0,explicit_platform_link,True,-2.478038837747720802454776088
-119acf0e389ecee4,Athletic Club leading at halftime?,polymarket:4183104 | predict:1940269,1.0,explicit_platform_link,True,-0.210014477766287487073422955
-e7aa09302fe59bd9,Levante UD to win the second half?,polymarket:4183105 | predict:1940261,1.0,explicit_platform_link,True,-22.50291208258622912202500410
-ff182abcdf9f7eca,Levante UD vs. Athletic Club: Second half draw?,polymarket:4183106 | predict:1940262,1.0,explicit_platform_link,True,-20.61486366704927397130266148
-4df9a7a3533ce9d7,Athletic Club to win the second half?,polymarket:4183107 | predict:1940263,1.0,explicit_platform_link,True,-20.61486366704927397130266148
-e7e6ba89c03e3cdb,Exact Score: Levante UD 0 - 0 Athletic Club?,polymarket:4183108 | predict:1940227,1.0,explicit_platform_link,True,-0.7711069968518069587331899249
-ce4504b73e6f8957,Exact Score: Levante UD 0 - 1 Athletic Club?,polymarket:4183109 | predict:1940228,1.0,explicit_platform_link,True,-0.8613989037526971449620882147
-3279c5dcf200eac4,Exact Score: Levante UD 1 - 0 Athletic Club?,polymarket:4183110 | predict:1940229,1.0,explicit_platform_link,True,-1.241756866312549033402842493
-24e3b24a83072f09,Exact Score: Levante UD 0 - 2 Athletic Club?,polymarket:4183111 | predict:1940230,1.0,explicit_platform_link,True,-1.241756866312549033402842493
-bf0f6ea0256227ec,Exact Score: Levante UD 1 - 1 Athletic Club?,polymarket:4183112 | predict:1940231,1.0,explicit_platform_link,True,-1.440744910399593308875719226
-873d927d30c92b43,Exact Score: Levante UD 2 - 0 Athletic Club?,polymarket:4183113 | predict:1940232,1.0,explicit_platform_link,True,-0.6526796029823666974678660397
-78f1b3cc4ced59d7,Exact Score: Levante UD 0 - 3 Athletic Club?,polymarket:4183114 | predict:1940233,1.0,explicit_platform_link,True,-0.4956643037497507223122221771
-301efdc27b75cf69,Exact Score: Levante UD 1 - 2 Athletic Club?,polymarket:4183115 | predict:1940234,1.0,explicit_platform_link,True,-1.301360638610467204283522167
-d07a4b93da885239,Exact Score: Levante UD 2 - 1 Athletic Club?,polymarket:4183116 | predict:1940235,1.0,explicit_platform_link,True,-0.7398746085263473216059552162
-34cbdfaf9e7e9526,Exact Score: Levante UD 3 - 0 Athletic Club?,polymarket:4183117 | predict:1940236,1.0,explicit_platform_link,True,0
-fe6939d4bd3ff80e,Exact Score: Levante UD 1 - 3 Athletic Club?,polymarket:4183118 | predict:1940237,1.0,explicit_platform_link,True,-0.7168145655852360203647964643
-dc5dfa7b9868d735,Exact Score: Levante UD 2 - 2 Athletic Club?,polymarket:4183119 | predict:1940238,1.0,explicit_platform_link,True,-0.6249779142979901447091017131
-bd7529063400379b,Exact Score: Levante UD 3 - 1 Athletic Club?,polymarket:4183120 | predict:1940239,1.0,explicit_platform_link,True,-0.4516169904689205216386085307
-9eb6050a274f9f87,Exact Score: Levante UD 2 - 3 Athletic Club?,polymarket:4183121 | predict:1940240,1.0,explicit_platform_link,True,-0.5646991388507071360143683611
-3d6ae7fc2fb0023a,Exact Score: Levante UD 3 - 2 Athletic Club?,polymarket:4183122 | predict:1940241,1.0,explicit_platform_link,True,-0.3887522777187558240038117396
-d1b1705d7ad79ac2,Exact Score: Levante UD 3 - 3 Athletic Club?,polymarket:4183123 | predict:1940242,1.0,explicit_platform_link,True,0
-a406c97fb4374448,Exact Score: Any Other Score?,polymarket:4183124 | predict:1940243,1.0,explicit_platform_link,True,-18.23186657471646078140017178
-4f13456eff741881,Levante UD to score first vs. Athletic Club?,polymarket:4183125 | predict:1940192,1.0,explicit_platform_link,True,-14.10692630934736317192554750
-b7ba11d728f1d413,Athletic Club to score first vs. Levante UD?,polymarket:4183126 | predict:1940193,1.0,explicit_platform_link,True,-16.29834315341677704279843164
-eb2a0e6c51754d5e,Levante UD vs. Athletic Club: Neither team to score first?,polymarket:4183127 | predict:1940194,1.0,explicit_platform_link,True,-4.702862509407793463280030367
-7fb5183835185f74,Levante UD vs. Athletic Club: Both Teams to Score,polymarket:4183831 | predict:1940885,1.0,explicit_platform_link,True,-2.003454171741853491967174509
-072b85b7b7d8db51,"Next Astra Model (6.1+) released by October 31, 2026?",polymarket:4218310 | predict:1971329,1.0,explicit_platform_link,False,-1.170905508687906334512284794
-834f36f5e96421fd,"Next Astra Model (6.1+) released by December 31, 2026?",polymarket:4218313 | predict:1971334,1.0,explicit_platform_link,False,0.1575297785642288275082640083
-271b4116c2baa3c2,Will Gen.G win Worlds 2026?,polymarket:4397022 | predict:2730330,1.0,explicit_platform_link,True,-0.8091870244920119591555172828
-11ec3235ce49e58c,Will T1 win Worlds 2026?,polymarket:4397025 | predict:2730331,1.0,explicit_platform_link,True,-0.4291879085120246244590270934
-7a1fced6c62bb9a8,Will Hanwha Life Esports win Worlds 2026?,polymarket:4397027 | predict:2730332,1.0,explicit_platform_link,True,-0.3664820630928939494097266416
-c863d4a6abe13b32,Will Bilibili Gaming win Worlds 2026?,polymarket:4397033 | predict:2730334,1.0,explicit_platform_link,True,-0.1167963140652900834794304907
-4149744603d9804d,Will Karmine Corp win Worlds 2026?,polymarket:4397037 | predict:2730336,1.0,explicit_platform_link,True,0
-0d5aa5d7899b183a,Will Top Esports win Worlds 2026?,polymarket:4397048 | predict:2730341,1.0,explicit_platform_link,True,0
-d3f961e18ef7dc4b,Will Invictus Gaming win Worlds 2026?,polymarket:4397050 | predict:2730342,1.0,explicit_platform_link,True,-0.1667604391821717649532219007
-136b8ef0e203cdcf,"Will OpenAI announce another Millennium Prize solution by December 31, 2026?",polymarket:4412200 | predict:2152585,1.0,explicit_platform_link,True,-1.398480707457619259827875344
-121fae17903c7cfe,"Will OpenAI announce another Millennium Prize solution by December 31, 2027?",polymarket:4412201 | predict:2152589,1.0,explicit_platform_link,True,-1.475920444143276626603421429
-3704c2ea9a53c7db,"Will CoreWeave announce bankruptcy by December 31, 2028?",polymarket:4662700 | predict:2381773,1.0,explicit_platform_link,True,-1.536529324759461238233957994
-77b39edff16fc290,Will Anthropic have the best AI model at the end of November 2026?,polymarket:4664660 | predict:2383519,1.0,explicit_platform_link,True,0.04598731606603085208480590327
-8d0bc3c6e12e3eaa,Will Meta have the best AI model at the end of November 2026?,polymarket:4664661 | predict:2383521,1.0,explicit_platform_link,True,-24.76686479912088310356298404
-bcb2333c12cd6e0e,Will Alibaba have the best AI model at the end of November 2026?,polymarket:4664663 | predict:2383525,1.0,explicit_platform_link,True,-24.91290088219768521269622109
-bbd525e9d802b8bf,Will Moonshot have the best AI model at the end of November 2026?,polymarket:4664664 | predict:2383527,1.0,explicit_platform_link,True,-24.93706252053940577635116507
-419512ba9d727a9b,Will OpenAI have the best AI model at the end of November 2026?,polymarket:4664665 | predict:2383529,1.0,explicit_platform_link,True,-0.5919155522938553050076344977
-3728baf59d4771f4,Will Baidu have the best AI model at the end of November 2026?,polymarket:4664666 | predict:2383531,1.0,explicit_platform_link,True,
-58b3d3ce26beeab3,Will Z.ai have the best AI model at the end of November 2026?,polymarket:4664667 | predict:2383533,1.0,explicit_platform_link,True,-2.445066314939795100028164579
-61a20ec37c68bf63,Will Xiaomi have the best AI model at the end of November 2026?,polymarket:4664668 | predict:2383535,1.0,explicit_platform_link,True,-24.96117380816122090973057436
+847d3144dcb57c07,SSC Napoli vs. FK Bodø/Glimt: Second half draw?,polymarket:5409546 | predict:3046753,1.0,explicit_platform_link,True,0
+7350c4e516d11d62,FK Bodø/Glimt to win the second half?,polymarket:5409548 | predict:3046757,1.0,explicit_platform_link,True,0
+6c8ea34fb1bb5bee,Exact Score: SSC Napoli 0 - 0 FK Bodø/Glimt?,polymarket:5409554 | predict:3046275,1.0,explicit_platform_link,True,-0.01384204138089616754467398891
+ae85bc29bf3db605,Exact Score: SSC Napoli 0 - 1 FK Bodø/Glimt?,polymarket:5409556 | predict:3046276,1.0,explicit_platform_link,True,-0.06958157151808777119304807519
+8fd095bba7b02a49,Exact Score: SSC Napoli 1 - 0 FK Bodø/Glimt?,polymarket:5409558 | predict:3046277,1.0,explicit_platform_link,True,-0.1510329516981132075471698130
+dc87aa660927f9a8,Exact Score: SSC Napoli 0 - 2 FK Bodø/Glimt?,polymarket:5409562 | predict:3046278,1.0,explicit_platform_link,True,-0.06001236433799715686401693223
+574215dbcbb88a51,Exact Score: SSC Napoli 1 - 1 FK Bodø/Glimt?,polymarket:5409564 | predict:3046279,1.0,explicit_platform_link,True,0.0855783012337315444734864656
+b551bac4861b725c,Exact Score: SSC Napoli 2 - 0 FK Bodø/Glimt?,polymarket:5409566 | predict:3046280,1.0,explicit_platform_link,True,-0.4667685119539025667888947015
+379162a91375f5ad,Exact Score: SSC Napoli 0 - 3 FK Bodø/Glimt?,polymarket:5409568 | predict:3046282,1.0,explicit_platform_link,True,0
+c70d233651782f14,Exact Score: SSC Napoli 1 - 2 FK Bodø/Glimt?,polymarket:5409570 | predict:3046283,1.0,explicit_platform_link,True,-0.2072710441956605662794113500
+0971799c08f02f2e,Exact Score: SSC Napoli 2 - 1 FK Bodø/Glimt?,polymarket:5409572 | predict:3046285,1.0,explicit_platform_link,True,-0.6936535334375774283078934844
+d28eafbb8e8c34d5,Exact Score: SSC Napoli 3 - 0 FK Bodø/Glimt?,polymarket:5409574 | predict:3046287,1.0,explicit_platform_link,True,-0.4169675362349239643418982695
+208c059d4ba17a34,Exact Score: SSC Napoli 0 - 4 FK Bodø/Glimt?,polymarket:5409576 | predict:3046289,1.0,explicit_platform_link,True,
+7ae9538c1b03e646,Exact Score: SSC Napoli 1 - 3 FK Bodø/Glimt?,polymarket:5409578 | predict:3046291,1.0,explicit_platform_link,True,-0.2964142783855725118579810675
+5c9ca85e2300177d,Exact Score: SSC Napoli 2 - 2 FK Bodø/Glimt?,polymarket:5409580 | predict:3046293,1.0,explicit_platform_link,True,-0.6922490007421315785724398050
+e14219b744bb68d4,Exact Score: SSC Napoli 3 - 1 FK Bodø/Glimt?,polymarket:5409582 | predict:3046296,1.0,explicit_platform_link,True,-0.3595324025157232704402515747
+f9f6e030f316b04a,Exact Score: SSC Napoli 4 - 0 FK Bodø/Glimt?,polymarket:5409584 | predict:3046298,1.0,explicit_platform_link,True,-0.7789957452496483860156410693
+fe72cb70ab988365,Exact Score: SSC Napoli 0 - 5 FK Bodø/Glimt?,polymarket:5409586 | predict:3046300,1.0,explicit_platform_link,True,
+2127b4ca646e0052,Exact Score: SSC Napoli 1 - 4 FK Bodø/Glimt?,polymarket:5409588 | predict:3046302,1.0,explicit_platform_link,True,-1.366109475558691749383969223
+23787d0785c3fa24,Exact Score: SSC Napoli 2 - 3 FK Bodø/Glimt?,polymarket:5409590 | predict:3046304,1.0,explicit_platform_link,True,-0.3033310928435834062574811837
+7fba95c395550fff,Exact Score: SSC Napoli 3 - 2 FK Bodø/Glimt?,polymarket:5409592 | predict:3046306,1.0,explicit_platform_link,True,-0.2569682272722594702957749161
+8661e9e5f52706e8,Exact Score: SSC Napoli 4 - 1 FK Bodø/Glimt?,polymarket:5409594 | predict:3046308,1.0,explicit_platform_link,True,-0.9309649224956637825407729954
+6da91da118ddd0a1,Exact Score: SSC Napoli 5 - 0 FK Bodø/Glimt?,polymarket:5409596 | predict:3046310,1.0,explicit_platform_link,True,-1.674891647784776434507274355
+aea40040b90a1a66,Exact Score: SSC Napoli 1 - 5 FK Bodø/Glimt?,polymarket:5409598 | predict:3046312,1.0,explicit_platform_link,True,-21.09718158535891008654069316
+f9a69710bdde0140,Exact Score: SSC Napoli 2 - 4 FK Bodø/Glimt?,polymarket:5409600 | predict:3046314,1.0,explicit_platform_link,True,-1.465201961395576388894947661
+a451971ce63c7e26,Exact Score: SSC Napoli 3 - 3 FK Bodø/Glimt?,polymarket:5409602 | predict:3046316,1.0,explicit_platform_link,True,0
+541f4700310ced3b,Exact Score: SSC Napoli 4 - 2 FK Bodø/Glimt?,polymarket:5409603 | predict:3046318,1.0,explicit_platform_link,True,-0.9517506745973238387904120049
+3e47a6f52ead2b05,Exact Score: SSC Napoli 5 - 1 FK Bodø/Glimt?,polymarket:5409605 | predict:3046320,1.0,explicit_platform_link,True,-2.117605364102044686183223904
+b4ca64d319b4032e,Exact Score: SSC Napoli 2 - 5 FK Bodø/Glimt?,polymarket:5409607 | predict:3046322,1.0,explicit_platform_link,True,-5.140407251004944645815950832
+2aeb5ddf8e68889b,Exact Score: SSC Napoli 3 - 4 FK Bodø/Glimt?,polymarket:5409609 | predict:3046324,1.0,explicit_platform_link,True,-1.259981273124659073505559125
+5b111411bb46ebba,Exact Score: SSC Napoli 4 - 3 FK Bodø/Glimt?,polymarket:5409611 | predict:3046326,1.0,explicit_platform_link,True,-1.763126571975343446097608221
+ff8c6ea68f4f4fbb,Exact Score: SSC Napoli 5 - 2 FK Bodø/Glimt?,polymarket:5409613 | predict:3046329,1.0,explicit_platform_link,True,-1.857362094306666171380562972
+56486e4c6e6726aa,Exact Score: SSC Napoli 3 - 5 FK Bodø/Glimt?,polymarket:5409615 | predict:3046331,1.0,explicit_platform_link,True,
+9885aab8e13e3cf6,Exact Score: SSC Napoli 4 - 4 FK Bodø/Glimt?,polymarket:5409617 | predict:3046333,1.0,explicit_platform_link,True,-1.303210118602384036606306246
+b967aff5359b9f0a,Exact Score: SSC Napoli 5 - 3 FK Bodø/Glimt?,polymarket:5409618 | predict:3046335,1.0,explicit_platform_link,True,-1.455422593797326935195643157
+def06b21a08afa2c,Exact Score: SSC Napoli 4 - 5 FK Bodø/Glimt?,polymarket:5409619 | predict:3046337,1.0,explicit_platform_link,True,
+1ffd25fe9b6b6175,Exact Score: SSC Napoli 5 - 4 FK Bodø/Glimt?,polymarket:5409620 | predict:3046339,1.0,explicit_platform_link,True,
+71461da25ef0b542,Exact Score: SSC Napoli 5 - 5 FK Bodø/Glimt?,polymarket:5409621 | predict:3046341,1.0,explicit_platform_link,True,
+f75d5337650a62a2,Exact Score: Any Other Score?,polymarket:5409622 | predict:3046343,1.0,explicit_platform_link,True,
+a2f4947104df4a75,SSC Napoli to score first vs. FK Bodø/Glimt?,polymarket:5409624 | predict:3046355,1.0,explicit_platform_link,True,-1.469565776514229639257807701
+83876538c1bd10fb,FK Bodø/Glimt to score first vs. SSC Napoli?,polymarket:5409626 | predict:3046356,1.0,explicit_platform_link,True,-0.1076549027921406411582212977
+9a8d83c49b4bef5d,SSC Napoli vs. FK Bodø/Glimt: Neither team to score first?,polymarket:5409628 | predict:3046357,1.0,explicit_platform_link,True,-1.098104400998442679992439658
+1cd2af82ab5fc17a,Will VfB Stuttgart win on 2026-10-20?,polymarket:5409629 | predict:3046552,1.0,explicit_platform_link,True,-0.8190175463891606172234371356
+8caa3449392b893d,Will VfB Stuttgart vs. Club Atlético de Madrid end in a draw?,polymarket:5409630 | predict:3046553,1.0,explicit_platform_link,True,-0.7340445442635223657121467538
+276639907f731b01,Will Club Atlético de Madrid win on 2026-10-20?,polymarket:5409631 | predict:3046554,1.0,explicit_platform_link,True,-0.6206818961366367320778825858
+48b2f8a2e035871c,VfB Stuttgart leading at halftime?,polymarket:5409632 | predict:3046401,1.0,explicit_platform_link,True,-1.246002499654582762661888988
+50052719bf36924c,VfB Stuttgart vs. Club Atlético de Madrid: Draw at halftime?,polymarket:5409633 | predict:3046402,1.0,explicit_platform_link,True,-1.450967281830873092172496161
+37d41d889dea28bd,Club Atlético de Madrid leading at halftime?,polymarket:5409634 | predict:3046403,1.0,explicit_platform_link,True,-1.439617773921934420611605070
+5282a9ec9ded7770,VfB Stuttgart to win the second half?,polymarket:5409635 | predict:3046459,1.0,explicit_platform_link,True,0
+d99e0366fb13e6fb,VfB Stuttgart vs. Club Atlético de Madrid: Second half draw?,polymarket:5409636 | predict:3046461,1.0,explicit_platform_link,True,0
+92283ad3dca974e9,Club Atlético de Madrid to win the second half?,polymarket:5409637 | predict:3046463,1.0,explicit_platform_link,True,-1.510742545202978022129541223
+ac243543f7c40b1a,Exact Score: VfB Stuttgart 0 - 0 Club Atlético de Madrid?,polymarket:5409638 | predict:3046155,1.0,explicit_platform_link,True,-0.1557680961996901426015550177
+91dd048b614e6e6c,Exact Score: VfB Stuttgart 0 - 1 Club Atlético de Madrid?,polymarket:5409639 | predict:3046158,1.0,explicit_platform_link,True,0
+6dab79aa93851f7d,Exact Score: VfB Stuttgart 1 - 0 Club Atlético de Madrid?,polymarket:5409640 | predict:3046160,1.0,explicit_platform_link,True,-0.1884106117412557543543258814
+6cfd5f041cfbcef6,Exact Score: VfB Stuttgart 0 - 2 Club Atlético de Madrid?,polymarket:5409641 | predict:3046162,1.0,explicit_platform_link,True,-0.2885909435133717881489250131
+a86d92507227e56f,Exact Score: VfB Stuttgart 1 - 1 Club Atlético de Madrid?,polymarket:5409642 | predict:3046165,1.0,explicit_platform_link,True,-0.8083274728033472803347280331
+1dd53826c934e7cf,Exact Score: VfB Stuttgart 2 - 0 Club Atlético de Madrid?,polymarket:5409643 | predict:3046168,1.0,explicit_platform_link,True,-0.2339039873485337243233581933
+7a475d0f4e246b50,Exact Score: VfB Stuttgart 0 - 3 Club Atlético de Madrid?,polymarket:5409644 | predict:3046171,1.0,explicit_platform_link,True,-0.3611683520455391337034219928
+07bcad1a2b00557f,Exact Score: VfB Stuttgart 1 - 2 Club Atlético de Madrid?,polymarket:5409645 | predict:3046174,1.0,explicit_platform_link,True,-0.6892475969855406409326488725
+7841dde84c61ba16,Exact Score: VfB Stuttgart 2 - 1 Club Atlético de Madrid?,polymarket:5409646 | predict:3046177,1.0,explicit_platform_link,True,-0.9186059884389866113840566243
+989d8e62ed1dc403,Exact Score: VfB Stuttgart 3 - 0 Club Atlético de Madrid?,polymarket:5409647 | predict:3046180,1.0,explicit_platform_link,True,0
+a8bdb76ab82be5db,Exact Score: VfB Stuttgart 0 - 4 Club Atlético de Madrid?,polymarket:5409648 | predict:3046183,1.0,explicit_platform_link,True,0
+797e967d9b4b3cd8,Exact Score: VfB Stuttgart 1 - 3 Club Atlético de Madrid?,polymarket:5409649 | predict:3046186,1.0,explicit_platform_link,True,-0.3076012447987137242056839359
+32fe705f4dec6284,Exact Score: VfB Stuttgart 2 - 2 Club Atlético de Madrid?,polymarket:5409650 | predict:3046189,1.0,explicit_platform_link,True,-0.6758845811486868286960180396
+f027c2840fdc9779,Exact Score: VfB Stuttgart 3 - 1 Club Atlético de Madrid?,polymarket:5409651 | predict:3046192,1.0,explicit_platform_link,True,-0.3215479304340181684597256972
+e1b3aa7408e285db,Exact Score: VfB Stuttgart 4 - 0 Club Atlético de Madrid?,polymarket:5409652 | predict:3046196,1.0,explicit_platform_link,True,-0.1429329377502645040685891015
+00e313ee6fdee38c,Exact Score: VfB Stuttgart 0 - 5 Club Atlético de Madrid?,polymarket:5409653 | predict:3046199,1.0,explicit_platform_link,True,-0.4582459292015804103630736645
+da7d94229b2f2956,Exact Score: VfB Stuttgart 1 - 4 Club Atlético de Madrid?,polymarket:5409654 | predict:3046201,1.0,explicit_platform_link,True,-0.6771321236117791446155128818
+e4465acde36deb86,Exact Score: VfB Stuttgart 2 - 3 Club Atlético de Madrid?,polymarket:5409655 | predict:3046204,1.0,explicit_platform_link,True,0
+8fdac90ca54b773d,Exact Score: VfB Stuttgart 3 - 2 Club Atlético de Madrid?,polymarket:5409656 | predict:3046207,1.0,explicit_platform_link,True,-0.3341634228341598205287595412
+1b7946be07ad9491,Exact Score: VfB Stuttgart 4 - 1 Club Atlético de Madrid?,polymarket:5409657 | predict:3046210,1.0,explicit_platform_link,True,-0.4686912515107935272864672928
+9d8d0c29ea9bc94f,Exact Score: VfB Stuttgart 5 - 0 Club Atlético de Madrid?,polymarket:5409658 | predict:3046213,1.0,explicit_platform_link,True,
+c75e588c3ba1491f,Exact Score: VfB Stuttgart 1 - 5 Club Atlético de Madrid?,polymarket:5409659 | predict:3046216,1.0,explicit_platform_link,True,-0.5167494899204716670968922669
+d158c1ba9b7af4ce,Exact Score: VfB Stuttgart 2 - 4 Club Atlético de Madrid?,polymarket:5409660 | predict:3046219,1.0,explicit_platform_link,True,-0.4997083514431594813482661508
+0cd9c1d1cd33dc62,Exact Score: VfB Stuttgart 3 - 3 Club Atlético de Madrid?,polymarket:5409661 | predict:3046222,1.0,explicit_platform_link,True,-0.1506677750085077416259598613
+1973e3fda738f32a,Exact Score: VfB Stuttgart 4 - 2 Club Atlético de Madrid?,polymarket:5409662 | predict:3046225,1.0,explicit_platform_link,True,-0.5167494899204716670968922669
+4f658d488bb5657d,Exact Score: VfB Stuttgart 5 - 1 Club Atlético de Madrid?,polymarket:5409663 | predict:3046229,1.0,explicit_platform_link,True,-0.8573910385730245807636754672
+4f1f0cb66a6321be,Exact Score: VfB Stuttgart 2 - 5 Club Atlético de Madrid?,polymarket:5409664 | predict:3046232,1.0,explicit_platform_link,True,-0.5577838817762713652628172229
+9db8db20ee2e07a5,Exact Score: VfB Stuttgart 3 - 4 Club Atlético de Madrid?,polymarket:5409665 | predict:3046235,1.0,explicit_platform_link,True,-0.5647145607719737711896499965
+b9ebe6816c422c15,Exact Score: VfB Stuttgart 4 - 3 Club Atlético de Madrid?,polymarket:5409666 | predict:3046238,1.0,explicit_platform_link,True,-0.5063244292640369728989964259
