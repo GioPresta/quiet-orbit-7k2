@@ -3,13 +3,13 @@ match_id,name,markets,score,match_reason,rules_identical,screening_profit
 04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
 0a1c607da4c967bd,SPCX Daily Up or Down,limitless:spcx-daily-up-or-down-p-1792429546789 | polymarket:5920638,1.0,explicit_platform_link,True,
 0a717fb8615545dd,Will MSCI (MSCI) beat quarterly earnings?,limitless:will-msci-msci-beat-quarterly-earnings-1791400821864 | polymarket:5412317,1.0,explicit_platform_link,True,
-0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
+0e12c044fbc27096,BTC Up or Down Hourly,limitless:btc-up-or-down-hourly-p-1792487105356 | polymarket:5872491,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
-c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.9239771247483583341511429916
 be49105428c4e033,Will the Cleveland Browns win the 2027 NFL league championship?,polymarket:1357378 | predict:26938,1.0,explicit_platform_link,True,0.3123714657305512930342835392
+c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.9239771247483583341511429916
 7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,1.939749689036411438094993444
 3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.1171605822620203402488688430
 0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
@@ -19,83 +19,83 @@ fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nominatio
 ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
 3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,0.8354525971139238976849864797
 9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
-761fb7d1e8867527,Torino FC to score first vs. AC Monza?,polymarket:5476486 | predict:3110487,1.0,explicit_platform_link,True,-16.52427001094676868255051255
-c025a5266c39e32d,AC Monza to score first vs. Torino FC?,polymarket:5476487 | predict:3110488,1.0,explicit_platform_link,True,-14.36544372852801996921706380
-33aa43e3b338f1c1,Torino FC vs. AC Monza: Neither team to score first?,polymarket:5476488 | predict:3110489,1.0,explicit_platform_link,True,-3.940240204886314729002337215
-f592cb839e588435,Al Qadisiyah Saudi Club vs. Al Hilal Saudi Club: Both Teams to Score,polymarket:5476508 | predict:3110654,1.0,explicit_platform_link,True,
-991ac51600c7d8eb,Al Ittihad Saudi Club vs. Al Diraiyah Saudi Club: Both Teams to Score,polymarket:5476554 | predict:3110722,1.0,explicit_platform_link,True,
-e3b5494f697584f4,Al Faisaly Saudi Club vs. Al Nassr Saudi Club: Both Teams to Score,polymarket:5476600 | predict:3110427,1.0,explicit_platform_link,True,
-130359d063c14f0a,Will Stade Brestois 29 win on 2026-10-23?,polymarket:5479419 | predict:3113186,1.0,explicit_platform_link,True,-1.991926672812050855952932450
-caf4694c7f9c67a3,Will Stade Brestois 29 vs. OGC Nice end in a draw?,polymarket:5479420 | predict:3113189,1.0,explicit_platform_link,True,-1.767144685998848995219806669
-e47bbad29d137bc5,Will VfB Stuttgart win on 2026-10-23?,polymarket:5479421 | predict:3113185,1.0,explicit_platform_link,True,-1.299551887716938838270219499
-1fd851d848560c3d,Will OGC Nice win on 2026-10-23?,polymarket:5479422 | predict:3113192,1.0,explicit_platform_link,True,-1.760198932585658284709804412
-1a2599238e9c1275,Will VfB Stuttgart vs. Borussia Mönchengladbach end in a draw?,polymarket:5479423 | predict:3113190,1.0,explicit_platform_link,True,-1.492703780526640073592510354
-34ba7612d5cae3c4,Will Borussia Mönchengladbach win on 2026-10-23?,polymarket:5479426 | predict:3113194,1.0,explicit_platform_link,True,-0.9274495049669335581839517201
-cb2ffcb3dca8eb3f,Will Ipswich Town FC win on 2026-10-23?,polymarket:5479429 | predict:3113184,1.0,explicit_platform_link,True,-1.327342635425925175266966387
-fca9f57b44f638d0,Will Ipswich Town FC vs. Nottingham Forest FC end in a draw?,polymarket:5479430 | predict:3113188,1.0,explicit_platform_link,True,-1.279732267017862617774279494
-aca71b691419a41a,Will Nottingham Forest FC win on 2026-10-23?,polymarket:5479432 | predict:3113193,1.0,explicit_platform_link,True,-1.510742545202978022129541223
-f9c05083adb0757c,Stade Brestois 29 leading at halftime?,polymarket:5479447 | predict:3113541,1.0,explicit_platform_link,True,0
-51ed85fc0916b1af,Stade Brestois 29 vs. OGC Nice: Draw at halftime?,polymarket:5479449 | predict:3113545,1.0,explicit_platform_link,True,0
-f7adbb1fb6f12861,OGC Nice leading at halftime?,polymarket:5479453 | predict:3113549,1.0,explicit_platform_link,True,-5.878832835690642862931125832
-af1b8c6fa77bb3db,VfB Stuttgart leading at halftime?,polymarket:5479455 | predict:3113555,1.0,explicit_platform_link,True,0
-034900ecc96fafb9,VfB Stuttgart vs. Borussia Mönchengladbach: Draw at halftime?,polymarket:5479459 | predict:3113556,1.0,explicit_platform_link,True,-0.8028321614906832298136645941
-16218c1e021599b3,Borussia Mönchengladbach leading at halftime?,polymarket:5479461 | predict:3113557,1.0,explicit_platform_link,True,-6.044457180961723397747657135
-cb139502c7e5d2ad,Stade Brestois 29 to win the second half?,polymarket:5479467 | predict:3113552,1.0,explicit_platform_link,True,-18.00075540707346488374795271
-2595827d1eeb4ec4,Ipswich Town FC leading at halftime?,polymarket:5479468 | predict:3113543,1.0,explicit_platform_link,True,-0.9496841722885313959522573920
-7a39a7c5a17cad80,Stade Brestois 29 vs. OGC Nice: Second half draw?,polymarket:5479470 | predict:3113553,1.0,explicit_platform_link,True,-24.27134249476641287241813788
-90adc82ebb058526,OGC Nice to win the second half?,polymarket:5479474 | predict:3113554,1.0,explicit_platform_link,True,-24.27134249476641287241813788
-f4ff8a3473ac68a1,Ipswich Town FC vs. Nottingham Forest FC: Draw at halftime?,polymarket:5479475 | predict:3113548,1.0,explicit_platform_link,True,0
-cbaf4f9b266f6850,Nottingham Forest FC leading at halftime?,polymarket:5479478 | predict:3113551,1.0,explicit_platform_link,True,-0.9056506370217166494312306075
-a28dc8690a01e381,VfB Stuttgart to win the second half?,polymarket:5479482 | predict:3113542,1.0,explicit_platform_link,True,-15.83649498554442449780626788
-4bb7a4261277e0ec,VfB Stuttgart vs. Borussia Mönchengladbach: Second half draw?,polymarket:5479484 | predict:3113547,1.0,explicit_platform_link,True,-22.20678785237078286893542541
-d729dcc42b6c9266,Borussia Mönchengladbach to win the second half?,polymarket:5479487 | predict:3113550,1.0,explicit_platform_link,True,-23.48712809718651605418716558
-d1ce02855e6dc2ea,Exact Score: Stade Brestois 29 0 - 0 OGC Nice?,polymarket:5479490 | predict:3113183,1.0,explicit_platform_link,True,-2.003804402711370177432884408
-0b321a636b9bac1a,Exact Score: Stade Brestois 29 0 - 1 OGC Nice?,polymarket:5479492 | predict:3113187,1.0,explicit_platform_link,True,-10.60164713478127041088280120
-75a19de0d55ecc68,Exact Score: Stade Brestois 29 1 - 0 OGC Nice?,polymarket:5479493 | predict:3113191,1.0,explicit_platform_link,True,-1.457357559697967446757811178
-6086702c3d374674,Ipswich Town FC to win the second half?,polymarket:5479495 | predict:3113566,1.0,explicit_platform_link,True,-13.18389389857014376359825480
-5191dd1bdb9a4c57,Exact Score: Stade Brestois 29 0 - 2 OGC Nice?,polymarket:5479496 | predict:3113195,1.0,explicit_platform_link,True,-24.84222236938422092720816239
-1efbdc697cd7f811,Ipswich Town FC vs. Nottingham Forest FC: Second half draw?,polymarket:5479498 | predict:3113567,1.0,explicit_platform_link,True,-20.44463234237231551947653723
-8070ae15de53b5ed,Exact Score: Stade Brestois 29 1 - 1 OGC Nice?,polymarket:5479499 | predict:3113196,1.0,explicit_platform_link,True,-2.169409334930223349049367025
-8d7cbdf00cebf4eb,Exact Score: Stade Brestois 29 2 - 0 OGC Nice?,polymarket:5479501 | predict:3113197,1.0,explicit_platform_link,True,-24.38763164534783557209936110
-41d1592e412b7dc6,Nottingham Forest FC to win the second half?,polymarket:5479502 | predict:3113568,1.0,explicit_platform_link,True,-12.79780765107907648514764068
-9810fccfb8a42acd,Exact Score: Stade Brestois 29 0 - 3 OGC Nice?,polymarket:5479504 | predict:3113198,1.0,explicit_platform_link,True,-24.83017016736376450797126851
-5395f1787810ecd9,Exact Score: Stade Brestois 29 1 - 2 OGC Nice?,polymarket:5479505 | predict:3113199,1.0,explicit_platform_link,True,
-42df50a73f082381,Exact Score: VfB Stuttgart 0 - 0 Borussia Mönchengladbach?,polymarket:5479506 | predict:3113623,1.0,explicit_platform_link,True,-0.8303748651334083647925090752
-8badd24f7c542dea,Exact Score: Stade Brestois 29 2 - 1 OGC Nice?,polymarket:5479507 | predict:3113200,1.0,explicit_platform_link,True,-1.744784817934207829595443530
-bbc5c5e6ae7f72c2,Exact Score: Stade Brestois 29 3 - 0 OGC Nice?,polymarket:5479508 | predict:3113201,1.0,explicit_platform_link,True,-24.89030397190144020640885668
-85e0439ebb402699,Exact Score: VfB Stuttgart 0 - 1 Borussia Mönchengladbach?,polymarket:5479509 | predict:3113625,1.0,explicit_platform_link,True,-1.186477910079429256922085994
-2145ecc74670ec8a,Exact Score: Stade Brestois 29 0 - 4 OGC Nice?,polymarket:5479510 | predict:3113202,1.0,explicit_platform_link,True,
-d191e1404687c7b9,Exact Score: VfB Stuttgart 1 - 0 Borussia Mönchengladbach?,polymarket:5479511 | predict:3113627,1.0,explicit_platform_link,True,-1.145713067223121512663081828
-6bba207123e32eb8,Exact Score: VfB Stuttgart 0 - 2 Borussia Mönchengladbach?,polymarket:5479512 | predict:3113629,1.0,explicit_platform_link,True,-0.6603662814129663100459214745
-64da31de69ef3456,Exact Score: Stade Brestois 29 1 - 3 OGC Nice?,polymarket:5479513 | predict:3113203,1.0,explicit_platform_link,True,-24.72112366347842200236896775
-a7759f22277af1c8,Exact Score: Stade Brestois 29 2 - 2 OGC Nice?,polymarket:5479514 | predict:3113204,1.0,explicit_platform_link,True,-24.38763164534783557209936110
-b88056a941c25077,Exact Score: VfB Stuttgart 1 - 1 Borussia Mönchengladbach?,polymarket:5479515 | predict:3113631,1.0,explicit_platform_link,True,-1.117592805831728158929682960
-ebf46aa125062164,Exact Score: Stade Brestois 29 3 - 1 OGC Nice?,polymarket:5479516 | predict:3113205,1.0,explicit_platform_link,True,-24.63558555221255095122291093
-73a1b21e3ffd8d85,Exact Score: VfB Stuttgart 2 - 0 Borussia Mönchengladbach?,polymarket:5479517 | predict:3113633,1.0,explicit_platform_link,True,-1.195097232680295118207738408
-d83e3669bffd0888,Exact Score: Stade Brestois 29 4 - 0 OGC Nice?,polymarket:5479518 | predict:3113206,1.0,explicit_platform_link,True,-10.81658948712501630531610635
-e975249943f1e56f,Exact Score: VfB Stuttgart 0 - 3 Borussia Mönchengladbach?,polymarket:5479519 | predict:3113635,1.0,explicit_platform_link,True,
-e2d86411bf98082f,Exact Score: Ipswich Town FC 0 - 0 Nottingham Forest FC?,polymarket:5479520 | predict:3113622,1.0,explicit_platform_link,True,-1.117592805831728158929682960
-0b289a56a672acf9,Exact Score: Stade Brestois 29 0 - 5 OGC Nice?,polymarket:5479521 | predict:3113207,1.0,explicit_platform_link,True,
-9f441adb3850bdf7,Exact Score: VfB Stuttgart 1 - 2 Borussia Mönchengladbach?,polymarket:5479522 | predict:3113637,1.0,explicit_platform_link,True,-1.516504664615907133680335042
-72bcab27cd58eb34,Exact Score: Stade Brestois 29 1 - 4 OGC Nice?,polymarket:5479523 | predict:3113208,1.0,explicit_platform_link,True,
-2af93cc82113a9d4,Exact Score: Ipswich Town FC 0 - 1 Nottingham Forest FC?,polymarket:5479524 | predict:3113624,1.0,explicit_platform_link,True,-1.394185619997071282499242887
-606536cc3157bb39,Exact Score: Stade Brestois 29 2 - 3 OGC Nice?,polymarket:5479525 | predict:3113209,1.0,explicit_platform_link,True,-10.82727256546774428066871367
-e1686def555c0ea2,Exact Score: VfB Stuttgart 2 - 1 Borussia Mönchengladbach?,polymarket:5479526 | predict:3113639,1.0,explicit_platform_link,True,-1.394185619997071282499242887
-491f96f510428e3f,Exact Score: Ipswich Town FC 1 - 0 Nottingham Forest FC?,polymarket:5479527 | predict:3113626,1.0,explicit_platform_link,True,-1.101509543574626455763451725
-c0455205f12de603,Exact Score: Stade Brestois 29 3 - 2 OGC Nice?,polymarket:5479528 | predict:3113210,1.0,explicit_platform_link,True,-24.89030397190144020640885668
-787b4b365bd0cc8a,Exact Score: VfB Stuttgart 3 - 0 Borussia Mönchengladbach?,polymarket:5479529 | predict:3113641,1.0,explicit_platform_link,True,-0.4000211706498951781970649920
-58174d30d3a448db,Exact Score: Stade Brestois 29 4 - 1 OGC Nice?,polymarket:5479530 | predict:3113211,1.0,explicit_platform_link,True,-11.00369254713463790208211198
-b99a7699e232d120,Exact Score: Ipswich Town FC 0 - 2 Nottingham Forest FC?,polymarket:5479531 | predict:3113628,1.0,explicit_platform_link,True,-1.070695115535846133085871867
-090f98018e04f5c8,Exact Score: VfB Stuttgart 0 - 4 Borussia Mönchengladbach?,polymarket:5479532 | predict:3113643,1.0,explicit_platform_link,True,
-348bf9762ecf9dea,Exact Score: Stade Brestois 29 5 - 0 OGC Nice?,polymarket:5479533 | predict:3113212,1.0,explicit_platform_link,True,
-87d72b6a57f88a6a,Exact Score: Ipswich Town FC 1 - 1 Nottingham Forest FC?,polymarket:5479534 | predict:3113630,1.0,explicit_platform_link,True,-1.413957423017444747194595029
-8455169f3c479c2b,Exact Score: Stade Brestois 29 1 - 5 OGC Nice?,polymarket:5479535 | predict:3113213,1.0,explicit_platform_link,True,
-5d38dffd461809a3,Exact Score: VfB Stuttgart 1 - 3 Borussia Mönchengladbach?,polymarket:5479537 | predict:3113646,1.0,explicit_platform_link,True,-24.86628857143527197713092742
-b1fc8615c879e436,Exact Score: Ipswich Town FC 2 - 0 Nottingham Forest FC?,polymarket:5479538 | predict:3113632,1.0,explicit_platform_link,True,-1.067211193638059387520774788
-cf25a097fb71a8a6,Exact Score: Stade Brestois 29 2 - 4 OGC Nice?,polymarket:5479539 | predict:3113214,1.0,explicit_platform_link,True,
-e7e4e9ebbd8dcb23,Exact Score: VfB Stuttgart 2 - 2 Borussia Mönchengladbach?,polymarket:5479541 | predict:3113648,1.0,explicit_platform_link,True,-1.285707304462830317930141175
-319e0bf47be242cb,Exact Score: Ipswich Town FC 0 - 3 Nottingham Forest FC?,polymarket:5479542 | predict:3113634,1.0,explicit_platform_link,True,-0.8837082746221441357708649450
-59bb68c3088f3c4f,Exact Score: Stade Brestois 29 3 - 3 OGC Nice?,polymarket:5479543 | predict:3113215,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-67644426fbb4be7e,Exact Score: Stade Brestois 29 4 - 2 OGC Nice?,polymarket:5479545 | predict:3113216,1.0,explicit_platform_link,True,-10.81658948712501630531610635
-5f93dc207516506d,Exact Score: Ipswich Town FC 1 - 2 Nottingham Forest FC?,polymarket:5479546 | predict:3113636,1.0,explicit_platform_link,True,-1.067739609010624343571188038
-8a6f63885deaee6a,Exact Score: VfB Stuttgart 3 - 1 Borussia Mönchengladbach?,polymarket:5479547 | predict:3113650,1.0,explicit_platform_link,True,-1.318349562604658322100779311
+b5d087c7d55fc225,Exact Score: Abha Saudi Club 0 - 0 Al Faisaly Saudi Club?,polymarket:5048104 | predict:2707460,1.0,explicit_platform_link,True,
+1640db71f16be75e,Exact Score: Abha Saudi Club 0 - 1 Al Faisaly Saudi Club?,polymarket:5048105 | predict:2707462,1.0,explicit_platform_link,True,
+68b5777190aed9c5,Exact Score: Abha Saudi Club 1 - 0 Al Faisaly Saudi Club?,polymarket:5048106 | predict:2707465,1.0,explicit_platform_link,True,
+8dc7320266c52d22,Exact Score: Abha Saudi Club 0 - 2 Al Faisaly Saudi Club?,polymarket:5048107 | predict:2707467,1.0,explicit_platform_link,True,
+f26992e19d69d478,Exact Score: Abha Saudi Club 1 - 1 Al Faisaly Saudi Club?,polymarket:5048108 | predict:2707469,1.0,explicit_platform_link,True,
+949bf47aebeed04f,Exact Score: Abha Saudi Club 2 - 0 Al Faisaly Saudi Club?,polymarket:5048109 | predict:2707471,1.0,explicit_platform_link,True,
+816ee78b2eeeb128,Exact Score: Abha Saudi Club 0 - 3 Al Faisaly Saudi Club?,polymarket:5048110 | predict:2707473,1.0,explicit_platform_link,True,
+3027ea36384c8a9b,Exact Score: Abha Saudi Club 1 - 2 Al Faisaly Saudi Club?,polymarket:5048111 | predict:2707475,1.0,explicit_platform_link,True,
+edc1492d7739f271,Exact Score: Abha Saudi Club 2 - 1 Al Faisaly Saudi Club?,polymarket:5048112 | predict:2707477,1.0,explicit_platform_link,True,
+e2d3cc4e4102a3ef,Exact Score: Abha Saudi Club 3 - 0 Al Faisaly Saudi Club?,polymarket:5048113 | predict:2707478,1.0,explicit_platform_link,True,
+9c8cbf12e4e125a8,Exact Score: Abha Saudi Club 0 - 4 Al Faisaly Saudi Club?,polymarket:5048114 | predict:2707481,1.0,explicit_platform_link,True,
+d485805bba397221,Exact Score: Abha Saudi Club 1 - 3 Al Faisaly Saudi Club?,polymarket:5048115 | predict:2707482,1.0,explicit_platform_link,True,
+5025cf105818256f,Exact Score: Abha Saudi Club 2 - 2 Al Faisaly Saudi Club?,polymarket:5048116 | predict:2707484,1.0,explicit_platform_link,True,
+df4159c0d599845d,Exact Score: Abha Saudi Club 3 - 1 Al Faisaly Saudi Club?,polymarket:5048117 | predict:2707486,1.0,explicit_platform_link,True,
+c6a8bcdedae2c56b,Exact Score: Abha Saudi Club 4 - 0 Al Faisaly Saudi Club?,polymarket:5048118 | predict:2707488,1.0,explicit_platform_link,True,
+3e82f3e3a92b4422,Exact Score: Abha Saudi Club 0 - 5 Al Faisaly Saudi Club?,polymarket:5048119 | predict:2707490,1.0,explicit_platform_link,True,
+e663d5c95dec8ccc,Exact Score: Abha Saudi Club 1 - 4 Al Faisaly Saudi Club?,polymarket:5048120 | predict:2707492,1.0,explicit_platform_link,True,
+34a1d8d49f8f6416,Exact Score: Abha Saudi Club 2 - 3 Al Faisaly Saudi Club?,polymarket:5048121 | predict:2707494,1.0,explicit_platform_link,True,
+6798232b6e11bc97,Exact Score: Abha Saudi Club 3 - 2 Al Faisaly Saudi Club?,polymarket:5048122 | predict:2707496,1.0,explicit_platform_link,True,
+6aedc0b35b115079,Exact Score: Abha Saudi Club 4 - 1 Al Faisaly Saudi Club?,polymarket:5048123 | predict:2707498,1.0,explicit_platform_link,True,
+6c2aa31041dbc71d,Exact Score: Abha Saudi Club 5 - 0 Al Faisaly Saudi Club?,polymarket:5048124 | predict:2707500,1.0,explicit_platform_link,True,
+4159ac64c8a4205c,Exact Score: Abha Saudi Club 1 - 5 Al Faisaly Saudi Club?,polymarket:5048125 | predict:2707502,1.0,explicit_platform_link,True,
+fb76977ec6209f36,Exact Score: Abha Saudi Club 2 - 4 Al Faisaly Saudi Club?,polymarket:5048126 | predict:2707503,1.0,explicit_platform_link,True,
+5369fce3a0085c4d,Exact Score: Abha Saudi Club 3 - 3 Al Faisaly Saudi Club?,polymarket:5048127 | predict:2707506,1.0,explicit_platform_link,True,
+d1cb4e142cfd9cdc,Exact Score: Abha Saudi Club 4 - 2 Al Faisaly Saudi Club?,polymarket:5048128 | predict:2707508,1.0,explicit_platform_link,True,
+a01258e7e2de1396,Exact Score: Abha Saudi Club 5 - 1 Al Faisaly Saudi Club?,polymarket:5048129 | predict:2707510,1.0,explicit_platform_link,True,
+ec33ddc5bc2537a4,Exact Score: Abha Saudi Club 2 - 5 Al Faisaly Saudi Club?,polymarket:5048130 | predict:2707511,1.0,explicit_platform_link,True,
+eca1a643d4abe78c,Exact Score: Abha Saudi Club 3 - 4 Al Faisaly Saudi Club?,polymarket:5048131 | predict:2707513,1.0,explicit_platform_link,True,
+15389ae1c207c3b5,Exact Score: Abha Saudi Club 4 - 3 Al Faisaly Saudi Club?,polymarket:5048132 | predict:2707515,1.0,explicit_platform_link,True,
+b17eed3ebbee64b1,Exact Score: Abha Saudi Club 5 - 2 Al Faisaly Saudi Club?,polymarket:5048133 | predict:2707517,1.0,explicit_platform_link,True,
+aba15dea5c945a61,Exact Score: Abha Saudi Club 3 - 5 Al Faisaly Saudi Club?,polymarket:5048134 | predict:2707518,1.0,explicit_platform_link,True,
+0b7127eb8b6d80b0,Exact Score: Abha Saudi Club 4 - 4 Al Faisaly Saudi Club?,polymarket:5048135 | predict:2707520,1.0,explicit_platform_link,True,
+697695a66084e477,Exact Score: Abha Saudi Club 5 - 3 Al Faisaly Saudi Club?,polymarket:5048136 | predict:2707522,1.0,explicit_platform_link,True,
+11bcf87725d92c8f,Exact Score: Abha Saudi Club 4 - 5 Al Faisaly Saudi Club?,polymarket:5048137 | predict:2707524,1.0,explicit_platform_link,True,
+0be0ed655c0e8a87,Exact Score: Abha Saudi Club 5 - 4 Al Faisaly Saudi Club?,polymarket:5048138 | predict:2707526,1.0,explicit_platform_link,True,
+3e1466143f315e50,Exact Score: Abha Saudi Club 5 - 5 Al Faisaly Saudi Club?,polymarket:5048139 | predict:2707528,1.0,explicit_platform_link,True,
+f39c57dcf4cf2b87,Exact Score: Any Other Score?,polymarket:5048140 | predict:2707530,1.0,explicit_platform_link,True,
+53144ed1d7b1304a,Abha Saudi Club to score first vs. Al Faisaly Saudi Club?,polymarket:5048141 | predict:2707431,1.0,explicit_platform_link,True,
+6b915e6774545321,Al Faisaly Saudi Club to score first vs. Abha Saudi Club?,polymarket:5048142 | predict:2707432,1.0,explicit_platform_link,True,
+da23c1e58c8a0e07,Abha Saudi Club vs. Al Faisaly Saudi Club: Neither team to score first?,polymarket:5048143 | predict:2707433,1.0,explicit_platform_link,True,
+20f191c4b8ab5f9e,Abha Saudi Club vs. Al Faisaly Saudi Club: Both Teams to Score,polymarket:5057374 | predict:2715408,1.0,explicit_platform_link,True,
+e900d6cb633c15dc,Will the Fed Hike-Pause-Hike in the next three decisions (Oct-Dec-Jan)?,polymarket:5154345 | predict:2800830,1.0,explicit_platform_link,True,-1.855630724471049295397998197
+124a0de7785f6fae,Will the Fed Hike-Pause-Pause in the next three decisions (Oct-Dec-Jan)?,polymarket:5154346 | predict:2800831,1.0,explicit_platform_link,True,0
+55804e84c8cdf254,Will the Fed Hike-Hike-Hike in the next three decisions (Oct-Dec-Jan)?,polymarket:5154347 | predict:2800832,1.0,explicit_platform_link,True,-2.554246805716849314153800593
+c65c7b73f75d09fe,Will the Fed Hike-Hike-Pause in the next three decisions (Oct-Dec-Jan)?,polymarket:5154348 | predict:2800833,1.0,explicit_platform_link,True,-2.591514835927808124377843502
+5fa25f79ee05e101,Will the Fed Pause-Pause-Hike in the next three decisions (Oct-Dec-Jan)?,polymarket:5154349 | predict:2800834,1.0,explicit_platform_link,True,-1.611658912963710230720520094
+e2445b1c7cd21eea,Will the Fed Pause-Pause-Pause in the next three decisions (Oct-Dec-Jan)?,polymarket:5154350 | predict:2800835,1.0,explicit_platform_link,True,-0.9690196989463120923231309719
+9f409ed36176e961,Will the Fed Pause-Hike-Pause in the next three decisions (Oct-Dec-Jan)?,polymarket:5154352 | predict:2800837,1.0,explicit_platform_link,True,-2.060071035475795161104801148
+2dd93aa7e94c375e,Will the Fed decide differently in the next three decisions (Oct-Dec-Jan)?,polymarket:5154353 | predict:2800838,1.0,explicit_platform_link,True,0.2071061057228846604741764077
+dd6723512712a6a2,"Will Bitcoin reach $150,000 in October?",polymarket:5170727 | predict:2813849,1.0,explicit_platform_link,True,
+c64223aebc9f01c9,"Will Bitcoin reach $105,000 in October?",polymarket:5170728 | predict:2813852,1.0,explicit_platform_link,True,0
+64fcc0c24f024c84,"Will Bitcoin dip to $70,000 in October?",polymarket:5170742 | predict:2813874,1.0,explicit_platform_link,True,-1.226494518288741292783499695
+3ad67ce206710d8f,"Will Ethereum reach $4,500 in October?",polymarket:5170756 | predict:2813930,1.0,explicit_platform_link,True,0
+a4cfe472cfd95309,"Will Ethereum reach $3,600 in October?",polymarket:5170758 | predict:2813937,1.0,explicit_platform_link,True,-0.1319576551513489671094834053
+ad75cf5cc1d2d8c9,"Will Ethereum reach $3,500 in October?",polymarket:5170760 | predict:2813942,1.0,explicit_platform_link,True,-0.1947517039237439458102761199
+6d7bdd14f88b1e30,"Will Ethereum reach $3,200 in October?",polymarket:5170764 | predict:2813951,1.0,explicit_platform_link,True,-0.3033174081054533930910697513
+565ad19b4445a430,"Will Ethereum reach $2,900 in October?",polymarket:5170772 | predict:2813961,1.0,explicit_platform_link,True,0.1404776446184676676398124175
+377ef3ccdac16171,"Will Ethereum reach $2,800 in October?",polymarket:5170773 | predict:2813964,1.0,explicit_platform_link,True,0.4606569935720671732269547621
+61057038f9133f7c,"Will Ethereum dip to $2,300 in October?",polymarket:5170788 | predict:2813978,1.0,explicit_platform_link,True,4.641553590243688787976824740
+8792c342f44805a3,"Will Ethereum dip to $2,200 in October?",polymarket:5170789 | predict:2813980,1.0,explicit_platform_link,True,-1.067798929123338103455916855
+a2f89b40c241896c,"Will Ethereum dip to $2,100 in October?",polymarket:5170791 | predict:2813983,1.0,explicit_platform_link,True,-2.109947965848039752664887528
+40485f48141d508c,"Will Ethereum dip to $2,000 in October?",polymarket:5170792 | predict:2813984,1.0,explicit_platform_link,True,-1.685859043180333208399571134
+c0b6867c76185441,"Will Ethereum dip to $1,900 in October?",polymarket:5170793 | predict:2813985,1.0,explicit_platform_link,True,-0.7320770223259442071201752382
+0705ac0b61bcb747,"Will Ethereum dip to $1,800 in October?",polymarket:5170794 | predict:2813986,1.0,explicit_platform_link,True,-0.5756475775854788764465091692
+b61f0ca634b2c7d2,Will Solana reach $200 in October?,polymarket:5170795 | predict:2813929,1.0,explicit_platform_link,True,0
+e496bba36c6109a8,Will Solana reach $190 in October?,polymarket:5170796 | predict:2813932,1.0,explicit_platform_link,True,0
+37db015dae834bcb,Will Solana reach $180 in October?,polymarket:5170797 | predict:2813935,1.0,explicit_platform_link,True,-0.5033153682374340472737767150
+5693a834e59d6d03,Will Solana reach $170 in October?,polymarket:5170798 | predict:2813939,1.0,explicit_platform_link,True,-1.023674354938307492965071158
+d632cbf0be46516e,Will Solana reach $160 in October?,polymarket:5170799 | predict:2813943,1.0,explicit_platform_link,True,-0.6145961909365441780331467929
+85b2b9b87b5bc4b5,Will Solana reach $140 in October?,polymarket:5170801 | predict:2813949,1.0,explicit_platform_link,True,0
+6cf2f58613df82bb,Will Solana reach $130 in October?,polymarket:5170802 | predict:2813952,1.0,explicit_platform_link,True,0
+c46aaf4fc8c64880,Will Solana dip to $100 in October?,polymarket:5170805 | predict:2813959,1.0,explicit_platform_link,True,0.8789886380051072158484073634
+d312c2ba19cdb645,Will Solana dip to $90 in October?,polymarket:5170806 | predict:2813962,1.0,explicit_platform_link,True,-7.032344749729539948629655677
+235d0ed155e2cba8,Will Solana dip to $80 in October?,polymarket:5170807 | predict:2813966,1.0,explicit_platform_link,True,-2.420260000812006538410202905
+a57ce9de749a0727,Will Solana dip to $70 in October?,polymarket:5170808 | predict:2813969,1.0,explicit_platform_link,True,-13.88878757727477951268936733
+b292cb419d9744c0,Will Solana dip to $60 in October?,polymarket:5170809 | predict:2813972,1.0,explicit_platform_link,True,-18.28693903523035770418986994
+bee8cec80f934a70,Will Solana dip to $50 in October?,polymarket:5170810 | predict:2813976,1.0,explicit_platform_link,True,-18.36167032290902628827658012
+c89d71755d9f5ffb,Will Solana dip to $40 in October?,polymarket:5170811 | predict:2813979,1.0,explicit_platform_link,True,-13.82376401106145216820977476
+432a2050b3268775,Will Solana dip to $30 in October?,polymarket:5170812 | predict:2813981,1.0,explicit_platform_link,True,-13.77026787476845606866144130
+aefe17eea199c5c7,Will Solana dip to $20 in October?,polymarket:5170813 | predict:2813982,1.0,explicit_platform_link,True,-13.77026787476845606866144130
