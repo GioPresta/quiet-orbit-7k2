@@ -21,7 +21,8 @@ SERVICES = [
                    "--port", os.environ.get("PORT", "8765")]),
     ("tracker", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio.tracking", "--interval", "8"]),
     ("scanner", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio", "--budget", "100",
-                 "--pages", os.environ.get("SCAN_PAGES", "10"), "--reuse-catalog"]),
+                 "--pages", os.environ.get("SCAN_PAGES", "10"),
+                 "--predict-pages", os.environ.get("PREDICT_PAGES", "200"), "--reuse-catalog"]),
 ]
 processes = {}
 

@@ -13,6 +13,17 @@ Il servizio avvia dashboard, scanner e tracker nello stesso processo supervisor
 inattività. Per mantenerlo attivo servono richieste periodiche o un piano
 sempre attivo.
 
+Per il piano Free usa un monitor HTTP gratuito verso
+`https://IL_TUO_SERVIZIO.onrender.com/health` ogni 5 minuti. Il monitor evita
+lo spin-down dopo 15 minuti; Render concede 750 ore di istanza al mese, quindi
+un solo servizio 24/7 rientra nel limite (circa 720 ore). Non impostare ping
+più frequenti del necessario. Render può comunque sospendere servizi che
+generano troppo traffico in uscita.
+
+Il blueprint usa `SCAN_PAGES=5` e `PREDICT_PAGES=50` per stare sotto i 512 MB
+del piano Free. È una copertura ridotta rispetto al catalogo completo locale;
+per il catalogo completo serve un piano Render con più RAM.
+
 **Persistenza:** su Render free il filesystem è effimero. I CSV e il ledger
 vivono nel servizio e possono sparire a un riavvio o redeploy. Per conservare
 una settimana di dati senza perdite serve un persistent disk Render (a

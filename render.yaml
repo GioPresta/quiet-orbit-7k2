@@ -5,12 +5,16 @@ services:
     plan: free
     buildCommand: cp deploy/config.production.json config.json && pip install -r requirements.txt
     startCommand: python run_all.py
-    healthCheckPath: /
+    healthCheckPath: /health
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.9
       - key: SCAN_PAGES
-        value: "10"
+        value: "5"
+      - key: PREDICT_PAGES
+        value: "50"
+      - key: SUPABASE_SYNC_SECONDS
+        value: "300"
       - key: PREDICT_API_KEY
         sync: false
       - key: OPINION_API_KEY

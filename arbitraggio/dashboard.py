@@ -189,6 +189,7 @@ def make_handler(root=ROOT,token=None):
             if not self.allowed_host():return self.send(403,{'error':'Host non consentito'})
             route=urlparse(self.path).path
             if route=='/favicon.ico':return self.send(204,b'','image/x-icon')
+            if route=='/health':return self.send(200,{'ok':True})
             if route=='/api/state':
                 try:report=json.loads((root/'output/latest.json').read_text())
                 except (OSError,ValueError):report=dict(opportunities=[],timestamp=0,coverage={},platforms={},streams={})
