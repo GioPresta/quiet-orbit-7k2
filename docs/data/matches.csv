@@ -1,14 +1,15 @@
 match_id,name,markets,score,match_reason,rules_identical,screening_profit
 0f02053923a7c813,Will October be the best month for Bitcoin in 2026?,polymarket:1296003 | predict:2815582,1.0,explicit_platform_link,True,0.6235573099653935252768853829
+04d9950a2d9eb8d7,BTC Up or Down - 15 Min,limitless:btc-up-or-down-15-min-1792502100 | polymarket:5922725,1.0,explicit_platform_link,False,
 04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
 0a1c607da4c967bd,SPCX Daily Up or Down,limitless:spcx-daily-up-or-down-p-1792429546789 | polymarket:5920638,1.0,explicit_platform_link,True,
 0c99d71fe4d92264,DOGE Up or Down Hourly,limitless:doge-up-or-down-hourly-p-1792490722755 | polymarket:5878252,1.0,explicit_platform_link,True,
-0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
 be49105428c4e033,Will the Cleveland Browns win the 2027 NFL league championship?,polymarket:1357378 | predict:26938,1.0,explicit_platform_link,True,0.3123714657305512930342835392
+c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.1232013571157564049725663930
 7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,1.939749689036411438094993444
 3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.1171605822620203402488688430
 0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
@@ -17,85 +18,84 @@ fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nominatio
 ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
 6471feb59ef29034,Will Fenerbahçe SK win on 2026-10-20?,polymarket:5383472 | predict:3019976,1.0,explicit_platform_link,True,0.4874933765047374620766867349
 9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
-b28a022d18947870,Will a team from LCK (South Korea) win LoL Worlds 2026?,polymarket:1059066 | predict:935086,1.0,explicit_platform_link,True,0.4208171885749991731994601406
-f058692f813b7672,"Tesla and SpaceX merger officially announced by February 28, 2027?",polymarket:3585431 | predict:1390638,1.0,explicit_platform_link,True,0.6603967007749078402294998594
-80ffd6f5ca940b00,Will Amazon be the largest company in the world by market cap on December 31?,polymarket:676745 | predict:3276744,1.0,explicit_platform_link,True,
-032b0a61cbac5c44,Discord IPO before 2027?,polymarket:676777 | predict:32307,1.0,explicit_platform_link,False,-0.06700971310435542137743779505
-348789c3ec03ecbf,Stripe IPO before 2027?,polymarket:676778 | predict:32319,1.0,explicit_platform_link,False,-0.2534048385212819952917828306
-6ece1101891f7090,Databricks IPO before 2027?,polymarket:676796 | predict:32327,1.0,explicit_platform_link,False,-0.08201509570122554888347860410
-9d1b415d6bee0152,OpenAI acquired before 2027?,polymarket:676827 | predict:1849693,1.0,explicit_platform_link,True,-0.1911182981002730240082646407
-3af3372c2af65de4,Anthropic acquired before 2027?,polymarket:676846 | predict:1849692,1.0,explicit_platform_link,True,-0.09984025559105431309904153355
-595de0c1943d40ff,Will the 10-year Treasury yield hit 5.5% before 2027?,polymarket:677026 | predict:1849756,1.0,explicit_platform_link,False,-10.74709141184362002868655144
-9c035e3f60cc302b,Will the 10-year Treasury yield hit 5.7% before 2027?,polymarket:677027 | predict:1849757,1.0,explicit_platform_link,False,-6.011369821457043489035824711
-62adc32dd8c310b0,Will the 10-year Treasury yield hit 6.0% before 2027?,polymarket:677028 | predict:1849758,1.0,explicit_platform_link,False,-3.259075561221703235717328063
-7682cbc3df6c6ebd,Will the 10-year Treasury yield dip below 3.5% before 2027?,polymarket:677139 | predict:1849759,1.0,explicit_platform_link,False,-24.92623217094611472853299502
-d7008e122c0e423b,Will the 10-year Treasury yield dip below 3.0% before 2027?,polymarket:677140 | predict:1849760,1.0,explicit_platform_link,False,-24.81553765499552059424901018
-3414395ffb2e1529,Will the 10-year Treasury yield dip below 2.0% before 2027?,polymarket:677141 | predict:1849761,1.0,explicit_platform_link,False,-24.71527711942829498813856555
-c6764b04e32f7a47,Will the 10-year Treasury yield dip below 1.0% before 2027?,polymarket:677142 | predict:1849762,1.0,explicit_platform_link,False,-24.71565173864948742378986902
-ca0d4f7379323aba,Will the 10-year Treasury yield dip below 3.6% before 2027?,polymarket:677143 | predict:1849763,1.0,explicit_platform_link,False,-24.93818301014919600227056252
-c285616234d376b2,Will the 10-year Treasury yield dip below 3.7% before 2027?,polymarket:677144 | predict:1849764,1.0,explicit_platform_link,False,-24.91426873146948294946820926
-15d02be1adbba938,Will the 10-year Treasury yield dip below 3.8% before 2027?,polymarket:677145 | predict:1849765,1.0,explicit_platform_link,False,-0.7968039057924408077583157205
-36aa46f86594a07d,Will the 10-year Treasury yield dip below 3.9% before 2027?,polymarket:677146 | predict:1849767,1.0,explicit_platform_link,False,-1.468556396708848096833891847
-5aed3ebe11b762e4,Fed emergency rate cut before 2027?,polymarket:677147 | predict:1677372,1.0,explicit_platform_link,True,-0.1603885525813004042394867646
-8e75512dd2b241c0,Will 2026 be the hottest year on record?,polymarket:678686 | predict:970720,1.0,explicit_platform_link,True,0
-a942c641494d3bba,Will 2026 be the second-hottest year on record?,polymarket:678687 | predict:970721,1.0,explicit_platform_link,True,0
-9367d80513288584,Will 2026 be the third-hottest year on record?,polymarket:678688 | predict:970722,1.0,explicit_platform_link,True,-24.96167365126805633008054316
-24a5fb8b7c56c3e1,Will 2026 be the fourth-hottest year on record?,polymarket:678689 | predict:970723,1.0,explicit_platform_link,True,0
-4654a57cce1291f2,Will 2026 be the fifth-hottest year on record?,polymarket:678690 | predict:970724,1.0,explicit_platform_link,True,0
-ae0423aaaca8dad4,Will 2026 rank as the sixth-hottest year on record or lower?,polymarket:678691 | predict:970725,1.0,explicit_platform_link,True,
-491fbdeaae989804,Will Laurent Wauquiez win the 2027 French presidential election?,polymarket:679024 | predict:935584,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-34bc4f08f496d6d3,Will Fabien Roussel win the 2027 French presidential election?,polymarket:679032 | predict:935592,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-ab308c3544544ffc,Will Olivier Faure win the 2027 French presidential election?,polymarket:679033 | predict:935593,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-4ad382b584b63520,Will Ségolène Royal win the 2027 French presidential election?,polymarket:679035 | predict:935595,1.0,explicit_platform_link,True,-0.07507516693304475309165275697
-a4142c691c8d8091,Will François Asselineau win the 2027 French presidential election?,polymarket:679036 | predict:935596,1.0,explicit_platform_link,True,-0.07507516693304475309165275697
-349ab3928a296ec1,Will Clémentine Autain win the 2027 French presidential election?,polymarket:679037 | predict:935597,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-12a222d09033ebde,Will Nicolas Dupont-Aignan win the 2027 French presidential election?,polymarket:679038 | predict:935598,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-cd4a952bf149b833,Will Michel Barnier win the 2027 French presidential election?,polymarket:679039 | predict:935599,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-0ab58cce592a011d,Will Valérie Pécresse win the 2027 French presidential election?,polymarket:679040 | predict:935600,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-49955e67d7b23269,Will François Bayrou win the 2027 French presidential election?,polymarket:679041 | predict:935601,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-748f9a710cf997a0,Will Élisabeth Borne win the 2027 French presidential election?,polymarket:679042 | predict:935602,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-4e24342df9b6922e,Will Yaël Braun-Pivet win the 2027 French presidential election?,polymarket:679043 | predict:935603,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-1ee8f02cb0cfb6c4,Will Gérald Darmanin win the 2027 French presidential election?,polymarket:679045 | predict:935605,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-d711227f51c72081,Will Carole Delga win the 2027 French presidential election?,polymarket:679046 | predict:935606,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-81247558ee31ae89,Will Bernard Cazeneuve win the 2027 French presidential election?,polymarket:679047 | predict:935607,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-fa2de05aec3b2efe,Will Manuel Bompard win the 2027 French presidential election?,polymarket:679048 | predict:935608,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-1f59b696ff930b84,Will Mathilde Panot win the 2027 French presidential election?,polymarket:679049 | predict:935609,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-c404819956d2bd36,Will Juan Branco win the 2027 French presidential election?,polymarket:679052 | predict:935612,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-b09188672eb4ba45,Will Clémence Guetté win the 2027 French presidential election?,polymarket:679053 | predict:935613,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-5d5fae773c4ab0d4,Will Karim Bouamrane win the 2027 French presidential election?,polymarket:679055 | predict:935615,1.0,explicit_platform_link,True,-0.07507516693304475309165275697
-4196b6da55303189,Will Lucie Castets win the 2027 French presidential election?,polymarket:679056 | predict:935616,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-dfb9b7abef561f1e,Will Yannick Jadot win the 2027 French presidential election?,polymarket:679057 | predict:935617,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-dddf4486fdd16eae,Will François Baroin win the 2027 French presidential election?,polymarket:679058 | predict:935618,1.0,explicit_platform_link,True,-0.02307974103584905456153172328
-f2991c260f932610,Will Marion Maréchal win the 2027 French presidential election?,polymarket:679059 | predict:935619,1.0,explicit_platform_link,True,
-73cc8c84edc47ee0,StandX FDV above $5B one day after launch?,polymarket:680656 | predict:33523,1.0,explicit_platform_link,False,0
-1c8f024460f92f9b,StandX FDV above $10B one day after launch?,polymarket:680664 | predict:33525,1.0,explicit_platform_link,False,0
-86dc5a8fb637db55,"Will GMGN launch a token by December 31, 2026?",polymarket:688487 | predict:24793,1.0,explicit_platform_link,False,-0.01194902228206598848883554999
-3a4b4e632d5fe1b3,Will the Fed’s upper bound reach 5.0% or higher before 2027?,polymarket:690197 | predict:30523,1.0,explicit_platform_link,True,-0.893211142485230800040052096
-34a3b09579d953f2,Will the Fed’s upper bound reach 5.5% or higher before 2027?,polymarket:690198 | predict:30533,1.0,explicit_platform_link,True,0
-c8a70cb7b04dec98,Will the Fed’s upper bound reach 5.25% or higher before 2027?,polymarket:690199 | predict:30524,1.0,explicit_platform_link,True,-1.132570568454763811048839072
-89795255fa332e33,Will the Fed’s upper bound reach 4.5% or higher before 2027?,polymarket:690200 | predict:30534,1.0,explicit_platform_link,True,-7.260577593114003828357863351
-aef7431706073b87,Will the Fed’s upper bound reach 4.75% or higher before 2027?,polymarket:690201 | predict:30525,1.0,explicit_platform_link,True,-0.7528979786871794871794871787
-4873d90f3ff6326e,Will the Fed’s upper bound reach 4.25% or higher before 2027?,polymarket:690202 | predict:30535,1.0,explicit_platform_link,True,-2.061195465718105557940274554
-25bd7bf59b12bd7f,Will the Fed’s lower bound reach 2.0% or lower before 2027?,polymarket:690203 | predict:30526,1.0,explicit_platform_link,True,-11.58663262585163500756866857
-03c492b65d4b3970,Will the Fed’s lower bound reach 1.0% or lower before 2027?,polymarket:690204 | predict:30536,1.0,explicit_platform_link,True,-1.727880866394049121927522353
-7f204d7d16928920,Will the Fed’s lower bound reach 1.25% or lower before 2027?,polymarket:690205 | predict:30527,1.0,explicit_platform_link,True,-3.053178381481016649280974975
-d6ae14a03e8804d5,Will the Fed’s lower bound reach 1.5% or lower before 2027?,polymarket:690206 | predict:30537,1.0,explicit_platform_link,True,-15.28462306770408914699065910
-28e3a66fbbc30d27,Will the Fed’s lower bound reach 1.75% or lower before 2027?,polymarket:690207 | predict:30528,1.0,explicit_platform_link,True,-14.04825972016597554326409857
-e2ac8ed45c391758,Will the Fed’s lower bound reach 0.75% or lower before 2027?,polymarket:690208 | predict:30538,1.0,explicit_platform_link,True,-4.702862509407793463280030367
-520bed596c1b0caf,Will the Fed’s lower bound reach 0.5% or lower before 2027?,polymarket:690209 | predict:30529,1.0,explicit_platform_link,True,-0.6877475139985504564304184648
-0d1c1d8b71489b54,Will the Fed’s lower bound reach 0.25% or lower before 2027?,polymarket:690210 | predict:30539,1.0,explicit_platform_link,True,-11.49246604117744225250440152
-7c83160879f9b9f2,Will the Fed’s lower bound reach 0% or lower before 2027?,polymarket:690211 | predict:30530,1.0,explicit_platform_link,True,-1.584557028442426713130751054
-3f5418813006e2e0,Will the Fed’s lower bound reach 2.25% or lower before 2027?,polymarket:690212 | predict:30540,1.0,explicit_platform_link,True,-0.8573910385730245807636754672
-a5ebc1c5e28a5895,Will the Fed’s lower bound reach 2.5% or lower before 2027?,polymarket:690214 | predict:30542,1.0,explicit_platform_link,True,0.05555915603665284608482503856
-14a4069f21a36658,Will the Fed’s lower bound reach 2.75% or lower before 2027?,polymarket:690215 | predict:30541,1.0,explicit_platform_link,True,-0.6637188098664811472147323508
-1c7366396b13cb0c,Will the Fed’s lower bound reach 3.0% or lower before 2027?,polymarket:690220 | predict:30531,1.0,explicit_platform_link,True,0.3413880242637930206886563306
-0eff1071fdbda34f,Will the Fed’s lower bound reach 3.25% or lower before 2027?,polymarket:690221 | predict:30532,1.0,explicit_platform_link,True,-1.511346804337055447683755590
-df36a9fd0d4cacbf,Hyperbeat FDV above $50M one day after launch?,polymarket:690590 | predict:26426,1.0,explicit_platform_link,False,0.6421762894999442560087338764
-ed3ab735f152f0f8,Hyperbeat FDV above $100M one day after launch?,polymarket:690591 | predict:26429,1.0,explicit_platform_link,False,0.2522473500977129905582267420
-8a2b6d76c5fd9460,Hyperbeat FDV above $200M one day after launch?,polymarket:690592 | predict:26427,1.0,explicit_platform_link,False,0.3128279041077025461576567548
-e07e2cef61c776b4,Hyperbeat FDV above $300M one day after launch?,polymarket:690593 | predict:26430,1.0,explicit_platform_link,False,0
-ee36a6c3b47338f0,Hyperbeat FDV above $400M one day after launch?,polymarket:690594 | predict:26428,1.0,explicit_platform_link,False,0
-6033eac948dee2b1,"Will Ostium launch a token by December 31, 2026?",polymarket:690631 | predict:21259,1.0,explicit_platform_link,False,0
-e1a5d505ecf1ae09,"Will prjx launch a token by December 31, 2026?",polymarket:690660 | predict:21692,1.0,explicit_platform_link,False,-0.6345167187846205550250146365
-fcbd5241e7f1599a,Will Arc launch a token by December 31 2026?,polymarket:690675 | predict:25163,1.0,explicit_platform_link,False,-0.2351623387932421560740144836
-6034ae6b40665187,Will Pacifica launch a token by December 31 2026?,polymarket:690692 | predict:13782,1.0,explicit_platform_link,False,-0.9887683167968504722148667086
+92b7a832101ec357,"Next Fable Model (5.2+) released by October 24, 2026?",polymarket:5205159 | predict:2846815,1.0,explicit_platform_link,True,0.07288915880180549856380796014
+0e7ac38267c3d02a,Will the Grand Theft Auto VI PS5 launch price be at least $60?,polymarket:2608708 | predict:530769,1.0,explicit_platform_link,True,0
+05bf5b0f5ccf794c,Will the Grand Theft Auto VI PS5 launch price be at least $70?,polymarket:2608709 | predict:530770,1.0,explicit_platform_link,True,-0.2823409109850237096539795685
+fac2d8dc26f7e03a,Will 1 Fed rate hike happen in 2026?,polymarket:2657589 | predict:567449,1.0,explicit_platform_link,True,-1.126311031293713769111888916
+c32ae516b72b8c43,Will 2 Fed rate hikes happen in 2026?,polymarket:2657590 | predict:567450,1.0,explicit_platform_link,True,-0.8775266246468159095848728486
+d4056bd39345fd07,Will 4 Fed rate hikes happen in 2026?,polymarket:2657592 | predict:567447,1.0,explicit_platform_link,True,-4.370652084273432476291692782
+d371bfd1bc9e53ba,Will 5 or more Fed rate hikes happen in 2026?,polymarket:2657593 | predict:567448,1.0,explicit_platform_link,True,-2.359156369587688176558341699
+4e9835dae57eddc4,Will the Denver Nuggets be the 2027 NBA Western Conference Champion?,polymarket:2668729 | predict:936413,1.0,explicit_platform_link,True,0
+887181afb78697b0,Will the Minnesota Timberwolves be the 2027 NBA Western Conference Champion?,polymarket:2668730 | predict:936414,1.0,explicit_platform_link,True,0
+5a1a6570d950f8be,Will the Oklahoma City Thunder be the 2027 NBA Western Conference Champion?,polymarket:2668731 | predict:936415,1.0,explicit_platform_link,True,-0.7415372784972221367459454302
+f0c71d9fad3a6ed4,Will the Portland Trail Blazers be the 2027 NBA Western Conference Champion?,polymarket:2668732 | predict:936416,1.0,explicit_platform_link,True,-24.81388171307826509748879021
+8477c6148a573240,Will the Utah Jazz be the 2027 NBA Western Conference Champion?,polymarket:2668733 | predict:936417,1.0,explicit_platform_link,True,-24.76414992709528526430289425
+cc000dfe4088233b,Will the Golden State Warriors be the 2027 NBA Western Conference Champion?,polymarket:2668734 | predict:936418,1.0,explicit_platform_link,True,-24.71468760000301809014891949
+80924041621d5b35,Will the LA Clippers be the 2027 NBA Western Conference Champion?,polymarket:2668735 | predict:936419,1.0,explicit_platform_link,True,-24.87494956348222435959644048
+212356aa7c78f909,Will the Los Angeles Lakers be the 2027 NBA Western Conference Champion?,polymarket:2668736 | predict:936420,1.0,explicit_platform_link,True,-2.517113538676312804893556245
+db335c0dbf587619,Will the Phoenix Suns be the 2027 NBA Western Conference Champion?,polymarket:2668737 | predict:936421,1.0,explicit_platform_link,True,-24.85041674471185762470014412
+04b971201e573338,Will the Sacramento Kings be the 2027 NBA Western Conference Champion?,polymarket:2668738 | predict:936422,1.0,explicit_platform_link,True,-24.82558827555237144556256770
+981ed18114371a36,Will the Dallas Mavericks be the 2027 NBA Western Conference Champion?,polymarket:2668739 | predict:936423,1.0,explicit_platform_link,True,-24.75177478887056380952010391
+ac878f0dbfae3288,Will the Houston Rockets be the 2027 NBA Western Conference Champion?,polymarket:2668740 | predict:936424,1.0,explicit_platform_link,True,0
+b3282668f0c03d69,Will the Memphis Grizzlies be the 2027 NBA Western Conference Champion?,polymarket:2668741 | predict:936425,1.0,explicit_platform_link,True,-24.86244106596349010304496637
+ff160fdf11925566,Will the San Antonio Spurs be the 2027 NBA Western Conference Champion?,polymarket:2668743 | predict:936427,1.0,explicit_platform_link,True,-0.355607343192248852626211120
+88c2fb8a320b795d,Will AJ Dybantsa win the 2026-27 NBA Rookie of the Year?,polymarket:2668796 | predict:942144,1.0,explicit_platform_link,True,-0.3946192053352328334353645533
+de04991b363af468,Will Darryn Peterson win the 2026-27 NBA Rookie of the Year?,polymarket:2668797 | predict:942145,1.0,explicit_platform_link,True,0.4297784932564801365190880434
+7eaf0f437f831ab6,Will Cameron Boozer win the 2026-27 NBA Rookie of the Year?,polymarket:2668798 | predict:942146,1.0,explicit_platform_link,True,-0.5996867752722035324715718003
+b8b189545ae00ad5,Will Caleb Wilson win the 2026-27 NBA Rookie of the Year?,polymarket:2668799 | predict:942147,1.0,explicit_platform_link,True,-0.8549244038186502024993811506
+6f376d038b0427f3,Will Keaton Wagler win the 2026-27 NBA Rookie of the Year?,polymarket:2668800 | predict:942148,1.0,explicit_platform_link,True,-21.86806475081922531128539822
+d328276c71716152,Will Mikel Brown Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668801 | predict:942149,1.0,explicit_platform_link,True,-23.35305412238901466777959815
+33f019deedd311e7,Will Darius Acuff Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668802 | predict:942150,1.0,explicit_platform_link,True,-3.777461173679570785194691032
+790f282d4a1763ca,Will Kingston Flemings win the 2026-27 NBA Rookie of the Year?,polymarket:2668803 | predict:942151,1.0,explicit_platform_link,True,-21.88280380238190571124057088
+92d7f17527c4ca7d,Will Morez Johnson Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668804 | predict:942152,1.0,explicit_platform_link,True,-23.47654612849086785991303739
+0b7c68ed346d582c,Will Brayden Burries win the 2026-27 NBA Rookie of the Year?,polymarket:2668805 | predict:942153,1.0,explicit_platform_link,True,-23.40781464069835584800874845
+2f98521a3292de1c,Will Yaxel Lendeborg win the 2026-27 NBA Rookie of the Year?,polymarket:2668806 | predict:942154,1.0,explicit_platform_link,True,-22.77451588068058589576524144
+ca188224c6c43741,Will Aday Mara win the 2026-27 NBA Rookie of the Year?,polymarket:2668807 | predict:942155,1.0,explicit_platform_link,True,-21.72816414622870067957608840
+27f9894f968b89af,Will Nate Ament win the 2026-27 NBA Rookie of the Year?,polymarket:2668808 | predict:942156,1.0,explicit_platform_link,True,0
+820a784c388ad998,Will Hannes Steinbach win the 2026-27 NBA Rookie of the Year?,polymarket:2668809 | predict:942157,1.0,explicit_platform_link,True,-0.02388743916211368368966866588
+2c1a03a615a622ba,Will Dailyn Swain win the 2026-27 NBA Rookie of the Year?,polymarket:2668810 | predict:942158,1.0,explicit_platform_link,True,
+dce9f5879f33b22b,Will Bennett Stirtz win the 2026-27 NBA Rookie of the Year?,polymarket:2668811 | predict:942159,1.0,explicit_platform_link,True,-23.57289234771900513946881221
+30dcfd96af8a3755,Will Ebuka Okorie win the 2026-27 NBA Rookie of the Year?,polymarket:2668812 | predict:942160,1.0,explicit_platform_link,True,-23.42153453044896016774214159
+5d65fcf399048179,Will Christian Anderson win the 2026-27 NBA Rookie of the Year?,polymarket:2668813 | predict:942161,1.0,explicit_platform_link,True,-23.50410544758676208027345323
+cdb2bd5f31a8e70a,Will Allen Graves win the 2026-27 NBA Rookie of the Year?,polymarket:2668814 | predict:942162,1.0,explicit_platform_link,True,-23.54561399836589073909303816
+afd0e89b01d41a78,Will Jayden Quaintance win the 2026-27 NBA Rookie of the Year?,polymarket:2668815 | predict:942163,1.0,explicit_platform_link,True,-23.53160755484945228025697851
+b489551004ed7c72,Will Karim López win the 2026-27 NBA Rookie of the Year?,polymarket:2668816 | predict:942164,1.0,explicit_platform_link,True,-23.53160755484945228025697851
+6f622bf4011a6027,Will Labaron Philon Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668817 | predict:942165,1.0,explicit_platform_link,True,-23.46288462933759398978823535
+d10e8ef52914a738,Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?,polymarket:2668818 | predict:942166,1.0,explicit_platform_link,True,-23.46288462933759398978823535
+d2f02bc949b0580e,Will Cameron Carr win the 2026-27 NBA Rookie of the Year?,polymarket:2668819 | predict:942167,1.0,explicit_platform_link,True,-23.55905262824777031738944034
+97a5bf70318f63b2,Will Sergio De Larrea win the 2026-27 NBA Rookie of the Year?,polymarket:2668820 | predict:942168,1.0,explicit_platform_link,True,-23.43523944833549428426817030
+446d47fa5918d19c,Will Tarris Reed Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668821 | predict:942169,1.0,explicit_platform_link,True,-23.47654612849086785991303739
+538514f4522f6dc1,Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?,polymarket:2668822 | predict:942170,1.0,explicit_platform_link,True,-21.96009825519764509760372174
+5c3951c01a8ccfe7,Will Joshua Jefferson win the 2026-27 NBA Rookie of the Year?,polymarket:2668823 | predict:942171,1.0,explicit_platform_link,True,-23.44892941885172003366658179
+deaa8de544898729,Will Alex Karaban win the 2026-27 NBA Rookie of the Year?,polymarket:2668824 | predict:942172,1.0,explicit_platform_link,True,-23.49033295066992613087849788
+5f8a8be7c42844aa,Will Koa Peat win the 2026-27 NBA Rookie of the Year?,polymarket:2668825 | predict:942173,1.0,explicit_platform_link,True,-23.49033295066992613087849788
+b7d58439e71d84a7,Will Gavin McKenna win the 2026-27 Calder Trophy?,polymarket:2683278 | predict:587888,1.0,explicit_platform_link,True,-0.8464297631019323177589203382
+4d480e8af2f39d2a,Will Ivar Stenberg win the 2026-27 Calder Trophy?,polymarket:2683279 | predict:587841,1.0,explicit_platform_link,True,0.4373941851065586154155264151
+9124690320117474,Will Chase Reid win the 2026-27 Calder Trophy?,polymarket:2683280 | predict:587861,1.0,explicit_platform_link,True,-21.10263185301015551905404445
+69125fcbe8f3d8de,Will Caleb Malhotra win the 2026-27 Calder Trophy?,polymarket:2683281 | predict:587892,1.0,explicit_platform_link,True,-20.93812554472036801455317792
+928afeb5f827b6c8,Will Carson Carels win the 2026-27 Calder Trophy?,polymarket:2683282 | predict:587875,1.0,explicit_platform_link,True,-21.13468698057406682131237116
+a36b700bfb7cc81d,Will Viggo Björck win the 2026-27 Calder Trophy?,polymarket:2683283 | predict:587889,1.0,explicit_platform_link,True,-20.85636615811841715473902252
+03cf720cecff2478,Will Keaton Verhoeff win the 2026-27 Calder Trophy?,polymarket:2683284 | predict:587842,1.0,explicit_platform_link,True,
+27e9fb2e9d05fd06,Will Alberts Smits win the 2026-27 Calder Trophy?,polymarket:2683285 | predict:587862,1.0,explicit_platform_link,True,-21.00372600624963499076413223
+026638e6e572f6c3,Will Tynan Lawrence win the 2026-27 Calder Trophy?,polymarket:2683286 | predict:587893,1.0,explicit_platform_link,True,
+f958c1266529bdee,Will Daxon Rudolph win the 2026-27 Calder Trophy?,polymarket:2683287 | predict:587876,1.0,explicit_platform_link,True,
+53cdf91b6ff3866e,Will Ethan Belchetz win the 2026-27 Calder Trophy?,polymarket:2683288 | predict:587890,1.0,explicit_platform_link,True,-20.98820583243731366197187426
+c2c2b7f7d7bd6af5,Will Malte Gustafsson win the 2026-27 Calder Trophy?,polymarket:2683289 | predict:587843,1.0,explicit_platform_link,True,-21.08559148336204861294698559
+da1fcbd853d135e3,Will Wyatt Cullen win the 2026-27 Calder Trophy?,polymarket:2683290 | predict:587844,1.0,explicit_platform_link,True,-21.13468698057406682131237116
+2f899e1deab9469d,Will Ryan Lin win the 2026-27 Calder Trophy?,polymarket:2683291 | predict:587894,1.0,explicit_platform_link,True,-21.20037949412679605994488889
+dfba400040e1e2bb,Will Alexander Command win the 2026-27 Calder Trophy?,polymarket:2683292 | predict:587877,1.0,explicit_platform_link,True,-21.11834035025425437997539177
+d6311adf47f7d0d6,Will Nikita Klepov win the 2026-27 Calder Trophy?,polymarket:2683293 | predict:587891,1.0,explicit_platform_link,True,
+569e7c7a51c6953d,Will Oscar Hemming win the 2026-27 Calder Trophy?,polymarket:2683294 | predict:587845,1.0,explicit_platform_link,True,
+81cbad77d962ae65,Will Oliver Suvanto win the 2026-27 Calder Trophy?,polymarket:2683295 | predict:587863,1.0,explicit_platform_link,True,
+2fd47b7525960154,Will Xavier Villeneuve win the 2026-27 Calder Trophy?,polymarket:2683296 | predict:587901,1.0,explicit_platform_link,True,-21.08559148336204861294698559
+79b04520d6af63fd,Will Adam Novotný win the 2026-27 Calder Trophy?,polymarket:2683297 | predict:587878,1.0,explicit_platform_link,True,
+5a93c8afd77f6c73,Will Elton Hermansson win the 2026-27 Calder Trophy?,polymarket:2683298 | predict:587902,1.0,explicit_platform_link,True,
+4714741e7098f810,Will JP Hurlbert win the 2026-27 Calder Trophy?,polymarket:2683299 | predict:587846,1.0,explicit_platform_link,True,
+2d39c6cf8e600786,Will Ilya Morozov win the 2026-27 Calder Trophy?,polymarket:2683300 | predict:587864,1.0,explicit_platform_link,True,
+d92d8b99fb47a61c,Will Maddox Dagenais win the 2026-27 Calder Trophy?,polymarket:2683301 | predict:587903,1.0,explicit_platform_link,True,-21.13485223210811061449368483
+88630ec224d846eb,Will Liam Ruck win the 2026-27 Calder Trophy?,polymarket:2683302 | predict:587895,1.0,explicit_platform_link,True,
+6aa213dea96aa2cd,Will Tommy Bleyl win the 2026-27 Calder Trophy?,polymarket:2683303 | predict:587847,1.0,explicit_platform_link,True,-20.92106121443849421505193560
+50a54e4d4f6af859,Will Mathis Preston win the 2026-27 Calder Trophy?,polymarket:2683304 | predict:587904,1.0,explicit_platform_link,True,
+5f9b9d4472ee494a,Will Marcus Nordmark win the 2026-27 Calder Trophy?,polymarket:2683305 | predict:587848,1.0,explicit_platform_link,True,
+b0161aeb8705cb90,Will Markus Ruck win the 2026-27 Calder Trophy?,polymarket:2683306 | predict:587896,1.0,explicit_platform_link,True,
+fcc19791ed40a49d,Will William Hakansson win the 2026-27 Calder Trophy?,polymarket:2683307 | predict:587849,1.0,explicit_platform_link,True,
