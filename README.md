@@ -254,3 +254,5 @@ Oltre a `opportunities-latest.csv`, ogni ciclo produce:
 Il risultato JSON include inoltre `max_feasible_budget`: il budget più alto della scala che resta eseguibile e profittevole. I volumi specifici della singola risposta non sono esposti da tutte le API: quando mancano restano vuoti, mentre la profondità del book è sempre quella osservata per quel lato. Questi dati servono a distinguere un opportunità solo teorica da una realmente assorbibile.
 
 Per l’esecuzione continua senza PC acceso, vedi [deploy/README.md](deploy/README.md): Vercel non è adatto a un processo persistente con WebSocket; la configurazione pronta usa una VM Oracle Cloud Always Free con systemd, senza Docker.
+
+Con il PC acceso, `./sync.sh` avvia un sincronizzatore locale: ogni 3 minuti confronta l’orario dell’ultimo snapshot con GitHub e, se il locale ha opportunità più fresche, rigenera `docs/` e fa push. Quando il PC è spento, il workflow GitHub continua a usare l’ultimo snapshot non vuoto come fallback.
