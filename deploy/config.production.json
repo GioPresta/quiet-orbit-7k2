@@ -25,5 +25,5 @@
   "fees": {},
   "balances": {},
   "groups": [],
-  "priority_pairs": []
+  "priority_pairs": [["polymarket:1296003", "predict:2815582"]]
 }
