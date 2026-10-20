@@ -2,8 +2,8 @@ match_id,name,markets,score,match_reason,rules_identical,screening_profit
 0f02053923a7c813,Will October be the best month for Bitcoin in 2026?,polymarket:1296003 | predict:2815582,1.0,explicit_platform_link,True,0.6235573099653935252768853829
 04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
 0a1c607da4c967bd,SPCX Daily Up or Down,limitless:spcx-daily-up-or-down-p-1792429546789 | polymarket:5920638,1.0,explicit_platform_link,True,
+0c99d71fe4d92264,DOGE Up or Down Hourly,limitless:doge-up-or-down-hourly-p-1792490722755 | polymarket:5878252,1.0,explicit_platform_link,True,
 0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
-11cd37cc7972d507,US Government removes public access to another Anthropic AI model in 2026?,limitless:us-government-removes-public-access-to-another-anthropic-ai-model-in-2-1790774745313 | polymarket:2787891,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
@@ -17,85 +17,85 @@ fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nominatio
 ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
 6471feb59ef29034,Will Fenerbahçe SK win on 2026-10-20?,polymarket:5383472 | predict:3019976,1.0,explicit_platform_link,True,0.4874933765047374620766867349
 9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
-043ca3adb53894bf,Tesla and SpaceX merger officially announced by December 31?,polymarket:2252540 | predict:1283446,1.0,explicit_platform_link,True,1.544285942406983552456485869
 b28a022d18947870,Will a team from LCK (South Korea) win LoL Worlds 2026?,polymarket:1059066 | predict:935086,1.0,explicit_platform_link,True,0.4208171885749991731994601406
-baa65e7ad1da1caf,Exact Score: FC Dallas 3 - 2 San Jose Earthquakes?,polymarket:5565751 | predict:3196883,1.0,explicit_platform_link,True,
-a079dea725e799fc,Exact Score: FC Dallas 4 - 1 San Jose Earthquakes?,polymarket:5565752 | predict:3196884,1.0,explicit_platform_link,True,
-15f93c8472247e0d,Exact Score: FC Dallas 5 - 0 San Jose Earthquakes?,polymarket:5565753 | predict:3196886,1.0,explicit_platform_link,True,
-d39fa291a5ba15d6,Exact Score: FC Dallas 1 - 5 San Jose Earthquakes?,polymarket:5565754 | predict:3196887,1.0,explicit_platform_link,True,
-a2ecb4bd316ff1fb,Exact Score: FC Dallas 2 - 4 San Jose Earthquakes?,polymarket:5565755 | predict:3196890,1.0,explicit_platform_link,True,
-0944291d23a57dfd,Exact Score: FC Dallas 3 - 3 San Jose Earthquakes?,polymarket:5565756 | predict:3196891,1.0,explicit_platform_link,True,
-2d2902713c90a67b,Exact Score: FC Dallas 4 - 2 San Jose Earthquakes?,polymarket:5565757 | predict:3196892,1.0,explicit_platform_link,True,
-a3e746bfd74e5615,Exact Score: FC Dallas 5 - 1 San Jose Earthquakes?,polymarket:5565758 | predict:3196893,1.0,explicit_platform_link,True,
-b29282367fd46aaa,Exact Score: FC Dallas 2 - 5 San Jose Earthquakes?,polymarket:5565759 | predict:3196894,1.0,explicit_platform_link,True,
-33bf3cf3751a3dc3,Exact Score: FC Dallas 3 - 4 San Jose Earthquakes?,polymarket:5565760 | predict:3196895,1.0,explicit_platform_link,True,
-7ed30114b30b9eac,Exact Score: FC Dallas 4 - 3 San Jose Earthquakes?,polymarket:5565761 | predict:3196896,1.0,explicit_platform_link,True,
-3471546a1f419747,Exact Score: FC Dallas 5 - 2 San Jose Earthquakes?,polymarket:5565762 | predict:3196897,1.0,explicit_platform_link,True,
-a86b41e149c92cbb,Exact Score: FC Dallas 3 - 5 San Jose Earthquakes?,polymarket:5565763 | predict:3196898,1.0,explicit_platform_link,True,
-55abd6ce0e9830b9,Exact Score: FC Dallas 4 - 4 San Jose Earthquakes?,polymarket:5565764 | predict:3196899,1.0,explicit_platform_link,True,
-fb51ad092a83def2,Exact Score: FC Dallas 5 - 3 San Jose Earthquakes?,polymarket:5565765 | predict:3196900,1.0,explicit_platform_link,True,
-23463e4fd66acd70,Exact Score: FC Dallas 4 - 5 San Jose Earthquakes?,polymarket:5565766 | predict:3196901,1.0,explicit_platform_link,True,
-d111cc1de0c24c3a,Exact Score: FC Dallas 5 - 4 San Jose Earthquakes?,polymarket:5565767 | predict:3196902,1.0,explicit_platform_link,True,
-2309d0a16c8274bb,Exact Score: FC Dallas 5 - 5 San Jose Earthquakes?,polymarket:5565768 | predict:3196903,1.0,explicit_platform_link,True,
-40b11e5ba64a1208,Exact Score: Any Other Score?,polymarket:5565769 | predict:3196904,1.0,explicit_platform_link,True,
-b77c360c534aee81,FC Dallas to score first vs. San Jose Earthquakes?,polymarket:5565770 | predict:3197008,1.0,explicit_platform_link,True,
-c6fd5867acc9e346,San Jose Earthquakes to score first vs. FC Dallas?,polymarket:5565771 | predict:3197009,1.0,explicit_platform_link,True,
-b3220e7b9eaf81e3,FC Dallas vs. San Jose Earthquakes: Neither team to score first?,polymarket:5565772 | predict:3197010,1.0,explicit_platform_link,True,
-8d0cd87dce7a1b7e,Will Houston Dynamo win on 2026-10-24?,polymarket:5565773 | predict:3196413,1.0,explicit_platform_link,True,-2.025208916164218351644986591
-b8e1f1efd94508b3,Will Houston Dynamo vs. Minnesota United FC end in a draw?,polymarket:5565774 | predict:3196417,1.0,explicit_platform_link,True,-1.720795935605310581812986693
-a638decfc34f1a03,Will Minnesota United FC win on 2026-10-24?,polymarket:5565775 | predict:3196421,1.0,explicit_platform_link,True,-1.299551887716938838270219499
-b397aa29b4ea8460,Houston Dynamo leading at halftime?,polymarket:5565776 | predict:3196509,1.0,explicit_platform_link,True,-5.646253702439024390243902437
-cb95eaf3067b1f82,Houston Dynamo vs. Minnesota United FC: Draw at halftime?,polymarket:5565777 | predict:3196510,1.0,explicit_platform_link,True,-6.248189230871115639327559855
-a27fcc8c1e37e9d8,Minnesota United FC leading at halftime?,polymarket:5565778 | predict:3196511,1.0,explicit_platform_link,True,-7.370528720479284143803302060
-f6b45547c9272293,Houston Dynamo to win the second half?,polymarket:5565779 | predict:3196785,1.0,explicit_platform_link,True,-16.06910919463078355688796555
-a6e533f96f8199c2,Houston Dynamo vs. Minnesota United FC: Second half draw?,polymarket:5565780 | predict:3196786,1.0,explicit_platform_link,True,-21.11299686559716499388955788
-b1e5bce587a9d8e6,Minnesota United FC to win the second half?,polymarket:5565781 | predict:3196787,1.0,explicit_platform_link,True,-22.35571769848789343671248232
-b35793498714b822,Exact Score: Houston Dynamo 0 - 0 Minnesota United FC?,polymarket:5565782 | predict:3196791,1.0,explicit_platform_link,True,
-946cd9b199f4f9bf,Exact Score: Houston Dynamo 0 - 1 Minnesota United FC?,polymarket:5565783 | predict:3196792,1.0,explicit_platform_link,True,
-77d59d7894052b51,Exact Score: Houston Dynamo 1 - 0 Minnesota United FC?,polymarket:5565784 | predict:3196793,1.0,explicit_platform_link,True,
-d9f7edc043b14a8b,Exact Score: Houston Dynamo 0 - 2 Minnesota United FC?,polymarket:5565785 | predict:3196794,1.0,explicit_platform_link,True,
-5a3cad419b826ca8,Exact Score: Houston Dynamo 1 - 1 Minnesota United FC?,polymarket:5565786 | predict:3196795,1.0,explicit_platform_link,True,-24.87830261180763593740992832
-1a87b16394c5f2a1,Exact Score: Houston Dynamo 2 - 0 Minnesota United FC?,polymarket:5565787 | predict:3196796,1.0,explicit_platform_link,True,
-763d43b011776fb0,Exact Score: Houston Dynamo 0 - 3 Minnesota United FC?,polymarket:5565788 | predict:3196797,1.0,explicit_platform_link,True,
-33c9cf6a993316f5,Exact Score: Houston Dynamo 1 - 2 Minnesota United FC?,polymarket:5565789 | predict:3196798,1.0,explicit_platform_link,True,
-7b79a5e68a428212,Exact Score: Houston Dynamo 2 - 1 Minnesota United FC?,polymarket:5565790 | predict:3196799,1.0,explicit_platform_link,True,-24.87830261180763593740992832
-964c98cf9e35713f,Exact Score: Houston Dynamo 3 - 0 Minnesota United FC?,polymarket:5565791 | predict:3196800,1.0,explicit_platform_link,True,
-e1cec58f75b819be,Exact Score: Houston Dynamo 0 - 4 Minnesota United FC?,polymarket:5565792 | predict:3196801,1.0,explicit_platform_link,True,
-aa0ee24a1e6a1776,Exact Score: Houston Dynamo 1 - 3 Minnesota United FC?,polymarket:5565793 | predict:3196802,1.0,explicit_platform_link,True,
-afdca5245a286353,Exact Score: Houston Dynamo 2 - 2 Minnesota United FC?,polymarket:5565794 | predict:3196803,1.0,explicit_platform_link,True,-24.87830261180763593740992832
-1f51171caca077dd,Exact Score: Houston Dynamo 3 - 1 Minnesota United FC?,polymarket:5565795 | predict:3196804,1.0,explicit_platform_link,True,
-cb92c8e2f8bcf469,Exact Score: Houston Dynamo 4 - 0 Minnesota United FC?,polymarket:5565796 | predict:3196805,1.0,explicit_platform_link,True,
-2fcc1aef76d50ff6,Exact Score: Houston Dynamo 0 - 5 Minnesota United FC?,polymarket:5565797 | predict:3196806,1.0,explicit_platform_link,True,
-3632c83bc220f51e,Exact Score: Houston Dynamo 1 - 4 Minnesota United FC?,polymarket:5565798 | predict:3196807,1.0,explicit_platform_link,True,
-32c8a9e3e313350f,Exact Score: Houston Dynamo 2 - 3 Minnesota United FC?,polymarket:5565799 | predict:3196808,1.0,explicit_platform_link,True,
-b5ff31ddaeed31d5,Exact Score: Houston Dynamo 3 - 2 Minnesota United FC?,polymarket:5565800 | predict:3196809,1.0,explicit_platform_link,True,
-9f00a95d5ccec248,Exact Score: Houston Dynamo 4 - 1 Minnesota United FC?,polymarket:5565801 | predict:3196810,1.0,explicit_platform_link,True,
-3ad5c302addbc6dd,Exact Score: Houston Dynamo 5 - 0 Minnesota United FC?,polymarket:5565802 | predict:3196811,1.0,explicit_platform_link,True,
-7169f9e9e450f40f,Exact Score: Houston Dynamo 1 - 5 Minnesota United FC?,polymarket:5565803 | predict:3196812,1.0,explicit_platform_link,True,
-df07ead78ad26227,Exact Score: Houston Dynamo 2 - 4 Minnesota United FC?,polymarket:5565804 | predict:3196813,1.0,explicit_platform_link,True,
-2176bf19aef2e0c8,Exact Score: Houston Dynamo 3 - 3 Minnesota United FC?,polymarket:5565805 | predict:3196814,1.0,explicit_platform_link,True,
-b23213ff0141a7e7,Exact Score: Houston Dynamo 4 - 2 Minnesota United FC?,polymarket:5565806 | predict:3196815,1.0,explicit_platform_link,True,
-d56872a6f65e96a4,Exact Score: Houston Dynamo 5 - 1 Minnesota United FC?,polymarket:5565807 | predict:3196816,1.0,explicit_platform_link,True,
-585213747be4b5a7,Exact Score: Houston Dynamo 2 - 5 Minnesota United FC?,polymarket:5565808 | predict:3196817,1.0,explicit_platform_link,True,
-aa502dd1482d9d43,Exact Score: Houston Dynamo 3 - 4 Minnesota United FC?,polymarket:5565809 | predict:3196818,1.0,explicit_platform_link,True,
-df76afd851b95676,Exact Score: Houston Dynamo 4 - 3 Minnesota United FC?,polymarket:5565810 | predict:3196820,1.0,explicit_platform_link,True,
-95a2fdbc43f4a047,Exact Score: Houston Dynamo 5 - 2 Minnesota United FC?,polymarket:5565811 | predict:3196822,1.0,explicit_platform_link,True,
-4829745fb6296e23,Exact Score: Houston Dynamo 3 - 5 Minnesota United FC?,polymarket:5565812 | predict:3196824,1.0,explicit_platform_link,True,
-e1595415e79186b1,Exact Score: Houston Dynamo 4 - 4 Minnesota United FC?,polymarket:5565813 | predict:3196826,1.0,explicit_platform_link,True,
-a898c4b7b1d85216,Exact Score: Houston Dynamo 5 - 3 Minnesota United FC?,polymarket:5565814 | predict:3196828,1.0,explicit_platform_link,True,
-4c8dbd1a24ff1997,Exact Score: Houston Dynamo 4 - 5 Minnesota United FC?,polymarket:5565815 | predict:3196831,1.0,explicit_platform_link,True,
-f9aaf8a86e4faad6,Exact Score: Houston Dynamo 5 - 4 Minnesota United FC?,polymarket:5565816 | predict:3196833,1.0,explicit_platform_link,True,
-48172e198b2c3ad7,Exact Score: Houston Dynamo 5 - 5 Minnesota United FC?,polymarket:5565817 | predict:3196835,1.0,explicit_platform_link,True,
-4b4aa3b3792a5fcf,Exact Score: Any Other Score?,polymarket:5565818 | predict:3196838,1.0,explicit_platform_link,True,
-cfcddddc6c8dbdc5,Houston Dynamo to score first vs. Minnesota United FC?,polymarket:5565819 | predict:3196411,1.0,explicit_platform_link,True,
-e60e0cf2af7395b2,Minnesota United FC to score first vs. Houston Dynamo?,polymarket:5565820 | predict:3196415,1.0,explicit_platform_link,True,
-e8d776e3188f9863,Houston Dynamo vs. Minnesota United FC: Neither team to score first?,polymarket:5565821 | predict:3196419,1.0,explicit_platform_link,True,
-2ac9e306221dfa56,Will Colorado Rapids SC win on 2026-10-24?,polymarket:5565822 | predict:3196651,1.0,explicit_platform_link,True,-2.698366259997788507611219629
-d76e0be994e8a6d5,Will Colorado Rapids SC vs. Vancouver Whitecaps FC end in a draw?,polymarket:5565823 | predict:3196653,1.0,explicit_platform_link,True,-1.683571789761741872155626272
-09afe8bc0b480739,Will Vancouver Whitecaps FC win on 2026-10-24?,polymarket:5565824 | predict:3196655,1.0,explicit_platform_link,True,-2.478038837747720802454776088
-692a48f478e9cd91,Colorado Rapids SC leading at halftime?,polymarket:5565825 | predict:3196908,1.0,explicit_platform_link,True,-7.739205852778153969437955634
-28a7f093cd0c6ade,Colorado Rapids SC vs. Vancouver Whitecaps FC: Draw at halftime?,polymarket:5565826 | predict:3196909,1.0,explicit_platform_link,True,-10.51080430140021505698489064
-29e4f66e3b84b1c6,Vancouver Whitecaps FC leading at halftime?,polymarket:5565827 | predict:3196910,1.0,explicit_platform_link,True,-9.860479032486654173818559736
-f79c1e0c20b2dd1a,Colorado Rapids SC to win the second half?,polymarket:5565828 | predict:3196905,1.0,explicit_platform_link,True,-21.74927309253872641707142223
-d6904c80c45195f0,Colorado Rapids SC vs. Vancouver Whitecaps FC: Second half draw?,polymarket:5565829 | predict:3196906,1.0,explicit_platform_link,True,-21.11299686559716499388955788
-ba12f7c2ce2b6446,Vancouver Whitecaps FC to win the second half?,polymarket:5565830 | predict:3196907,1.0,explicit_platform_link,True,-15.11760627474848225113692423
+f058692f813b7672,"Tesla and SpaceX merger officially announced by February 28, 2027?",polymarket:3585431 | predict:1390638,1.0,explicit_platform_link,True,0.6603967007749078402294998594
+e9124376012a319a,Will the Indianapolis Colts win the 2027 NFL league championship?,polymarket:1357384 | predict:26944,1.0,explicit_platform_link,True,0
+bc17d30488a78fd5,Will the Kansas City Chiefs win the 2027 NFL league championship?,polymarket:1357386 | predict:26949,1.0,explicit_platform_link,True,-0.2728841789391036830849847702
+6c5a3cfb8b7d4c09,Will the Los Angeles Rams win the 2027 NFL league championship?,polymarket:1357389 | predict:26952,1.0,explicit_platform_link,True,0.3529485826157503095945942239
+a00ef4c6a80ac91b,Will the Minnesota Vikings win the 2027 NFL league championship?,polymarket:1357391 | predict:26923,1.0,explicit_platform_link,True,-0.2626064654285384073962979661
+b42fb880b400833e,Will the New England Patriots win the 2027 NFL league championship?,polymarket:1357392 | predict:26953,1.0,explicit_platform_link,True,-0.07609389861728564746666253660
+8f6f9ea855571bf9,Will the New York Giants win the 2027 NFL league championship?,polymarket:1357394 | predict:26924,1.0,explicit_platform_link,True,0
+d6153e3d20abed61,Will the Pittsburgh Steelers win the 2027 NFL league championship?,polymarket:1357397 | predict:26927,1.0,explicit_platform_link,True,0
+2d03d5e567e87237,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,polymarket:1357400 | predict:26931,1.0,explicit_platform_link,True,0
+e0f8e1754c8fdb9e,Will the Washington Commanders win the 2027 NFL league championship?,polymarket:1357402 | predict:26933,1.0,explicit_platform_link,True,0
+fbe46902dab051a1,Will New York Giants win the 2027 NFL NFC Championship?,polymarket:1361055 | predict:934164,1.0,explicit_platform_link,True,-0.3200415579940760891714582749
+af0bc59daa8158f4,Will Washington Commanders win the 2027 NFL NFC Championship?,polymarket:1361057 | predict:934166,1.0,explicit_platform_link,True,0
+883b52c4a0b2f1ba,Will Green Bay Packers win the 2027 NFL NFC Championship?,polymarket:1361060 | predict:934169,1.0,explicit_platform_link,True,-0.1893078076795807089303628776
+b0010b21face5381,Will Atlanta Falcons win the 2027 NFL NFC Championship?,polymarket:1361062 | predict:934171,1.0,explicit_platform_link,True,0
+f9b6491c539b9cde,Will Carolina Panthers win the 2027 NFL NFC Championship?,polymarket:1361063 | predict:934172,1.0,explicit_platform_link,True,-0.1800855113724475726488532304
+9a4fa7911929f2a9,Will New Orleans Saints win the 2027 NFL NFC Championship?,polymarket:1361064 | predict:934173,1.0,explicit_platform_link,True,0
+ff56e65315581a94,Will Tampa Bay Buccaneers win the 2027 NFL NFC Championship?,polymarket:1361065 | predict:934174,1.0,explicit_platform_link,True,0.00621482798333908447335384090
+846b5fb1e3575b25,Will Los Angeles Rams win the 2027 NFL NFC Championship?,polymarket:1361067 | predict:934176,1.0,explicit_platform_link,True,-0.6477334891398651279426524186
+3309f0e245c6187c,Will San Francisco 49ers win the 2027 NFL NFC Championship?,polymarket:1361068 | predict:934177,1.0,explicit_platform_link,True,1.373081399984671681645822241
+4c01df54f3e265a8,Will Seattle Seahawks win the 2027 NFL NFC Championship?,polymarket:1361069 | predict:934178,1.0,explicit_platform_link,True,-1.167883103491586132027329827
+80a57aba6a489683,Will Buffalo Bills win the 2027 NFL AFC Championship?,polymarket:1361080 | predict:935706,1.0,explicit_platform_link,True,-1.535437148130368890914180717
+bdaf00c28695b98e,Will Miami Dolphins win the 2027 NFL AFC Championship?,polymarket:1361081 | predict:935707,1.0,explicit_platform_link,True,0
+2fc8bb8dbbe4b289,Will New England Patriots win the 2027 NFL AFC Championship?,polymarket:1361082 | predict:935708,1.0,explicit_platform_link,True,0
+4a74a60a16609385,Will New York Jets win the 2027 NFL AFC Championship?,polymarket:1361083 | predict:935709,1.0,explicit_platform_link,True,0
+fa7b9b8ed7c81753,Will Cincinnati Bengals win the 2027 NFL AFC Championship?,polymarket:1361085 | predict:935711,1.0,explicit_platform_link,True,-0.2990404684369542780989789652
+0a9dd668e283d576,Will Pittsburgh Steelers win the 2027 NFL AFC Championship?,polymarket:1361087 | predict:935713,1.0,explicit_platform_link,True,0
+1bd7bdb32ced3b11,Will Indianapolis Colts win the 2027 NFL AFC Championship?,polymarket:1361089 | predict:935715,1.0,explicit_platform_link,True,0
+b312fcd5c82ab004,Will Jacksonville Jaguars win the 2027 NFL AFC Championship?,polymarket:1361090 | predict:935716,1.0,explicit_platform_link,True,-0.6266368947977718589464739692
+7808dffc0fde222d,Will Tennessee Titans win the 2027 NFL AFC Championship?,polymarket:1361091 | predict:935717,1.0,explicit_platform_link,True,0.1197088602340583202985519560
+fbbccef39f9ebbbd,Will Las Vegas Raiders win the 2027 NFL AFC Championship?,polymarket:1361094 | predict:935720,1.0,explicit_platform_link,True,0
+ae755ef4834cacb9,Will Los Angeles Chargers win the 2027 NFL AFC Championship?,polymarket:1361095 | predict:935721,1.0,explicit_platform_link,True,0.01378834583447850115391794897
+5c983aedecd2028d,Relay FDV above $100M one day after launch?,polymarket:1361725 | predict:14334,1.0,explicit_platform_link,False,0
+277e250ed1d72a15,Relay FDV above $300M one day after launch?,polymarket:1361726 | predict:14336,1.0,explicit_platform_link,False,-2.202558006894390473205891570
+11241b4da692ce59,Relay FDV above $500M one day after launch?,polymarket:1361727 | predict:14340,1.0,explicit_platform_link,False,-3.320261676159479251423921890
+044e8bb7f44b7164,Relay FDV above $600M one day after launch?,polymarket:1361728 | predict:14332,1.0,explicit_platform_link,False,-7.259016412384161752316764951
+1fab82e708ad212a,Relay FDV above $700M one day after launch?,polymarket:1361729 | predict:14337,1.0,explicit_platform_link,False,-3.041998781230956733698964050
+1a03285b9c54be28,Relay FDV above $800M one day after launch?,polymarket:1361730 | predict:14335,1.0,explicit_platform_link,False,-7.964717605484823436093790773
+19a88e841e15ce6b,Relay FDV above $900M one day after launch?,polymarket:1361731 | predict:14333,1.0,explicit_platform_link,False,-7.320008928933649817974691698
+97c54f124b0e2e3d,Relay FDV above $1B one day after launch?,polymarket:1361732 | predict:14341,1.0,explicit_platform_link,False,-5.158593232933068795786675906
+0050645be087c510,Relay FDV above $1.2B one day after launch?,polymarket:1361733 | predict:14338,1.0,explicit_platform_link,False,-4.129331133648022727061624185
+9e62ec6f7dca0083,Relay FDV above $1.5B one day after launch?,polymarket:1361734 | predict:14339,1.0,explicit_platform_link,False,-2.756172042510654399675293539
+547dc558f3ce8fb9,Will any AI model reach a Chatbot Arena score of at least 1650 by December 31?,polymarket:1370549 | predict:1850141,1.0,explicit_platform_link,True,-24.61734811824707126306723223
+5d9d3b0925b85086,Will any AI model reach a Chatbot Arena score of at least 1700 by December 31?,polymarket:1370551 | predict:1850142,1.0,explicit_platform_link,True,-24.60494464766923155105495438
+2374c0f4b04f17b2,"Will Hibachi launch a token by December 31, 2026?",polymarket:1415613 | predict:19744,1.0,explicit_platform_link,False,-0.4717198558940397350993377493
+015ce6e80df60239,Will Stripe acquire any part of Paypal in 2026?,polymarket:1429755 | predict:1738106,1.0,explicit_platform_link,True,-0.1965105218114751409716982877
+40b5a49f037fa0e9,Will Buffalo Bills win the 2026 AFC East?,polymarket:1447909 | predict:942070,1.0,explicit_platform_link,True,-0.8589012717182561884743917651
+c4fa2d1ba3f5fc9b,Will Miami Dolphins win the 2026 AFC East,polymarket:1447910 | predict:942071,1.0,explicit_platform_link,True,0
+bc974a192facd7f5,Will New England Patriots win the 2026 AFC East?,polymarket:1447911 | predict:942072,1.0,explicit_platform_link,True,-1.106951699620797724115295031
+2960e8f1649b3604,Will New York Jets win the 2026 AFC East?,polymarket:1447912 | predict:942073,1.0,explicit_platform_link,True,0
+995527422ee8e683,Will Baltimore Ravens win the 2026 AFC North?,polymarket:1447918 | predict:942060,1.0,explicit_platform_link,True,-1.784389536089129045548826565
+de7a70531b3a5303,Will Cleveland Browns win the 2026 AFC North?,polymarket:1447920 | predict:942062,1.0,explicit_platform_link,True,-1.944845508988852513757673306
+4a616b3d845788cf,Will Pittsburgh Steelers win the 2026 AFC North?,polymarket:1447921 | predict:942063,1.0,explicit_platform_link,True,0
+fcf5af04c34ac7ba,Will Houston Texans win the 2026 AFC South?,polymarket:1447932 | predict:942065,1.0,explicit_platform_link,True,-1.659687567877716510160064889
+a84351fc9102bf33,Will Indianapolis Colts win the 2026 AFC South?,polymarket:1447933 | predict:942066,1.0,explicit_platform_link,True,-1.561743802737511567099196885
+fa349440a2a3b93e,Will Jacksonville Jaguars win the 2026 AFC South?,polymarket:1447934 | predict:942067,1.0,explicit_platform_link,True,-1.889064525898270896071377461
+cf5fdd3c90dcb770,Will Tennessee Titans win the 2026 AFC South?,polymarket:1447935 | predict:942068,1.0,explicit_platform_link,True,0
+f68c6244a2ce9eff,Will Denver Broncos win the 2026 AFC West?,polymarket:1447945 | predict:942075,1.0,explicit_platform_link,True,-1.606404320851925044284607751
+1228e711df0f0710,Will Kansas City Chiefs win the 2026 AFC West?,polymarket:1447946 | predict:942076,1.0,explicit_platform_link,True,-1.688707518231144680458365393
+a9be8d2d37a48ffa,Will Las Vegas Raiders win the 2026 AFC West?,polymarket:1447947 | predict:942077,1.0,explicit_platform_link,True,-1.230904074215612759395247455
+b85cd5f2eb30e364,Will Los Angeles Chargers win the 2026 AFC West?,polymarket:1447948 | predict:942078,1.0,explicit_platform_link,True,-0.6880140391719270344459736249
+e53672dff6508ebd,Will Dallas Cowboys win the 2026 NFC East?,polymarket:1447964 | predict:942090,1.0,explicit_platform_link,True,-0.3682861323886136102830312630
+b1e450a768bd20bf,Will New York Giants win the 2026 NFC East?,polymarket:1447965 | predict:942091,1.0,explicit_platform_link,True,-2.923114154341110652412202647
+81f9fc407ec274a5,Will Philadelphia Eagles win the 2026 NFC East?,polymarket:1447966 | predict:942092,1.0,explicit_platform_link,True,-0.6991049874886135739111870428
+6872c4b28178e4ed,Will Washington Commanders win the 2026 NFC East?,polymarket:1447967 | predict:942093,1.0,explicit_platform_link,True,-3.275180913957528616888140188
+aa6afdb63d385adb,Will Detroit Lions win the 2026 NFC North?,polymarket:1447976 | predict:942081,1.0,explicit_platform_link,True,-1.550924526427841918774250816
+ffa749ffaee5bd53,Will Green Bay Packers win the 2026 NFC North?,polymarket:1447977 | predict:942082,1.0,explicit_platform_link,True,-1.285573805027071095726330686
+2123c9042f10aae2,Will Minnesota Vikings win the 2026 NFC North?,polymarket:1447978 | predict:942083,1.0,explicit_platform_link,True,-1.479555891880099620113703557
+3d1267d0c4f5ee9b,Will Atlanta Falcons win the 2026 NFC South?,polymarket:1448013 | predict:942085,1.0,explicit_platform_link,True,-2.929861879080298058580615439
+6636c291a4b1c393,Will Carolina Panthers win the 2026 NFC South?,polymarket:1448014 | predict:942086,1.0,explicit_platform_link,True,-2.610027229513005468619603777
+87166cfc54cded7e,Will New Orleans Saints win the 2026 NFC South?,polymarket:1448015 | predict:942087,1.0,explicit_platform_link,True,-0.1515309785796903277699577650
+d3dcddd6b6c256e8,Will Tampa Bay Buccaneers win the 2026 NFC South?,polymarket:1448016 | predict:942088,1.0,explicit_platform_link,True,-0.6232671924732949876746097022
+4989b8a92f6a6eb3,Will Arizona Cardinals win the 2026 NFC West?,polymarket:1448022 | predict:942095,1.0,explicit_platform_link,True,0
+2c53be6a12a33a15,Will Los Angeles Rams win the 2026 NFC West?,polymarket:1448023 | predict:942096,1.0,explicit_platform_link,True,-0.2321926045707415691808116783
+c02a709fb72995ae,Will San Francisco 49ers win the 2026 NFC West?,polymarket:1448024 | predict:942097,1.0,explicit_platform_link,True,-1.007200712324795090543297703
+f86e8e3248f43f96,Will Seattle Seahawks win the 2026 NFC West?,polymarket:1448025 | predict:942098,1.0,explicit_platform_link,True,-0.3476778192852866040756912491
+c5114a6b8e46b479,Cambria FDV above $20M one day after launch?,polymarket:1485758 | predict:34340,1.0,explicit_platform_link,False,0
+5921e514ba438144,Cambria FDV above $30M one day after launch?,polymarket:1485759 | predict:34341,1.0,explicit_platform_link,False,-3.394878256338739962382915888
+d2bc4045f77fbebb,Cambria FDV above $40M one day after launch?,polymarket:1485760 | predict:34342,1.0,explicit_platform_link,False,0
+697e6475cb144847,Cambria FDV above $100M one day after launch?,polymarket:1485763 | predict:34345,1.0,explicit_platform_link,False,-0.4994230914525510717520378336
+7b8a9a551dec576f,Cambria FDV above $150M one day after launch?,polymarket:1485764 | predict:34346,1.0,explicit_platform_link,False,-2.624513257506850652910252635
+0f8374b5193d928d,Cambria FDV above $200M one day after launch?,polymarket:1485765 | predict:34347,1.0,explicit_platform_link,False,-2.472507216628343889864289859
