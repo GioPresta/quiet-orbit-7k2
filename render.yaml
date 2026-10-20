@@ -17,3 +17,9 @@ services:
         sync: false
       - key: LIMITLESS_API_KEY
         sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_KEY
+        sync: false
+      - key: SUPABASE_BUCKET
+        value: arbitraggio

@@ -11,6 +11,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "output"
 OUTPUT.mkdir(exist_ok=True)
+try:
+    from arbitraggio.supabase_storage import hydrate, start_sync_loop
+    hydrate(OUTPUT)
+except Exception as error:
+    print(f"Supabase hydrate non disponibile: {error}", flush=True)
 SERVICES = [
     ("dashboard", [str(ROOT / ".venv/bin/python"), "-u", "-m", "arbitraggio.dashboard",
                    "--port", os.environ.get("PORT", "8765")]),
@@ -42,6 +47,11 @@ for name, command in SERVICES:
     processes[name] = process
     (OUTPUT / f"{name}.pid").write_text(str(process.pid))
     print(f"{name}: PID {process.pid}", flush=True)
+
+try:
+    start_sync_loop(OUTPUT)
+except Exception as error:
+    print(f"Supabase sync non disponibile: {error}", flush=True)
 
 while True:
     for name, process in processes.items():
