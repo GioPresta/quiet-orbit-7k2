@@ -1,101 +1,101 @@
 match_id,name,markets,score,match_reason,rules_identical,screening_profit
 0f02053923a7c813,Will October be the best month for Bitcoin in 2026?,polymarket:1296003 | predict:2815582,1.0,explicit_platform_link,True,0.6235573099653935252768853829
+04e2cdee8479078f,Reya FDV above $150M one day after launch?,limitless:reya-fdv-above-dollar150m-one-day-after-launch-1768317502624 | polymarket:705807,1.0,identical_title,True,
+0a1c607da4c967bd,SPCX Daily Up or Down,limitless:spcx-daily-up-or-down-p-1792429546789 | polymarket:5920638,1.0,explicit_platform_link,True,
 0a717fb8615545dd,Will MSCI (MSCI) beat quarterly earnings?,limitless:will-msci-msci-beat-quarterly-earnings-1791400821864 | polymarket:5412317,1.0,explicit_platform_link,True,
 0e90178776c02488,Will Tesla (TSLA) beat quarterly earnings?,limitless:will-tesla-tsla-beat-quarterly-earnings-1791400853687 | polymarket:5412319,1.0,explicit_platform_link,True,
-19d0b6f706a4c9fb,Will Netflix (NFLX) beat quarterly earnings?,limitless:will-netflix-nflx-beat-quarterly-earnings-1791400848483 | polymarket:5412318,1.0,explicit_platform_link,True,
-22ec352906615f30,"Trump, Putin, and Xi seen together before 2027?",limitless:trump-putin-and-xi-seen-together-before-2027-1790611431074 | polymarket:4960175,1.0,explicit_platform_link,True,
 0059423c4ef4a784,Rayo Vallecano de Madrid vs. Elche CF: Both Teams to Score,limitless:rayo-vallecano-and-elche-both-to-score-1792402218685 | predict:3172603,1.0,explicit_platform_link,False,
 013f93f45c53167b,VfB Stuttgart vs. Club Atlético de Madrid: Both Teams to Score,limitless:vfb-stuttgart-and-atletico-madrid-both-to-score-1791883864948 | predict:3047356,1.0,explicit_platform_link,False,
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
-0509c568c72a130a,Aston Villa FC vs. Manchester City FC: Both Teams to Score,limitless:aston-villa-and-manchester-city-both-to-score-1792402236331 | predict:3169554,1.0,explicit_platform_link,False,
-743d74c672527467,Will Caleb Williams win the 2026 NFL MVP?,polymarket:1747730 | predict:941955,1.0,explicit_platform_link,True,0.2206185895060956624574754744
-7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,0.1526618319835661018598973742
-61f4a91a610ba089,Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?,polymarket:2589810 | predict:517146,1.0,explicit_platform_link,True,0.02539423432305819675312296754
-ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,0.2185612552513347884114633116
-a5ce0613a0b45b31,Will 1 Fed rate cut happen in 2026?,polymarket:616903 | predict:12743,1.0,explicit_platform_link,False,0.1825565630150034886661033916
-ef53d0f7e6c4ff8e,Will Athletic Bilbao win the 2026-27 LALIGA Championship?,polymarket:2771490 | predict:934722,1.0,explicit_platform_link,True,0.02393461407163695296506829174
-ea3d514acd6545e1,Will Pete Hegseth win the 2028 US Presidential Election?,polymarket:561264 | predict:932143,1.0,explicit_platform_link,True,1.438718559644159342819363256
-49bfccdc3655da9e,Will SC Freiburg be the 2026-27 Bundesliga champion?,polymarket:2849016 | predict:935733,1.0,explicit_platform_link,True,0.8316727812358300012366544400
-6b271b040b47b129,Will Oura's market cap be between $10B and $12.5B at market close on IPO day?,polymarket:2324606 | predict:394714,1.0,explicit_platform_link,True,0.7130072090253136563267685677
-df36a9fd0d4cacbf,Hyperbeat FDV above $50M one day after launch?,polymarket:690590 | predict:26426,1.0,explicit_platform_link,False,0.6421762894999442560087338764
-1c7366396b13cb0c,Will the Fed’s lower bound reach 3.0% or lower before 2027?,polymarket:690220 | predict:30531,1.0,explicit_platform_link,True,0.6413120170056630199073795903
-e14219b744bb68d4,Exact Score: SSC Napoli 3 - 1 FK Bodø/Glimt?,polymarket:5409582 | predict:3046296,1.0,explicit_platform_link,True,-1.101509543574626455763451725
-f9f6e030f316b04a,Exact Score: SSC Napoli 4 - 0 FK Bodø/Glimt?,polymarket:5409584 | predict:3046298,1.0,explicit_platform_link,True,-0.8198207989570812560185829142
-fe72cb70ab988365,Exact Score: SSC Napoli 0 - 5 FK Bodø/Glimt?,polymarket:5409586 | predict:3046300,1.0,explicit_platform_link,True,
-2127b4ca646e0052,Exact Score: SSC Napoli 1 - 4 FK Bodø/Glimt?,polymarket:5409588 | predict:3046302,1.0,explicit_platform_link,True,
-23787d0785c3fa24,Exact Score: SSC Napoli 2 - 3 FK Bodø/Glimt?,polymarket:5409590 | predict:3046304,1.0,explicit_platform_link,True,-0.3965539847531193896252872934
-7fba95c395550fff,Exact Score: SSC Napoli 3 - 2 FK Bodø/Glimt?,polymarket:5409592 | predict:3046306,1.0,explicit_platform_link,True,-0.8556431588154382991321200000
-8661e9e5f52706e8,Exact Score: SSC Napoli 4 - 1 FK Bodø/Glimt?,polymarket:5409594 | predict:3046308,1.0,explicit_platform_link,True,-0.8869925751854640017139139809
-6da91da118ddd0a1,Exact Score: SSC Napoli 5 - 0 FK Bodø/Glimt?,polymarket:5409596 | predict:3046310,1.0,explicit_platform_link,True,
-aea40040b90a1a66,Exact Score: SSC Napoli 1 - 5 FK Bodø/Glimt?,polymarket:5409598 | predict:3046312,1.0,explicit_platform_link,True,
-f9a69710bdde0140,Exact Score: SSC Napoli 2 - 4 FK Bodø/Glimt?,polymarket:5409600 | predict:3046314,1.0,explicit_platform_link,True,
-a451971ce63c7e26,Exact Score: SSC Napoli 3 - 3 FK Bodø/Glimt?,polymarket:5409602 | predict:3046316,1.0,explicit_platform_link,True,-0.3309293745046245368205912750
-541f4700310ced3b,Exact Score: SSC Napoli 4 - 2 FK Bodø/Glimt?,polymarket:5409603 | predict:3046318,1.0,explicit_platform_link,True,-2.266337105511641882210070390
-3e47a6f52ead2b05,Exact Score: SSC Napoli 5 - 1 FK Bodø/Glimt?,polymarket:5409605 | predict:3046320,1.0,explicit_platform_link,True,
-b4ca64d319b4032e,Exact Score: SSC Napoli 2 - 5 FK Bodø/Glimt?,polymarket:5409607 | predict:3046322,1.0,explicit_platform_link,True,
-2aeb5ddf8e68889b,Exact Score: SSC Napoli 3 - 4 FK Bodø/Glimt?,polymarket:5409609 | predict:3046324,1.0,explicit_platform_link,True,
-5b111411bb46ebba,Exact Score: SSC Napoli 4 - 3 FK Bodø/Glimt?,polymarket:5409611 | predict:3046326,1.0,explicit_platform_link,True,
-ff8c6ea68f4f4fbb,Exact Score: SSC Napoli 5 - 2 FK Bodø/Glimt?,polymarket:5409613 | predict:3046329,1.0,explicit_platform_link,True,
-56486e4c6e6726aa,Exact Score: SSC Napoli 3 - 5 FK Bodø/Glimt?,polymarket:5409615 | predict:3046331,1.0,explicit_platform_link,True,
-9885aab8e13e3cf6,Exact Score: SSC Napoli 4 - 4 FK Bodø/Glimt?,polymarket:5409617 | predict:3046333,1.0,explicit_platform_link,True,
-b967aff5359b9f0a,Exact Score: SSC Napoli 5 - 3 FK Bodø/Glimt?,polymarket:5409618 | predict:3046335,1.0,explicit_platform_link,True,
-def06b21a08afa2c,Exact Score: SSC Napoli 4 - 5 FK Bodø/Glimt?,polymarket:5409619 | predict:3046337,1.0,explicit_platform_link,True,
-1ffd25fe9b6b6175,Exact Score: SSC Napoli 5 - 4 FK Bodø/Glimt?,polymarket:5409620 | predict:3046339,1.0,explicit_platform_link,True,
-71461da25ef0b542,Exact Score: SSC Napoli 5 - 5 FK Bodø/Glimt?,polymarket:5409621 | predict:3046341,1.0,explicit_platform_link,True,
-f75d5337650a62a2,Exact Score: Any Other Score?,polymarket:5409622 | predict:3046343,1.0,explicit_platform_link,True,
-a2f4947104df4a75,SSC Napoli to score first vs. FK Bodø/Glimt?,polymarket:5409624 | predict:3046355,1.0,explicit_platform_link,True,-14.10692630934736317192554750
-83876538c1bd10fb,FK Bodø/Glimt to score first vs. SSC Napoli?,polymarket:5409626 | predict:3046356,1.0,explicit_platform_link,True,-4.910412123465768116552622993
-9a8d83c49b4bef5d,SSC Napoli vs. FK Bodø/Glimt: Neither team to score first?,polymarket:5409628 | predict:3046357,1.0,explicit_platform_link,True,-1.999033318478220929126038879
-1cd2af82ab5fc17a,Will VfB Stuttgart win on 2026-10-20?,polymarket:5409629 | predict:3046552,1.0,explicit_platform_link,True,-0.8190175463891606172234371356
-8caa3449392b893d,Will VfB Stuttgart vs. Club Atlético de Madrid end in a draw?,polymarket:5409630 | predict:3046553,1.0,explicit_platform_link,True,-1.224447442150046695029573538
-276639907f731b01,Will Club Atlético de Madrid win on 2026-10-20?,polymarket:5409631 | predict:3046554,1.0,explicit_platform_link,True,-1.558720080644920296401957542
-48b2f8a2e035871c,VfB Stuttgart leading at halftime?,polymarket:5409632 | predict:3046401,1.0,explicit_platform_link,True,-1.720795935605310581812986693
-50052719bf36924c,VfB Stuttgart vs. Club Atlético de Madrid: Draw at halftime?,polymarket:5409633 | predict:3046402,1.0,explicit_platform_link,True,-1.927270247060902216071938323
-37d41d889dea28bd,Club Atlético de Madrid leading at halftime?,polymarket:5409634 | predict:3046403,1.0,explicit_platform_link,True,-0.3982540165289256198347107427
-5282a9ec9ded7770,VfB Stuttgart to win the second half?,polymarket:5409635 | predict:3046459,1.0,explicit_platform_link,True,-21.59308517614962881351486057
-d99e0366fb13e6fb,VfB Stuttgart vs. Club Atlético de Madrid: Second half draw?,polymarket:5409636 | predict:3046461,1.0,explicit_platform_link,True,-4.211697108066971080669710815
-92283ad3dca974e9,Club Atlético de Madrid to win the second half?,polymarket:5409637 | predict:3046463,1.0,explicit_platform_link,True,-13.87537488248285533723233447
-ac243543f7c40b1a,Exact Score: VfB Stuttgart 0 - 0 Club Atlético de Madrid?,polymarket:5409638 | predict:3046155,1.0,explicit_platform_link,True,-0.5603154196409318640047581331
-91dd048b614e6e6c,Exact Score: VfB Stuttgart 0 - 1 Club Atlético de Madrid?,polymarket:5409639 | predict:3046158,1.0,explicit_platform_link,True,-0.7874083033854576639889708115
-6dab79aa93851f7d,Exact Score: VfB Stuttgart 1 - 0 Club Atlético de Madrid?,polymarket:5409640 | predict:3046160,1.0,explicit_platform_link,True,-0.9451295592553735032921110862
-6cfd5f041cfbcef6,Exact Score: VfB Stuttgart 0 - 2 Club Atlético de Madrid?,polymarket:5409641 | predict:3046162,1.0,explicit_platform_link,True,-1.023707351710377441734764703
-a86d92507227e56f,Exact Score: VfB Stuttgart 1 - 1 Club Atlético de Madrid?,polymarket:5409642 | predict:3046165,1.0,explicit_platform_link,True,-1.312317760817086946324867090
-1dd53826c934e7cf,Exact Score: VfB Stuttgart 2 - 0 Club Atlético de Madrid?,polymarket:5409643 | predict:3046168,1.0,explicit_platform_link,True,-0.4990114983128805506779189092
-7a475d0f4e246b50,Exact Score: VfB Stuttgart 0 - 3 Club Atlético de Madrid?,polymarket:5409644 | predict:3046171,1.0,explicit_platform_link,True,-0.6015683942173467675565970914
-07bcad1a2b00557f,Exact Score: VfB Stuttgart 1 - 2 Club Atlético de Madrid?,polymarket:5409645 | predict:3046174,1.0,explicit_platform_link,True,-1.161456484634566579656638683
-7841dde84c61ba16,Exact Score: VfB Stuttgart 2 - 1 Club Atlético de Madrid?,polymarket:5409646 | predict:3046177,1.0,explicit_platform_link,True,-1.007562239642789547632204598
-989d8e62ed1dc403,Exact Score: VfB Stuttgart 3 - 0 Club Atlético de Madrid?,polymarket:5409647 | predict:3046180,1.0,explicit_platform_link,True,-0.3344077445379162803547636129
-a8bdb76ab82be5db,Exact Score: VfB Stuttgart 0 - 4 Club Atlético de Madrid?,polymarket:5409648 | predict:3046183,1.0,explicit_platform_link,True,-1.891414821883397462708555878
-797e967d9b4b3cd8,Exact Score: VfB Stuttgart 1 - 3 Club Atlético de Madrid?,polymarket:5409649 | predict:3046186,1.0,explicit_platform_link,True,-0.5964226875918433233794808334
-32fe705f4dec6284,Exact Score: VfB Stuttgart 2 - 2 Club Atlético de Madrid?,polymarket:5409650 | predict:3046189,1.0,explicit_platform_link,True,-0.7711069968518069587331899249
-f027c2840fdc9779,Exact Score: VfB Stuttgart 3 - 1 Club Atlético de Madrid?,polymarket:5409651 | predict:3046192,1.0,explicit_platform_link,True,-0.4340915920330687487423495167
-e1b3aa7408e285db,Exact Score: VfB Stuttgart 4 - 0 Club Atlético de Madrid?,polymarket:5409652 | predict:3046196,1.0,explicit_platform_link,True,-0.3547877582681247818153446348
-00e313ee6fdee38c,Exact Score: VfB Stuttgart 0 - 5 Club Atlético de Madrid?,polymarket:5409653 | predict:3046199,1.0,explicit_platform_link,True,-0.4547523171509028989991952926
-da7d94229b2f2956,Exact Score: VfB Stuttgart 1 - 4 Club Atlético de Madrid?,polymarket:5409654 | predict:3046201,1.0,explicit_platform_link,True,-0.6434239343856354326305154031
-e4465acde36deb86,Exact Score: VfB Stuttgart 2 - 3 Club Atlético de Madrid?,polymarket:5409655 | predict:3046204,1.0,explicit_platform_link,True,-0.6559841482542083285683807324
-8fdac90ca54b773d,Exact Score: VfB Stuttgart 3 - 2 Club Atlético de Madrid?,polymarket:5409656 | predict:3046207,1.0,explicit_platform_link,True,-0.4273195947800483183964499582
-1b7946be07ad9491,Exact Score: VfB Stuttgart 4 - 1 Club Atlético de Madrid?,polymarket:5409657 | predict:3046210,1.0,explicit_platform_link,True,-0.7080534693952450457268991349
-9d8d0c29ea9bc94f,Exact Score: VfB Stuttgart 5 - 0 Club Atlético de Madrid?,polymarket:5409658 | predict:3046213,1.0,explicit_platform_link,True,
-c75e588c3ba1491f,Exact Score: VfB Stuttgart 1 - 5 Club Atlético de Madrid?,polymarket:5409659 | predict:3046216,1.0,explicit_platform_link,True,
-d158c1ba9b7af4ce,Exact Score: VfB Stuttgart 2 - 4 Club Atlético de Madrid?,polymarket:5409660 | predict:3046219,1.0,explicit_platform_link,True,-1.411942426240783702662384974
-0cd9c1d1cd33dc62,Exact Score: VfB Stuttgart 3 - 3 Club Atlético de Madrid?,polymarket:5409661 | predict:3046222,1.0,explicit_platform_link,True,-0.3448072417146847102274007804
-1973e3fda738f32a,Exact Score: VfB Stuttgart 4 - 2 Club Atlético de Madrid?,polymarket:5409662 | predict:3046225,1.0,explicit_platform_link,True,-0.4652153931309318344095445829
-4f658d488bb5657d,Exact Score: VfB Stuttgart 5 - 1 Club Atlético de Madrid?,polymarket:5409663 | predict:3046229,1.0,explicit_platform_link,True,-24.96204696727697485822458168
-4f1f0cb66a6321be,Exact Score: VfB Stuttgart 2 - 5 Club Atlético de Madrid?,polymarket:5409664 | predict:3046232,1.0,explicit_platform_link,True,-0.5543097028706488789111525287
-9db8db20ee2e07a5,Exact Score: VfB Stuttgart 3 - 4 Club Atlético de Madrid?,polymarket:5409665 | predict:3046235,1.0,explicit_platform_link,True,-0.5612521666665196296645054481
-b9ebe6816c422c15,Exact Score: VfB Stuttgart 4 - 3 Club Atlético de Madrid?,polymarket:5409666 | predict:3046238,1.0,explicit_platform_link,True,
-a29efffe4e970a63,Exact Score: VfB Stuttgart 5 - 2 Club Atlético de Madrid?,polymarket:5409667 | predict:3046242,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-e84659c91110cbe6,Exact Score: VfB Stuttgart 3 - 5 Club Atlético de Madrid?,polymarket:5409668 | predict:3046244,1.0,explicit_platform_link,True,
-4287c5242ff5178e,Exact Score: VfB Stuttgart 4 - 4 Club Atlético de Madrid?,polymarket:5409669 | predict:3046248,1.0,explicit_platform_link,True,-24.97396012486825098797718645
-af05cba0d3799083,Exact Score: VfB Stuttgart 5 - 3 Club Atlético de Madrid?,polymarket:5409670 | predict:3046250,1.0,explicit_platform_link,True,
-e45278b754a56506,Exact Score: VfB Stuttgart 4 - 5 Club Atlético de Madrid?,polymarket:5409671 | predict:3046253,1.0,explicit_platform_link,True,
-8e1d7408c8bd353a,Exact Score: VfB Stuttgart 5 - 4 Club Atlético de Madrid?,polymarket:5409672 | predict:3046256,1.0,explicit_platform_link,True,
-9ddbf0a007d44eb6,Exact Score: VfB Stuttgart 5 - 5 Club Atlético de Madrid?,polymarket:5409673 | predict:3046259,1.0,explicit_platform_link,True,
-44ddb65a324e1623,Exact Score: Any Other Score?,polymarket:5409674 | predict:3046262,1.0,explicit_platform_link,True,
-21b69320d84982be,VfB Stuttgart to score first vs. Club Atlético de Madrid?,polymarket:5409675 | predict:3046410,1.0,explicit_platform_link,True,0
-3fa1a1f7035b6e75,Club Atlético de Madrid to score first vs. VfB Stuttgart?,polymarket:5409676 | predict:3046411,1.0,explicit_platform_link,True,-16.29834315341677704279843164
-d083aeb42c7d001b,VfB Stuttgart vs. Club Atlético de Madrid: Neither team to score first?,polymarket:5409677 | predict:3046412,1.0,explicit_platform_link,True,-1.466218691658708127160747603
-896ec5036ccddac0,Will Paris Saint-Germain FC win on 2026-10-20?,polymarket:5409678 | predict:3046469,1.0,explicit_platform_link,True,-1.481925539877470684445430104
-1373618146a66f08,Will Paris Saint-Germain FC vs. FC Barcelona end in a draw?,polymarket:5409679 | predict:3046470,1.0,explicit_platform_link,True,-1.109323773933904973825610781
-968ffad372b03b27,Will FC Barcelona win on 2026-10-20?,polymarket:5409680 | predict:3046471,1.0,explicit_platform_link,True,-1.496678668615497962045322206
-aef15de0e77e821d,Paris Saint-Germain FC leading at halftime?,polymarket:5409681 | predict:3046413,1.0,explicit_platform_link,True,-1.860863110175745108629387959
+0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
+c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.9239771247483583341511429916
+08b8f7d0c528c698,Will Kamala Harris win the 2028 Democratic presidential nomination?,polymarket:559658 | predict:926132,1.0,explicit_platform_link,True,0.9695944759067020192748010762
+0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
+ff04c3cc8d1a6546,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,polymarket:2589813 | predict:517145,1.0,explicit_platform_link,True,0.7213939791226179960862233387
+fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nomination?,polymarket:561975 | predict:933798,1.0,explicit_platform_link,True,0.3203645866784373348410176071
+2b40a9e64fd3f50c,"Next White House Press Secretary announced by December 31, 2026?",polymarket:5784291 | predict:3415545,1.0,explicit_platform_link,True,3.539916086201440333639183403
+ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
+7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,2.665476457152708869831323974
+3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,0.5833518534522272855692275765
+9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.00555020753387554337145175726
+92b7a832101ec357,"Next Fable Model (5.2+) released by October 24, 2026?",polymarket:5205159 | predict:2846815,1.0,explicit_platform_link,True,2.316784571194091095609355765
+5b7c3d57273b9098,Exact Score: New York Red Bulls 5 - 2 Inter Miami CF?,polymarket:5565317 | predict:3197232,1.0,explicit_platform_link,True,
+b8503afafea20ccd,Exact Score: New York Red Bulls 3 - 5 Inter Miami CF?,polymarket:5565318 | predict:3197233,1.0,explicit_platform_link,True,
+be89a7963ddd8a6d,Exact Score: New York Red Bulls 4 - 4 Inter Miami CF?,polymarket:5565320 | predict:3197234,1.0,explicit_platform_link,True,
+0e52e6324ad60da2,Exact Score: New York Red Bulls 5 - 3 Inter Miami CF?,polymarket:5565321 | predict:3197235,1.0,explicit_platform_link,True,
+06f40a55d8ea8c21,Exact Score: New York Red Bulls 4 - 5 Inter Miami CF?,polymarket:5565322 | predict:3197236,1.0,explicit_platform_link,True,
+716fb00db49f8d6f,Exact Score: New York Red Bulls 5 - 4 Inter Miami CF?,polymarket:5565324 | predict:3197237,1.0,explicit_platform_link,True,
+699b5d755a2ce2c5,Exact Score: New York Red Bulls 5 - 5 Inter Miami CF?,polymarket:5565325 | predict:3197238,1.0,explicit_platform_link,True,
+606a4dc7ce0731be,Exact Score: Any Other Score?,polymarket:5565326 | predict:3197239,1.0,explicit_platform_link,True,
+198cda96d0501ee6,New York Red Bulls to score first vs. Inter Miami CF?,polymarket:5565334 | predict:3197320,1.0,explicit_platform_link,True,
+49359dc760a16b7e,Inter Miami CF to score first vs. New York Red Bulls?,polymarket:5565335 | predict:3197321,1.0,explicit_platform_link,True,
+99522f676a6883a4,New York Red Bulls vs. Inter Miami CF: Neither team to score first?,polymarket:5565337 | predict:3197322,1.0,explicit_platform_link,True,
+90fb1880bd155b37,Will D.C. United SC win on 2026-10-24?,polymarket:5565341 | predict:3197301,1.0,explicit_platform_link,True,-1.720605692307692307692307693
+53fb97f2dda43762,Will D.C. United SC vs. FC Cincinnati end in a draw?,polymarket:5565342 | predict:3197302,1.0,explicit_platform_link,True,-1.261121164426059979317476729
+35ed17205b73e441,Will FC Cincinnati win on 2026-10-24?,polymarket:5565343 | predict:3197303,1.0,explicit_platform_link,True,0
+a2a3d6db28682e45,D.C. United SC leading at halftime?,polymarket:5565351 | predict:3198903,1.0,explicit_platform_link,True,
+d41b3ae6257fcf31,D.C. United SC vs. FC Cincinnati: Draw at halftime?,polymarket:5565352 | predict:3198906,1.0,explicit_platform_link,True,
+e1bf961019ba6af4,FC Cincinnati leading at halftime?,polymarket:5565353 | predict:3198908,1.0,explicit_platform_link,True,
+6dcdb0e80121c256,D.C. United SC to win the second half?,polymarket:5565358 | predict:3197446,1.0,explicit_platform_link,True,
+36436535ff4e614e,D.C. United SC vs. FC Cincinnati: Second half draw?,polymarket:5565359 | predict:3197450,1.0,explicit_platform_link,True,
+d0a2ec47e3dabf46,FC Cincinnati to win the second half?,polymarket:5565360 | predict:3197452,1.0,explicit_platform_link,True,
+273d0550048484bf,Exact Score: D.C. United SC 0 - 0 FC Cincinnati?,polymarket:5565364 | predict:3198904,1.0,explicit_platform_link,True,
+34f1c75ab479654f,Exact Score: D.C. United SC 0 - 1 FC Cincinnati?,polymarket:5565365 | predict:3198909,1.0,explicit_platform_link,True,
+7cbe2a139da4f1ce,Exact Score: D.C. United SC 1 - 0 FC Cincinnati?,polymarket:5565366 | predict:3198910,1.0,explicit_platform_link,True,
+f4cea287ca8880bb,Exact Score: D.C. United SC 0 - 2 FC Cincinnati?,polymarket:5565368 | predict:3198911,1.0,explicit_platform_link,True,
+45ac766f5d4ef33f,Exact Score: D.C. United SC 1 - 1 FC Cincinnati?,polymarket:5565369 | predict:3198912,1.0,explicit_platform_link,True,
+35f8a63cca361ffc,Exact Score: D.C. United SC 2 - 0 FC Cincinnati?,polymarket:5565371 | predict:3198913,1.0,explicit_platform_link,True,
+ef4b20c4d30742c1,Exact Score: D.C. United SC 0 - 3 FC Cincinnati?,polymarket:5565372 | predict:3198914,1.0,explicit_platform_link,True,
+e2360227a1b11740,Exact Score: D.C. United SC 1 - 2 FC Cincinnati?,polymarket:5565374 | predict:3198915,1.0,explicit_platform_link,True,
+f91ccf39c55bf98e,Exact Score: D.C. United SC 2 - 1 FC Cincinnati?,polymarket:5565375 | predict:3198916,1.0,explicit_platform_link,True,
+db61704287f05374,Exact Score: D.C. United SC 3 - 0 FC Cincinnati?,polymarket:5565376 | predict:3198917,1.0,explicit_platform_link,True,
+bb1898795d6b6ceb,Exact Score: D.C. United SC 0 - 4 FC Cincinnati?,polymarket:5565378 | predict:3198918,1.0,explicit_platform_link,True,
+27bc67019920834c,Exact Score: D.C. United SC 1 - 3 FC Cincinnati?,polymarket:5565379 | predict:3198919,1.0,explicit_platform_link,True,
+dfe157bf701658db,Exact Score: D.C. United SC 2 - 2 FC Cincinnati?,polymarket:5565380 | predict:3198920,1.0,explicit_platform_link,True,
+7c5fee1647624352,Exact Score: D.C. United SC 3 - 1 FC Cincinnati?,polymarket:5565382 | predict:3198921,1.0,explicit_platform_link,True,
+4160ab9650d19ecd,Exact Score: D.C. United SC 4 - 0 FC Cincinnati?,polymarket:5565383 | predict:3198922,1.0,explicit_platform_link,True,
+c99332c56552a434,Exact Score: D.C. United SC 0 - 5 FC Cincinnati?,polymarket:5565384 | predict:3198923,1.0,explicit_platform_link,True,
+9107efdff2eb10bb,Exact Score: D.C. United SC 1 - 4 FC Cincinnati?,polymarket:5565386 | predict:3198924,1.0,explicit_platform_link,True,
+2a31066b6e3db48f,Exact Score: D.C. United SC 2 - 3 FC Cincinnati?,polymarket:5565387 | predict:3198925,1.0,explicit_platform_link,True,
+9f02de060faab6f3,Exact Score: D.C. United SC 3 - 2 FC Cincinnati?,polymarket:5565389 | predict:3198926,1.0,explicit_platform_link,True,
+09501f854207a1f1,Exact Score: D.C. United SC 4 - 1 FC Cincinnati?,polymarket:5565390 | predict:3198927,1.0,explicit_platform_link,True,
+7ee25b5e63ddc56e,Exact Score: D.C. United SC 5 - 0 FC Cincinnati?,polymarket:5565391 | predict:3198928,1.0,explicit_platform_link,True,
+57070b910bdcbe0a,Exact Score: D.C. United SC 1 - 5 FC Cincinnati?,polymarket:5565393 | predict:3198929,1.0,explicit_platform_link,True,
+8c2a2e6a4e10b96a,Exact Score: D.C. United SC 2 - 4 FC Cincinnati?,polymarket:5565394 | predict:3198930,1.0,explicit_platform_link,True,
+e37881e0046353f9,Exact Score: D.C. United SC 3 - 3 FC Cincinnati?,polymarket:5565395 | predict:3198931,1.0,explicit_platform_link,True,
+ebeafebc376427fd,Exact Score: D.C. United SC 4 - 2 FC Cincinnati?,polymarket:5565397 | predict:3198932,1.0,explicit_platform_link,True,
+14a16ba113c8e05d,Exact Score: D.C. United SC 5 - 1 FC Cincinnati?,polymarket:5565398 | predict:3198933,1.0,explicit_platform_link,True,
+50a027d49b742966,Exact Score: D.C. United SC 2 - 5 FC Cincinnati?,polymarket:5565399 | predict:3198934,1.0,explicit_platform_link,True,
+cfedc9e34bbddbd1,Exact Score: D.C. United SC 3 - 4 FC Cincinnati?,polymarket:5565401 | predict:3198935,1.0,explicit_platform_link,True,
+65005a13500e82ce,Exact Score: D.C. United SC 4 - 3 FC Cincinnati?,polymarket:5565402 | predict:3198936,1.0,explicit_platform_link,True,
+dfd22b8214332237,Exact Score: D.C. United SC 5 - 2 FC Cincinnati?,polymarket:5565404 | predict:3198937,1.0,explicit_platform_link,True,
+743e21af4154fdf1,Exact Score: D.C. United SC 3 - 5 FC Cincinnati?,polymarket:5565405 | predict:3198938,1.0,explicit_platform_link,True,
+9a2f9b6cc3f41a03,Exact Score: D.C. United SC 4 - 4 FC Cincinnati?,polymarket:5565406 | predict:3198939,1.0,explicit_platform_link,True,
+cda27ade3f28b311,Exact Score: D.C. United SC 5 - 3 FC Cincinnati?,polymarket:5565408 | predict:3198940,1.0,explicit_platform_link,True,
+10bfb28707976e1d,Exact Score: D.C. United SC 4 - 5 FC Cincinnati?,polymarket:5565409 | predict:3198941,1.0,explicit_platform_link,True,
+8c7377610b2be21b,Exact Score: D.C. United SC 5 - 4 FC Cincinnati?,polymarket:5565411 | predict:3198942,1.0,explicit_platform_link,True,
+efe51cc479727066,Exact Score: D.C. United SC 5 - 5 FC Cincinnati?,polymarket:5565412 | predict:3198943,1.0,explicit_platform_link,True,
+a00f550b92eef613,Exact Score: Any Other Score?,polymarket:5565413 | predict:3198944,1.0,explicit_platform_link,True,
+17cb70919ff17d36,D.C. United SC to score first vs. FC Cincinnati?,polymarket:5565421 | predict:3198689,1.0,explicit_platform_link,True,
+08db1b9f726caa59,FC Cincinnati to score first vs. D.C. United SC?,polymarket:5565422 | predict:3198690,1.0,explicit_platform_link,True,
+d67179ccfb6e8387,D.C. United SC vs. FC Cincinnati: Neither team to score first?,polymarket:5565423 | predict:3198691,1.0,explicit_platform_link,True,
+02053c4a253babbf,Will Atlanta United FC win on 2026-10-24?,polymarket:5565433 | predict:3197574,1.0,explicit_platform_link,True,-2.362689012695754920611514957
+e6b8ee83f1597f05,Will Atlanta United FC vs. Chicago Fire FC end in a draw?,polymarket:5565435 | predict:3197575,1.0,explicit_platform_link,True,-0.7115548003398470688190314247
+831de062e714f201,Will Chicago Fire FC win on 2026-10-24?,polymarket:5565437 | predict:3197576,1.0,explicit_platform_link,True,-1.003324613373016888194644655
+2c1518252935b695,Atlanta United FC leading at halftime?,polymarket:5565442 | predict:3199001,1.0,explicit_platform_link,True,-8.843971648115909052976358538
+b355427fcae2143b,Atlanta United FC vs. Chicago Fire FC: Draw at halftime?,polymarket:5565443 | predict:3199002,1.0,explicit_platform_link,True,-9.552281826101960022247425742
+c335a40a0279127d,Chicago Fire FC leading at halftime?,polymarket:5565444 | predict:3199003,1.0,explicit_platform_link,True,-8.843971648115909052976358538
+32ea9fd260c5f3e0,Atlanta United FC to win the second half?,polymarket:5565446 | predict:3198680,1.0,explicit_platform_link,True,-21.11299686559716499388955788
+39ef0b8ab2c3908d,Atlanta United FC vs. Chicago Fire FC: Second half draw?,polymarket:5565447 | predict:3198683,1.0,explicit_platform_link,True,-21.43499983360559316712220150
+f4541da0e8274e89,Chicago Fire FC to win the second half?,polymarket:5565449 | predict:3198687,1.0,explicit_platform_link,True,-14.62000317872694976203676600
+e94d0c2b83512259,Exact Score: Atlanta United FC 0 - 0 Chicago Fire FC?,polymarket:5565453 | predict:3196586,1.0,explicit_platform_link,True,
+7c850cd5b2075717,Exact Score: Atlanta United FC 0 - 1 Chicago Fire FC?,polymarket:5565454 | predict:3196588,1.0,explicit_platform_link,True,
+a607ce1b6b38c896,Exact Score: Atlanta United FC 1 - 0 Chicago Fire FC?,polymarket:5565455 | predict:3196589,1.0,explicit_platform_link,True,
+d8587945ea5912e2,Exact Score: Atlanta United FC 0 - 2 Chicago Fire FC?,polymarket:5565457 | predict:3196591,1.0,explicit_platform_link,True,
+8621eed2d69f0fee,Exact Score: Atlanta United FC 1 - 1 Chicago Fire FC?,polymarket:5565459 | predict:3196592,1.0,explicit_platform_link,True,
+520fdc60ff686eda,Exact Score: Atlanta United FC 2 - 0 Chicago Fire FC?,polymarket:5565461 | predict:3196594,1.0,explicit_platform_link,True,
+3479214b17c1f5a2,Exact Score: Atlanta United FC 0 - 3 Chicago Fire FC?,polymarket:5565462 | predict:3196596,1.0,explicit_platform_link,True,
+545a5649de09278d,Exact Score: Atlanta United FC 1 - 2 Chicago Fire FC?,polymarket:5565463 | predict:3196598,1.0,explicit_platform_link,True,
+52eaefcf90f97e64,Exact Score: Atlanta United FC 2 - 1 Chicago Fire FC?,polymarket:5565464 | predict:3196599,1.0,explicit_platform_link,True,
+9a02d79fdac51b7c,Exact Score: Atlanta United FC 3 - 0 Chicago Fire FC?,polymarket:5565466 | predict:3196601,1.0,explicit_platform_link,True,
+0b3bb5c4f46f1c75,Exact Score: Atlanta United FC 0 - 4 Chicago Fire FC?,polymarket:5565468 | predict:3196603,1.0,explicit_platform_link,True,
