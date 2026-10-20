@@ -9,93 +9,93 @@ match_id,name,markets,score,match_reason,rules_identical,screening_profit
 01685962d54d242f,VfB Stuttgart vs. Borussia Mönchengladbach: Both Teams to Score,limitless:vfb-stuttgart-and-borussia-monchengladbach-both-to-score-1792315816152 | predict:3114865,1.0,explicit_platform_link,False,
 0243dff529c270bc,Jazz vs. Grizzlies,limitless:jazz-vs-grizzlies-1792454725254 | predict:3346480,1.0,identical_title,True,
 c3f5a0fc6c461bba,Will there be no change in Fed interest rates after the October 2026 meeting?,polymarket:2589812 | predict:517147,1.0,explicit_platform_link,True,0.9239771247483583341511429916
+be49105428c4e033,Will the Cleveland Browns win the 2027 NFL league championship?,polymarket:1357378 | predict:26938,1.0,explicit_platform_link,True,0.3123714657305512930342835392
+7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,1.939749689036411438094993444
 3659e85b8bb26f19,Will Rodri win the 2026 Ballon d'Or?,polymarket:608566 | predict:856709,1.0,explicit_platform_link,True,0.1171605822620203402488688430
 0deec7f553065350,Will the US confirm that aliens exist before 2027?,polymarket:703257 | predict:10835,1.0,explicit_platform_link,True,0.05297223925912649225118946075
 ff04c3cc8d1a6546,Will the Fed increase interest rates by 25 bps after the October 2026 meeting?,polymarket:2589813 | predict:517145,1.0,explicit_platform_link,True,0.7213939791226179960862233387
 fa1acaa62fee59eb,Will Marco Rubio win the 2028 Republican presidential nomination?,polymarket:561975 | predict:933798,1.0,explicit_platform_link,True,0.3203645866784373348410176071
-bc73426458f987eb,Will the Tampa Bay Rays win the 2026 World Series?,polymarket:1235549 | predict:17368,1.0,explicit_platform_link,True,1.314867369778637808268824198
 2b40a9e64fd3f50c,"Next White House Press Secretary announced by December 31, 2026?",polymarket:5784291 | predict:3415545,1.0,explicit_platform_link,True,4.107942498152042904059214697
 ec2d37dd72912250,Will Lamine Yamal win the 2026 Ballon d'Or?,polymarket:608545 | predict:865237,1.0,explicit_platform_link,True,1.973883558063898601193459610
-7bc29f697f698fbf,Will Harry Kane win the 2026 Ballon d'Or?,polymarket:608547 | predict:865239,1.0,explicit_platform_link,True,1.939749689036411438094993444
 3c914c85830daf1a,Will Kylian Mbappé win the 2026 Ballon d'Or?,polymarket:608540 | predict:865232,1.0,explicit_platform_link,True,0.8354525971139238976849864797
 9350b7dba4431f04,Will Manchester City win the 2026-27 UEFA Champions League Championship?,polymarket:2772169 | predict:659169,1.0,explicit_platform_link,True,0.1530756276138100088129043831
-1c49dc71618b06e7,Exact Score: Beşiktaş JK 1 - 5 Crystal Palace FC?,polymarket:5470239 | predict:3104511,1.0,explicit_platform_link,True,
-72ff48093f471d73,Exact Score: Beşiktaş JK 2 - 4 Crystal Palace FC?,polymarket:5470240 | predict:3104512,1.0,explicit_platform_link,True,
-183b51ef3690151f,Exact Score: Beşiktaş JK 3 - 3 Crystal Palace FC?,polymarket:5470241 | predict:3104513,1.0,explicit_platform_link,True,-1.819361393489808594846683923
-2708abe91df0c595,Exact Score: Beşiktaş JK 4 - 2 Crystal Palace FC?,polymarket:5470242 | predict:3104514,1.0,explicit_platform_link,True,-2.173155453475278208863220133
-c64680997e8468e9,Exact Score: Beşiktaş JK 5 - 1 Crystal Palace FC?,polymarket:5470243 | predict:3104515,1.0,explicit_platform_link,True,
-1a01b392d2d9718e,Exact Score: Beşiktaş JK 2 - 5 Crystal Palace FC?,polymarket:5470244 | predict:3104517,1.0,explicit_platform_link,True,
-a0ef4e5bad6b2103,Exact Score: Beşiktaş JK 3 - 4 Crystal Palace FC?,polymarket:5470245 | predict:3104518,1.0,explicit_platform_link,True,
-f49f6528cc78f584,Exact Score: Beşiktaş JK 4 - 3 Crystal Palace FC?,polymarket:5470246 | predict:3104520,1.0,explicit_platform_link,True,
-54b94acbcac0df96,Exact Score: Beşiktaş JK 5 - 2 Crystal Palace FC?,polymarket:5470247 | predict:3104521,1.0,explicit_platform_link,True,
-8d98fb30c095ced2,Exact Score: Beşiktaş JK 3 - 5 Crystal Palace FC?,polymarket:5470248 | predict:3104522,1.0,explicit_platform_link,True,
-a6fb956e78680659,Exact Score: Beşiktaş JK 4 - 4 Crystal Palace FC?,polymarket:5470249 | predict:3104523,1.0,explicit_platform_link,True,
-0855bc897ebf3743,Exact Score: Beşiktaş JK 5 - 3 Crystal Palace FC?,polymarket:5470250 | predict:3104524,1.0,explicit_platform_link,True,
-40a1444f021b8e14,Exact Score: Beşiktaş JK 4 - 5 Crystal Palace FC?,polymarket:5470251 | predict:3104526,1.0,explicit_platform_link,True,
-79ac5565437cb238,Exact Score: Beşiktaş JK 5 - 4 Crystal Palace FC?,polymarket:5470252 | predict:3104527,1.0,explicit_platform_link,True,
-d4bdf78576f5a7b3,Exact Score: Beşiktaş JK 5 - 5 Crystal Palace FC?,polymarket:5470253 | predict:3104528,1.0,explicit_platform_link,True,
-633f59808b3c35aa,Exact Score: Any Other Score?,polymarket:5470254 | predict:3104529,1.0,explicit_platform_link,True,
-49717f60e970ced3,Beşiktaş JK to score first vs. Crystal Palace FC?,polymarket:5470255 | predict:3104571,1.0,explicit_platform_link,True,-12.59603456841282978290567978
-12af121c498faf16,Crystal Palace FC to score first vs. Beşiktaş JK?,polymarket:5470256 | predict:3104572,1.0,explicit_platform_link,True,-12.55659532517775094363135301
-4feff7885a2803dc,Beşiktaş JK vs. Crystal Palace FC: Neither team to score first?,polymarket:5470257 | predict:3104573,1.0,explicit_platform_link,True,-8.148731336879800231201809925
-cf23f02e4ee59392,Will Olympiakós SFP win on 2026-10-22?,polymarket:5470258 | predict:3104597,1.0,explicit_platform_link,True,-0.9485999465915323592950721860
-067c54c382305053,Will Olympiakós SFP vs. AC Sparta Praha end in a draw?,polymarket:5470259 | predict:3104598,1.0,explicit_platform_link,True,-1.133330395384073298013386402
-d84b41babb81156a,Will AC Sparta Praha win on 2026-10-22?,polymarket:5470260 | predict:3104599,1.0,explicit_platform_link,True,-0.9549187739456029029704653566
-7a45b8be8eea3fff,Olympiakós SFP leading at halftime?,polymarket:5470261 | predict:3104535,1.0,explicit_platform_link,True,-3.341786795912648874566866333
-560721008eb77c1f,Olympiakós SFP vs. AC Sparta Praha: Draw at halftime?,polymarket:5470262 | predict:3104537,1.0,explicit_platform_link,True,0
-22c2cc365e6234a3,AC Sparta Praha leading at halftime?,polymarket:5470263 | predict:3104539,1.0,explicit_platform_link,True,-2.817542193292972507013924048
-33ad0b1bad4caf3e,Olympiakós SFP to win the second half?,polymarket:5470264 | predict:3104594,1.0,explicit_platform_link,True,-18.01888177534958423612007100
-bf6a419d64193a4a,Olympiakós SFP vs. AC Sparta Praha: Second half draw?,polymarket:5470265 | predict:3104595,1.0,explicit_platform_link,True,-13.85252553193298787957727346
-713ef8b46cfe57f7,AC Sparta Praha to win the second half?,polymarket:5470266 | predict:3104596,1.0,explicit_platform_link,True,-23.62146856993426332542809995
-2b14147af4cec342,Exact Score: Olympiakós SFP 0 - 0 AC Sparta Praha?,polymarket:5470267 | predict:3104530,1.0,explicit_platform_link,True,-11.37511980496032081062854219
-a85b812bfe633459,Exact Score: Olympiakós SFP 0 - 1 AC Sparta Praha?,polymarket:5470268 | predict:3104531,1.0,explicit_platform_link,True,-11.78470054166497802773058148
-2e3f30e4b44c8843,Exact Score: Olympiakós SFP 1 - 0 AC Sparta Praha?,polymarket:5470269 | predict:3104532,1.0,explicit_platform_link,True,-10.85595642764289652745882623
-53306c4e8fd9d436,Exact Score: Olympiakós SFP 0 - 2 AC Sparta Praha?,polymarket:5470270 | predict:3104533,1.0,explicit_platform_link,True,-11.21973357465276259471454051
-148e77555e5c5457,Exact Score: Olympiakós SFP 1 - 1 AC Sparta Praha?,polymarket:5470271 | predict:3104534,1.0,explicit_platform_link,True,-10.81827801567329328376934801
-60526a8c009efdd6,Exact Score: Olympiakós SFP 2 - 0 AC Sparta Praha?,polymarket:5470272 | predict:3104536,1.0,explicit_platform_link,True,-11.87333327361405181105400684
-a5f83ecf258ad4fa,Exact Score: Olympiakós SFP 0 - 3 AC Sparta Praha?,polymarket:5470273 | predict:3104538,1.0,explicit_platform_link,True,
-75ea4e420750c600,Exact Score: Olympiakós SFP 1 - 2 AC Sparta Praha?,polymarket:5470274 | predict:3104540,1.0,explicit_platform_link,True,-11.97214697860863156667945397
-b6495747c34bb59d,Exact Score: Olympiakós SFP 2 - 1 AC Sparta Praha?,polymarket:5470275 | predict:3104541,1.0,explicit_platform_link,True,-11.88500038589652337859144094
-85f9705a8fbaa5c6,Exact Score: Olympiakós SFP 3 - 0 AC Sparta Praha?,polymarket:5470276 | predict:3104542,1.0,explicit_platform_link,True,-10.77934334011147531435322398
-e95bba77818c696b,Exact Score: Olympiakós SFP 0 - 4 AC Sparta Praha?,polymarket:5470277 | predict:3104543,1.0,explicit_platform_link,True,
-cd80290acef3a0b1,Exact Score: Olympiakós SFP 1 - 3 AC Sparta Praha?,polymarket:5470278 | predict:3104544,1.0,explicit_platform_link,True,
-ac8296d7e3fa49b3,Exact Score: Olympiakós SFP 2 - 2 AC Sparta Praha?,polymarket:5470279 | predict:3104545,1.0,explicit_platform_link,True,-11.67471261212111265801176009
-97cdffd1ddb179d4,Exact Score: Olympiakós SFP 3 - 1 AC Sparta Praha?,polymarket:5470280 | predict:3104546,1.0,explicit_platform_link,True,-10.91590204957102001906577695
-1d9dae9e6b9c96f3,Exact Score: Olympiakós SFP 4 - 0 AC Sparta Praha?,polymarket:5470281 | predict:3104547,1.0,explicit_platform_link,True,-11.49400813812990895900226720
-992689c83d5003a4,Exact Score: Olympiakós SFP 0 - 5 AC Sparta Praha?,polymarket:5470282 | predict:3104548,1.0,explicit_platform_link,True,
-98aa6e040d71db7b,Exact Score: Olympiakós SFP 1 - 4 AC Sparta Praha?,polymarket:5470283 | predict:3104549,1.0,explicit_platform_link,True,
-83bdc0c4a8e7ac61,Exact Score: Olympiakós SFP 2 - 3 AC Sparta Praha?,polymarket:5470284 | predict:3104550,1.0,explicit_platform_link,True,
-3a3e6aa0fc6f8e30,Exact Score: Olympiakós SFP 3 - 2 AC Sparta Praha?,polymarket:5470285 | predict:3104551,1.0,explicit_platform_link,True,-11.52424379436120742838672735
-d9e031bb05efd49a,Exact Score: Olympiakós SFP 4 - 1 AC Sparta Praha?,polymarket:5470286 | predict:3104552,1.0,explicit_platform_link,True,-11.61466653307623842924766921
-8c85890e346c581d,Exact Score: Olympiakós SFP 5 - 0 AC Sparta Praha?,polymarket:5470287 | predict:3104553,1.0,explicit_platform_link,True,
-5ba887ac8a96f73b,Exact Score: Olympiakós SFP 1 - 5 AC Sparta Praha?,polymarket:5470288 | predict:3104555,1.0,explicit_platform_link,True,
-b324d97bf369b84d,Exact Score: Olympiakós SFP 2 - 4 AC Sparta Praha?,polymarket:5470289 | predict:3104556,1.0,explicit_platform_link,True,
-8a77a77c14b7d89e,Exact Score: Olympiakós SFP 3 - 3 AC Sparta Praha?,polymarket:5470290 | predict:3104557,1.0,explicit_platform_link,True,
-ad30a7a7afe78d99,Exact Score: Olympiakós SFP 4 - 2 AC Sparta Praha?,polymarket:5470291 | predict:3104558,1.0,explicit_platform_link,True,-1.632347667486771974996809205
-f14b2cdb4a312bf2,Exact Score: Olympiakós SFP 5 - 1 AC Sparta Praha?,polymarket:5470292 | predict:3104559,1.0,explicit_platform_link,True,
-64c7b61f5764f49d,Exact Score: Olympiakós SFP 2 - 5 AC Sparta Praha?,polymarket:5470293 | predict:3104560,1.0,explicit_platform_link,True,
-77599fb14c0e748a,Exact Score: Olympiakós SFP 3 - 4 AC Sparta Praha?,polymarket:5470294 | predict:3104561,1.0,explicit_platform_link,True,
-7d6803822e8d433e,Exact Score: Olympiakós SFP 4 - 3 AC Sparta Praha?,polymarket:5470295 | predict:3104562,1.0,explicit_platform_link,True,
-85e49de7acad77d2,Exact Score: Olympiakós SFP 5 - 2 AC Sparta Praha?,polymarket:5470296 | predict:3104563,1.0,explicit_platform_link,True,
-54c3c655261fbdd5,Exact Score: Olympiakós SFP 3 - 5 AC Sparta Praha?,polymarket:5470297 | predict:3104564,1.0,explicit_platform_link,True,
-3c720ecb28d669c9,Exact Score: Olympiakós SFP 4 - 4 AC Sparta Praha?,polymarket:5470298 | predict:3104565,1.0,explicit_platform_link,True,
-2a8e72ab070c8be0,Exact Score: Olympiakós SFP 5 - 3 AC Sparta Praha?,polymarket:5470299 | predict:3104566,1.0,explicit_platform_link,True,
-b791af831ac39ccf,Exact Score: Olympiakós SFP 4 - 5 AC Sparta Praha?,polymarket:5470300 | predict:3104567,1.0,explicit_platform_link,True,
-86681b58164ecc00,Exact Score: Olympiakós SFP 5 - 4 AC Sparta Praha?,polymarket:5470301 | predict:3104568,1.0,explicit_platform_link,True,
-1eba630d579ecaa2,Exact Score: Olympiakós SFP 5 - 5 AC Sparta Praha?,polymarket:5470302 | predict:3104569,1.0,explicit_platform_link,True,
-99a0ee8e30938a4d,Exact Score: Any Other Score?,polymarket:5470303 | predict:3104570,1.0,explicit_platform_link,True,
-b36bfb49af65d246,Olympiakós SFP to score first vs. AC Sparta Praha?,polymarket:5470304 | predict:3104591,1.0,explicit_platform_link,True,-23.87596822046554230302064874
-0e3908fb9dc0bd62,AC Sparta Praha to score first vs. Olympiakós SFP?,polymarket:5470305 | predict:3104592,1.0,explicit_platform_link,True,-14.58787408482067546138533690
-c8d1ae3cd793f5e9,Olympiakós SFP vs. AC Sparta Praha: Neither team to score first?,polymarket:5470306 | predict:3104593,1.0,explicit_platform_link,True,-12.06684771452279232257008741
-c89bb2b08c9fd649,Will NK Celje win on 2026-10-22?,polymarket:5470307 | predict:3105529,1.0,explicit_platform_link,True,-1.077690640760741047995999363
-691a10eb14baeacf,Will NK Celje vs. FC Red Bull Salzburg end in a draw?,polymarket:5470308 | predict:3105531,1.0,explicit_platform_link,True,-0.6773817108170354661142787536
-513e0749add34cbc,Will FC Red Bull Salzburg win on 2026-10-22?,polymarket:5470309 | predict:3105532,1.0,explicit_platform_link,True,-1.510742545202978022129541223
-0b93522886e5d370,NK Celje leading at halftime?,polymarket:5470310 | predict:3105571,1.0,explicit_platform_link,True,-4.235608923817857332505258235
-6e3b8bd1aa6ee9a2,NK Celje vs. FC Red Bull Salzburg: Draw at halftime?,polymarket:5470311 | predict:3105572,1.0,explicit_platform_link,True,-7.892826061655673888837741742
-87bd672880ff5b74,FC Red Bull Salzburg leading at halftime?,polymarket:5470312 | predict:3105573,1.0,explicit_platform_link,True,0
-0485c4f2c8e97d56,NK Celje to win the second half?,polymarket:5470313 | predict:3105564,1.0,explicit_platform_link,True,-22.93438059858460415321369498
-05186f8153e98fcc,NK Celje vs. FC Red Bull Salzburg: Second half draw?,polymarket:5470314 | predict:3105566,1.0,explicit_platform_link,True,-13.04076798404189003864854756
-69b6b2262f776180,FC Red Bull Salzburg to win the second half?,polymarket:5470315 | predict:3105567,1.0,explicit_platform_link,True,-16.96648461546644067736895284
-64f6cf5f99cfbe75,Exact Score: NK Celje 0 - 0 FC Red Bull Salzburg?,polymarket:5470316 | predict:3104366,1.0,explicit_platform_link,True,-11.84622054041256587835826466
-3c5a37e9a4f89da1,Exact Score: NK Celje 0 - 1 FC Red Bull Salzburg?,polymarket:5470317 | predict:3104368,1.0,explicit_platform_link,True,-7.204010143163791678986446671
-eb887b06abe132f9,Exact Score: NK Celje 1 - 0 FC Red Bull Salzburg?,polymarket:5470318 | predict:3104370,1.0,explicit_platform_link,True,-11.27740568643675647024854828
+18f1f7ab3ed15892,Exact Score: Celtic FC 3 - 5 RC Celta de Vigo?,polymarket:5470495 | predict:3104235,1.0,explicit_platform_link,True,
+7ef047d6ea81a7e6,Exact Score: Celtic FC 4 - 4 RC Celta de Vigo?,polymarket:5470496 | predict:3104236,1.0,explicit_platform_link,True,
+c4f17147510511e4,Exact Score: Celtic FC 5 - 3 RC Celta de Vigo?,polymarket:5470497 | predict:3104237,1.0,explicit_platform_link,True,
+e60fc047966068a2,Exact Score: Celtic FC 4 - 5 RC Celta de Vigo?,polymarket:5470498 | predict:3104238,1.0,explicit_platform_link,True,
+5bcb13c801fab4df,Exact Score: Celtic FC 5 - 4 RC Celta de Vigo?,polymarket:5470499 | predict:3104239,1.0,explicit_platform_link,True,
+e87dbcd25147a7ef,Exact Score: Celtic FC 5 - 5 RC Celta de Vigo?,polymarket:5470500 | predict:3104240,1.0,explicit_platform_link,True,
+82a083adfcb7eef7,Exact Score: Any Other Score?,polymarket:5470501 | predict:3104241,1.0,explicit_platform_link,True,
+01be445bfbbb1653,Celtic FC to score first vs. RC Celta de Vigo?,polymarket:5470502 | predict:3104023,1.0,explicit_platform_link,True,-11.74201780724351626459594334
+249a0000271c9a47,RC Celta de Vigo to score first vs. Celtic FC?,polymarket:5470503 | predict:3104024,1.0,explicit_platform_link,True,-12.31968294555879777644746834
+3f3205fb68e836a5,Celtic FC vs. RC Celta de Vigo: Neither team to score first?,polymarket:5470504 | predict:3104025,1.0,explicit_platform_link,True,-12.08630566236753006465646591
+969801f8d461bc12,Will AFC Bournemouth win on 2026-10-22?,polymarket:5470505 | predict:3103971,1.0,explicit_platform_link,True,-1.070750597054851695120103887
+483636deb651d8db,Will AFC Bournemouth vs. AC Milan end in a draw?,polymarket:5470506 | predict:3103972,1.0,explicit_platform_link,True,-1.705183434731874857809644745
+7f5535f38043fcfa,Will AC Milan win on 2026-10-22?,polymarket:5470507 | predict:3103973,1.0,explicit_platform_link,True,-0.8390169860496699653488581314
+ff53a9f830a928c0,AFC Bournemouth leading at halftime?,polymarket:5470508 | predict:3103963,1.0,explicit_platform_link,True,0
+f724832872cca035,AFC Bournemouth vs. AC Milan: Draw at halftime?,polymarket:5470509 | predict:3103966,1.0,explicit_platform_link,True,0
+04c5ae70e3f2102f,AC Milan leading at halftime?,polymarket:5470510 | predict:3103968,1.0,explicit_platform_link,True,-3.071778352376962745749490795
+3eb64aa6b24d075e,AFC Bournemouth to win the second half?,polymarket:5470511 | predict:3103964,1.0,explicit_platform_link,True,
+8af32502e7c0277c,AFC Bournemouth vs. AC Milan: Second half draw?,polymarket:5470512 | predict:3103965,1.0,explicit_platform_link,True,-13.07545370627069744486520575
+f53233045f058f07,AC Milan to win the second half?,polymarket:5470513 | predict:3103967,1.0,explicit_platform_link,True,-21.90359753989608867760377122
+3e51bf6201649b06,Exact Score: AFC Bournemouth 0 - 0 AC Milan?,polymarket:5470514 | predict:3104032,1.0,explicit_platform_link,True,-1.504776293892800395909897549
+e3360ccba039bb73,Exact Score: AFC Bournemouth 0 - 1 AC Milan?,polymarket:5470515 | predict:3104033,1.0,explicit_platform_link,True,-0.6075562551911995809324253474
+be415ac576dcdd47,Exact Score: AFC Bournemouth 1 - 0 AC Milan?,polymarket:5470516 | predict:3104034,1.0,explicit_platform_link,True,-1.394185619997071282499242887
+5a3c3141c93d59c1,Exact Score: AFC Bournemouth 0 - 2 AC Milan?,polymarket:5470517 | predict:3104035,1.0,explicit_platform_link,True,-10.71857764577891440161709803
+445ec67263969b64,Exact Score: AFC Bournemouth 1 - 1 AC Milan?,polymarket:5470518 | predict:3104036,1.0,explicit_platform_link,True,-0.2324864610559330893883951912
+4c2a936a324cf432,Exact Score: AFC Bournemouth 2 - 0 AC Milan?,polymarket:5470519 | predict:3104037,1.0,explicit_platform_link,True,-0.7874083033854576639889708115
+14eff6470ebf6973,Exact Score: AFC Bournemouth 0 - 3 AC Milan?,polymarket:5470520 | predict:3104038,1.0,explicit_platform_link,True,-1.680044051773020894848648772
+02b49739ca0f7062,Exact Score: AFC Bournemouth 1 - 2 AC Milan?,polymarket:5470521 | predict:3104040,1.0,explicit_platform_link,True,-1.687281775979115449841159443
+c7b32518f2f1a7fa,Exact Score: AFC Bournemouth 2 - 1 AC Milan?,polymarket:5470522 | predict:3104042,1.0,explicit_platform_link,True,-0.2902346087958115183246073334
+725b49db41df3397,Exact Score: AFC Bournemouth 3 - 0 AC Milan?,polymarket:5470523 | predict:3104044,1.0,explicit_platform_link,True,-10.40112866832380629470516872
+c1a54e20b2bc8faf,Exact Score: AFC Bournemouth 0 - 4 AC Milan?,polymarket:5470524 | predict:3104045,1.0,explicit_platform_link,True,
+2c3e09d7238573cc,Exact Score: AFC Bournemouth 1 - 3 AC Milan?,polymarket:5470525 | predict:3104046,1.0,explicit_platform_link,True,-3.718836025762682781094742539
+d7a10d0fd9698aa6,Exact Score: AFC Bournemouth 2 - 2 AC Milan?,polymarket:5470526 | predict:3104047,1.0,explicit_platform_link,True,-1.611846490408370274594225269
+bc7e39dc3b95b070,Exact Score: AFC Bournemouth 3 - 1 AC Milan?,polymarket:5470527 | predict:3104048,1.0,explicit_platform_link,True,-10.87540110431573740083619422
+3042f55a238c42db,Exact Score: AFC Bournemouth 4 - 0 AC Milan?,polymarket:5470528 | predict:3104049,1.0,explicit_platform_link,True,
+4960959813f53fdc,Exact Score: AFC Bournemouth 0 - 5 AC Milan?,polymarket:5470529 | predict:3104050,1.0,explicit_platform_link,True,
+d345b2c6b95cd102,Exact Score: AFC Bournemouth 1 - 4 AC Milan?,polymarket:5470530 | predict:3104051,1.0,explicit_platform_link,True,
+82911f97ecc316ee,Exact Score: AFC Bournemouth 2 - 3 AC Milan?,polymarket:5470531 | predict:3104052,1.0,explicit_platform_link,True,-2.775527763508664722682058392
+855954d58195237d,Exact Score: AFC Bournemouth 3 - 2 AC Milan?,polymarket:5470532 | predict:3104053,1.0,explicit_platform_link,True,-10.72918875140955650286463661
+ae7446e6306949fd,Exact Score: AFC Bournemouth 4 - 1 AC Milan?,polymarket:5470533 | predict:3104054,1.0,explicit_platform_link,True,-11.14422400896790041411669610
+d8db7fd3202874d2,Exact Score: AFC Bournemouth 5 - 0 AC Milan?,polymarket:5470534 | predict:3104055,1.0,explicit_platform_link,True,
+452e4c7da8f2daef,Exact Score: AFC Bournemouth 1 - 5 AC Milan?,polymarket:5470535 | predict:3104056,1.0,explicit_platform_link,True,
+fd9674239f2d1a93,Exact Score: AFC Bournemouth 2 - 4 AC Milan?,polymarket:5470536 | predict:3104057,1.0,explicit_platform_link,True,
+49116b5072b0e0c5,Exact Score: AFC Bournemouth 3 - 3 AC Milan?,polymarket:5470537 | predict:3104058,1.0,explicit_platform_link,True,-1.704992173841444340043304553
+70444ce9256e86b6,Exact Score: AFC Bournemouth 4 - 2 AC Milan?,polymarket:5470538 | predict:3104059,1.0,explicit_platform_link,True,
+165c9b75ea98f4aa,Exact Score: AFC Bournemouth 5 - 1 AC Milan?,polymarket:5470539 | predict:3104060,1.0,explicit_platform_link,True,
+af25d2670eeb8e2e,Exact Score: AFC Bournemouth 2 - 5 AC Milan?,polymarket:5470540 | predict:3104061,1.0,explicit_platform_link,True,
+34af362939f57a41,Exact Score: AFC Bournemouth 3 - 4 AC Milan?,polymarket:5470541 | predict:3104062,1.0,explicit_platform_link,True,
+0baa46b8e6821a05,Exact Score: AFC Bournemouth 4 - 3 AC Milan?,polymarket:5470542 | predict:3104063,1.0,explicit_platform_link,True,
+e02074cdecf6b5b3,Exact Score: AFC Bournemouth 5 - 2 AC Milan?,polymarket:5470543 | predict:3104064,1.0,explicit_platform_link,True,
+4e43b56738889c22,Exact Score: AFC Bournemouth 3 - 5 AC Milan?,polymarket:5470544 | predict:3104065,1.0,explicit_platform_link,True,
+02a04dd7755ac71a,Exact Score: AFC Bournemouth 4 - 4 AC Milan?,polymarket:5470545 | predict:3104066,1.0,explicit_platform_link,True,
+f13c8fa44ff1b82f,Exact Score: AFC Bournemouth 5 - 3 AC Milan?,polymarket:5470546 | predict:3104067,1.0,explicit_platform_link,True,
+0ee71f37b8bc7af1,Exact Score: AFC Bournemouth 4 - 5 AC Milan?,polymarket:5470547 | predict:3104068,1.0,explicit_platform_link,True,
+17d473ad0337be39,Exact Score: AFC Bournemouth 5 - 4 AC Milan?,polymarket:5470548 | predict:3104069,1.0,explicit_platform_link,True,
+eb7a0fa648ba5992,Exact Score: AFC Bournemouth 5 - 5 AC Milan?,polymarket:5470549 | predict:3104070,1.0,explicit_platform_link,True,
+adc6ee7cbdce2ac9,Exact Score: Any Other Score?,polymarket:5470550 | predict:3104071,1.0,explicit_platform_link,True,
+ddc69578ca02d4e9,AFC Bournemouth to score first vs. AC Milan?,polymarket:5470551 | predict:3104201,1.0,explicit_platform_link,True,-24.01566299512665892189647778
+30eaa7f19d4d73f3,AC Milan to score first vs. AFC Bournemouth?,polymarket:5470552 | predict:3104202,1.0,explicit_platform_link,True,-23.75432158802445963038998777
+77bdc2f00c872d09,AFC Bournemouth vs. AC Milan: Neither team to score first?,polymarket:5470553 | predict:3104203,1.0,explicit_platform_link,True,-24.52154211126306449836722010
+b2528959f422111a,Will Jagiellonia Białystok win on 2026-10-22?,polymarket:5470554 | predict:3103960,1.0,explicit_platform_link,True,-1.346460065687056232676462776
+d5cc03abf33275e7,Will Jagiellonia Białystok vs. RSC Anderlecht end in a draw?,polymarket:5470555 | predict:3103961,1.0,explicit_platform_link,True,-1.259392457612862831404285120
+3e604ddcffcae640,Will RSC Anderlecht win on 2026-10-22?,polymarket:5470556 | predict:3103962,1.0,explicit_platform_link,True,-1.523475820327374183656130307
+4ee82f2e1a4587b3,Jagiellonia Białystok leading at halftime?,polymarket:5470557 | predict:3104144,1.0,explicit_platform_link,True,-3.953765254489532691735291190
+5e6b0b87c7540a70,Jagiellonia Białystok vs. RSC Anderlecht: Draw at halftime?,polymarket:5470558 | predict:3104146,1.0,explicit_platform_link,True,-4.215880921133806687530145479
+d0c6f147b1d5f9c1,RSC Anderlecht leading at halftime?,polymarket:5470559 | predict:3104147,1.0,explicit_platform_link,True,-4.098651976339773044604097378
+44c2d5afe696fd72,Jagiellonia Białystok to win the second half?,polymarket:5470560 | predict:3104115,1.0,explicit_platform_link,True,-2.108265648578811369509043926
+0a5f4a0c469dbbfe,Jagiellonia Białystok vs. RSC Anderlecht: Second half draw?,polymarket:5470561 | predict:3104116,1.0,explicit_platform_link,True,
+2d12858aeff7feaa,RSC Anderlecht to win the second half?,polymarket:5470562 | predict:3104117,1.0,explicit_platform_link,True,-14.62000317872694976203676600
+a093bb796e36abc8,Exact Score: Jagiellonia Białystok 0 - 0 RSC Anderlecht?,polymarket:5470563 | predict:3104121,1.0,explicit_platform_link,True,-11.90165033126198200678050286
+d99bd01dd38d9f2a,Exact Score: Jagiellonia Białystok 0 - 1 RSC Anderlecht?,polymarket:5470564 | predict:3104122,1.0,explicit_platform_link,True,-10.79896793717422624508753043
+a7c0fd592aa9f97a,Exact Score: Jagiellonia Białystok 1 - 0 RSC Anderlecht?,polymarket:5470565 | predict:3104123,1.0,explicit_platform_link,True,-10.46287970327914910951134385
+d2b47e0e89d405f3,Exact Score: Jagiellonia Białystok 0 - 2 RSC Anderlecht?,polymarket:5470566 | predict:3104124,1.0,explicit_platform_link,True,-10.75940375290216208738825977
+a30e40401ea66855,Exact Score: Jagiellonia Białystok 1 - 1 RSC Anderlecht?,polymarket:5470567 | predict:3104125,1.0,explicit_platform_link,True,-8.204484433212482154119539962
+65ce553e4796ca1d,Exact Score: Jagiellonia Białystok 2 - 0 RSC Anderlecht?,polymarket:5470568 | predict:3104126,1.0,explicit_platform_link,True,-11.72499888332040586222136368
+3297d0e1a83939c8,Exact Score: Jagiellonia Białystok 0 - 3 RSC Anderlecht?,polymarket:5470569 | predict:3104127,1.0,explicit_platform_link,True,-11.43547002815573610844844784
+0c038545ed3edc3f,Exact Score: Jagiellonia Białystok 1 - 2 RSC Anderlecht?,polymarket:5470570 | predict:3104128,1.0,explicit_platform_link,True,-10.79896793717422624508753043
+b892a78c7269be37,Exact Score: Jagiellonia Białystok 2 - 1 RSC Anderlecht?,polymarket:5470571 | predict:3104129,1.0,explicit_platform_link,True,-10.77934334011147531435322398
+8409a16d6723f108,Exact Score: Jagiellonia Białystok 3 - 0 RSC Anderlecht?,polymarket:5470572 | predict:3104130,1.0,explicit_platform_link,True,-4.525595369762910940940400745
+d8c316ccc16b8b25,Exact Score: Jagiellonia Białystok 0 - 4 RSC Anderlecht?,polymarket:5470573 | predict:3104131,1.0,explicit_platform_link,True,
+9c0136679810c1f1,Exact Score: Jagiellonia Białystok 1 - 3 RSC Anderlecht?,polymarket:5470574 | predict:3104132,1.0,explicit_platform_link,True,-10.81288731909102340645910135
